@@ -1,0 +1,199 @@
+{
+	"apothecary": "No",
+	"id": "368",
+	"info": "Difficulty: MEDIUM\nLybaras are the mechanics of the undead world. Wielding bombs, chainsaws and fronting the team is a giant bone construct. The team are heavily reliant on their Stalkers to play the game while the rest of the team cause mayhem.",
+	"logos": {
+		"128": "492407",
+		"192": "492408",
+		"32": "492403",
+		"48": "492404",
+		"64": "492405",
+		"96": "492406"
+	},
+	"name": "Lybaras",
+	"necromancer": "No",
+	"ownerRuleset": "69",
+	"playable": "true",
+	"positions": [
+		{
+			"cost": "40000",
+			"doubleSkills": [
+				"A",
+				"S",
+				"P"
+			],
+			"gender": "male",
+			"iconLetter": "L",
+			"id": "3912",
+			"normalSkills": [
+				"G"
+			],
+			"portrait": "487444",
+			"quantity": "16",
+			"skills": [
+				"Thick Skull",
+				"Regeneration"
+			],
+			"stats": {
+				"AG": "2",
+				"AV": "7",
+				"MA": "5",
+				"ST": "3"
+			},
+			"title": "Skeleton"
+		},
+		{
+			"cost": "110000",
+			"doubleSkills": [
+				"A",
+				"P"
+			],
+			"gender": "neutral",
+			"iconLetter": "SS",
+			"id": "3921",
+			"normalSkills": [
+				"G",
+				"S"
+			],
+			"portrait": null,
+			"quantity": "4",
+			"skills": [
+				"Thick Skull",
+				"Prehensile Tail",
+				"Hypnotic Gaze",
+				"Regeneration"
+			],
+			"stats": {
+				"AG": "3",
+				"AV": "8",
+				"MA": "6",
+				"ST": "3"
+			},
+			"title": "Sepulchral Stalker"
+		},
+		{
+			"cost": "50000",
+			"doubleSkills": [
+				"A",
+				"S",
+				"P"
+			],
+			"gender": "male",
+			"iconLetter": "Nt",
+			"id": "3922",
+			"normalSkills": [
+				"G"
+			],
+			"portrait": "487468",
+			"quantity": "2",
+			"skills": [
+				"Thick Skull",
+				"Chainsaw",
+				"Regeneration",
+				"Secret Weapon"
+			],
+			"stats": {
+				"AG": "2",
+				"AV": "7",
+				"MA": "5",
+				"ST": "3"
+			},
+			"title": "Necrotect"
+		},
+		{
+			"cost": "50000",
+			"doubleSkills": [
+				"A",
+				"S",
+				"P"
+			],
+			"gender": "male",
+			"iconLetter": "Bom",
+			"id": "3923",
+			"normalSkills": [
+				"G"
+			],
+			"portrait": null,
+			"quantity": "1",
+			"skills": [
+				"Thick Skull",
+				"Nerves Of Steel",
+				"Bombardier",
+				"Regeneration",
+				"Secret Weapon"
+			],
+			"stats": {
+				"AG": "2",
+				"AV": "7",
+				"MA": "5",
+				"ST": "3"
+			},
+			"title": "Bomber"
+		},
+		{
+			"cost": "150000",
+			"doubleSkills": [
+				"G",
+				"A",
+				"P"
+			],
+			"gender": "neutral",
+			"iconLetter": "Bg",
+			"id": "3924",
+			"normalSkills": [
+				"S"
+			],
+			"portrait": null,
+			"quantity": "1",
+			"skills": [
+				"Break Tackle",
+				"Mighty Blow",
+				"Thick Skull",
+				"Loner",
+				"Really Stupid",
+				"Regeneration"
+			],
+			"stats": {
+				"AG": "1",
+				"AV": "8",
+				"MA": "3",
+				"ST": "6"
+			},
+			"title": "Bone Giant"
+		}
+	],
+	"raisePosition": null,
+	"rerollCost": "60000",
+	"stars": [
+		{
+			"id": "3021",
+			"name": "Hack Enslash"
+		},
+		{
+			"id": "3029",
+			"name": "Humerus Carpal"
+		},
+		{
+			"id": "3031",
+			"name": "Ithaca Benoin"
+		},
+		{
+			"id": "3045",
+			"name": "Ramtut III"
+		},
+		{
+			"id": "3050",
+			"name": "Setekh"
+		},
+		{
+			"id": "3052",
+			"name": "Sinnedbad"
+		}
+	],
+	"stats": {
+		"finesse": "2",
+		"physique": "4",
+		"versatility": "3"
+	},
+	"undead": "Yes"
+}

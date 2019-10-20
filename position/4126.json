@@ -1,0 +1,34 @@
+{
+	"cost": 90000,
+	"doubleSkills": [
+		"A",
+		"P"
+	],
+	"gender": "neutral",
+	"icon": 493313,
+	"iconLetter": "O",
+	"id": "4126",
+	"name": "Oak Aspect",
+	"normalSkills": [
+		"G",
+		"S"
+	],
+	"portrait": 488152,
+	"quantity": 2,
+	"race": null,
+	"roster": 422,
+	"secretweapon": "0",
+	"skills": [
+		"Stand Firm"
+	],
+	"stats": {
+		"AG": 1,
+		"AV": 10,
+		"MA": 4,
+		"ST": 4
+	},
+	"thrall": "false",
+	"title": "Oak Aspect",
+	"type": "normal",
+	"undead": "false"
+}

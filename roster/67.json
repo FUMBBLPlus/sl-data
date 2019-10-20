@@ -1,0 +1,2610 @@
+{
+	"apothecary": "No",
+	"id": "67",
+	"info": "",
+	"logos": {
+		"128": 486373,
+		"192": 486374,
+		"32": 486370,
+		"48": 486369,
+		"64": 486371,
+		"96": 486372
+	},
+	"name": "Star Players",
+	"necromancer": "No",
+	"ownerRuleset": "1",
+	"playable": "false",
+	"positions": [
+		{
+			"cost": "60000",
+			"doubleSkills": [],
+			"gender": "male",
+			"iconLetter": "BF",
+			"id": "3003",
+			"normalSkills": [],
+			"portrait": "332802",
+			"quantity": "1",
+			"skills": [
+				"Sure Hands",
+				"Strong Arm",
+				"Thick Skull",
+				"Hail Mary Pass",
+				"Pass",
+				"Loner",
+				"Secret Weapon"
+			],
+			"stats": {
+				"AG": "3",
+				"AV": "8",
+				"MA": "6",
+				"ST": "3"
+			},
+			"title": "Barik Farblast"
+		},
+		{
+			"cost": "290000",
+			"doubleSkills": [],
+			"gender": "female",
+			"iconLetter": "BB",
+			"id": "3004",
+			"normalSkills": [],
+			"portrait": "440119",
+			"quantity": "1",
+			"skills": [
+				"Dodge",
+				"Break Tackle",
+				"Mighty Blow",
+				"Thick Skull",
+				"Bone-head",
+				"Loner",
+				"Throw Team-Mate"
+			],
+			"stats": {
+				"AG": "2",
+				"AV": "9",
+				"MA": "6",
+				"ST": "5"
+			},
+			"title": "Bertha Bigfist"
+		},
+		{
+			"cost": "290000",
+			"doubleSkills": [],
+			"gender": "male",
+			"iconLetter": "BF",
+			"id": "3005",
+			"normalSkills": [],
+			"portrait": "332769",
+			"quantity": "1",
+			"skills": [
+				"Mighty Blow",
+				"Strong Arm",
+				"Thick Skull",
+				"Nerves Of Steel",
+				"Bone-head",
+				"Loner",
+				"Throw Team-Mate"
+			],
+			"stats": {
+				"AG": "2",
+				"AV": "9",
+				"MA": "5",
+				"ST": "5"
+			},
+			"title": "Brick Far'th"
+		},
+		{
+			"cost": "0",
+			"doubleSkills": [],
+			"gender": "male",
+			"iconLetter": "Gr",
+			"id": "3006",
+			"normalSkills": [],
+			"portrait": "332805",
+			"quantity": "1",
+			"skills": [
+				"Dodge",
+				"Loner",
+				"Right Stuff",
+				"Stunty"
+			],
+			"stats": {
+				"AG": "4",
+				"AV": "7",
+				"MA": "6",
+				"ST": "2"
+			},
+			"title": "Grotty"
+		},
+		{
+			"cost": "60000",
+			"doubleSkills": [],
+			"gender": "male",
+			"iconLetter": "BD",
+			"id": "3007",
+			"normalSkills": [],
+			"portrait": "332803",
+			"quantity": "1",
+			"skills": [
+				"Dodge",
+				"Accurate",
+				"Bombardier",
+				"Loner",
+				"Right Stuff",
+				"Secret Weapon",
+				"Stunty"
+			],
+			"stats": {
+				"AG": "3",
+				"AV": "7",
+				"MA": "6",
+				"ST": "2"
+			},
+			"title": "Bomber Dribblesnot"
+		},
+		{
+			"cost": "60000",
+			"doubleSkills": [],
+			"gender": "male",
+			"iconLetter": "BE",
+			"id": "3008",
+			"normalSkills": [],
+			"portrait": "332804",
+			"quantity": "1",
+			"skills": [
+				"Block",
+				"Thick Skull",
+				"Accurate",
+				"Bombardier",
+				"Loner",
+				"Secret Weapon"
+			],
+			"stats": {
+				"AG": "2",
+				"AV": "9",
+				"MA": "4",
+				"ST": "3"
+			},
+			"title": "Boomer Eziasson"
+		},
+		{
+			"cost": "390000",
+			"doubleSkills": [],
+			"gender": "male",
+			"iconLetter": "LD",
+			"id": "3009",
+			"normalSkills": [],
+			"portrait": "332760",
+			"quantity": "1",
+			"skills": [
+				"Block",
+				"Side Step",
+				"Hypnotic Gaze",
+				"Loner",
+				"Regeneration"
+			],
+			"stats": {
+				"AG": "4",
+				"AV": "9",
+				"MA": "6",
+				"ST": "5"
+			},
+			"title": "Count Luthor Von Drakenborg"
+		},
+		{
+			"cost": "120000",
+			"doubleSkills": [],
+			"gender": "male",
+			"iconLetter": "CI",
+			"id": "3010",
+			"normalSkills": [],
+			"portrait": "440120",
+			"quantity": "1",
+			"skills": [
+				"Dauntless",
+				"Thick Skull",
+				"Loner",
+				"Regeneration"
+			],
+			"stats": {
+				"AG": "3",
+				"AV": "8",
+				"MA": "6",
+				"ST": "3"
+			},
+			"title": "Crazy Igor"
+		},
+		{
+			"cost": "300000",
+			"doubleSkills": [],
+			"gender": "male",
+			"iconLetter": "DS",
+			"id": "3011",
+			"normalSkills": [],
+			"portrait": "332767",
+			"quantity": "1",
+			"skills": [
+				"Block",
+				"Mighty Blow",
+				"Stand Firm",
+				"Strong Arm",
+				"Thick Skull",
+				"Loner",
+				"Throw Team-Mate",
+				"Timmm-ber!"
+			],
+			"stats": {
+				"AG": "1",
+				"AV": "10",
+				"MA": "2",
+				"ST": "7"
+			},
+			"title": "Deeproot Strongbranch"
+		},
+		{
+			"cost": "150000",
+			"doubleSkills": [],
+			"gender": "male",
+			"iconLetter": "DL",
+			"id": "3012",
+			"normalSkills": [],
+			"portrait": "440121",
+			"quantity": "1",
+			"skills": [
+				"Kick",
+				"Kick-Off Return",
+				"Pass Block",
+				"Diving Catch",
+				"Hail Mary Pass",
+				"Loner"
+			],
+			"stats": {
+				"AG": "4",
+				"AV": "7",
+				"MA": "7",
+				"ST": "3"
+			},
+			"title": "Dolfar Longstride"
+		},
+		{
+			"cost": "200000",
+			"doubleSkills": [],
+			"gender": "male",
+			"iconLetter": "ES",
+			"id": "3013",
+			"normalSkills": [],
+			"portrait": "332786",
+			"quantity": "1",
+			"skills": [
+				"Pass Block",
+				"Catch",
+				"Dodge",
+				"Nerves Of Steel",
+				"Hypnotic Gaze",
+				"Loner"
+			],
+			"stats": {
+				"AG": "4",
+				"AV": "7",
+				"MA": "8",
+				"ST": "3"
+			},
+			"title": "Eldril Sidewinder"
+		},
+		{
+			"cost": "100000",
+			"doubleSkills": [],
+			"gender": "male",
+			"iconLetter": "Fe",
+			"id": "3014",
+			"normalSkills": [],
+			"portrait": "332798",
+			"quantity": "1",
+			"skills": [
+				"Disturbing Presence",
+				"Foul Appearance",
+				"Ball & Chain",
+				"Loner",
+				"No Hands",
+				"Secret Weapon"
+			],
+			"stats": {
+				"AG": "3",
+				"AV": "7",
+				"MA": "4",
+				"ST": "7"
+			},
+			"title": "Fezglitch"
+		},
+		{
+			"cost": "130000",
+			"doubleSkills": [],
+			"gender": "male",
+			"iconLetter": "FC",
+			"id": "3015",
+			"normalSkills": [],
+			"portrait": "332793",
+			"quantity": "1",
+			"skills": [
+				"Block",
+				"Thick Skull",
+				"Chainsaw",
+				"Loner",
+				"Secret Weapon"
+			],
+			"stats": {
+				"AG": "2",
+				"AV": "8",
+				"MA": "5",
+				"ST": "3"
+			},
+			"title": "Flint Churnblade"
+		},
+		{
+			"cost": "80000",
+			"doubleSkills": [],
+			"gender": "male",
+			"iconLetter": "FL",
+			"id": "3016",
+			"normalSkills": [],
+			"portrait": "332801",
+			"quantity": "1",
+			"skills": [
+				"Mighty Blow",
+				"Ball & Chain",
+				"Loner",
+				"No Hands",
+				"Secret Weapon",
+				"Stunty"
+			],
+			"stats": {
+				"AG": "3",
+				"AV": "7",
+				"MA": "4",
+				"ST": "7"
+			},
+			"title": "Fungus the Loon"
+		},
+		{
+			"cost": "210000",
+			"doubleSkills": [],
+			"gender": "male",
+			"iconLetter": "GS",
+			"id": "3017",
+			"normalSkills": [],
+			"portrait": "332783",
+			"quantity": "1",
+			"skills": [
+				"Block",
+				"Juggernaut",
+				"Claw",
+				"Loner"
+			],
+			"stats": {
+				"AG": "3",
+				"AV": "8",
+				"MA": "7",
+				"ST": "4"
+			},
+			"title": "Glart Smashrip Jr."
+		},
+		{
+			"cost": "310000",
+			"doubleSkills": [],
+			"gender": "male",
+			"iconLetter": "GB",
+			"id": "3018",
+			"normalSkills": [],
+			"portrait": "332766",
+			"quantity": "1",
+			"skills": [
+				"Frenzy",
+				"Mighty Blow",
+				"Thick Skull",
+				"Horns",
+				"Loner"
+			],
+			"stats": {
+				"AG": "2",
+				"AV": "8",
+				"MA": "6",
+				"ST": "6"
+			},
+			"title": "Grashnak Blackhoof"
+		},
+		{
+			"cost": "320000",
+			"doubleSkills": [],
+			"gender": "male",
+			"iconLetter": "GO",
+			"id": "3019",
+			"normalSkills": [],
+			"portrait": "332765",
+			"quantity": "1",
+			"skills": [
+				"Block",
+				"Fend",
+				"Dodge",
+				"Sprint",
+				"Sure Feet",
+				"Loner"
+			],
+			"stats": {
+				"AG": "4",
+				"AV": "8",
+				"MA": "7",
+				"ST": "4"
+			},
+			"title": "Griff Oberwald"
+		},
+		{
+			"cost": "220000",
+			"doubleSkills": [],
+			"gender": "male",
+			"iconLetter": "GI",
+			"id": "3020",
+			"normalSkills": [],
+			"portrait": "332780",
+			"quantity": "1",
+			"skills": [
+				"Block",
+				"Dauntless",
+				"Frenzy",
+				"Multiple Block",
+				"Thick Skull",
+				"Loner"
+			],
+			"stats": {
+				"AG": "3",
+				"AV": "8",
+				"MA": "5",
+				"ST": "4"
+			},
+			"title": "Grim Ironjaw"
+		},
+		{
+			"cost": "120000",
+			"doubleSkills": [],
+			"gender": "male",
+			"iconLetter": "HE",
+			"id": "3021",
+			"normalSkills": [],
+			"portrait": "332796",
+			"quantity": "1",
+			"skills": [
+				"Chainsaw",
+				"Side Step",
+				"Loner",
+				"Regeneration",
+				"Secret Weapon"
+			],
+			"stats": {
+				"AG": "2",
+				"AV": "7",
+				"MA": "6",
+				"ST": "3"
+			},
+			"title": "Hack Enslash"
+		},
+		{
+			"cost": "200000",
+			"doubleSkills": [],
+			"gender": "male",
+			"iconLetter": "HS",
+			"id": "3022",
+			"normalSkills": [],
+			"portrait": "332787",
+			"quantity": "1",
+			"skills": [
+				"Dodge",
+				"Extra Arms",
+				"Prehensile Tail",
+				"Two Heads",
+				"Loner"
+			],
+			"stats": {
+				"AG": "4",
+				"AV": "7",
+				"MA": "9",
+				"ST": "3"
+			},
+			"title": "Hakflem Skuttlespike"
+		},
+		{
+			"cost": "340000",
+			"doubleSkills": [],
+			"gender": "male",
+			"iconLetter": "He",
+			"id": "3023",
+			"normalSkills": [],
+			"portrait": "332762",
+			"quantity": "1",
+			"skills": [
+				"Frenzy",
+				"Mighty Blow",
+				"Prehensile Tail",
+				"Loner"
+			],
+			"stats": {
+				"AG": "3",
+				"AV": "8",
+				"MA": "6",
+				"ST": "6"
+			},
+			"title": "Headsplitter"
+		},
+		{
+			"cost": "110000",
+			"doubleSkills": [],
+			"gender": "male",
+			"iconLetter": "HW",
+			"id": "3024",
+			"normalSkills": [],
+			"portrait": "332797",
+			"quantity": "1",
+			"skills": [
+				"Stand Firm",
+				"Chainsaw",
+				"Loner",
+				"Secret Weapon"
+			],
+			"stats": {
+				"AG": "3",
+				"AV": "8",
+				"MA": "6",
+				"ST": "3"
+			},
+			"title": "Helmut Wulf"
+		},
+		{
+			"cost": "170000",
+			"doubleSkills": [],
+			"gender": "male",
+			"iconLetter": "He",
+			"id": "3025",
+			"normalSkills": [],
+			"portrait": "332789",
+			"quantity": "1",
+			"skills": [
+				"Block",
+				"Dodge",
+				"Jump Up",
+				"Side Step",
+				"Loner",
+				"Stab",
+				"Stunty"
+			],
+			"stats": {
+				"AG": "3",
+				"AV": "7",
+				"MA": "8",
+				"ST": "2"
+			},
+			"title": "Hemlock"
+		},
+		{
+			"cost": "210000",
+			"doubleSkills": [],
+			"gender": "male",
+			"iconLetter": "HH",
+			"id": "3026",
+			"normalSkills": [],
+			"portrait": "332785",
+			"quantity": "1",
+			"skills": [
+				"Shadowing",
+				"Dodge",
+				"Leap",
+				"Multiple Block",
+				"Loner",
+				"Stab"
+			],
+			"stats": {
+				"AG": "4",
+				"AV": "7",
+				"MA": "7",
+				"ST": "3"
+			},
+			"title": "Horkon Heartripper"
+		},
+		{
+			"cost": "330000",
+			"doubleSkills": [],
+			"gender": "male",
+			"iconLetter": "HU",
+			"id": "3027",
+			"normalSkills": [],
+			"portrait": "332763",
+			"quantity": "1",
+			"skills": [
+				"Block",
+				"Sprint",
+				"Sure Feet",
+				"Break Tackle",
+				"Juggernaut",
+				"Thick Skull",
+				"Loner"
+			],
+			"stats": {
+				"AG": "2",
+				"AV": "9",
+				"MA": "6",
+				"ST": "5"
+			},
+			"title": "Hthark the Unstoppable"
+		},
+		{
+			"cost": "260000",
+			"doubleSkills": [],
+			"gender": "male",
+			"iconLetter": "HR",
+			"id": "3028",
+			"normalSkills": [],
+			"portrait": "332773",
+			"quantity": "1",
+			"skills": [
+				"Block",
+				"Dirty Player",
+				"Strip Ball",
+				"Jump Up",
+				"Mighty Blow",
+				"Loner"
+			],
+			"stats": {
+				"AG": "4",
+				"AV": "8",
+				"MA": "7",
+				"ST": "4"
+			},
+			"title": "Hubris Rakarth"
+		},
+		{
+			"cost": "130000",
+			"doubleSkills": [],
+			"gender": "male",
+			"iconLetter": "HC",
+			"id": "3029",
+			"normalSkills": [],
+			"portrait": "440122",
+			"quantity": "1",
+			"skills": [
+				"Catch",
+				"Dodge",
+				"Nerves Of Steel",
+				"Loner",
+				"Regeneration"
+			],
+			"stats": {
+				"AG": "3",
+				"AV": "7",
+				"MA": "7",
+				"ST": "2"
+			},
+			"title": "Humerus Carpal"
+		},
+		{
+			"cost": "330000",
+			"doubleSkills": [],
+			"gender": "male",
+			"iconLetter": "IH",
+			"id": "3030",
+			"normalSkills": [],
+			"portrait": "332764",
+			"quantity": "1",
+			"skills": [
+				"Frenzy",
+				"Thick Skull",
+				"Claw",
+				"Disturbing Presence",
+				"Loner",
+				"Regeneration"
+			],
+			"stats": {
+				"AG": "1",
+				"AV": "8",
+				"MA": "5",
+				"ST": "6"
+			},
+			"title": "Icepelt Hammerblow"
+		},
+		{
+			"cost": "220000",
+			"doubleSkills": [],
+			"gender": "male",
+			"iconLetter": "IB",
+			"id": "3031",
+			"normalSkills": [],
+			"portrait": "440123",
+			"quantity": "1",
+			"skills": [
+				"Sure Hands",
+				"Accurate",
+				"Dump-Off",
+				"Nerves Of Steel",
+				"Pass",
+				"Loner",
+				"Regeneration"
+			],
+			"stats": {
+				"AG": "3",
+				"AV": "7",
+				"MA": "7",
+				"ST": "3"
+			},
+			"title": "Ithaca Benoin"
+		},
+		{
+			"cost": "180000",
+			"doubleSkills": [],
+			"gender": "male",
+			"iconLetter": "JE",
+			"id": "3032",
+			"normalSkills": [],
+			"portrait": "440124",
+			"quantity": "1",
+			"skills": [
+				"Catch",
+				"Diving Catch",
+				"Dodge",
+				"Sprint",
+				"Loner"
+			],
+			"stats": {
+				"AG": "3",
+				"AV": "7",
+				"MA": "8",
+				"ST": "3"
+			},
+			"title": "J Earlice"
+		},
+		{
+			"cost": "260000",
+			"doubleSkills": [],
+			"gender": "male",
+			"iconLetter": "JF",
+			"id": "3033",
+			"normalSkills": [],
+			"portrait": "332774",
+			"quantity": "1",
+			"skills": [
+				"Block",
+				"Diving Catch",
+				"Dodge",
+				"Leap",
+				"Side Step",
+				"Loner"
+			],
+			"stats": {
+				"AG": "5",
+				"AV": "7",
+				"MA": "8",
+				"ST": "3"
+			},
+			"title": "Jordell Freshbreeze"
+		},
+		{
+			"cost": "160000",
+			"doubleSkills": [],
+			"gender": "male",
+			"iconLetter": "LW",
+			"id": "3034",
+			"normalSkills": [],
+			"portrait": "440125",
+			"quantity": "1",
+			"skills": [
+				"Sure Hands",
+				"Dodge",
+				"Strong Arm",
+				"Pass",
+				"Tentacles",
+				"Loner"
+			],
+			"stats": {
+				"AG": "3",
+				"AV": "9",
+				"MA": "6",
+				"ST": "3"
+			},
+			"title": "Lewdgrip Whiparm"
+		},
+		{
+			"cost": "300000",
+			"doubleSkills": [],
+			"gender": "male",
+			"iconLetter": "BD",
+			"id": "3035",
+			"normalSkills": [],
+			"portrait": "332768",
+			"quantity": "1",
+			"skills": [
+				"Block",
+				"Dirty Player",
+				"Mighty Blow",
+				"Loner"
+			],
+			"stats": {
+				"AG": "3",
+				"AV": "9",
+				"MA": "5",
+				"ST": "5"
+			},
+			"title": "Lord Borak the Despoiler"
+		},
+		{
+			"cost": "220000",
+			"doubleSkills": [],
+			"gender": "male",
+			"iconLetter": "Lo",
+			"id": "3036",
+			"normalSkills": [],
+			"portrait": "332781",
+			"quantity": "1",
+			"skills": [
+				"Pass Block",
+				"Shadowing",
+				"Catch",
+				"Diving Tackle",
+				"Jump Up",
+				"Leap",
+				"Very Long Legs",
+				"Loner"
+			],
+			"stats": {
+				"AG": "3",
+				"AV": "8",
+				"MA": "8",
+				"ST": "3"
+			},
+			"title": "Lottabottol"
+		},
+		{
+			"cost": "130000",
+			"doubleSkills": [],
+			"gender": "male",
+			"iconLetter": "MS",
+			"id": "3037",
+			"normalSkills": [],
+			"portrait": "332794",
+			"quantity": "1",
+			"skills": [
+				"Chainsaw",
+				"Loner",
+				"Secret Weapon"
+			],
+			"stats": {
+				"AG": "3",
+				"AV": "8",
+				"MA": "5",
+				"ST": "4"
+			},
+			"title": "Max Spleenripper"
+		},
+		{
+			"cost": "260000",
+			"doubleSkills": [],
+			"gender": "male",
+			"iconLetter": "MZ",
+			"id": "3038",
+			"normalSkills": [],
+			"portrait": "332775",
+			"quantity": "1",
+			"skills": [
+				"Block",
+				"Mighty Blow",
+				"Loner"
+			],
+			"stats": {
+				"AG": "2",
+				"AV": "9",
+				"MA": "4",
+				"ST": "5"
+			},
+			"title": "Mighty Zug"
+		},
+		{
+			"cost": "430000",
+			"doubleSkills": [],
+			"gender": "male",
+			"iconLetter": "MT",
+			"id": "3039",
+			"normalSkills": [],
+			"portrait": "332759",
+			"quantity": "1",
+			"skills": [
+				"Block",
+				"Mighty Blow",
+				"Thick Skull",
+				"Loner",
+				"Throw Team-Mate"
+			],
+			"stats": {
+				"AG": "3",
+				"AV": "10",
+				"MA": "6",
+				"ST": "6"
+			},
+			"title": "Morg 'n' Thorg"
+		},
+		{
+			"cost": "130000",
+			"doubleSkills": [],
+			"gender": "male",
+			"iconLetter": "NB",
+			"id": "3040",
+			"normalSkills": [],
+			"portrait": "332795",
+			"quantity": "1",
+			"skills": [
+				"Block",
+				"Dodge",
+				"Chainsaw",
+				"Loner",
+				"Secret Weapon",
+				"Stunty"
+			],
+			"stats": {
+				"AG": "3",
+				"AV": "7",
+				"MA": "6",
+				"ST": "2"
+			},
+			"title": "Nobbla Blackwart"
+		},
+		{
+			"cost": "230000",
+			"doubleSkills": [],
+			"gender": "male",
+			"iconLetter": "PM",
+			"id": "3041",
+			"normalSkills": [],
+			"portrait": "332779",
+			"quantity": "1",
+			"skills": [
+				"Block",
+				"Dauntless",
+				"Tackle",
+				"Wrestle",
+				"Loner"
+			],
+			"stats": {
+				"AG": "4",
+				"AV": "8",
+				"MA": "7",
+				"ST": "4"
+			},
+			"title": "Prince Moranion"
+		},
+		{
+			"cost": "140000",
+			"doubleSkills": [],
+			"gender": "male",
+			"iconLetter": "PB",
+			"id": "3042",
+			"normalSkills": [],
+			"portrait": "332792",
+			"quantity": "1",
+			"skills": [
+				"Block",
+				"Dodge",
+				"Nerves Of Steel",
+				"Loner",
+				"Right Stuff",
+				"Stunty"
+			],
+			"stats": {
+				"AG": "3",
+				"AV": "6",
+				"MA": "5",
+				"ST": "3"
+			},
+			"title": "Puggy Baconbreath"
+		},
+		{
+			"cost": "250000",
+			"doubleSkills": [],
+			"gender": "male",
+			"iconLetter": "QL",
+			"id": "3044",
+			"normalSkills": [],
+			"portrait": "332776",
+			"quantity": "1",
+			"skills": [
+				"Fend",
+				"Kick-Off Return",
+				"Catch",
+				"Diving Catch",
+				"Leap",
+				"Nerves Of Steel",
+				"Very Long Legs",
+				"Loner"
+			],
+			"stats": {
+				"AG": "4",
+				"AV": "7",
+				"MA": "8",
+				"ST": "2"
+			},
+			"title": "Quetzal Leap"
+		},
+		{
+			"cost": "360000",
+			"doubleSkills": [],
+			"gender": "male",
+			"iconLetter": "R3",
+			"id": "3045",
+			"normalSkills": [],
+			"portrait": "332761",
+			"quantity": "1",
+			"skills": [
+				"Wrestle",
+				"Break Tackle",
+				"Mighty Blow",
+				"Loner",
+				"Regeneration"
+			],
+			"stats": {
+				"AG": "1",
+				"AV": "9",
+				"MA": "5",
+				"ST": "6"
+			},
+			"title": "Ramtut III"
+		},
+		{
+			"cost": "200000",
+			"doubleSkills": [],
+			"gender": "male",
+			"iconLetter": "RB",
+			"id": "3046",
+			"normalSkills": [],
+			"portrait": "332788",
+			"quantity": "1",
+			"skills": [
+				"Dodge",
+				"Side Step",
+				"Sneaky Git",
+				"Loner",
+				"Stab"
+			],
+			"stats": {
+				"AG": "3",
+				"AV": "7",
+				"MA": "7",
+				"ST": "3"
+			},
+			"title": "Rashnak Backstabber"
+		},
+		{
+			"cost": "270000",
+			"doubleSkills": [],
+			"gender": "male",
+			"iconLetter": "Ri",
+			"id": "3047",
+			"normalSkills": [],
+			"portrait": "332771",
+			"quantity": "1",
+			"skills": [
+				"Grab",
+				"Mighty Blow",
+				"Loner",
+				"Regeneration",
+				"Throw Team-Mate"
+			],
+			"stats": {
+				"AG": "1",
+				"AV": "9",
+				"MA": "4",
+				"ST": "6"
+			},
+			"title": "Ripper Bolgrot"
+		},
+		{
+			"cost": "250000",
+			"doubleSkills": [],
+			"gender": "male",
+			"iconLetter": "RD",
+			"id": "3048",
+			"normalSkills": [],
+			"portrait": "440126",
+			"quantity": "1",
+			"skills": [
+				"Frenzy",
+				"Dodge",
+				"Jump Up",
+				"Leap",
+				"Juggernaut",
+				"Loner"
+			],
+			"stats": {
+				"AG": "5",
+				"AV": "7",
+				"MA": "8",
+				"ST": "3"
+			},
+			"title": "Roxanna Darknail"
+		},
+		{
+			"cost": "150000",
+			"doubleSkills": [],
+			"gender": "male",
+			"iconLetter": "SS",
+			"id": "3049",
+			"normalSkills": [],
+			"portrait": "332791",
+			"quantity": "1",
+			"skills": [
+				"Dirty Player",
+				"Dodge",
+				"Leap",
+				"Sprint",
+				"Sure Feet",
+				"Very Long Legs",
+				"Loner",
+				"Right Stuff",
+				"Stunty"
+			],
+			"stats": {
+				"AG": "3",
+				"AV": "7",
+				"MA": "7",
+				"ST": "2"
+			},
+			"title": "Scrappa Sorehead"
+		},
+		{
+			"cost": "220000",
+			"doubleSkills": [],
+			"gender": "male",
+			"iconLetter": "Se",
+			"id": "3050",
+			"normalSkills": [],
+			"portrait": "332782",
+			"quantity": "1",
+			"skills": [
+				"Block",
+				"Strip Ball",
+				"Break Tackle",
+				"Juggernaut",
+				"Loner",
+				"Regeneration"
+			],
+			"stats": {
+				"AG": "2",
+				"AV": "8",
+				"MA": "6",
+				"ST": "4"
+			},
+			"title": "Setekh"
+		},
+		{
+			"cost": "250000",
+			"doubleSkills": [],
+			"gender": "male",
+			"iconLetter": "Sl",
+			"id": "3051",
+			"normalSkills": [],
+			"portrait": "332777",
+			"quantity": "1",
+			"skills": [
+				"Block",
+				"Grab",
+				"Guard",
+				"Stand Firm",
+				"Loner"
+			],
+			"stats": {
+				"AG": "1",
+				"AV": "9",
+				"MA": "7",
+				"ST": "4"
+			},
+			"title": "Slibli"
+		},
+		{
+			"cost": "80000",
+			"doubleSkills": [],
+			"gender": "male",
+			"iconLetter": "Si",
+			"id": "3052",
+			"normalSkills": [],
+			"portrait": "440127",
+			"quantity": "1",
+			"skills": [
+				"Block",
+				"Pass Block",
+				"Jump Up",
+				"Side Step",
+				"Loner",
+				"Regeneration",
+				"Secret Weapon",
+				"Stab"
+			],
+			"stats": {
+				"AG": "2",
+				"AV": "7",
+				"MA": "6",
+				"ST": "3"
+			},
+			"title": "Sinnedbad"
+		},
+		{
+			"cost": "160000",
+			"doubleSkills": [],
+			"gender": "male",
+			"iconLetter": "SS",
+			"id": "3053",
+			"normalSkills": [],
+			"portrait": "332790",
+			"quantity": "1",
+			"skills": [
+				"Shadowing",
+				"Dodge",
+				"Prehensile Tail",
+				"Loner",
+				"Stab"
+			],
+			"stats": {
+				"AG": "4",
+				"AV": "7",
+				"MA": "9",
+				"ST": "2"
+			},
+			"title": "Skitter Stab-Stab"
+		},
+		{
+			"cost": "180000",
+			"doubleSkills": [],
+			"gender": "male",
+			"iconLetter": "SH",
+			"id": "3054",
+			"normalSkills": [],
+			"portrait": "440128",
+			"quantity": "1",
+			"skills": [
+				"Fend",
+				"Kick-Off Return",
+				"Sure Hands",
+				"Strong Arm",
+				"Pass",
+				"Safe Throw",
+				"Loner"
+			],
+			"stats": {
+				"AG": "4",
+				"AV": "8",
+				"MA": "6",
+				"ST": "3"
+			},
+			"title": "Soaren Hightower"
+		},
+		{
+			"cost": "100000",
+			"doubleSkills": [],
+			"gender": "male",
+			"iconLetter": "UB",
+			"id": "3055",
+			"normalSkills": [],
+			"portrait": "332799",
+			"quantity": "1",
+			"skills": [
+				"Chainsaw",
+				"Loner",
+				"Secret Weapon"
+			],
+			"stats": {
+				"AG": "3",
+				"AV": "9",
+				"MA": "5",
+				"ST": "3"
+			},
+			"title": "Ugroth Bolgrot"
+		},
+		{
+			"cost": "290000",
+			"doubleSkills": [],
+			"gender": "male",
+			"iconLetter": "VG",
+			"id": "3056",
+			"normalSkills": [],
+			"portrait": "332770",
+			"quantity": "1",
+			"skills": [
+				"Block",
+				"Jump Up",
+				"Mighty Blow",
+				"Thick Skull",
+				"Loner"
+			],
+			"stats": {
+				"AG": "3",
+				"AV": "9",
+				"MA": "6",
+				"ST": "4"
+			},
+			"title": "Varag Ghoul-Chewer"
+		},
+		{
+			"cost": "240000",
+			"doubleSkills": [],
+			"gender": "male",
+			"iconLetter": "WC",
+			"id": "3057",
+			"normalSkills": [],
+			"portrait": "332778",
+			"quantity": "1",
+			"skills": [
+				"Frenzy",
+				"Wrestle",
+				"Catch",
+				"Claw",
+				"Loner",
+				"Regeneration"
+			],
+			"stats": {
+				"AG": "3",
+				"AV": "8",
+				"MA": "8",
+				"ST": "4"
+			},
+			"title": "Wilhelm Chaney"
+		},
+		{
+			"cost": "150000",
+			"doubleSkills": [],
+			"gender": "female",
+			"iconLetter": "WR",
+			"id": "3058",
+			"normalSkills": [],
+			"portrait": "440129",
+			"quantity": "1",
+			"skills": [
+				"Dauntless",
+				"Side Step",
+				"Thick Skull",
+				"Loner"
+			],
+			"stats": {
+				"AG": "3",
+				"AV": "8",
+				"MA": "5",
+				"ST": "4"
+			},
+			"title": "Willow Rosebark"
+		},
+		{
+			"cost": "270000",
+			"doubleSkills": [],
+			"gender": "female",
+			"iconLetter": "ZS",
+			"id": "3059",
+			"normalSkills": [],
+			"portrait": "332772",
+			"quantity": "1",
+			"skills": [
+				"Block",
+				"Dauntless",
+				"Dodge",
+				"Jump Up",
+				"Loner",
+				"Stab",
+				"Stakes"
+			],
+			"stats": {
+				"AG": "3",
+				"AV": "8",
+				"MA": "6",
+				"ST": "4"
+			},
+			"title": "Zara the Slayer"
+		},
+		{
+			"cost": "90000",
+			"doubleSkills": [],
+			"gender": "male",
+			"iconLetter": "ZM",
+			"id": "3060",
+			"normalSkills": [],
+			"portrait": "332800",
+			"quantity": "1",
+			"skills": [
+				"Sure Hands",
+				"Tackle",
+				"Strong Arm",
+				"Thick Skull",
+				"Hail Mary Pass",
+				"Pass",
+				"Loner",
+				"Secret Weapon"
+			],
+			"stats": {
+				"AG": "3",
+				"AV": "9",
+				"MA": "4",
+				"ST": "4"
+			},
+			"title": "Zzharg Madeye"
+		},
+		{
+			"cost": "210000",
+			"doubleSkills": [
+				"G",
+				"A",
+				"S",
+				"P"
+			],
+			"gender": "neutral",
+			"iconLetter": "GP",
+			"id": "17478",
+			"normalSkills": [],
+			"portrait": "563835",
+			"quantity": "1",
+			"skills": [
+				"Foul Appearance",
+				"Loner",
+				"Nurgle's Rot",
+				"Monstrous Mouth"
+			],
+			"stats": {
+				"AG": "4",
+				"AV": "9",
+				"MA": "5",
+				"ST": "3"
+			},
+			"title": "Guffle Pusmaw"
+		},
+		{
+			"cost": "160000",
+			"doubleSkills": [
+				"G",
+				"A",
+				"S",
+				"P"
+			],
+			"gender": "male",
+			"iconLetter": "AT",
+			"id": "20134",
+			"normalSkills": [],
+			"portrait": "582788",
+			"quantity": "1",
+			"skills": [
+				"Kick-Off Return",
+				"Sure Hands",
+				"Hail Mary Pass",
+				"Pass",
+				"Safe Throw",
+				"Loner"
+			],
+			"stats": {
+				"AG": "4",
+				"AV": "8",
+				"MA": "6",
+				"ST": "3"
+			},
+			"title": "Asperon Thorn"
+		},
+		{
+			"cost": "230000",
+			"doubleSkills": [
+				"G",
+				"A",
+				"S",
+				"P"
+			],
+			"gender": "female",
+			"iconLetter": "MH",
+			"id": "20135",
+			"normalSkills": [],
+			"portrait": "582790",
+			"quantity": "1",
+			"skills": [
+				"Block",
+				"Dauntless",
+				"Fend",
+				"Frenzy",
+				"Dodge",
+				"Mighty Blow",
+				"Loner"
+			],
+			"stats": {
+				"AG": "4",
+				"AV": "7",
+				"MA": "7",
+				"ST": "3"
+			},
+			"title": "Mordrix Hex"
+		},
+		{
+			"cost": "170000",
+			"doubleSkills": [
+				"G",
+				"A",
+				"S",
+				"P"
+			],
+			"gender": "male",
+			"iconLetter": "KK",
+			"id": "20136",
+			"normalSkills": [],
+			"portrait": "582792",
+			"quantity": "1",
+			"skills": [
+				"Pass Block",
+				"Tackle",
+				"Disturbing Presence",
+				"Foul Appearance",
+				"Tentacles",
+				"Loner"
+			],
+			"stats": {
+				"AG": "4",
+				"AV": "8",
+				"MA": "7",
+				"ST": "3"
+			},
+			"title": "Kiroth Krakeneye"
+		},
+		{
+			"cost": "190000",
+			"doubleSkills": [
+				"G",
+				"A",
+				"S",
+				"P"
+			],
+			"gender": "male",
+			"iconLetter": "ED",
+			"id": "20137",
+			"normalSkills": [],
+			"portrait": "582795",
+			"quantity": "1",
+			"skills": [
+				"Fend",
+				"Wrestle",
+				"Guard",
+				"Stand Firm",
+				"Loner"
+			],
+			"stats": {
+				"AG": "4",
+				"AV": "9",
+				"MA": "6",
+				"ST": "3"
+			},
+			"title": "Elijah Doom"
+		},
+		{
+			"cost": "230000",
+			"doubleSkills": [
+				"G",
+				"A",
+				"S",
+				"P"
+			],
+			"gender": "male",
+			"iconLetter": "GG",
+			"id": "20138",
+			"normalSkills": [],
+			"portrait": "582796",
+			"quantity": "1",
+			"skills": [
+				"Leap",
+				"Big Hand",
+				"Disturbing Presence",
+				"Tentacles",
+				"Very Long Legs",
+				"Loner",
+				"Regeneration",
+				"Monstrous Mouth"
+			],
+			"stats": {
+				"AG": "2",
+				"AV": "9",
+				"MA": "5",
+				"ST": "4"
+			},
+			"title": "Gobbler Grimlich"
+		},
+		{
+			"cost": "250000",
+			"doubleSkills": [
+				"G",
+				"A",
+				"S",
+				"P"
+			],
+			"gender": "male",
+			"iconLetter": "SA",
+			"id": "20139",
+			"normalSkills": [],
+			"portrait": "582798",
+			"quantity": "1",
+			"skills": [
+				"Frenzy",
+				"Thick Skull",
+				"Claw",
+				"Prehensile Tail",
+				"Loner",
+				"Wild Animal"
+			],
+			"stats": {
+				"AG": "1",
+				"AV": "9",
+				"MA": "5",
+				"ST": "5"
+			},
+			"title": "Scyla Anfingrimm"
+		},
+		{
+			"cost": "170000",
+			"doubleSkills": [
+				"G",
+				"A",
+				"S",
+				"P"
+			],
+			"gender": "male",
+			"iconLetter": "WD",
+			"id": "20140",
+			"normalSkills": [],
+			"portrait": "582800",
+			"quantity": "1",
+			"skills": [
+				"Tackle",
+				"Wrestle",
+				"Prehensile Tail",
+				"Tentacles",
+				"Two Heads",
+				"Loner"
+			],
+			"stats": {
+				"AG": "3",
+				"AV": "8",
+				"MA": "6",
+				"ST": "3"
+			},
+			"title": "Withergrasp Doubledrool"
+		},
+		{
+			"cost": "180000",
+			"doubleSkills": [
+				"G",
+				"A",
+				"S",
+				"P"
+			],
+			"gender": "male",
+			"iconLetter": "BV",
+			"id": "20141",
+			"normalSkills": [],
+			"portrait": "582802",
+			"quantity": "1",
+			"skills": [
+				"Dirty Player",
+				"Disturbing Presence",
+				"Foul Appearance",
+				"Loner"
+			],
+			"stats": {
+				"AG": "2",
+				"AV": "9",
+				"MA": "4",
+				"ST": "5"
+			},
+			"title": "Bilerot Vomitflesh"
+		},
+		{
+			"cost": "190000",
+			"doubleSkills": [
+				"G",
+				"A",
+				"S",
+				"P"
+			],
+			"gender": "male",
+			"iconLetter": "GS",
+			"id": "20142",
+			"normalSkills": [],
+			"portrait": "582804",
+			"quantity": "1",
+			"skills": [
+				"Block",
+				"Grab",
+				"Juggernaut",
+				"Stand Firm",
+				"Claw",
+				"Loner"
+			],
+			"stats": {
+				"AG": "2",
+				"AV": "8",
+				"MA": "5",
+				"ST": "4"
+			},
+			"title": "Glart Smashrip"
+		},
+		{
+			"cost": "220000",
+			"doubleSkills": [
+				"G",
+				"A",
+				"S",
+				"P"
+			],
+			"gender": "female",
+			"iconLetter": "KK",
+			"id": "20143",
+			"normalSkills": [],
+			"portrait": "582806",
+			"quantity": "1",
+			"skills": [
+				"Block",
+				"Dauntless",
+				"Dodge",
+				"Jump Up",
+				"Loner"
+			],
+			"stats": {
+				"AG": "3",
+				"AV": "8",
+				"MA": "6",
+				"ST": "4"
+			},
+			"title": "Karla von Kill"
+		},
+		{
+			"cost": "130000",
+			"doubleSkills": [
+				"G",
+				"A",
+				"S",
+				"P"
+			],
+			"gender": "male",
+			"iconLetter": "KR",
+			"id": "20144",
+			"normalSkills": [],
+			"portrait": "582808",
+			"quantity": "1",
+			"skills": [
+				"Mighty Blow",
+				"Prehensile Tail",
+				"Ball & Chain",
+				"Loner",
+				"No Hands",
+				"Secret Weapon"
+			],
+			"stats": {
+				"AG": "2",
+				"AV": "9",
+				"MA": "5",
+				"ST": "7"
+			},
+			"title": "Kreek Rustgouger"
+		},
+		{
+			"cost": "170000",
+			"doubleSkills": [
+				"G",
+				"A",
+				"S",
+				"P"
+			],
+			"gender": "male",
+			"iconLetter": "MM",
+			"id": "20145",
+			"normalSkills": [],
+			"portrait": "582810",
+			"quantity": "1",
+			"skills": [
+				"Leap",
+				"Break Tackle",
+				"Claw",
+				"Very Long Legs",
+				"Loner",
+				"No Hands",
+				"Wild Animal"
+			],
+			"stats": {
+				"AG": "3",
+				"AV": "8",
+				"MA": "6",
+				"ST": "4"
+			},
+			"title": "Madcap Miggz"
+		},
+		{
+			"cost": "270000",
+			"doubleSkills": [
+				"G",
+				"A",
+				"S",
+				"P"
+			],
+			"gender": "male",
+			"iconLetter": "FS",
+			"id": "20193",
+			"normalSkills": [],
+			"portrait": "583231",
+			"quantity": "1",
+			"skills": [
+				"Break Tackle",
+				"Mighty Blow",
+				"Stand Firm",
+				"Thick Skull",
+				"Loner",
+				"Regeneration"
+			],
+			"stats": {
+				"AG": "1",
+				"AV": "9",
+				"MA": "4",
+				"ST": "5"
+			},
+			"title": "Frank N Stein"
+		},
+		{
+			"cost": "110000",
+			"doubleSkills": [
+				"G",
+				"A",
+				"S",
+				"P"
+			],
+			"gender": "male",
+			"iconLetter": "TG",
+			"id": "20195",
+			"normalSkills": [],
+			"portrait": "583454",
+			"quantity": "1",
+			"skills": [
+				"Stand Firm",
+				"Disturbing Presence",
+				"Foul Appearance",
+				"Ball & Chain",
+				"Loner",
+				"No Hands",
+				"Nurgle's Rot",
+				"Secret Weapon"
+			],
+			"stats": {
+				"AG": "2",
+				"AV": "9",
+				"MA": "3",
+				"ST": "7"
+			},
+			"title": "Tolly Glocklinger"
+		},
+		{
+			"cost": "160000",
+			"doubleSkills": [
+				"G",
+				"A",
+				"S",
+				"P"
+			],
+			"gender": "male",
+			"iconLetter": "BG",
+			"id": "20820",
+			"normalSkills": [],
+			"portrait": "585586",
+			"quantity": "1",
+			"skills": [
+				"Dodge",
+				"Side Step",
+				"Sprint",
+				"Sure Feet",
+				"Loner"
+			],
+			"stats": {
+				"AG": "4",
+				"AV": "7",
+				"MA": "8",
+				"ST": "3"
+			},
+			"title": "Bo Gallanté"
+		},
+		{
+			"cost": "130000",
+			"doubleSkills": [
+				"G",
+				"A",
+				"S",
+				"P"
+			],
+			"gender": "male",
+			"iconLetter": "BC",
+			"id": "20821",
+			"normalSkills": [],
+			"portrait": "585588",
+			"quantity": "1",
+			"skills": [
+				"Stand Firm",
+				"Thick Skull",
+				"Chainsaw",
+				"Loner",
+				"Regeneration",
+				"Secret Weapon"
+			],
+			"stats": {
+				"AG": "2",
+				"AV": "8",
+				"MA": "5",
+				"ST": "3"
+			},
+			"title": "Bryce 'The Slice' Cambuel"
+		},
+		{
+			"cost": "230000",
+			"doubleSkills": [
+				"G",
+				"A",
+				"S",
+				"P"
+			],
+			"gender": "male",
+			"iconLetter": "BS",
+			"id": "20822",
+			"normalSkills": [],
+			"portrait": "585590",
+			"quantity": "1",
+			"skills": [
+				"Block",
+				"Extra Arms",
+				"Foul Appearance",
+				"Horns",
+				"Two Heads",
+				"Loner",
+				"Nurgle's Rot",
+				"Regeneration",
+				"Stab"
+			],
+			"stats": {
+				"AG": "3",
+				"AV": "8",
+				"MA": "6",
+				"ST": "3"
+			},
+			"title": "Bulla Shardhorn"
+		},
+		{
+			"cost": "160000",
+			"doubleSkills": [
+				"G",
+				"A",
+				"S",
+				"P"
+			],
+			"gender": "male",
+			"iconLetter": "GB",
+			"id": "20823",
+			"normalSkills": [],
+			"portrait": "585594",
+			"quantity": "1",
+			"skills": [
+				"Wrestle",
+				"Catch",
+				"Dodge",
+				"Sure Feet",
+				"Loner"
+			],
+			"stats": {
+				"AG": "3",
+				"AV": "7",
+				"MA": "7",
+				"ST": "3"
+			},
+			"title": "G'Ral Blodschüker"
+		},
+		{
+			"cost": "280000",
+			"doubleSkills": [
+				"G",
+				"A",
+				"S",
+				"P"
+			],
+			"gender": "female",
+			"iconLetter": "GW",
+			"id": "20824",
+			"normalSkills": [],
+			"portrait": "585592",
+			"quantity": "1",
+			"skills": [
+				"Shadowing",
+				"Dodge",
+				"Jump Up",
+				"Side Step",
+				"Disturbing Presence",
+				"Foul Appearance",
+				"Loner",
+				"No Hands",
+				"Regeneration"
+			],
+			"stats": {
+				"AG": "4",
+				"AV": "8",
+				"MA": "7",
+				"ST": "3"
+			},
+			"title": "Gretchen Wächter 'The Blood Bowl Widow'"
+		},
+		{
+			"cost": "230000",
+			"doubleSkills": [
+				"G",
+				"A",
+				"S",
+				"P"
+			],
+			"gender": "male",
+			"iconLetter": "ID",
+			"id": "20825",
+			"normalSkills": [],
+			"portrait": "585596",
+			"quantity": "1",
+			"skills": [
+				"Block",
+				"Strip Ball",
+				"Tackle",
+				"Juggernaut",
+				"Disturbing Presence",
+				"Loner",
+				"Regeneration"
+			],
+			"stats": {
+				"AG": "2",
+				"AV": "8",
+				"MA": "6",
+				"ST": "4"
+			},
+			"title": "Ivan 'The Animal' Deathshroud"
+		},
+		{
+			"cost": "100000",
+			"doubleSkills": [
+				"G",
+				"A",
+				"S",
+				"P"
+			],
+			"gender": "male",
+			"iconLetter": "TI",
+			"id": "20826",
+			"normalSkills": [],
+			"portrait": "585598",
+			"quantity": "1",
+			"skills": [
+				"Dirty Player",
+				"Dodge",
+				"Leap",
+				"Loner",
+				"Regeneration",
+				"Secret Weapon",
+				"Stab",
+				"Stunty"
+			],
+			"stats": {
+				"AG": "3",
+				"AV": "7",
+				"MA": "6",
+				"ST": "2"
+			},
+			"title": "Throttlesnot 'The Impaler'"
+		},
+		{
+			"cost": "70000",
+			"doubleSkills": [
+				"G",
+				"A",
+				"S",
+				"P"
+			],
+			"gender": "male",
+			"iconLetter": "NV",
+			"id": "21133",
+			"normalSkills": [],
+			"portrait": "588603",
+			"quantity": "1",
+			"skills": [
+				"Dodge",
+				"Loner",
+				"Secret Weapon",
+				"Stab",
+				"Stunty",
+				"Trademark Stilts (Leap, Very Long Legs)"
+			],
+			"stats": {
+				"AG": "3",
+				"AV": "6",
+				"MA": "5",
+				"ST": "2"
+			},
+			"title": "Neddley Verrüca"
+		},
+		{
+			"cost": "50000",
+			"doubleSkills": [
+				"G",
+				"A",
+				"S",
+				"P"
+			],
+			"gender": "female",
+			"iconLetter": "CP",
+			"id": "21134",
+			"normalSkills": [],
+			"portrait": "591388",
+			"quantity": "1",
+			"skills": [
+				"Dodge",
+				"Accurate",
+				"Bombardier",
+				"Loner",
+				"Secret Weapon",
+				"Stunty"
+			],
+			"stats": {
+				"AG": "3",
+				"AV": "6",
+				"MA": "5",
+				"ST": "2"
+			},
+			"title": "Cindy Piewhistle"
+		},
+		{
+			"cost": "170000",
+			"doubleSkills": [
+				"G",
+				"A",
+				"S",
+				"P"
+			],
+			"gender": "male",
+			"iconLetter": "RS",
+			"id": "21135",
+			"normalSkills": [],
+			"portrait": "595946",
+			"quantity": "1",
+			"skills": [
+				"Block",
+				"Tackle",
+				"Juggernaut",
+				"Thick Skull",
+				"Horns",
+				"Loner",
+				"No Hands"
+			],
+			"stats": {
+				"AG": "3",
+				"AV": "7",
+				"MA": "6",
+				"ST": "3"
+			},
+			"title": "Rumblelow Sheepskin"
+		},
+		{
+			"cost": "120000",
+			"doubleSkills": [
+				"G",
+				"A",
+				"S",
+				"P"
+			],
+			"gender": "male",
+			"iconLetter": "JH",
+			"id": "21136",
+			"normalSkills": [],
+			"portrait": "588608",
+			"quantity": "1",
+			"skills": [
+				"Dirty Player",
+				"Tackle",
+				"Wrestle",
+				"Stand Firm",
+				"Loner",
+				"Stunty"
+			],
+			"stats": {
+				"AG": "2",
+				"AV": "8",
+				"MA": "4",
+				"ST": "3"
+			},
+			"title": "Big Jobo Hairyfoot"
+		},
+		{
+			"cost": "110000",
+			"doubleSkills": [
+				"G",
+				"A",
+				"S",
+				"P"
+			],
+			"gender": "male",
+			"iconLetter": "RB",
+			"id": "22962",
+			"normalSkills": [],
+			"portrait": "596247",
+			"quantity": "1",
+			"skills": [
+				"Dirty Player",
+				"Sneaky Git",
+				"Loner",
+				"Regeneration"
+			],
+			"stats": {
+				"AG": "2",
+				"AV": "8",
+				"MA": "4",
+				"ST": "3"
+			},
+			"title": "'Rotten' Rick Bupkeis"
+		},
+		{
+			"cost": "190000",
+			"doubleSkills": [
+				"G",
+				"A",
+				"S",
+				"P"
+			],
+			"gender": "male",
+			"iconLetter": "SH",
+			"id": "22963",
+			"normalSkills": [],
+			"portrait": "596248",
+			"quantity": "1",
+			"skills": [
+				"Sure Hands",
+				"Thick Skull",
+				"Accurate",
+				"Nerves Of Steel",
+				"Pass",
+				"Loner",
+				"Regeneration"
+			],
+			"stats": {
+				"AG": "3",
+				"AV": "8",
+				"MA": "6",
+				"ST": "3"
+			},
+			"title": "Skrull Halfheight"
+		},
+		{
+			"cost": "160000",
+			"doubleSkills": [
+				"G",
+				"A",
+				"S",
+				"P"
+			],
+			"gender": "female",
+			"iconLetter": "GS",
+			"id": "22977",
+			"normalSkills": [],
+			"portrait": null,
+			"quantity": "1",
+			"skills": [
+				"Sure Hands",
+				"Dodge",
+				"Side Step",
+				"Accurate",
+				"Pass",
+				"Loner"
+			],
+			"stats": {
+				"AG": "4",
+				"AV": "7",
+				"MA": "7",
+				"ST": "2"
+			},
+			"title": "Gloriel Summerbloom"
+		},
+		{
+			"cost": "130000",
+			"doubleSkills": [
+				"G",
+				"A",
+				"S",
+				"P"
+			],
+			"gender": "female",
+			"iconLetter": "SG",
+			"id": "22978",
+			"normalSkills": [],
+			"portrait": "596620",
+			"quantity": "1",
+			"skills": [
+				"Fend",
+				"Side Step",
+				"Disturbing Presence",
+				"Loner",
+				"Stab",
+				"Stunty"
+			],
+			"stats": {
+				"AG": "3",
+				"AV": "6",
+				"MA": "7",
+				"ST": "2"
+			},
+			"title": "Swiftvine Glimmershard"
+		},
+		{
+			"cost": "300000",
+			"doubleSkills": [
+				"G",
+				"A",
+				"S",
+				"P"
+			],
+			"gender": "male",
+			"iconLetter": "MH",
+			"id": "22979",
+			"normalSkills": [],
+			"portrait": "596391",
+			"quantity": "1",
+			"skills": [
+				"Grab",
+				"Mighty Blow",
+				"Stand Firm",
+				"Thick Skull",
+				"Tentacles",
+				"Loner"
+			],
+			"stats": {
+				"AG": "1",
+				"AV": "10",
+				"MA": "3",
+				"ST": "5"
+			},
+			"title": "Maple Highgrove"
+		},
+		{
+			"cost": "280000",
+			"doubleSkills": [
+				"G",
+				"A",
+				"S",
+				"P"
+			],
+			"gender": "male",
+			"iconLetter": "ZZ",
+			"id": "22980",
+			"normalSkills": [],
+			"portrait": "596390",
+			"quantity": "1",
+			"skills": [
+				"Sure Feet",
+				"Juggernaut",
+				"Mighty Blow",
+				"Disturbing Presence",
+				"Prehensile Tail",
+				"Loner",
+				"Regeneration"
+			],
+			"stats": {
+				"AG": "2",
+				"AV": "9",
+				"MA": "5",
+				"ST": "5"
+			},
+			"title": "Zolcath the Zoat"
+		},
+		{
+			"cost": "240000",
+			"doubleSkills": [
+				"G",
+				"A",
+				"S",
+				"P"
+			],
+			"gender": "neutral",
+			"iconLetter": "CD",
+			"id": "22981",
+			"normalSkills": [],
+			"portrait": null,
+			"quantity": "1",
+			"skills": [
+				"Frenzy",
+				"Wrestle",
+				"Dodge",
+				"Jump Up",
+				"Leap",
+				"Loner"
+			],
+			"stats": {
+				"AG": "4",
+				"AV": "7",
+				"MA": "7",
+				"ST": "3"
+			},
+			"title": "Curnoth Darkwold"
+		},
+		{
+			"cost": "390000",
+			"doubleSkills": [
+				"G",
+				"A",
+				"S",
+				"P"
+			],
+			"gender": "male",
+			"iconLetter": "LS",
+			"id": "22982",
+			"normalSkills": [],
+			"portrait": "596387",
+			"quantity": "1",
+			"skills": [
+				"Block",
+				"Tackle",
+				"Mighty Blow",
+				"Loner"
+			],
+			"stats": {
+				"AG": "4",
+				"AV": "8",
+				"MA": "7",
+				"ST": "3"
+			},
+			"title": "Lucien Swift"
+		},
+		{
+			"cost": "0",
+			"doubleSkills": [
+				"G",
+				"A",
+				"S",
+				"P"
+			],
+			"gender": "neutral",
+			"iconLetter": "VS",
+			"id": "22983",
+			"normalSkills": [],
+			"portrait": "596388",
+			"quantity": "1",
+			"skills": [
+				"Sure Hands",
+				"Accurate",
+				"Nerves Of Steel",
+				"Pass",
+				"Safe Throw",
+				"Loner"
+			],
+			"stats": {
+				"AG": "5",
+				"AV": "7",
+				"MA": "7",
+				"ST": "3"
+			},
+			"title": "Valen Swift"
+		},
+		{
+			"cost": "210000",
+			"doubleSkills": [
+				"G",
+				"A",
+				"S",
+				"P"
+			],
+			"gender": "male",
+			"iconLetter": "AP",
+			"id": "23007",
+			"normalSkills": [],
+			"portrait": "596630",
+			"quantity": "1",
+			"skills": [
+				"Block",
+				"Grab",
+				"Stand Firm",
+				"Loner"
+			],
+			"stats": {
+				"AG": "2",
+				"AV": "9",
+				"MA": "7",
+				"ST": "4"
+			},
+			"title": "Anqi Panqi"
+		},
+		{
+			"cost": "190000",
+			"doubleSkills": [
+				"G",
+				"A",
+				"S",
+				"P"
+			],
+			"gender": "male",
+			"iconLetter": "Du",
+			"id": "23008",
+			"normalSkills": [],
+			"portrait": "596633",
+			"quantity": "1",
+			"skills": [
+				"Dodge",
+				"Side Step",
+				"Loner",
+				"Stab",
+				"Stunty"
+			],
+			"stats": {
+				"AG": "3",
+				"AV": "7",
+				"MA": "8",
+				"ST": "2"
+			},
+			"title": "Drull"
+		},
+		{
+			"cost": "0",
+			"doubleSkills": [
+				"G",
+				"A",
+				"S",
+				"P"
+			],
+			"gender": "male",
+			"iconLetter": "Di",
+			"id": "23009",
+			"normalSkills": [],
+			"portrait": "596653",
+			"quantity": "1",
+			"skills": [
+				"Dirty Player",
+				"Dodge",
+				"Side Step",
+				"Sneaky Git",
+				"Loner",
+				"Stunty"
+			],
+			"stats": {
+				"AG": "3",
+				"AV": "7",
+				"MA": "8",
+				"ST": "2"
+			},
+			"title": "Dribl"
+		},
+		{
+			"cost": "360000",
+			"doubleSkills": [
+				"G",
+				"A",
+				"S",
+				"P"
+			],
+			"gender": "male",
+			"iconLetter": "GS",
+			"id": "23010",
+			"normalSkills": [],
+			"portrait": "596637",
+			"quantity": "1",
+			"skills": [
+				"Frenzy",
+				"Mighty Blow",
+				"Thick Skull",
+				"Prehensile Tail",
+				"Loner",
+				"Wild Animal"
+			],
+			"stats": {
+				"AG": "1",
+				"AV": "9",
+				"MA": "6",
+				"ST": "6"
+			},
+			"title": "Glotl Stop"
+		}
+	],
+	"raisePosition": null,
+	"rerollCost": "0",
+	"stars": [],
+	"stats": {
+		"finesse": "3",
+		"physique": "3",
+		"versatility": "3"
+	},
+	"undead": "No"
+}

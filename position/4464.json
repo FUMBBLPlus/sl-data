@@ -1,0 +1,34 @@
+{
+	"cost": 80000,
+	"doubleSkills": [
+		"A",
+		"P"
+	],
+	"gender": "neutral",
+	"icon": 488752,
+	"iconLetter": "BoB",
+	"id": "4464",
+	"name": "Black Orc Blocker",
+	"normalSkills": [
+		"G",
+		"S"
+	],
+	"portrait": 488753,
+	"quantity": 4,
+	"race": "Orc",
+	"roster": 474,
+	"secretweapon": "0",
+	"skills": [
+		"Animosity"
+	],
+	"stats": {
+		"AG": 2,
+		"AV": 9,
+		"MA": 4,
+		"ST": 4
+	},
+	"thrall": "false",
+	"title": "Black Orc Blocker",
+	"type": "normal",
+	"undead": "false"
+}

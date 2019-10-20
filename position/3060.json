@@ -1,0 +1,35 @@
+{
+	"cost": 90000,
+	"doubleSkills": [],
+	"gender": "male",
+	"icon": 436493,
+	"iconLetter": "ZM",
+	"id": "3060",
+	"name": "Zzharg Madeye",
+	"normalSkills": [],
+	"portrait": 332800,
+	"quantity": 1,
+	"race": "Chaos Dwarf",
+	"roster": 67,
+	"secretweapon": "0",
+	"skills": [
+		"Sure Hands",
+		"Tackle",
+		"Strong Arm",
+		"Thick Skull",
+		"Hail Mary Pass",
+		"Pass",
+		"Loner",
+		"Secret Weapon"
+	],
+	"stats": {
+		"AG": 3,
+		"AV": 9,
+		"MA": 4,
+		"ST": 4
+	},
+	"thrall": "false",
+	"title": "Zzharg Madeye",
+	"type": "star",
+	"undead": "false"
+}

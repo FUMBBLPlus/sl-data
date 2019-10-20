@@ -1,0 +1,35 @@
+{
+	"cost": 60000,
+	"doubleSkills": [
+		"A",
+		"P",
+		"M"
+	],
+	"gender": "male",
+	"icon": 487412,
+	"iconLetter": "Gor",
+	"id": "3263",
+	"name": "Gor",
+	"normalSkills": [
+		"G",
+		"S"
+	],
+	"portrait": 487413,
+	"quantity": 16,
+	"race": null,
+	"roster": 212,
+	"secretweapon": "0",
+	"skills": [
+		"Horns"
+	],
+	"stats": {
+		"AG": 3,
+		"AV": 8,
+		"MA": 6,
+		"ST": 3
+	},
+	"thrall": "false",
+	"title": "Gor",
+	"type": "normal",
+	"undead": "false"
+}

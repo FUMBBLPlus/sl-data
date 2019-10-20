@@ -1,0 +1,35 @@
+{
+	"cost": 100000,
+	"doubleSkills": [
+		"A",
+		"P"
+	],
+	"gender": "neutral",
+	"icon": 491247,
+	"iconLetter": "W",
+	"id": "4127",
+	"name": "Willow Aspect",
+	"normalSkills": [
+		"G",
+		"S"
+	],
+	"portrait": 488157,
+	"quantity": 2,
+	"race": null,
+	"roster": 422,
+	"secretweapon": "0",
+	"skills": [
+		"Prehensile Tail",
+		"Tentacles"
+	],
+	"stats": {
+		"AG": 2,
+		"AV": 8,
+		"MA": 5,
+		"ST": 4
+	},
+	"thrall": "false",
+	"title": "Willow Aspect",
+	"type": "normal",
+	"undead": "false"
+}

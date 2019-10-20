@@ -1,0 +1,37 @@
+{
+	"cost": 160000,
+	"doubleSkills": [
+		"G",
+		"A",
+		"S",
+		"P"
+	],
+	"gender": "male",
+	"icon": 585595,
+	"iconLetter": "GB",
+	"id": "20823",
+	"name": "G'Ral Blodschüker",
+	"normalSkills": [],
+	"portrait": 585594,
+	"quantity": 1,
+	"race": null,
+	"roster": 67,
+	"secretweapon": "0",
+	"skills": [
+		"Wrestle",
+		"Catch",
+		"Dodge",
+		"Sure Feet",
+		"Loner"
+	],
+	"stats": {
+		"AG": 3,
+		"AV": 7,
+		"MA": 7,
+		"ST": 3
+	},
+	"thrall": "false",
+	"title": "G'Ral Blodschüker",
+	"type": "star",
+	"undead": "false"
+}

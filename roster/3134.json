@@ -1,0 +1,164 @@
+{
+	"apothecary": "Yes",
+	"id": "3134",
+	"info": "DIFFICULTY: EASY - Ironbreaker Dwarves start with very good core skill coverage, impenetrable armour and can bash reliably. However they are slow, and I mean very very slow.",
+	"logos": {
+		"128": "596854",
+		"192": "596853",
+		"32": "596858",
+		"48": "596857",
+		"64": "596856",
+		"96": "596855"
+	},
+	"name": "Ironbreaker",
+	"necromancer": "No",
+	"ownerRuleset": "69",
+	"playable": "true",
+	"positions": [
+		{
+			"cost": "60000",
+			"doubleSkills": [
+				"A",
+				"P"
+			],
+			"gender": "male",
+			"iconLetter": "L",
+			"id": "23011",
+			"normalSkills": [
+				"G",
+				"S"
+			],
+			"portrait": null,
+			"quantity": "16",
+			"skills": [
+				"Block",
+				"Thick Skull"
+			],
+			"stats": {
+				"AG": "2",
+				"AV": "10",
+				"MA": "3",
+				"ST": "3"
+			},
+			"title": "Linemen"
+		},
+		{
+			"cost": "80000",
+			"doubleSkills": [
+				"A",
+				"P"
+			],
+			"gender": "male",
+			"iconLetter": "Blo",
+			"id": "23012",
+			"normalSkills": [
+				"G",
+				"S"
+			],
+			"portrait": null,
+			"quantity": "2",
+			"skills": [
+				"Block",
+				"Tackle",
+				"Thick Skull"
+			],
+			"stats": {
+				"AG": "2",
+				"AV": "10",
+				"MA": "4",
+				"ST": "3"
+			},
+			"title": "Blocker"
+		},
+		{
+			"cost": "90000",
+			"doubleSkills": [
+				"A",
+				"P"
+			],
+			"gender": "male",
+			"iconLetter": "Bli",
+			"id": "23013",
+			"normalSkills": [
+				"G",
+				"S"
+			],
+			"portrait": null,
+			"quantity": "4",
+			"skills": [
+				"Block",
+				"Thick Skull"
+			],
+			"stats": {
+				"AG": "3",
+				"AV": "10",
+				"MA": "5",
+				"ST": "3"
+			},
+			"title": "Blitzer"
+		},
+		{
+			"cost": "120000",
+			"doubleSkills": [
+				"G",
+				"A",
+				"P"
+			],
+			"gender": "neutral",
+			"iconLetter": "RG",
+			"id": "23014",
+			"normalSkills": [
+				"S"
+			],
+			"portrait": null,
+			"quantity": "1",
+			"skills": [
+				"Mighty Blow",
+				"Thick Skull",
+				"Bone-head",
+				"Loner"
+			],
+			"stats": {
+				"AG": "1",
+				"AV": "10",
+				"MA": "3",
+				"ST": "5"
+			},
+			"title": "Rune Golem"
+		}
+	],
+	"raisePosition": null,
+	"rerollCost": "50000",
+	"stars": [
+		{
+			"id": "3003",
+			"name": "Barik Farblast"
+		},
+		{
+			"id": "3008",
+			"name": "Boomer Eziasson"
+		},
+		{
+			"id": "3015",
+			"name": "Flint Churnblade"
+		},
+		{
+			"id": "3020",
+			"name": "Grim Ironjaw"
+		},
+		{
+			"id": "3039",
+			"name": "Morg 'n' Thorg"
+		},
+		{
+			"id": "3059",
+			"name": "Zara the Slayer"
+		}
+	],
+	"stats": {
+		"finesse": "2",
+		"physique": "5",
+		"versatility": "1"
+	},
+	"undead": "No"
+}

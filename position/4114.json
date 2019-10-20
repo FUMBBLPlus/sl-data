@@ -1,0 +1,36 @@
+{
+	"cost": 90000,
+	"doubleSkills": [
+		"A",
+		"P"
+	],
+	"gender": "male",
+	"icon": 488122,
+	"iconLetter": "C",
+	"id": "4114",
+	"name": "Centigor",
+	"normalSkills": [
+		"G",
+		"S"
+	],
+	"portrait": 488121,
+	"quantity": 6,
+	"race": null,
+	"roster": 419,
+	"secretweapon": "0",
+	"skills": [
+		"Sprint",
+		"Horns",
+		"Bone-head"
+	],
+	"stats": {
+		"AG": 2,
+		"AV": 9,
+		"MA": 6,
+		"ST": 4
+	},
+	"thrall": "false",
+	"title": "Centigor",
+	"type": "normal",
+	"undead": "false"
+}

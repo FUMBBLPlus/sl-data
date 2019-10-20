@@ -1,0 +1,39 @@
+{
+	"cost": 140000,
+	"doubleSkills": [
+		"G",
+		"A",
+		"P"
+	],
+	"gender": "neutral",
+	"icon": 489123,
+	"iconLetter": "HO",
+	"id": "4543",
+	"name": "Human Ogre",
+	"normalSkills": [
+		"S"
+	],
+	"portrait": 489124,
+	"quantity": 1,
+	"race": "Human",
+	"roster": 486,
+	"secretweapon": "0",
+	"skills": [
+		"Mighty Blow",
+		"Thick Skull",
+		"Bone-head",
+		"Loner",
+		"Throw Team-Mate",
+		"Animosity"
+	],
+	"stats": {
+		"AG": 2,
+		"AV": 9,
+		"MA": 5,
+		"ST": 5
+	},
+	"thrall": "false",
+	"title": "Human Ogre",
+	"type": "normal",
+	"undead": "false"
+}

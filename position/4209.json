@@ -1,0 +1,34 @@
+{
+	"cost": 60000,
+	"doubleSkills": [
+		"A",
+		"S",
+		"P"
+	],
+	"gender": "male",
+	"icon": 488359,
+	"iconLetter": "Fm",
+	"id": "4209",
+	"name": "Fimm Warrior",
+	"normalSkills": [
+		"G"
+	],
+	"portrait": 488361,
+	"quantity": 16,
+	"race": null,
+	"roster": 436,
+	"secretweapon": "0",
+	"skills": [
+		"Prehensile Tail"
+	],
+	"stats": {
+		"AG": 2,
+		"AV": 9,
+		"MA": 5,
+		"ST": 3
+	},
+	"thrall": "false",
+	"title": "Fimm Warrior",
+	"type": "normal",
+	"undead": "false"
+}

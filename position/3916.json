@@ -1,0 +1,39 @@
+{
+	"cost": 200000,
+	"doubleSkills": [
+		"G",
+		"P",
+		"A"
+	],
+	"gender": "neutral",
+	"icon": 487457,
+	"iconLetter": "Kee",
+	"id": "3916",
+	"name": "Keeper of Secrets",
+	"normalSkills": [
+		"S"
+	],
+	"portrait": 487458,
+	"quantity": 1,
+	"race": null,
+	"roster": 369,
+	"secretweapon": "0",
+	"skills": [
+		"Claw",
+		"Extra Arms",
+		"Very Long Legs",
+		"Loner",
+		"Regeneration",
+		"Wild Animal"
+	],
+	"stats": {
+		"AG": 4,
+		"AV": 8,
+		"MA": 7,
+		"ST": 5
+	},
+	"thrall": "false",
+	"title": "Keeper of Secrets",
+	"type": "normal",
+	"undead": "false"
+}

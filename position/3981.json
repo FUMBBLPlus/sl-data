@@ -1,0 +1,35 @@
+{
+	"cost": 100000,
+	"doubleSkills": [
+		"A",
+		"P"
+	],
+	"gender": "male",
+	"icon": 487748,
+	"iconLetter": "Su",
+	"id": "3981",
+	"name": "Sumo",
+	"normalSkills": [
+		"G",
+		"S"
+	],
+	"portrait": 487747,
+	"quantity": 2,
+	"race": null,
+	"roster": 381,
+	"secretweapon": "0",
+	"skills": [
+		"Grab",
+		"Stand Firm"
+	],
+	"stats": {
+		"AG": 2,
+		"AV": 8,
+		"MA": 4,
+		"ST": 4
+	},
+	"thrall": "false",
+	"title": "Sumo",
+	"type": "normal",
+	"undead": "false"
+}

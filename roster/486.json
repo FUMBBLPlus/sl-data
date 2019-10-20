@@ -1,0 +1,817 @@
+{
+	"apothecary": "Yes",
+	"id": "486",
+	"info": "YOU MUST FOLLOW THIS RULE WHEN PLAYING WITH TILEA - During roster creation you may spend up to 500K on players from the Allied Teams. No duplicate players types may be bought (e,g, you cannot have more than 1 Dwarf Blocker, or 1 High Elf blitzer etc..). ",
+	"logos": {
+		"128": "492734",
+		"192": "492735",
+		"32": "492737",
+		"48": "492738",
+		"64": "492739",
+		"96": "492736"
+	},
+	"name": "Tilea",
+	"necromancer": "No",
+	"ownerRuleset": "69",
+	"playable": "true",
+	"positions": [
+		{
+			"cost": "40000",
+			"doubleSkills": [
+				"A",
+				"S",
+				"P"
+			],
+			"gender": "male",
+			"iconLetter": "L",
+			"id": "4534",
+			"normalSkills": [
+				"G"
+			],
+			"portrait": "489112",
+			"quantity": "16",
+			"skills": [],
+			"stats": {
+				"AG": "3",
+				"AV": "7",
+				"MA": "6",
+				"ST": "3"
+			},
+			"title": "Tilean Lineman"
+		},
+		{
+			"cost": "50000",
+			"doubleSkills": [
+				"A",
+				"S",
+				"P"
+			],
+			"gender": "neutral",
+			"iconLetter": "HL",
+			"id": "4539",
+			"normalSkills": [
+				"G"
+			],
+			"portrait": "489116",
+			"quantity": "1",
+			"skills": [
+				"Animosity"
+			],
+			"stats": {
+				"AG": "3",
+				"AV": "8",
+				"MA": "6",
+				"ST": "3"
+			},
+			"title": "Human Lineman"
+		},
+		{
+			"cost": "70000",
+			"doubleSkills": [
+				"A",
+				"S"
+			],
+			"gender": "neutral",
+			"iconLetter": "HT",
+			"id": "4540",
+			"normalSkills": [
+				"G",
+				"P"
+			],
+			"portrait": "489117",
+			"quantity": "1",
+			"skills": [
+				"Animosity",
+				"Sure Hands",
+				"Pass"
+			],
+			"stats": {
+				"AG": "3",
+				"AV": "8",
+				"MA": "6",
+				"ST": "3"
+			},
+			"title": "Human Thrower"
+		},
+		{
+			"cost": "60000",
+			"doubleSkills": [
+				"S",
+				"P"
+			],
+			"gender": "neutral",
+			"iconLetter": "HC",
+			"id": "4541",
+			"normalSkills": [
+				"G",
+				"A"
+			],
+			"portrait": "489120",
+			"quantity": "1",
+			"skills": [
+				"Animosity",
+				"Catch",
+				"Dodge"
+			],
+			"stats": {
+				"AG": "3",
+				"AV": "7",
+				"MA": "8",
+				"ST": "2"
+			},
+			"title": "Human Catcher"
+		},
+		{
+			"cost": "90000",
+			"doubleSkills": [
+				"A",
+				"P"
+			],
+			"gender": "neutral",
+			"iconLetter": "HB",
+			"id": "4542",
+			"normalSkills": [
+				"G",
+				"S"
+			],
+			"portrait": "489122",
+			"quantity": "1",
+			"skills": [
+				"Animosity",
+				"Block"
+			],
+			"stats": {
+				"AG": "3",
+				"AV": "8",
+				"MA": "7",
+				"ST": "3"
+			},
+			"title": "Human Blitzer"
+		},
+		{
+			"cost": "140000",
+			"doubleSkills": [
+				"G",
+				"A",
+				"P"
+			],
+			"gender": "neutral",
+			"iconLetter": "HO",
+			"id": "4543",
+			"normalSkills": [
+				"S"
+			],
+			"portrait": "489124",
+			"quantity": "1",
+			"skills": [
+				"Animosity",
+				"Loner",
+				"Thick Skull",
+				"Mighty Blow",
+				"Throw Team-Mate",
+				"Bone-head"
+			],
+			"stats": {
+				"AG": "2",
+				"AV": "9",
+				"MA": "5",
+				"ST": "5"
+			},
+			"title": "Human Ogre"
+		},
+		{
+			"cost": "70000",
+			"doubleSkills": [
+				"A",
+				"P"
+			],
+			"gender": "male",
+			"iconLetter": "BL",
+			"id": "4589",
+			"normalSkills": [
+				"G",
+				"S"
+			],
+			"portrait": "489192",
+			"quantity": "1",
+			"skills": [
+				"Block",
+				"Tackle",
+				"Thick Skull",
+				"Animosity"
+			],
+			"stats": {
+				"AG": "2",
+				"AV": "9",
+				"MA": "4",
+				"ST": "3"
+			},
+			"title": "Dwarf Blocker"
+		},
+		{
+			"cost": "80000",
+			"doubleSkills": [
+				"A",
+				"S"
+			],
+			"gender": "neutral",
+			"iconLetter": "DR",
+			"id": "4590",
+			"normalSkills": [
+				"G",
+				"P"
+			],
+			"portrait": "489194",
+			"quantity": "1",
+			"skills": [
+				"Animosity",
+				"Sure Hands",
+				"Thick Skull"
+			],
+			"stats": {
+				"AG": "3",
+				"AV": "8",
+				"MA": "6",
+				"ST": "3"
+			},
+			"title": "Dwarf Runner"
+		},
+		{
+			"cost": "80000",
+			"doubleSkills": [
+				"A",
+				"P"
+			],
+			"gender": "neutral",
+			"iconLetter": "DB",
+			"id": "4591",
+			"normalSkills": [
+				"G",
+				"S"
+			],
+			"portrait": "489196",
+			"quantity": "1",
+			"skills": [
+				"Animosity",
+				"Thick Skull",
+				"Block"
+			],
+			"stats": {
+				"AG": "3",
+				"AV": "9",
+				"MA": "5",
+				"ST": "3"
+			},
+			"title": "Dwarf Blitzer"
+		},
+		{
+			"cost": "90000",
+			"doubleSkills": [
+				"A",
+				"P"
+			],
+			"gender": "neutral",
+			"iconLetter": "DT",
+			"id": "4592",
+			"normalSkills": [
+				"G",
+				"S"
+			],
+			"portrait": "489198",
+			"quantity": "1",
+			"skills": [
+				"Animosity",
+				"Block",
+				"Dauntless",
+				"Thick Skull",
+				"Frenzy"
+			],
+			"stats": {
+				"AG": "2",
+				"AV": "8",
+				"MA": "5",
+				"ST": "3"
+			},
+			"title": "Dwarf Troll Slayer"
+		},
+		{
+			"cost": "160000",
+			"doubleSkills": [
+				"G",
+				"A",
+				"P"
+			],
+			"gender": "neutral",
+			"iconLetter": "DD",
+			"id": "4593",
+			"normalSkills": [
+				"S"
+			],
+			"portrait": "489200",
+			"quantity": "1",
+			"skills": [
+				"Animosity",
+				"Loner",
+				"Mighty Blow",
+				"Break Tackle",
+				"Dirty Player",
+				"Secret Weapon",
+				"Juggernaut",
+				"No Hands",
+				"Stand Firm"
+			],
+			"stats": {
+				"AG": "1",
+				"AV": "10",
+				"MA": "4",
+				"ST": "7"
+			},
+			"title": "Dwarf Deathroller"
+		},
+		{
+			"cost": "70000",
+			"doubleSkills": [
+				"S",
+				"P"
+			],
+			"gender": "neutral",
+			"iconLetter": "HL",
+			"id": "4610",
+			"normalSkills": [
+				"G",
+				"A"
+			],
+			"portrait": "489287",
+			"quantity": "1",
+			"skills": [
+				"Animosity"
+			],
+			"stats": {
+				"AG": "4",
+				"AV": "8",
+				"MA": "6",
+				"ST": "3"
+			},
+			"title": "High Elf Lineman"
+		},
+		{
+			"cost": "90000",
+			"doubleSkills": [
+				"S"
+			],
+			"gender": "neutral",
+			"iconLetter": "HT",
+			"id": "4611",
+			"normalSkills": [
+				"G",
+				"A",
+				"P"
+			],
+			"portrait": "489289",
+			"quantity": "1",
+			"skills": [
+				"Animosity",
+				"Pass",
+				"Safe Throw"
+			],
+			"stats": {
+				"AG": "4",
+				"AV": "8",
+				"MA": "6",
+				"ST": "3"
+			},
+			"title": "High Elf Thrower"
+		},
+		{
+			"cost": "90000",
+			"doubleSkills": [
+				"S",
+				"P"
+			],
+			"gender": "neutral",
+			"iconLetter": "HC",
+			"id": "4612",
+			"normalSkills": [
+				"G",
+				"A"
+			],
+			"portrait": "489291",
+			"quantity": "1",
+			"skills": [
+				"Animosity",
+				"Catch"
+			],
+			"stats": {
+				"AG": "4",
+				"AV": "7",
+				"MA": "8",
+				"ST": "3"
+			},
+			"title": "High Elf Catcher"
+		},
+		{
+			"cost": "100000",
+			"doubleSkills": [
+				"S",
+				"P"
+			],
+			"gender": "neutral",
+			"iconLetter": "HB",
+			"id": "4613",
+			"normalSkills": [
+				"G",
+				"A"
+			],
+			"portrait": "489293",
+			"quantity": "1",
+			"skills": [
+				"Animosity",
+				"Block"
+			],
+			"stats": {
+				"AG": "4",
+				"AV": "8",
+				"MA": "7",
+				"ST": "3"
+			},
+			"title": "High Elf Blitzer"
+		},
+		{
+			"cost": "50000",
+			"doubleSkills": [
+				"A",
+				"S",
+				"P"
+			],
+			"gender": "female",
+			"iconLetter": "AL",
+			"id": "4615",
+			"normalSkills": [
+				"G"
+			],
+			"portrait": "489296",
+			"quantity": "1",
+			"skills": [
+				"Animosity",
+				"Dodge"
+			],
+			"stats": {
+				"AG": "3",
+				"AV": "7",
+				"MA": "6",
+				"ST": "3"
+			},
+			"title": "Amazon Linewoman"
+		},
+		{
+			"cost": "70000",
+			"doubleSkills": [
+				"A",
+				"S"
+			],
+			"gender": "female",
+			"iconLetter": "AT",
+			"id": "4616",
+			"normalSkills": [
+				"G",
+				"P"
+			],
+			"portrait": "489300",
+			"quantity": "1",
+			"skills": [
+				"Animosity",
+				"Dodge",
+				"Pass"
+			],
+			"stats": {
+				"AG": "3",
+				"AV": "7",
+				"MA": "6",
+				"ST": "3"
+			},
+			"title": "Amazon Thrower"
+		},
+		{
+			"cost": "70000",
+			"doubleSkills": [
+				"S",
+				"P"
+			],
+			"gender": "female",
+			"iconLetter": "AC",
+			"id": "4617",
+			"normalSkills": [
+				"G",
+				"A"
+			],
+			"portrait": "489302",
+			"quantity": "1",
+			"skills": [
+				"Animosity",
+				"Dodge",
+				"Catch"
+			],
+			"stats": {
+				"AG": "3",
+				"AV": "7",
+				"MA": "6",
+				"ST": "3"
+			},
+			"title": "Amazon Catcher"
+		},
+		{
+			"cost": "90000",
+			"doubleSkills": [
+				"A",
+				"P"
+			],
+			"gender": "female",
+			"iconLetter": "AB",
+			"id": "4618",
+			"normalSkills": [
+				"G",
+				"S"
+			],
+			"portrait": "489304",
+			"quantity": "1",
+			"skills": [
+				"Animosity",
+				"Block",
+				"Dodge"
+			],
+			"stats": {
+				"AG": "3",
+				"AV": "7",
+				"MA": "6",
+				"ST": "3"
+			},
+			"title": "Amazon Blitzer"
+		},
+		{
+			"cost": "50000",
+			"doubleSkills": [
+				"A",
+				"S",
+				"P"
+			],
+			"gender": "neutral",
+			"iconLetter": "NL",
+			"id": "4619",
+			"normalSkills": [
+				"G"
+			],
+			"portrait": "489306",
+			"quantity": "1",
+			"skills": [
+				"Animosity",
+				"Block"
+			],
+			"stats": {
+				"AG": "3",
+				"AV": "7",
+				"MA": "6",
+				"ST": "3"
+			},
+			"title": "Norse Lineman"
+		},
+		{
+			"cost": "70000",
+			"doubleSkills": [
+				"A",
+				"S"
+			],
+			"gender": "neutral",
+			"iconLetter": "NT",
+			"id": "4620",
+			"normalSkills": [
+				"G",
+				"P"
+			],
+			"portrait": "489308",
+			"quantity": "1",
+			"skills": [
+				"Animosity",
+				"Block",
+				"Pass"
+			],
+			"stats": {
+				"AG": "3",
+				"AV": "7",
+				"MA": "6",
+				"ST": "3"
+			},
+			"title": "Norse Thrower"
+		},
+		{
+			"cost": "90000",
+			"doubleSkills": [
+				"S",
+				"P"
+			],
+			"gender": "neutral",
+			"iconLetter": "NR",
+			"id": "4621",
+			"normalSkills": [
+				"G",
+				"A"
+			],
+			"portrait": "489310",
+			"quantity": "1",
+			"skills": [
+				"Block",
+				"Animosity",
+				"Dauntless"
+			],
+			"stats": {
+				"AG": "3",
+				"AV": "7",
+				"MA": "7",
+				"ST": "3"
+			},
+			"title": "Norse Runner"
+		},
+		{
+			"cost": "90000",
+			"doubleSkills": [
+				"A",
+				"P"
+			],
+			"gender": "neutral",
+			"iconLetter": "NB",
+			"id": "4622",
+			"normalSkills": [
+				"G",
+				"S"
+			],
+			"portrait": "489312",
+			"quantity": "1",
+			"skills": [
+				"Animosity",
+				"Block",
+				"Frenzy",
+				"Jump Up"
+			],
+			"stats": {
+				"AG": "3",
+				"AV": "7",
+				"MA": "6",
+				"ST": "3"
+			},
+			"title": "Norse Berserker"
+		},
+		{
+			"cost": "110000",
+			"doubleSkills": [
+				"A",
+				"P"
+			],
+			"gender": "neutral",
+			"iconLetter": "NU",
+			"id": "4623",
+			"normalSkills": [
+				"G",
+				"S"
+			],
+			"portrait": "489314",
+			"quantity": "1",
+			"skills": [
+				"Animosity",
+				"Frenzy"
+			],
+			"stats": {
+				"AG": "2",
+				"AV": "8",
+				"MA": "6",
+				"ST": "4"
+			},
+			"title": "Norse Ulfwerener"
+		},
+		{
+			"cost": "30000",
+			"doubleSkills": [
+				"G",
+				"S",
+				"P"
+			],
+			"gender": "male",
+			"iconLetter": "Hlf",
+			"id": "4624",
+			"normalSkills": [
+				"A"
+			],
+			"portrait": "489316",
+			"quantity": "1",
+			"skills": [
+				"Stunty",
+				"Right Stuff",
+				"Animosity",
+				"Dodge"
+			],
+			"stats": {
+				"AG": "3",
+				"AV": "6",
+				"MA": "5",
+				"ST": "2"
+			},
+			"title": "Halfling"
+		},
+		{
+			"cost": "140000",
+			"doubleSkills": [
+				"G",
+				"A",
+				"P"
+			],
+			"gender": "neutral",
+			"iconLetter": "NS",
+			"id": "4625",
+			"normalSkills": [
+				"S"
+			],
+			"portrait": "489321",
+			"quantity": "1",
+			"skills": [
+				"Animosity",
+				"Loner",
+				"Claw",
+				"Wild Animal",
+				"Frenzy",
+				"Disturbing Presence"
+			],
+			"stats": {
+				"AG": "1",
+				"AV": "8",
+				"MA": "5",
+				"ST": "5"
+			},
+			"title": "Norse Snow Troll"
+		},
+		{
+			"cost": "120000",
+			"doubleSkills": [
+				"G",
+				"A",
+				"P"
+			],
+			"gender": "male",
+			"iconLetter": "TrM",
+			"id": "4626",
+			"normalSkills": [
+				"S"
+			],
+			"portrait": "489320",
+			"quantity": "1",
+			"skills": [
+				"Animosity",
+				"Loner",
+				"Mighty Blow",
+				"Throw Team-Mate",
+				"Strong Arm",
+				"Stand Firm",
+				"Thick Skull",
+				"Take Root"
+			],
+			"stats": {
+				"AG": "1",
+				"AV": "10",
+				"MA": "2",
+				"ST": "6"
+			},
+			"title": "Treeman"
+		}
+	],
+	"raisePosition": null,
+	"rerollCost": "70000",
+	"stars": [
+		{
+			"id": "3008",
+			"name": "Boomer Eziasson"
+		},
+		{
+			"id": "3024",
+			"name": "Helmut Wulf"
+		},
+		{
+			"id": "3030",
+			"name": "Icepelt Hammerblow"
+		},
+		{
+			"id": "3039",
+			"name": "Morg 'n' Thorg"
+		},
+		{
+			"id": "3057",
+			"name": "Wilhelm Chaney"
+		},
+		{
+			"id": "3059",
+			"name": "Zara the Slayer"
+		}
+	],
+	"stats": {
+		"finesse": "4",
+		"physique": "4",
+		"versatility": "6"
+	},
+	"undead": "No"
+}

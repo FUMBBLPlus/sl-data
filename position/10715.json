@@ -1,0 +1,35 @@
+{
+	"cost": 120000,
+	"doubleSkills": [
+		"A",
+		"P"
+	],
+	"gender": "female",
+	"icon": 523701,
+	"iconLetter": "Bg",
+	"id": "10715",
+	"name": "Matriarch",
+	"normalSkills": [
+		"G",
+		"S"
+	],
+	"portrait": 0,
+	"quantity": 1,
+	"race": null,
+	"roster": 1398,
+	"secretweapon": "0",
+	"skills": [
+		"Dauntless",
+		"Mighty Blow"
+	],
+	"stats": {
+		"AG": 2,
+		"AV": 9,
+		"MA": 5,
+		"ST": 4
+	},
+	"thrall": "false",
+	"title": "Matriarch",
+	"type": "normal",
+	"undead": "false"
+}

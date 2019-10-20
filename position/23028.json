@@ -1,0 +1,38 @@
+{
+	"cost": 100000,
+	"doubleSkills": [
+		"P"
+	],
+	"gender": "female",
+	"icon": 596913,
+	"iconLetter": "LV",
+	"id": "23028",
+	"name": "Lahmian Vampire",
+	"normalSkills": [
+		"G",
+		"A",
+		"S"
+	],
+	"portrait": 596912,
+	"quantity": 1,
+	"race": "Lahmian Vampire",
+	"roster": 3138,
+	"secretweapon": "0",
+	"skills": [
+		"Dodge",
+		"Blood Lust",
+		"Hypnotic Gaze",
+		"Regeneration",
+		"Animosity"
+	],
+	"stats": {
+		"AG": 4,
+		"AV": 8,
+		"MA": 7,
+		"ST": 3
+	},
+	"thrall": "false",
+	"title": "Lahmian Vampire",
+	"type": "normal",
+	"undead": "true"
+}

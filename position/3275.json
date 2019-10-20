@@ -1,0 +1,40 @@
+{
+	"cost": 150000,
+	"doubleSkills": [
+		"G",
+		"A",
+		"P",
+		"M"
+	],
+	"gender": "male",
+	"icon": 487418,
+	"iconLetter": "Min",
+	"id": "3275",
+	"name": "Minotaur",
+	"normalSkills": [
+		"S"
+	],
+	"portrait": 487419,
+	"quantity": 2,
+	"race": null,
+	"roster": 212,
+	"secretweapon": "0",
+	"skills": [
+		"Frenzy",
+		"Mighty Blow",
+		"Thick Skull",
+		"Horns",
+		"Loner",
+		"Wild Animal"
+	],
+	"stats": {
+		"AG": 2,
+		"AV": 8,
+		"MA": 5,
+		"ST": 5
+	},
+	"thrall": "false",
+	"title": "Minotaur",
+	"type": "normal",
+	"undead": "false"
+}

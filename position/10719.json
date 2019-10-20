@@ -1,0 +1,35 @@
+{
+	"cost": 90000,
+	"doubleSkills": [
+		"A",
+		"P"
+	],
+	"gender": "male",
+	"icon": 574114,
+	"iconLetter": "R K",
+	"id": "10719",
+	"name": "Realm Knight",
+	"normalSkills": [
+		"G",
+		"S"
+	],
+	"portrait": 568793,
+	"quantity": 2,
+	"race": null,
+	"roster": 302,
+	"secretweapon": "0",
+	"skills": [
+		"Dauntless",
+		"Stand Firm"
+	],
+	"stats": {
+		"AG": 3,
+		"AV": 9,
+		"MA": 6,
+		"ST": 3
+	},
+	"thrall": "false",
+	"title": "Realm Knight",
+	"type": "normal",
+	"undead": "false"
+}

@@ -1,0 +1,36 @@
+{
+	"cost": 70000,
+	"doubleSkills": [
+		"A",
+		"P"
+	],
+	"gender": "male",
+	"icon": 573313,
+	"iconLetter": "HM",
+	"id": "18717",
+	"name": "Hung Marauder",
+	"normalSkills": [
+		"G",
+		"S",
+		"M"
+	],
+	"portrait": 0,
+	"quantity": 4,
+	"race": "chaos",
+	"roster": 2511,
+	"secretweapon": "0",
+	"skills": [
+		"Tackle",
+		"Foul Appearance"
+	],
+	"stats": {
+		"AG": 3,
+		"AV": 8,
+		"MA": 5,
+		"ST": 3
+	},
+	"thrall": "false",
+	"title": "Hung Marauder",
+	"type": "normal",
+	"undead": "false"
+}

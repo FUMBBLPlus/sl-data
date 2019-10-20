@@ -1,0 +1,35 @@
+{
+	"cost": 80000,
+	"doubleSkills": [],
+	"gender": "male",
+	"icon": 436485,
+	"iconLetter": "Si",
+	"id": "3052",
+	"name": "Sinnedbad",
+	"normalSkills": [],
+	"portrait": 440127,
+	"quantity": 1,
+	"race": null,
+	"roster": 67,
+	"secretweapon": "0",
+	"skills": [
+		"Block",
+		"Pass Block",
+		"Jump Up",
+		"Side Step",
+		"Loner",
+		"Regeneration",
+		"Secret Weapon",
+		"Stab"
+	],
+	"stats": {
+		"AG": 2,
+		"AV": 7,
+		"MA": 6,
+		"ST": 3
+	},
+	"thrall": "false",
+	"title": "Sinnedbad",
+	"type": "star",
+	"undead": "false"
+}

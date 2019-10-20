@@ -1,0 +1,36 @@
+{
+	"cost": 60000,
+	"doubleSkills": [
+		"S",
+		"P"
+	],
+	"gender": "neutral",
+	"icon": 489119,
+	"iconLetter": "HC",
+	"id": "4541",
+	"name": "Human Catcher",
+	"normalSkills": [
+		"G",
+		"A"
+	],
+	"portrait": 489120,
+	"quantity": 1,
+	"race": "Human",
+	"roster": 486,
+	"secretweapon": "0",
+	"skills": [
+		"Catch",
+		"Dodge",
+		"Animosity"
+	],
+	"stats": {
+		"AG": 3,
+		"AV": 7,
+		"MA": 8,
+		"ST": 2
+	},
+	"thrall": "false",
+	"title": "Human Catcher",
+	"type": "normal",
+	"undead": "false"
+}

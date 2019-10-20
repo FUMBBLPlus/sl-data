@@ -1,0 +1,36 @@
+{
+	"cost": 110000,
+	"doubleSkills": [
+		"P"
+	],
+	"gender": "male",
+	"icon": 488047,
+	"iconLetter": "V",
+	"id": "4087",
+	"name": "Necrarch Vampire",
+	"normalSkills": [
+		"G",
+		"A",
+		"S"
+	],
+	"portrait": 488046,
+	"quantity": 4,
+	"race": null,
+	"roster": 410,
+	"secretweapon": "0",
+	"skills": [
+		"Foul Appearance",
+		"Hypnotic Gaze",
+		"Regeneration"
+	],
+	"stats": {
+		"AG": 4,
+		"AV": 8,
+		"MA": 6,
+		"ST": 3
+	},
+	"thrall": "false",
+	"title": "Necrarch Vampire",
+	"type": "normal",
+	"undead": "true"
+}

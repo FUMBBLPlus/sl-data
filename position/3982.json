@@ -1,0 +1,40 @@
+{
+	"cost": 170000,
+	"doubleSkills": [
+		"G",
+		"A",
+		"P"
+	],
+	"gender": "neutral",
+	"icon": 487750,
+	"iconLetter": "Bg",
+	"id": "3982",
+	"name": "Oni",
+	"normalSkills": [
+		"S"
+	],
+	"portrait": 487749,
+	"quantity": 1,
+	"race": null,
+	"roster": 381,
+	"secretweapon": "0",
+	"skills": [
+		"Frenzy",
+		"Juggernaut",
+		"Claw",
+		"Horns",
+		"Loner",
+		"Regeneration",
+		"Wild Animal"
+	],
+	"stats": {
+		"AG": 1,
+		"AV": 9,
+		"MA": 5,
+		"ST": 5
+	},
+	"thrall": "false",
+	"title": "Oni",
+	"type": "normal",
+	"undead": "false"
+}

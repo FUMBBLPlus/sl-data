@@ -1,0 +1,42 @@
+{
+	"cost": 160000,
+	"doubleSkills": [
+		"G",
+		"A",
+		"P",
+		"M"
+	],
+	"gender": "male",
+	"icon": 487837,
+	"iconLetter": "Bg",
+	"id": "4028",
+	"name": "Doom Flayer",
+	"normalSkills": [
+		"S"
+	],
+	"portrait": 487836,
+	"quantity": 1,
+	"race": null,
+	"roster": 393,
+	"secretweapon": "0",
+	"skills": [
+		"Dirty Player",
+		"Frenzy",
+		"Break Tackle",
+		"Juggernaut",
+		"Mighty Blow",
+		"Loner",
+		"No Hands",
+		"Secret Weapon"
+	],
+	"stats": {
+		"AG": 1,
+		"AV": 9,
+		"MA": 5,
+		"ST": 7
+	},
+	"thrall": "false",
+	"title": "Doom Flayer",
+	"type": "normal",
+	"undead": "false"
+}

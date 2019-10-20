@@ -1,0 +1,38 @@
+{
+	"cost": 160000,
+	"doubleSkills": [
+		"G",
+		"A",
+		"S",
+		"P"
+	],
+	"gender": "female",
+	"icon": 596385,
+	"iconLetter": "GS",
+	"id": "22977",
+	"name": "Gloriel Summerbloom",
+	"normalSkills": [],
+	"portrait": 0,
+	"quantity": 1,
+	"race": null,
+	"roster": 67,
+	"secretweapon": "0",
+	"skills": [
+		"Sure Hands",
+		"Dodge",
+		"Side Step",
+		"Accurate",
+		"Pass",
+		"Loner"
+	],
+	"stats": {
+		"AG": 4,
+		"AV": 7,
+		"MA": 7,
+		"ST": 2
+	},
+	"thrall": "false",
+	"title": "Gloriel Summerbloom",
+	"type": "star",
+	"undead": "false"
+}

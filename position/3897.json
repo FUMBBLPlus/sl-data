@@ -1,0 +1,40 @@
+{
+	"cost": 20000,
+	"doubleSkills": [
+		"G",
+		"S",
+		"P"
+	],
+	"gender": "neutral",
+	"icon": 487420,
+	"iconLetter": "Nng",
+	"id": "3897",
+	"name": " Nurgling",
+	"normalSkills": [
+		"A"
+	],
+	"portrait": 487421,
+	"quantity": 16,
+	"race": null,
+	"roster": 364,
+	"secretweapon": "0",
+	"skills": [
+		"Dodge",
+		"Guard",
+		"Foul Appearance",
+		"Nurgle's Rot",
+		"Right Stuff",
+		"Stunty",
+		"Titchy"
+	],
+	"stats": {
+		"AG": 2,
+		"AV": 6,
+		"MA": 5,
+		"ST": 1
+	},
+	"thrall": "false",
+	"title": " Nurgling",
+	"type": "normal",
+	"undead": "false"
+}

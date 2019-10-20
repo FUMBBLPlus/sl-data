@@ -1,0 +1,39 @@
+{
+	"cost": 150000,
+	"doubleSkills": [
+		"G",
+		"A",
+		"P"
+	],
+	"gender": "neutral",
+	"icon": 487786,
+	"iconLetter": "Bg",
+	"id": "4000",
+	"name": "Troglodyte",
+	"normalSkills": [
+		"S"
+	],
+	"portrait": 487785,
+	"quantity": 1,
+	"race": null,
+	"roster": 385,
+	"secretweapon": "0",
+	"skills": [
+		"Mighty Blow",
+		"Thick Skull",
+		"Disturbing Presence",
+		"Prehensile Tail",
+		"Bone-head",
+		"Loner"
+	],
+	"stats": {
+		"AG": 1,
+		"AV": 9,
+		"MA": 5,
+		"ST": 5
+	},
+	"thrall": "false",
+	"title": "Troglodyte",
+	"type": "normal",
+	"undead": "false"
+}

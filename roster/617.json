@@ -1,0 +1,178 @@
+{
+	"apothecary": "Yes",
+	"id": "617",
+	"info": "Difficulty: HARD\nNB - The Changeling is currently stuck in 1 form. His Troll form. One day he will transform as he should but for now he is troll shaped",
+	"logos": {
+		"128": "493025",
+		"192": "493029",
+		"32": "493026",
+		"48": "493027",
+		"64": "493028",
+		"96": "493030"
+	},
+	"name": "Tzeentch",
+	"necromancer": "No",
+	"ownerRuleset": "69",
+	"playable": "true",
+	"positions": [
+		{
+			"cost": "30000",
+			"doubleSkills": [
+				"G",
+				"S",
+				"P"
+			],
+			"gender": "neutral",
+			"iconLetter": "F",
+			"id": "5341",
+			"normalSkills": [
+				"A",
+				"M"
+			],
+			"portrait": "493018",
+			"quantity": "16",
+			"skills": [
+				"Dodge",
+				"Foul Appearance",
+				"Right Stuff",
+				"Stunty",
+				"Titchy"
+			],
+			"stats": {
+				"AG": "3",
+				"AV": "6",
+				"MA": "6",
+				"ST": "1"
+			},
+			"title": "Familiar"
+		},
+		{
+			"cost": "80000",
+			"doubleSkills": [
+				"A"
+			],
+			"gender": "male",
+			"iconLetter": "TG",
+			"id": "5342",
+			"normalSkills": [
+				"G",
+				"S",
+				"M",
+				"P"
+			],
+			"portrait": "493020",
+			"quantity": "4",
+			"skills": [
+				"Big Hand",
+				"Extra Arms",
+				"Horns"
+			],
+			"stats": {
+				"AG": "3",
+				"AV": "8",
+				"MA": "6",
+				"ST": "3"
+			},
+			"title": "Tzaangor"
+		},
+		{
+			"cost": "120000",
+			"doubleSkills": [
+				"A",
+				"P"
+			],
+			"gender": "male",
+			"iconLetter": "TW",
+			"id": "5343",
+			"normalSkills": [
+				"G",
+				"S",
+				"M"
+			],
+			"portrait": "493024",
+			"quantity": "4",
+			"skills": [
+				"Extra Arms",
+				"Hypnotic Gaze"
+			],
+			"stats": {
+				"AG": "3",
+				"AV": "9",
+				"MA": "5",
+				"ST": "4"
+			},
+			"title": "Tzeentch Warrior"
+		},
+		{
+			"cost": "130000",
+			"doubleSkills": [
+				"G",
+				"A",
+				"P"
+			],
+			"gender": "neutral",
+			"iconLetter": "Bg",
+			"id": "10677",
+			"normalSkills": [
+				"S",
+				"M"
+			],
+			"portrait": "523537",
+			"quantity": "1",
+			"skills": [
+				"Pro",
+				"Mighty Blow",
+				"Always Hungry",
+				"Loner",
+				"Really Stupid",
+				"Regeneration",
+				"Throw Team-Mate"
+			],
+			"stats": {
+				"AG": "1",
+				"AV": "9",
+				"MA": "4",
+				"ST": "5"
+			},
+			"title": "Changeling"
+		}
+	],
+	"raisePosition": null,
+	"rerollCost": "70000",
+	"stars": [
+		{
+			"id": "3005",
+			"name": "Brick Far'th"
+		},
+		{
+			"id": "3006",
+			"name": "Grotty"
+		},
+		{
+			"id": "3018",
+			"name": "Grashnak Blackhoof"
+		},
+		{
+			"id": "3034",
+			"name": "Lewdgrip Whiparm"
+		},
+		{
+			"id": "3035",
+			"name": "Lord Borak the Despoiler"
+		},
+		{
+			"id": "3037",
+			"name": "Max Spleenripper"
+		},
+		{
+			"id": "3039",
+			"name": "Morg 'n' Thorg"
+		}
+	],
+	"stats": {
+		"finesse": "3",
+		"physique": "3",
+		"versatility": "3"
+	},
+	"undead": "No"
+}

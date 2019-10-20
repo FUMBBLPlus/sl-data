@@ -1,0 +1,181 @@
+{
+	"apothecary": "Yes",
+	"id": "206",
+	"info": "Difficulty: Medium\n\nAraby are one of the more versatile teams. They have players with great, speed, agility and strength in the team. Though their linemen are weak and the team is lacking in armour.",
+	"logos": {
+		"128": "492350",
+		"192": "492349",
+		"32": "492354",
+		"48": "492353",
+		"64": "492352",
+		"96": "492351"
+	},
+	"name": "Araby",
+	"necromancer": "No",
+	"ownerRuleset": "69",
+	"playable": "true",
+	"positions": [
+		{
+			"cost": "40000",
+			"doubleSkills": [
+				"A",
+				"S",
+				"P"
+			],
+			"gender": "neutral",
+			"iconLetter": "L",
+			"id": "3243",
+			"normalSkills": [
+				"G"
+			],
+			"portrait": "486422",
+			"quantity": "16",
+			"skills": [],
+			"stats": {
+				"AG": "3",
+				"AV": "7",
+				"MA": "6",
+				"ST": "3"
+			},
+			"title": "Bedouin"
+		},
+		{
+			"cost": "60000",
+			"doubleSkills": [
+				"A",
+				"S"
+			],
+			"gender": "neutral",
+			"iconLetter": "Th",
+			"id": "3244",
+			"normalSkills": [
+				"G",
+				"P"
+			],
+			"portrait": "486419",
+			"quantity": "2",
+			"skills": [
+				"Sure Hands",
+				"Pass"
+			],
+			"stats": {
+				"AG": "3",
+				"AV": "7",
+				"MA": "6",
+				"ST": "3"
+			},
+			"title": "Bedouin Thrower"
+		},
+		{
+			"cost": "80000",
+			"doubleSkills": [
+				"A",
+				"P"
+			],
+			"gender": "neutral",
+			"iconLetter": "Eu",
+			"id": "3247",
+			"normalSkills": [
+				"G",
+				"S"
+			],
+			"portrait": "486424",
+			"quantity": "2",
+			"skills": [],
+			"stats": {
+				"AG": "2",
+				"AV": "8",
+				"MA": "5",
+				"ST": "4"
+			},
+			"title": "Eunuch"
+		},
+		{
+			"cost": "100000",
+			"doubleSkills": [
+				"A",
+				"P"
+			],
+			"gender": "neutral",
+			"iconLetter": "D",
+			"id": "3248",
+			"normalSkills": [
+				"G",
+				"S"
+			],
+			"portrait": "486425",
+			"quantity": "4",
+			"skills": [
+				"Frenzy",
+				"Side Step"
+			],
+			"stats": {
+				"AG": "3",
+				"AV": "8",
+				"MA": "7",
+				"ST": "3"
+			},
+			"title": "Dervish"
+		},
+		{
+			"cost": "100000",
+			"doubleSkills": [
+				"S",
+				"P"
+			],
+			"gender": "neutral",
+			"iconLetter": "Sh",
+			"id": "3249",
+			"normalSkills": [
+				"G",
+				"A"
+			],
+			"portrait": "486428",
+			"quantity": "1",
+			"skills": [
+				"Leader"
+			],
+			"stats": {
+				"AG": "4",
+				"AV": "7",
+				"MA": "7",
+				"ST": "3"
+			},
+			"title": "Sheikh"
+		}
+	],
+	"raisePosition": null,
+	"rerollCost": "60000",
+	"stars": [
+		{
+			"id": "3019",
+			"name": "Griff Oberwald"
+		},
+		{
+			"id": "3024",
+			"name": "Helmut Wulf"
+		},
+		{
+			"id": "3038",
+			"name": "Mighty Zug"
+		},
+		{
+			"id": "3039",
+			"name": "Morg 'n' Thorg"
+		},
+		{
+			"id": "3042",
+			"name": "Puggy Baconbreath"
+		},
+		{
+			"id": "3059",
+			"name": "Zara the Slayer"
+		}
+	],
+	"stats": {
+		"finesse": "4",
+		"physique": "3",
+		"versatility": "5"
+	},
+	"undead": "No"
+}

@@ -1,0 +1,36 @@
+{
+	"cost": 80000,
+	"doubleSkills": [
+		"A",
+		"P"
+	],
+	"gender": "neutral",
+	"icon": 489195,
+	"iconLetter": "DB",
+	"id": "4591",
+	"name": "Dwarf Blitzer",
+	"normalSkills": [
+		"G",
+		"S"
+	],
+	"portrait": 489196,
+	"quantity": 1,
+	"race": "Dwarf",
+	"roster": 486,
+	"secretweapon": "0",
+	"skills": [
+		"Block",
+		"Thick Skull",
+		"Animosity"
+	],
+	"stats": {
+		"AG": 3,
+		"AV": 9,
+		"MA": 5,
+		"ST": 3
+	},
+	"thrall": "false",
+	"title": "Dwarf Blitzer",
+	"type": "normal",
+	"undead": "false"
+}

@@ -1,0 +1,38 @@
+{
+	"cost": 140000,
+	"doubleSkills": [
+		"A",
+		"P",
+		"G"
+	],
+	"gender": "male",
+	"icon": 523646,
+	"iconLetter": "G",
+	"id": "10696",
+	"name": "Giant",
+	"normalSkills": [
+		"S"
+	],
+	"portrait": 523647,
+	"quantity": 4,
+	"race": null,
+	"roster": 1394,
+	"secretweapon": "0",
+	"skills": [
+		"Break Tackle",
+		"Mighty Blow",
+		"Thick Skull",
+		"Bone-head",
+		"Throw Team-Mate"
+	],
+	"stats": {
+		"AG": 1,
+		"AV": 9,
+		"MA": 4,
+		"ST": 6
+	},
+	"thrall": "false",
+	"title": "Giant",
+	"type": "normal",
+	"undead": "false"
+}

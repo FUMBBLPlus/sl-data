@@ -1,0 +1,191 @@
+{
+	"apothecary": "Yes",
+	"id": "377",
+	"info": "Difficulty: MEDIUM\nKislev are a resolute team. Steadfast, unyielding, but a little lacking in offence. Positional play and solid defending is key to a Kislev teams success.",
+	"logos": {
+		"128": "492434",
+		"192": "492435",
+		"32": "492436",
+		"48": "492437",
+		"64": "492438",
+		"96": "492433"
+	},
+	"name": "Kislev",
+	"necromancer": "No",
+	"ownerRuleset": "69",
+	"playable": "true",
+	"positions": [
+		{
+			"cost": "50000",
+			"doubleSkills": [
+				"A",
+				"S",
+				"P"
+			],
+			"gender": "male",
+			"iconLetter": "L",
+			"id": "3963",
+			"normalSkills": [
+				"G"
+			],
+			"portrait": "487667",
+			"quantity": "16",
+			"skills": [
+				"Fend"
+			],
+			"stats": {
+				"AG": "3",
+				"AV": "7",
+				"MA": "6",
+				"ST": "3"
+			},
+			"title": "Lineman"
+		},
+		{
+			"cost": "70000",
+			"doubleSkills": [
+				"A",
+				"S"
+			],
+			"gender": "male",
+			"iconLetter": "K",
+			"id": "3964",
+			"normalSkills": [
+				"G",
+				"P"
+			],
+			"portrait": "487675",
+			"quantity": "2",
+			"skills": [
+				"Fend",
+				"Kick",
+				"Hail Mary Pass"
+			],
+			"stats": {
+				"AG": "3",
+				"AV": "7",
+				"MA": "6",
+				"ST": "3"
+			},
+			"title": "Kicker"
+		},
+		{
+			"cost": "70000",
+			"doubleSkills": [
+				"S",
+				"P"
+			],
+			"gender": "male",
+			"iconLetter": "W",
+			"id": "3966",
+			"normalSkills": [
+				"G",
+				"A"
+			],
+			"portrait": "487683",
+			"quantity": "2",
+			"skills": [
+				"Pass Block",
+				"Catch"
+			],
+			"stats": {
+				"AG": "3",
+				"AV": "8",
+				"MA": "6",
+				"ST": "3"
+			},
+			"title": "Wing"
+		},
+		{
+			"cost": "80000",
+			"doubleSkills": [
+				"A",
+				"P"
+			],
+			"gender": "male",
+			"iconLetter": "K",
+			"id": "3967",
+			"normalSkills": [
+				"G",
+				"S"
+			],
+			"portrait": "487690",
+			"quantity": "4",
+			"skills": [
+				"Wrestle",
+				"Stand Firm"
+			],
+			"stats": {
+				"AG": "3",
+				"AV": "8",
+				"MA": "6",
+				"ST": "3"
+			},
+			"title": "Kossar"
+		},
+		{
+			"cost": "110000",
+			"doubleSkills": [
+				"G",
+				"A",
+				"P"
+			],
+			"gender": "neutral",
+			"iconLetter": "Bg",
+			"id": "3968",
+			"normalSkills": [
+				"S"
+			],
+			"portrait": "487705",
+			"quantity": "2",
+			"skills": [
+				"Grab",
+				"Mighty Blow",
+				"Thick Skull",
+				"Loner",
+				"Really Stupid"
+			],
+			"stats": {
+				"AG": "1",
+				"AV": "8",
+				"MA": "4",
+				"ST": "5"
+			},
+			"title": "Werebear"
+		}
+	],
+	"raisePosition": null,
+	"rerollCost": "60000",
+	"stars": [
+		{
+			"id": "3019",
+			"name": "Griff Oberwald"
+		},
+		{
+			"id": "3024",
+			"name": "Helmut Wulf"
+		},
+		{
+			"id": "3038",
+			"name": "Mighty Zug"
+		},
+		{
+			"id": "3039",
+			"name": "Morg 'n' Thorg"
+		},
+		{
+			"id": "3042",
+			"name": "Puggy Baconbreath"
+		},
+		{
+			"id": "3059",
+			"name": "Zara the Slayer"
+		}
+	],
+	"stats": {
+		"finesse": "4",
+		"physique": "4",
+		"versatility": "4"
+	},
+	"undead": "No"
+}

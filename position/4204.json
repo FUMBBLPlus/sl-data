@@ -1,0 +1,35 @@
+{
+	"cost": 80000,
+	"doubleSkills": [
+		"S",
+		"P"
+	],
+	"gender": "male",
+	"icon": 488336,
+	"iconLetter": "Rc",
+	"id": "4204",
+	"name": "Receptor",
+	"normalSkills": [
+		"G",
+		"A"
+	],
+	"portrait": 488339,
+	"quantity": 2,
+	"race": "Receptor",
+	"roster": 433,
+	"secretweapon": "0",
+	"skills": [
+		"Catch",
+		"Animosity"
+	],
+	"stats": {
+		"AG": 4,
+		"AV": 7,
+		"MA": 7,
+		"ST": 2
+	},
+	"thrall": "false",
+	"title": "Receptor",
+	"type": "normal",
+	"undead": "false"
+}

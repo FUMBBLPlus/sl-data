@@ -1,0 +1,156 @@
+{
+	"apothecary": "Yes",
+	"id": "380",
+	"info": "Difficulty: VERY EASY\nNippon teams are a well drilled, perfect mix of speed, agility and power. Their core skills stand them in good stead in the short term while their more luxurious players make them a force in the long run.",
+	"logos": {
+		"128": "492451",
+		"192": "492453",
+		"32": "492454",
+		"48": "492455",
+		"64": "492456",
+		"96": "492452"
+	},
+	"name": "Nippon",
+	"necromancer": "No",
+	"ownerRuleset": "69",
+	"playable": "true",
+	"positions": [
+		{
+			"cost": "50000",
+			"doubleSkills": [
+				"A",
+				"S",
+				"P"
+			],
+			"gender": "male",
+			"iconLetter": "L",
+			"id": "3975",
+			"normalSkills": [
+				"G"
+			],
+			"portrait": "487730",
+			"quantity": "16",
+			"skills": [],
+			"stats": {
+				"AG": "3",
+				"AV": "8",
+				"MA": "6",
+				"ST": "3"
+			},
+			"title": "Ashigaru"
+		},
+		{
+			"cost": "90000",
+			"doubleSkills": [
+				"A",
+				"P"
+			],
+			"gender": "male",
+			"iconLetter": "Bl",
+			"id": "3976",
+			"normalSkills": [
+				"G",
+				"S"
+			],
+			"portrait": "487731",
+			"quantity": "4",
+			"skills": [
+				"Block"
+			],
+			"stats": {
+				"AG": "3",
+				"AV": "8",
+				"MA": "7",
+				"ST": "3"
+			},
+			"title": "Samurai"
+		},
+		{
+			"cost": "90000",
+			"doubleSkills": [
+				"S",
+				"P"
+			],
+			"gender": "male",
+			"iconLetter": "WM",
+			"id": "3977",
+			"normalSkills": [
+				"G",
+				"A"
+			],
+			"portrait": "487733",
+			"quantity": "2",
+			"skills": [
+				"Claw"
+			],
+			"stats": {
+				"AG": "3",
+				"AV": "7",
+				"MA": "7",
+				"ST": "3"
+			},
+			"title": "Warrior Monk"
+		},
+		{
+			"cost": "90000",
+			"doubleSkills": [
+				"S",
+				"P"
+			],
+			"gender": "male",
+			"iconLetter": "N",
+			"id": "3978",
+			"normalSkills": [
+				"G",
+				"A"
+			],
+			"portrait": "487735",
+			"quantity": "2",
+			"skills": [
+				"Dodge",
+				"Leap"
+			],
+			"stats": {
+				"AG": "4",
+				"AV": "7",
+				"MA": "8",
+				"ST": "2"
+			},
+			"title": "Ninja"
+		}
+	],
+	"raisePosition": null,
+	"rerollCost": "60000",
+	"stars": [
+		{
+			"id": "3019",
+			"name": "Griff Oberwald"
+		},
+		{
+			"id": "3024",
+			"name": "Helmut Wulf"
+		},
+		{
+			"id": "3038",
+			"name": "Mighty Zug"
+		},
+		{
+			"id": "3039",
+			"name": "Morg 'n' Thorg"
+		},
+		{
+			"id": "3042",
+			"name": "Puggy Baconbreath"
+		},
+		{
+			"id": "3059",
+			"name": "Zara the Slayer"
+		}
+	],
+	"stats": {
+		"finesse": "5",
+		"physique": "4",
+		"versatility": "6"
+	},
+	"undead": "No"
+}

@@ -1,0 +1,187 @@
+{
+	"apothecary": "Yes",
+	"id": "433",
+	"info": "Difficulty: VERY EASY\nEstalia have potentially the best Human players in the world. Their only problem is they can't work as a team.",
+	"logos": {
+		"128": "492671",
+		"192": "492672",
+		"32": "492668",
+		"48": "492669",
+		"64": "492670",
+		"96": "492673"
+	},
+	"name": "Estalia",
+	"necromancer": "No",
+	"ownerRuleset": "69",
+	"playable": "true",
+	"positions": [
+		{
+			"cost": "50000",
+			"doubleSkills": [
+				"A",
+				"S",
+				"P"
+			],
+			"gender": "male",
+			"iconLetter": "Gua",
+			"id": "4202",
+			"normalSkills": [
+				"G"
+			],
+			"portrait": "488332",
+			"quantity": "16",
+			"skills": [
+				"Animosity"
+			],
+			"stats": {
+				"AG": "3",
+				"AV": "8",
+				"MA": "6",
+				"ST": "3"
+			},
+			"title": "Guardavía"
+		},
+		{
+			"cost": "70000",
+			"doubleSkills": [
+				"A",
+				"S"
+			],
+			"gender": "male",
+			"iconLetter": "Lz",
+			"id": "4203",
+			"normalSkills": [
+				"G",
+				"P"
+			],
+			"portrait": "488334",
+			"quantity": "2",
+			"skills": [
+				"Sure Hands",
+				"Pass",
+				"Animosity"
+			],
+			"stats": {
+				"AG": "3",
+				"AV": "8",
+				"MA": "6",
+				"ST": "3"
+			},
+			"title": "Lanzador"
+		},
+		{
+			"cost": "80000",
+			"doubleSkills": [
+				"S",
+				"P"
+			],
+			"gender": "male",
+			"iconLetter": "Rc",
+			"id": "4204",
+			"normalSkills": [
+				"G",
+				"A"
+			],
+			"portrait": "488339",
+			"quantity": "2",
+			"skills": [
+				"Catch",
+				"Animosity"
+			],
+			"stats": {
+				"AG": "4",
+				"AV": "7",
+				"MA": "7",
+				"ST": "2"
+			},
+			"title": "Receptor"
+		},
+		{
+			"cost": "80000",
+			"doubleSkills": [
+				"A",
+				"P"
+			],
+			"gender": "male",
+			"iconLetter": "Bq",
+			"id": "4205",
+			"normalSkills": [
+				"G",
+				"S"
+			],
+			"portrait": "488345",
+			"quantity": "2",
+			"skills": [
+				"Animosity"
+			],
+			"stats": {
+				"AG": "2",
+				"AV": "9",
+				"MA": "4",
+				"ST": "4"
+			},
+			"title": "Bloqueador"
+		},
+		{
+			"cost": "90000",
+			"doubleSkills": [
+				"A",
+				"P"
+			],
+			"gender": "male",
+			"iconLetter": "Die",
+			"id": "4206",
+			"normalSkills": [
+				"G",
+				"S"
+			],
+			"portrait": "488350",
+			"quantity": "2",
+			"skills": [
+				"Block",
+				"Animosity"
+			],
+			"stats": {
+				"AG": "3",
+				"AV": "8",
+				"MA": "7",
+				"ST": "3"
+			},
+			"title": "Diestros"
+		}
+	],
+	"raisePosition": null,
+	"rerollCost": "70000",
+	"stars": [
+		{
+			"id": "3019",
+			"name": "Griff Oberwald"
+		},
+		{
+			"id": "3024",
+			"name": "Helmut Wulf"
+		},
+		{
+			"id": "3038",
+			"name": "Mighty Zug"
+		},
+		{
+			"id": "3039",
+			"name": "Morg 'n' Thorg"
+		},
+		{
+			"id": "3042",
+			"name": "Puggy Baconbreath"
+		},
+		{
+			"id": "3059",
+			"name": "Zara the Slayer"
+		}
+	],
+	"stats": {
+		"finesse": "5",
+		"physique": "5",
+		"versatility": "5"
+	},
+	"undead": "No"
+}

@@ -1,0 +1,37 @@
+{
+	"cost": 160000,
+	"doubleSkills": [
+		"G",
+		"A",
+		"S",
+		"P"
+	],
+	"gender": "male",
+	"icon": 585587,
+	"iconLetter": "BG",
+	"id": "20820",
+	"name": "Bo Gallanté",
+	"normalSkills": [],
+	"portrait": 585586,
+	"quantity": 1,
+	"race": null,
+	"roster": 67,
+	"secretweapon": "0",
+	"skills": [
+		"Dodge",
+		"Side Step",
+		"Sprint",
+		"Sure Feet",
+		"Loner"
+	],
+	"stats": {
+		"AG": 4,
+		"AV": 7,
+		"MA": 8,
+		"ST": 3
+	},
+	"thrall": "false",
+	"title": "Bo Gallanté",
+	"type": "star",
+	"undead": "false"
+}

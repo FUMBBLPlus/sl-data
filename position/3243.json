@@ -1,0 +1,32 @@
+{
+	"cost": 40000,
+	"doubleSkills": [
+		"A",
+		"S",
+		"P"
+	],
+	"gender": "neutral",
+	"icon": 486421,
+	"iconLetter": "L",
+	"id": "3243",
+	"name": "Bedouin",
+	"normalSkills": [
+		"G"
+	],
+	"portrait": 486422,
+	"quantity": 16,
+	"race": null,
+	"roster": 206,
+	"secretweapon": "0",
+	"skills": [],
+	"stats": {
+		"AG": 3,
+		"AV": 7,
+		"MA": 6,
+		"ST": 3
+	},
+	"thrall": "false",
+	"title": "Bedouin",
+	"type": "normal",
+	"undead": "false"
+}

@@ -1,0 +1,40 @@
+{
+	"cost": 120000,
+	"doubleSkills": [
+		"G",
+		"A",
+		"P"
+	],
+	"gender": "male",
+	"icon": 524509,
+	"iconLetter": "Bg",
+	"id": "10718",
+	"name": "'Uge Big 'Un",
+	"normalSkills": [
+		"S"
+	],
+	"portrait": 523712,
+	"quantity": 1,
+	"race": null,
+	"roster": 1399,
+	"secretweapon": "0",
+	"skills": [
+		"Mighty Blow",
+		"Thick Skull",
+		"Always Hungry",
+		"Loner",
+		"Really Stupid",
+		"Regeneration",
+		"Throw Team-Mate"
+	],
+	"stats": {
+		"AG": 1,
+		"AV": 9,
+		"MA": 4,
+		"ST": 5
+	},
+	"thrall": "false",
+	"title": "'Uge Big 'Un",
+	"type": "normal",
+	"undead": "false"
+}

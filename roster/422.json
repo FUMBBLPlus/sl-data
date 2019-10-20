@@ -1,0 +1,156 @@
+{
+	"apothecary": "Yes",
+	"id": "422",
+	"info": "Difficulty: EASY\nDryads are a solid well rounded team, with good stats, good skills, good skills access, and good versatility, but they do lack core skills.",
+	"logos": {
+		"128": "492629",
+		"192": "492630",
+		"32": "492626",
+		"48": "492627",
+		"64": "492628",
+		"96": "492631"
+	},
+	"name": "Dryad",
+	"necromancer": "No",
+	"ownerRuleset": "69",
+	"playable": "true",
+	"positions": [
+		{
+			"cost": "50000",
+			"doubleSkills": [
+				"A",
+				"S",
+				"P"
+			],
+			"gender": "neutral",
+			"iconLetter": "L",
+			"id": "4121",
+			"normalSkills": [
+				"G"
+			],
+			"portrait": "488146",
+			"quantity": "16",
+			"skills": [],
+			"stats": {
+				"AG": "3",
+				"AV": "9",
+				"MA": "5",
+				"ST": "3"
+			},
+			"title": "Dryad"
+		},
+		{
+			"cost": "70000",
+			"doubleSkills": [
+				"S",
+				"P"
+			],
+			"gender": "neutral",
+			"iconLetter": "Bir",
+			"id": "4123",
+			"normalSkills": [
+				"G",
+				"A"
+			],
+			"portrait": "488149",
+			"quantity": "4",
+			"skills": [
+				"Frenzy"
+			],
+			"stats": {
+				"AG": "3",
+				"AV": "7",
+				"MA": "7",
+				"ST": "3"
+			},
+			"title": "Birch Aspect"
+		},
+		{
+			"cost": "90000",
+			"doubleSkills": [
+				"A",
+				"P"
+			],
+			"gender": "neutral",
+			"iconLetter": "O",
+			"id": "4126",
+			"normalSkills": [
+				"G",
+				"S"
+			],
+			"portrait": "488152",
+			"quantity": "2",
+			"skills": [
+				"Stand Firm"
+			],
+			"stats": {
+				"AG": "1",
+				"AV": "10",
+				"MA": "4",
+				"ST": "4"
+			},
+			"title": "Oak Aspect"
+		},
+		{
+			"cost": "100000",
+			"doubleSkills": [
+				"A",
+				"P"
+			],
+			"gender": "neutral",
+			"iconLetter": "W",
+			"id": "4127",
+			"normalSkills": [
+				"G",
+				"S"
+			],
+			"portrait": "488157",
+			"quantity": "2",
+			"skills": [
+				"Prehensile Tail",
+				"Tentacles"
+			],
+			"stats": {
+				"AG": "2",
+				"AV": "8",
+				"MA": "5",
+				"ST": "4"
+			},
+			"title": "Willow Aspect"
+		}
+	],
+	"raisePosition": null,
+	"rerollCost": "60000",
+	"stars": [
+		{
+			"id": "3004",
+			"name": "Bertha Bigfist"
+		},
+		{
+			"id": "3011",
+			"name": "Deeproot Strongbranch"
+		},
+		{
+			"id": "3039",
+			"name": "Morg 'n' Thorg"
+		},
+		{
+			"id": "3042",
+			"name": "Puggy Baconbreath"
+		},
+		{
+			"id": "3058",
+			"name": "Willow Rosebark"
+		},
+		{
+			"id": "3059",
+			"name": "Zara the Slayer"
+		}
+	],
+	"stats": {
+		"finesse": "4",
+		"physique": "4",
+		"versatility": "4"
+	},
+	"undead": "No"
+}

@@ -1,0 +1,35 @@
+{
+	"cost": 50000,
+	"doubleSkills": [
+		"A",
+		"S",
+		"P"
+	],
+	"gender": "female",
+	"icon": 489295,
+	"iconLetter": "AL",
+	"id": "4615",
+	"name": "Amazon Linewoman",
+	"normalSkills": [
+		"G"
+	],
+	"portrait": 489296,
+	"quantity": 1,
+	"race": "Amazon",
+	"roster": 486,
+	"secretweapon": "0",
+	"skills": [
+		"Dodge",
+		"Animosity"
+	],
+	"stats": {
+		"AG": 3,
+		"AV": 7,
+		"MA": 6,
+		"ST": 3
+	},
+	"thrall": "false",
+	"title": "Amazon Linewoman",
+	"type": "normal",
+	"undead": "false"
+}

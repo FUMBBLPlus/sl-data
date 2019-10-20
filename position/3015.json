@@ -1,0 +1,32 @@
+{
+	"cost": 130000,
+	"doubleSkills": [],
+	"gender": "male",
+	"icon": 436449,
+	"iconLetter": "FC",
+	"id": "3015",
+	"name": "Flint Churnblade",
+	"normalSkills": [],
+	"portrait": 332793,
+	"quantity": 1,
+	"race": null,
+	"roster": 67,
+	"secretweapon": "0",
+	"skills": [
+		"Block",
+		"Thick Skull",
+		"Chainsaw",
+		"Loner",
+		"Secret Weapon"
+	],
+	"stats": {
+		"AG": 2,
+		"AV": 8,
+		"MA": 5,
+		"ST": 3
+	},
+	"thrall": "false",
+	"title": "Flint Churnblade",
+	"type": "star",
+	"undead": "false"
+}

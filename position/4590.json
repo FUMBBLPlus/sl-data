@@ -1,0 +1,36 @@
+{
+	"cost": 80000,
+	"doubleSkills": [
+		"A",
+		"S"
+	],
+	"gender": "neutral",
+	"icon": 489193,
+	"iconLetter": "DR",
+	"id": "4590",
+	"name": "Dwarf Runner",
+	"normalSkills": [
+		"G",
+		"P"
+	],
+	"portrait": 489194,
+	"quantity": 1,
+	"race": "Dwarf",
+	"roster": 486,
+	"secretweapon": "0",
+	"skills": [
+		"Sure Hands",
+		"Thick Skull",
+		"Animosity"
+	],
+	"stats": {
+		"AG": 3,
+		"AV": 8,
+		"MA": 6,
+		"ST": 3
+	},
+	"thrall": "false",
+	"title": "Dwarf Runner",
+	"type": "normal",
+	"undead": "false"
+}

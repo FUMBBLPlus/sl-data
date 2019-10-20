@@ -1,0 +1,174 @@
+{
+	"apothecary": "No",
+	"id": "467",
+	"info": "Difficulty: HARD The ball is never safe when playing against Ethereal teams. They are expensive and lack core skills, but they are a nightmare for any opposition.",
+	"logos": {
+		"128": "492707",
+		"192": "492708",
+		"32": "492704",
+		"48": "492705",
+		"64": "492706",
+		"96": "492709"
+	},
+	"name": "Ethereal",
+	"necromancer": "Yes",
+	"ownerRuleset": "69",
+	"playable": "true",
+	"positions": [
+		{
+			"cost": "60000",
+			"doubleSkills": [
+				"S",
+				"P"
+			],
+			"gender": "neutral",
+			"iconLetter": "SH",
+			"id": "4423",
+			"normalSkills": [
+				"G",
+				"A"
+			],
+			"portrait": "488640",
+			"quantity": "16",
+			"skills": [
+				"Foul Appearance",
+				"No Hands",
+				"Regeneration",
+				"Titchy"
+			],
+			"stats": {
+				"AG": "5",
+				"AV": "7",
+				"MA": "6",
+				"ST": "3"
+			},
+			"title": "Spirit Hosts"
+		},
+		{
+			"cost": "110000",
+			"doubleSkills": [
+				"A",
+				"P"
+			],
+			"gender": "neutral",
+			"iconLetter": "W",
+			"id": "4427",
+			"normalSkills": [
+				"G",
+				"S"
+			],
+			"portrait": "488644",
+			"quantity": "4",
+			"skills": [
+				"Leap",
+				"Disturbing Presence",
+				"Foul Appearance",
+				"Very Long Legs",
+				"Regeneration",
+				"Stab"
+			],
+			"stats": {
+				"AG": "3",
+				"AV": "8",
+				"MA": "6",
+				"ST": "3"
+			},
+			"title": "Wraith"
+		},
+		{
+			"cost": "100000",
+			"doubleSkills": [
+				"S",
+				"P"
+			],
+			"gender": "neutral",
+			"iconLetter": "Sy",
+			"id": "4430",
+			"normalSkills": [
+				"G",
+				"A"
+			],
+			"portrait": "488647",
+			"quantity": "0",
+			"skills": [
+				"Leap",
+				"Disturbing Presence",
+				"Foul Appearance",
+				"Very Long Legs",
+				"Hypnotic Gaze",
+				"Regeneration"
+			],
+			"stats": {
+				"AG": "3",
+				"AV": "7",
+				"MA": "6",
+				"ST": "3"
+			},
+			"title": "Syreen"
+		},
+		{
+			"cost": "100000",
+			"doubleSkills": [
+				"S",
+				"P"
+			],
+			"gender": "neutral",
+			"iconLetter": "Bhe",
+			"id": "4431",
+			"normalSkills": [
+				"G",
+				"A"
+			],
+			"portrait": "583612",
+			"quantity": "2",
+			"skills": [
+				"Leap",
+				"Foul Appearance",
+				"Very Long Legs",
+				"Hypnotic Gaze",
+				"Regeneration"
+			],
+			"stats": {
+				"AG": "4",
+				"AV": "7",
+				"MA": "7",
+				"ST": "2"
+			},
+			"title": "Banshee"
+		}
+	],
+	"raisePosition": "4423",
+	"rerollCost": "50000",
+	"stars": [
+		{
+			"id": "3009",
+			"name": "Count Luthor Von Drakenborg"
+		},
+		{
+			"id": "3021",
+			"name": "Hack Enslash"
+		},
+		{
+			"id": "3032",
+			"name": "J Earlice"
+		},
+		{
+			"id": "3045",
+			"name": "Ramtut III"
+		},
+		{
+			"id": "3050",
+			"name": "Setekh"
+		},
+		{
+			"id": "3057",
+			"name": "Wilhelm Chaney"
+		}
+	],
+	"stats": {
+		"finesse": "5",
+		"physique": "3",
+		"versatility": "4"
+	},
+	"undead": "Yes"
+}

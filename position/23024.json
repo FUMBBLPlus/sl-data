@@ -1,0 +1,36 @@
+{
+	"cost": 80000,
+	"doubleSkills": [
+		"A",
+		"P"
+	],
+	"gender": "neutral",
+	"icon": 596898,
+	"iconLetter": "Pm",
+	"id": "23024",
+	"name": "Patchwork-Men",
+	"normalSkills": [
+		"G",
+		"S"
+	],
+	"portrait": 0,
+	"quantity": 4,
+	"race": null,
+	"roster": 3137,
+	"secretweapon": "0",
+	"skills": [
+		"Wrestle",
+		"Thick Skull",
+		"Regeneration"
+	],
+	"stats": {
+		"AG": 2,
+		"AV": 8,
+		"MA": 5,
+		"ST": 3
+	},
+	"thrall": "false",
+	"title": "Patchwork-Men",
+	"type": "normal",
+	"undead": "true"
+}

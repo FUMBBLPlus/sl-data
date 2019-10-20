@@ -1,0 +1,39 @@
+{
+	"cost": 80000,
+	"doubleSkills": [
+		"G",
+		"A",
+		"P"
+	],
+	"gender": "male",
+	"icon": 573265,
+	"iconLetter": "Gob",
+	"id": "18701",
+	"name": "Squig Gobba",
+	"normalSkills": [
+		"S"
+	],
+	"portrait": 0,
+	"quantity": 1,
+	"race": null,
+	"roster": 402,
+	"secretweapon": "0",
+	"skills": [
+		"Hail Mary Pass",
+		"Claw",
+		"Bombardier",
+		"No Hands",
+		"Really Stupid",
+		"Secret Weapon"
+	],
+	"stats": {
+		"AG": 1,
+		"AV": 9,
+		"MA": 1,
+		"ST": 5
+	},
+	"thrall": "false",
+	"title": "Squig Gobba",
+	"type": "normal",
+	"undead": "false"
+}

@@ -1,0 +1,38 @@
+{
+	"cost": 120000,
+	"doubleSkills": [
+		"A",
+		"P"
+	],
+	"gender": "neutral",
+	"icon": 574262,
+	"iconLetter": "Plg",
+	"id": "3898",
+	"name": "Plaguebearer",
+	"normalSkills": [
+		"G",
+		"S"
+	],
+	"portrait": 487423,
+	"quantity": 6,
+	"race": null,
+	"roster": 364,
+	"secretweapon": "0",
+	"skills": [
+		"Thick Skull",
+		"Disturbing Presence",
+		"Foul Appearance",
+		"Nurgle's Rot",
+		"Regeneration"
+	],
+	"stats": {
+		"AG": 2,
+		"AV": 9,
+		"MA": 5,
+		"ST": 4
+	},
+	"thrall": "false",
+	"title": "Plaguebearer",
+	"type": "normal",
+	"undead": "false"
+}

@@ -1,0 +1,139 @@
+{
+	"apothecary": "Yes",
+	"id": "305",
+	"info": "Difficulty: MEDIUM\n\nSlaanesh teams are the most agile of all chaos teams, they strive for perfection, hoping to achieve the perfect balance of destruction and finesse. Though they lack core skills to start off with.",
+	"logos": {
+		"128": "492386",
+		"192": "492387",
+		"32": "492388",
+		"48": "492389",
+		"64": "492390",
+		"96": "492385"
+	},
+	"name": "Slaanesh",
+	"necromancer": "No",
+	"ownerRuleset": "69",
+	"playable": "true",
+	"positions": [
+		{
+			"cost": "60000",
+			"doubleSkills": [
+				"S",
+				"P"
+			],
+			"gender": "neutral",
+			"iconLetter": "StD",
+			"id": "3686",
+			"normalSkills": [
+				"G",
+				"A",
+				"M"
+			],
+			"portrait": "487373",
+			"quantity": "16",
+			"skills": [],
+			"stats": {
+				"AG": "4",
+				"AV": "7",
+				"MA": "6",
+				"ST": "3"
+			},
+			"title": "Slave to Darkness"
+		},
+		{
+			"cost": "80000",
+			"doubleSkills": [
+				"S",
+				"P"
+			],
+			"gender": "neutral",
+			"iconLetter": "SGo",
+			"id": "3687",
+			"normalSkills": [
+				"G",
+				"A",
+				"M"
+			],
+			"portrait": "487375",
+			"quantity": "4",
+			"skills": [
+				"Horns",
+				"Prehensile Tail",
+				"Very Long Legs"
+			],
+			"stats": {
+				"AG": "3",
+				"AV": "7",
+				"MA": "7",
+				"ST": "3"
+			},
+			"title": "Slaangor"
+		},
+		{
+			"cost": "110000",
+			"doubleSkills": [
+				"S",
+				"P"
+			],
+			"gender": "male",
+			"iconLetter": "SWa",
+			"id": "3688",
+			"normalSkills": [
+				"G",
+				"A",
+				"M"
+			],
+			"portrait": "487377",
+			"quantity": "4",
+			"skills": [
+				"Claw",
+				"Very Long Legs"
+			],
+			"stats": {
+				"AG": "3",
+				"AV": "8",
+				"MA": "6",
+				"ST": "4"
+			},
+			"title": "Slaanesh Warrior"
+		}
+	],
+	"raisePosition": null,
+	"rerollCost": "70000",
+	"stars": [
+		{
+			"id": "3005",
+			"name": "Brick Far'th"
+		},
+		{
+			"id": "3006",
+			"name": "Grotty"
+		},
+		{
+			"id": "3018",
+			"name": "Grashnak Blackhoof"
+		},
+		{
+			"id": "3034",
+			"name": "Lewdgrip Whiparm"
+		},
+		{
+			"id": "3035",
+			"name": "Lord Borak the Despoiler"
+		},
+		{
+			"id": "3037",
+			"name": "Max Spleenripper"
+		},
+		{
+			"id": "3039",
+			"name": "Morg 'n' Thorg"
+		}
+	],
+	"stats": {
+		"finesse": "4",
+		"physique": "4",
+		"versatility": "4"
+	},
+	"undead": "No"
+}

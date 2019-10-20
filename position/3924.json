@@ -1,0 +1,39 @@
+{
+	"cost": 150000,
+	"doubleSkills": [
+		"G",
+		"A",
+		"P"
+	],
+	"gender": "neutral",
+	"icon": 487472,
+	"iconLetter": "Bg",
+	"id": "3924",
+	"name": "Bone Giant",
+	"normalSkills": [
+		"S"
+	],
+	"portrait": 0,
+	"quantity": 1,
+	"race": null,
+	"roster": 368,
+	"secretweapon": "0",
+	"skills": [
+		"Break Tackle",
+		"Mighty Blow",
+		"Thick Skull",
+		"Loner",
+		"Really Stupid",
+		"Regeneration"
+	],
+	"stats": {
+		"AG": 1,
+		"AV": 8,
+		"MA": 3,
+		"ST": 6
+	},
+	"thrall": "false",
+	"title": "Bone Giant",
+	"type": "normal",
+	"undead": "true"
+}

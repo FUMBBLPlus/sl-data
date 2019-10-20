@@ -1,0 +1,109 @@
+{
+	"apothecary": "Yes",
+	"id": "417",
+	"info": "Difficulty: MEDIUM\nZoats are fairly fast and reliable on their feet. They are tough and strong, but lack of core skills and any ball handling gives them a big weakness.",
+	"logos": {
+		"128": "492608",
+		"192": "492609",
+		"32": "492613",
+		"48": "492611",
+		"64": "492612",
+		"96": "492610"
+	},
+	"name": "Zoat",
+	"necromancer": "No",
+	"ownerRuleset": "69",
+	"playable": "true",
+	"positions": [
+		{
+			"cost": "50000",
+			"doubleSkills": [
+				"A",
+				"S",
+				"P"
+			],
+			"gender": "male",
+			"iconLetter": "L",
+			"id": "4106",
+			"normalSkills": [
+				"G"
+			],
+			"portrait": "488095",
+			"quantity": "16",
+			"skills": [
+				"Sure Feet"
+			],
+			"stats": {
+				"AG": "2",
+				"AV": "8",
+				"MA": "6",
+				"ST": "3"
+			},
+			"title": "Zoat Juven"
+		},
+		{
+			"cost": "110000",
+			"doubleSkills": [
+				"A",
+				"P",
+				"G"
+			],
+			"gender": "male",
+			"iconLetter": "Z",
+			"id": "4107",
+			"normalSkills": [
+				"S"
+			],
+			"portrait": "488097",
+			"quantity": "4",
+			"skills": [
+				"Sure Feet"
+			],
+			"stats": {
+				"AG": "1",
+				"AV": "8",
+				"MA": "5",
+				"ST": "5"
+			},
+			"title": "Zoat"
+		}
+	],
+	"raisePosition": null,
+	"rerollCost": "70000",
+	"stars": [
+		{
+			"id": "3004",
+			"name": "Bertha Bigfist"
+		},
+		{
+			"id": "3005",
+			"name": "Brick Far'th"
+		},
+		{
+			"id": "3006",
+			"name": "Grotty"
+		},
+		{
+			"id": "3007",
+			"name": "Bomber Dribblesnot"
+		},
+		{
+			"id": "3039",
+			"name": "Morg 'n' Thorg"
+		},
+		{
+			"id": "3040",
+			"name": "Nobbla Blackwart"
+		},
+		{
+			"id": "3049",
+			"name": "Scrappa Sorehead"
+		}
+	],
+	"stats": {
+		"finesse": "1",
+		"physique": "6",
+		"versatility": "1"
+	},
+	"undead": "No"
+}

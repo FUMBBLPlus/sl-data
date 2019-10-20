@@ -1,0 +1,37 @@
+{
+	"cost": 60000,
+	"doubleSkills": [
+		"G",
+		"S",
+		"P"
+	],
+	"gender": "neutral",
+	"icon": 487723,
+	"iconLetter": "L",
+	"id": "3972",
+	"name": "Crester",
+	"normalSkills": [
+		"A"
+	],
+	"portrait": 487722,
+	"quantity": 16,
+	"race": null,
+	"roster": 379,
+	"secretweapon": "0",
+	"skills": [
+		"Dodge",
+		"Big Hand",
+		"Right Stuff",
+		"Stunty"
+	],
+	"stats": {
+		"AG": 3,
+		"AV": 7,
+		"MA": 7,
+		"ST": 2
+	},
+	"thrall": "false",
+	"title": "Crester",
+	"type": "normal",
+	"undead": "false"
+}

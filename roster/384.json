@@ -1,0 +1,167 @@
+{
+	"apothecary": "Yes",
+	"id": "384",
+	"info": "Difficulty: MEDIUM\nPymies are the most agile Stunty players in the world, not only that but they can pack a real punch. Their only downsides are they're weak, and lack a big guy. Safety in numbers is key.",
+	"logos": {
+		"128": "492477",
+		"192": "492478",
+		"32": "492479",
+		"48": "492480",
+		"64": "492481",
+		"96": "492476"
+	},
+	"name": "Pygmy",
+	"necromancer": "No",
+	"ownerRuleset": "69",
+	"playable": "true",
+	"positions": [
+		{
+			"cost": "50000",
+			"doubleSkills": [
+				"G",
+				"S",
+				"P"
+			],
+			"gender": "male",
+			"iconLetter": "L",
+			"id": "3993",
+			"normalSkills": [
+				"A"
+			],
+			"portrait": "487772",
+			"quantity": "16",
+			"skills": [
+				"Dodge",
+				"Stunty"
+			],
+			"stats": {
+				"AG": "4",
+				"AV": "7",
+				"MA": "6",
+				"ST": "2"
+			},
+			"title": "Pygmy"
+		},
+		{
+			"cost": "80000",
+			"doubleSkills": [
+				"G",
+				"S"
+			],
+			"gender": "male",
+			"iconLetter": "Th",
+			"id": "3994",
+			"normalSkills": [
+				"A",
+				"P"
+			],
+			"portrait": "487773",
+			"quantity": "2",
+			"skills": [
+				"Sure Hands",
+				"Dodge",
+				"Pass",
+				"Stunty"
+			],
+			"stats": {
+				"AG": "4",
+				"AV": "7",
+				"MA": "6",
+				"ST": "2"
+			},
+			"title": "Thrower"
+		},
+		{
+			"cost": "80000",
+			"doubleSkills": [
+				"G",
+				"S",
+				"P"
+			],
+			"gender": "male",
+			"iconLetter": "C",
+			"id": "3995",
+			"normalSkills": [
+				"A"
+			],
+			"portrait": "487775",
+			"quantity": "2",
+			"skills": [
+				"Shadowing",
+				"Catch",
+				"Dodge",
+				"Stunty"
+			],
+			"stats": {
+				"AG": "4",
+				"AV": "7",
+				"MA": "7",
+				"ST": "2"
+			},
+			"title": "Catcher"
+		},
+		{
+			"cost": "90000",
+			"doubleSkills": [
+				"G",
+				"P"
+			],
+			"gender": "male",
+			"iconLetter": "Bl",
+			"id": "3996",
+			"normalSkills": [
+				"A",
+				"S"
+			],
+			"portrait": "487777",
+			"quantity": "4",
+			"skills": [
+				"Dauntless",
+				"Dodge",
+				"Claw",
+				"Stunty"
+			],
+			"stats": {
+				"AG": "4",
+				"AV": "7",
+				"MA": "6",
+				"ST": "2"
+			},
+			"title": "Blitzer"
+		}
+	],
+	"raisePosition": null,
+	"rerollCost": "60000",
+	"stars": [
+		{
+			"id": "3004",
+			"name": "Bertha Bigfist"
+		},
+		{
+			"id": "3011",
+			"name": "Deeproot Strongbranch"
+		},
+		{
+			"id": "3039",
+			"name": "Morg 'n' Thorg"
+		},
+		{
+			"id": "3042",
+			"name": "Puggy Baconbreath"
+		},
+		{
+			"id": "3058",
+			"name": "Willow Rosebark"
+		},
+		{
+			"id": "3059",
+			"name": "Zara the Slayer"
+		}
+	],
+	"stats": {
+		"finesse": "6",
+		"physique": "3",
+		"versatility": "4"
+	},
+	"undead": "No"
+}

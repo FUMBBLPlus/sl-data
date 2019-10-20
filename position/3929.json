@@ -1,0 +1,35 @@
+{
+	"cost": 100000,
+	"doubleSkills": [
+		"A",
+		"P"
+	],
+	"gender": "male",
+	"icon": 487495,
+	"iconLetter": "D",
+	"id": "3929",
+	"name": "Dervish",
+	"normalSkills": [
+		"G",
+		"S"
+	],
+	"portrait": 487496,
+	"quantity": 2,
+	"race": null,
+	"roster": 371,
+	"secretweapon": "0",
+	"skills": [
+		"Frenzy",
+		"Side Step"
+	],
+	"stats": {
+		"AG": 3,
+		"AV": 8,
+		"MA": 7,
+		"ST": 3
+	},
+	"thrall": "false",
+	"title": "Dervish",
+	"type": "normal",
+	"undead": "false"
+}

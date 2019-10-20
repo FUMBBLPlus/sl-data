@@ -1,0 +1,35 @@
+{
+	"cost": 80000,
+	"doubleSkills": [
+		"A",
+		"P"
+	],
+	"gender": "male",
+	"icon": 488009,
+	"iconLetter": "GG",
+	"id": "4077",
+	"name": "Grave Guard",
+	"normalSkills": [
+		"G",
+		"S"
+	],
+	"portrait": 488008,
+	"quantity": 2,
+	"race": null,
+	"roster": 407,
+	"secretweapon": "0",
+	"skills": [
+		"Block",
+		"Regeneration"
+	],
+	"stats": {
+		"AG": 2,
+		"AV": 9,
+		"MA": 5,
+		"ST": 3
+	},
+	"thrall": "false",
+	"title": "Grave Guard",
+	"type": "normal",
+	"undead": "true"
+}

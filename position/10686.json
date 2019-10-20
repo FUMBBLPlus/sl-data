@@ -1,0 +1,32 @@
+{
+	"cost": 60000,
+	"doubleSkills": [
+		"S",
+		"P"
+	],
+	"gender": "male",
+	"icon": 523620,
+	"iconLetter": "L",
+	"id": "10686",
+	"name": "Neophyte",
+	"normalSkills": [
+		"G",
+		"A"
+	],
+	"portrait": 0,
+	"quantity": 16,
+	"race": null,
+	"roster": 1392,
+	"secretweapon": "0",
+	"skills": [],
+	"stats": {
+		"AG": 4,
+		"AV": 7,
+		"MA": 6,
+		"ST": 3
+	},
+	"thrall": "false",
+	"title": "Neophyte",
+	"type": "normal",
+	"undead": "false"
+}

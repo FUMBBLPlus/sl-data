@@ -1,0 +1,37 @@
+{
+	"cost": 220000,
+	"doubleSkills": [
+		"G",
+		"A",
+		"S",
+		"P"
+	],
+	"gender": "female",
+	"icon": 582807,
+	"iconLetter": "KK",
+	"id": "20143",
+	"name": "Karla von Kill",
+	"normalSkills": [],
+	"portrait": 582806,
+	"quantity": 1,
+	"race": null,
+	"roster": 67,
+	"secretweapon": "0",
+	"skills": [
+		"Block",
+		"Dauntless",
+		"Dodge",
+		"Jump Up",
+		"Loner"
+	],
+	"stats": {
+		"AG": 3,
+		"AV": 8,
+		"MA": 6,
+		"ST": 4
+	},
+	"thrall": "false",
+	"title": "Karla von Kill",
+	"type": "star",
+	"undead": "false"
+}

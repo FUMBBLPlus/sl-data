@@ -1,0 +1,36 @@
+{
+	"cost": 110000,
+	"doubleSkills": [
+		"A",
+		"P",
+		"G"
+	],
+	"gender": "male",
+	"icon": 573294,
+	"iconLetter": "SoS",
+	"id": "18711",
+	"name": "Sons of Stromfel",
+	"normalSkills": [
+		"S"
+	],
+	"portrait": 596068,
+	"quantity": 4,
+	"race": null,
+	"roster": 2509,
+	"secretweapon": "0",
+	"skills": [
+		"Frenzy",
+		"Claw",
+		"Blood Lust"
+	],
+	"stats": {
+		"AG": 2,
+		"AV": 9,
+		"MA": 4,
+		"ST": 5
+	},
+	"thrall": "false",
+	"title": "Sons of Stromfel",
+	"type": "normal",
+	"undead": "false"
+}

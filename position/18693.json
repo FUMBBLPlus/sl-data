@@ -1,0 +1,35 @@
+{
+	"cost": 120000,
+	"doubleSkills": [
+		"S",
+		"P"
+	],
+	"gender": "female",
+	"icon": 573242,
+	"iconLetter": "H",
+	"id": "18693",
+	"name": "Handmaiden",
+	"normalSkills": [
+		"G",
+		"A"
+	],
+	"portrait": 0,
+	"quantity": 2,
+	"race": null,
+	"roster": 2505,
+	"secretweapon": "0",
+	"skills": [
+		"Block",
+		"Stand Firm"
+	],
+	"stats": {
+		"AG": 4,
+		"AV": 8,
+		"MA": 8,
+		"ST": 3
+	},
+	"thrall": "false",
+	"title": "Handmaiden",
+	"type": "normal",
+	"undead": "false"
+}

@@ -1,0 +1,37 @@
+{
+	"cost": 80000,
+	"doubleSkills": [
+		"A",
+		"P"
+	],
+	"gender": "male",
+	"icon": 488168,
+	"iconLetter": "K",
+	"id": "4131",
+	"name": "Kicker",
+	"normalSkills": [
+		"G",
+		"S"
+	],
+	"portrait": 488167,
+	"quantity": 2,
+	"race": null,
+	"roster": 423,
+	"secretweapon": "0",
+	"skills": [
+		"Block",
+		"Dirty Player",
+		"Kick",
+		"Thick Skull"
+	],
+	"stats": {
+		"AG": 2,
+		"AV": 9,
+		"MA": 4,
+		"ST": 3
+	},
+	"thrall": "false",
+	"title": "Kicker",
+	"type": "normal",
+	"undead": "false"
+}

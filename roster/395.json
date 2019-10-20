@@ -1,0 +1,138 @@
+{
+	"apothecary": "Yes",
+	"id": "395",
+	"info": "Difficulty: HARD\nIncredible fast, very agile and with 4 Kroxigors fighting by their side the Skinks are a very capable team. Though they lack skill access.",
+	"logos": {
+		"128": "492533",
+		"192": "492534",
+		"32": "492530",
+		"48": "492531",
+		"64": "492532",
+		"96": "492535"
+	},
+	"name": "Skink",
+	"necromancer": "No",
+	"ownerRuleset": "69",
+	"playable": "true",
+	"positions": [
+		{
+			"cost": "60000",
+			"doubleSkills": [
+				"G",
+				"S",
+				"P"
+			],
+			"gender": "male",
+			"iconLetter": "L",
+			"id": "4033",
+			"normalSkills": [
+				"A"
+			],
+			"portrait": "596646",
+			"quantity": "16",
+			"skills": [
+				"Dodge",
+				"Stunty"
+			],
+			"stats": {
+				"AG": "3",
+				"AV": "7",
+				"MA": "8",
+				"ST": "2"
+			},
+			"title": "Skink"
+		},
+		{
+			"cost": "70000",
+			"doubleSkills": [
+				"G",
+				"S",
+				"P"
+			],
+			"gender": "female",
+			"iconLetter": "C",
+			"id": "4036",
+			"normalSkills": [
+				"A"
+			],
+			"portrait": "596644",
+			"quantity": "4",
+			"skills": [
+				"Pass Block",
+				"Shadowing",
+				"Dodge",
+				"Stunty"
+			],
+			"stats": {
+				"AG": "3",
+				"AV": "7",
+				"MA": "7",
+				"ST": "2"
+			},
+			"title": "Chameleon Skink"
+		},
+		{
+			"cost": "140000",
+			"doubleSkills": [
+				"G",
+				"A",
+				"P"
+			],
+			"gender": "male",
+			"iconLetter": "Bg",
+			"id": "4038",
+			"normalSkills": [
+				"S"
+			],
+			"portrait": "596647",
+			"quantity": "4",
+			"skills": [
+				"Mighty Blow",
+				"Thick Skull",
+				"Prehensile Tail",
+				"Bone-head"
+			],
+			"stats": {
+				"AG": "1",
+				"AV": "9",
+				"MA": "6",
+				"ST": "5"
+			},
+			"title": "Kroxigor"
+		}
+	],
+	"raisePosition": null,
+	"rerollCost": "50000",
+	"stars": [
+		{
+			"id": "3024",
+			"name": "Helmut Wulf"
+		},
+		{
+			"id": "3025",
+			"name": "Hemlock"
+		},
+		{
+			"id": "3036",
+			"name": "Lottabottol"
+		},
+		{
+			"id": "3039",
+			"name": "Morg 'n' Thorg"
+		},
+		{
+			"id": "3044",
+			"name": "Quetzal Leap"
+		},
+		{
+			"id": "3051",
+			"name": "Slibli"
+		}
+	],
+	"stats": {
+		"finesse": "5",
+		"physique": "3",
+		"versatility": "3"
+	},
+	"undead": "No"
+}

@@ -1,0 +1,37 @@
+{
+	"cost": 90000,
+	"doubleSkills": [
+		"G",
+		"P"
+	],
+	"gender": "male",
+	"icon": 487778,
+	"iconLetter": "Bl",
+	"id": "3996",
+	"name": "Blitzer",
+	"normalSkills": [
+		"A",
+		"S"
+	],
+	"portrait": 487777,
+	"quantity": 4,
+	"race": null,
+	"roster": 384,
+	"secretweapon": "0",
+	"skills": [
+		"Dauntless",
+		"Dodge",
+		"Claw",
+		"Stunty"
+	],
+	"stats": {
+		"AG": 4,
+		"AV": 7,
+		"MA": 6,
+		"ST": 2
+	},
+	"thrall": "false",
+	"title": "Blitzer",
+	"type": "normal",
+	"undead": "false"
+}

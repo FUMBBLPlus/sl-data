@@ -1,0 +1,35 @@
+{
+	"cost": 50000,
+	"doubleSkills": [
+		"A",
+		"S",
+		"P"
+	],
+	"gender": "neutral",
+	"icon": 489305,
+	"iconLetter": "NL",
+	"id": "4619",
+	"name": "Norse Lineman",
+	"normalSkills": [
+		"G"
+	],
+	"portrait": 489306,
+	"quantity": 1,
+	"race": "Norse",
+	"roster": 486,
+	"secretweapon": "0",
+	"skills": [
+		"Block",
+		"Animosity"
+	],
+	"stats": {
+		"AG": 3,
+		"AV": 7,
+		"MA": 6,
+		"ST": 3
+	},
+	"thrall": "false",
+	"title": "Norse Lineman",
+	"type": "normal",
+	"undead": "false"
+}

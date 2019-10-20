@@ -1,0 +1,35 @@
+{
+	"cost": 90000,
+	"doubleSkills": [
+		"A",
+		"P"
+	],
+	"gender": "neutral",
+	"icon": 523672,
+	"iconLetter": "Bl",
+	"id": "10703",
+	"name": "Blitz-Ra",
+	"normalSkills": [
+		"G",
+		"S"
+	],
+	"portrait": 523671,
+	"quantity": 2,
+	"race": null,
+	"roster": 1396,
+	"secretweapon": "0",
+	"skills": [
+		"Block",
+		"Regeneration"
+	],
+	"stats": {
+		"AG": 2,
+		"AV": 8,
+		"MA": 6,
+		"ST": 3
+	},
+	"thrall": "false",
+	"title": "Blitz-Ra",
+	"type": "normal",
+	"undead": "true"
+}

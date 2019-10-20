@@ -1,0 +1,115 @@
+{
+	"apothecary": "Yes",
+	"id": "404",
+	"info": "Difficulty: HARD\nTreemen have one game plan, stand still and hit stuff. The Spites try and score, if they can live that long.",
+	"logos": {
+		"128": "492557",
+		"192": "492558",
+		"32": "492554",
+		"48": "492555",
+		"64": "492556",
+		"96": "492559"
+	},
+	"name": "Treemen",
+	"necromancer": "No",
+	"ownerRuleset": "69",
+	"playable": "true",
+	"positions": [
+		{
+			"cost": "20000",
+			"doubleSkills": [
+				"G",
+				"S",
+				"P"
+			],
+			"gender": "neutral",
+			"iconLetter": "L",
+			"id": "4065",
+			"normalSkills": [
+				"A"
+			],
+			"portrait": "596490",
+			"quantity": "16",
+			"skills": [
+				"Dodge",
+				"Titchy",
+				"Stunty",
+				"Side Step",
+				"Right Stuff"
+			],
+			"stats": {
+				"AG": "3",
+				"AV": "6",
+				"MA": "6",
+				"ST": "1"
+			},
+			"title": "Spite"
+		},
+		{
+			"cost": "120000",
+			"doubleSkills": [
+				"G",
+				"A",
+				"P"
+			],
+			"gender": "male",
+			"iconLetter": "T",
+			"id": "4067",
+			"normalSkills": [
+				"S"
+			],
+			"portrait": "487922",
+			"quantity": "6",
+			"skills": [
+				"Strong Arm",
+				"Mighty Blow",
+				"Take Root",
+				"Stand Firm",
+				"Thick Skull",
+				"Throw Team-Mate",
+				"Timmm-ber!"
+			],
+			"stats": {
+				"AG": "1",
+				"AV": "10",
+				"MA": "2",
+				"ST": "6"
+			},
+			"title": "Treeman"
+		}
+	],
+	"raisePosition": null,
+	"rerollCost": "70000",
+	"stars": [
+		{
+			"id": "3004",
+			"name": "Bertha Bigfist"
+		},
+		{
+			"id": "3011",
+			"name": "Deeproot Strongbranch"
+		},
+		{
+			"id": "3039",
+			"name": "Morg 'n' Thorg"
+		},
+		{
+			"id": "3042",
+			"name": "Puggy Baconbreath"
+		},
+		{
+			"id": "3058",
+			"name": "Willow Rosebark"
+		},
+		{
+			"id": "3059",
+			"name": "Zara the Slayer"
+		}
+	],
+	"stats": {
+		"finesse": "3",
+		"physique": "6",
+		"versatility": "1"
+	},
+	"undead": "No"
+}

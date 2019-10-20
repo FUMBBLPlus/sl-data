@@ -1,0 +1,41 @@
+{
+	"cost": 120000,
+	"doubleSkills": [
+		"G",
+		"A",
+		"P"
+	],
+	"gender": "male",
+	"icon": 489319,
+	"iconLetter": "TrM",
+	"id": "4626",
+	"name": "Treeman",
+	"normalSkills": [
+		"S"
+	],
+	"portrait": 489320,
+	"quantity": 1,
+	"race": "Halfling",
+	"roster": 486,
+	"secretweapon": "0",
+	"skills": [
+		"Mighty Blow",
+		"Stand Firm",
+		"Strong Arm",
+		"Thick Skull",
+		"Loner",
+		"Take Root",
+		"Throw Team-Mate",
+		"Animosity"
+	],
+	"stats": {
+		"AG": 1,
+		"AV": 10,
+		"MA": 2,
+		"ST": 6
+	},
+	"thrall": "false",
+	"title": "Treeman",
+	"type": "normal",
+	"undead": "false"
+}

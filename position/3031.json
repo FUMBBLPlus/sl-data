@@ -1,0 +1,34 @@
+{
+	"cost": 220000,
+	"doubleSkills": [],
+	"gender": "male",
+	"icon": 436465,
+	"iconLetter": "IB",
+	"id": "3031",
+	"name": "Ithaca Benoin",
+	"normalSkills": [],
+	"portrait": 440123,
+	"quantity": 1,
+	"race": null,
+	"roster": 67,
+	"secretweapon": "0",
+	"skills": [
+		"Sure Hands",
+		"Accurate",
+		"Dump-Off",
+		"Nerves Of Steel",
+		"Pass",
+		"Loner",
+		"Regeneration"
+	],
+	"stats": {
+		"AG": 3,
+		"AV": 7,
+		"MA": 7,
+		"ST": 3
+	},
+	"thrall": "false",
+	"title": "Ithaca Benoin",
+	"type": "star",
+	"undead": "false"
+}

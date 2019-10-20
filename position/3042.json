@@ -1,0 +1,33 @@
+{
+	"cost": 140000,
+	"doubleSkills": [],
+	"gender": "male",
+	"icon": 436476,
+	"iconLetter": "PB",
+	"id": "3042",
+	"name": "Puggy Baconbreath",
+	"normalSkills": [],
+	"portrait": 332792,
+	"quantity": 1,
+	"race": null,
+	"roster": 67,
+	"secretweapon": "0",
+	"skills": [
+		"Block",
+		"Dodge",
+		"Nerves Of Steel",
+		"Loner",
+		"Right Stuff",
+		"Stunty"
+	],
+	"stats": {
+		"AG": 3,
+		"AV": 6,
+		"MA": 5,
+		"ST": 3
+	},
+	"thrall": "false",
+	"title": "Puggy Baconbreath",
+	"type": "star",
+	"undead": "false"
+}

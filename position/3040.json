@@ -1,0 +1,33 @@
+{
+	"cost": 130000,
+	"doubleSkills": [],
+	"gender": "male",
+	"icon": 436474,
+	"iconLetter": "NB",
+	"id": "3040",
+	"name": "Nobbla Blackwart",
+	"normalSkills": [],
+	"portrait": 332795,
+	"quantity": 1,
+	"race": "Goblin",
+	"roster": 67,
+	"secretweapon": "0",
+	"skills": [
+		"Block",
+		"Dodge",
+		"Chainsaw",
+		"Loner",
+		"Secret Weapon",
+		"Stunty"
+	],
+	"stats": {
+		"AG": 3,
+		"AV": 7,
+		"MA": 6,
+		"ST": 2
+	},
+	"thrall": "false",
+	"title": "Nobbla Blackwart",
+	"type": "star",
+	"undead": "false"
+}

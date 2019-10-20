@@ -1,0 +1,41 @@
+{
+	"cost": 130000,
+	"doubleSkills": [
+		"G",
+		"A",
+		"P"
+	],
+	"gender": "neutral",
+	"icon": 523538,
+	"iconLetter": "Bg",
+	"id": "10677",
+	"name": "Changeling",
+	"normalSkills": [
+		"S",
+		"M"
+	],
+	"portrait": 523537,
+	"quantity": 1,
+	"race": null,
+	"roster": 617,
+	"secretweapon": "0",
+	"skills": [
+		"Pro",
+		"Mighty Blow",
+		"Always Hungry",
+		"Loner",
+		"Really Stupid",
+		"Regeneration",
+		"Throw Team-Mate"
+	],
+	"stats": {
+		"AG": 1,
+		"AV": 9,
+		"MA": 4,
+		"ST": 5
+	},
+	"thrall": "false",
+	"title": "Changeling",
+	"type": "normal",
+	"undead": "false"
+}

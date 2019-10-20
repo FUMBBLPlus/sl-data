@@ -1,0 +1,35 @@
+{
+	"cost": 100000,
+	"doubleSkills": [
+		"A",
+		"P"
+	],
+	"gender": "neutral",
+	"icon": 523827,
+	"iconLetter": "GH",
+	"id": "10705",
+	"name": "Golden Host",
+	"normalSkills": [
+		"G",
+		"S"
+	],
+	"portrait": 0,
+	"quantity": 4,
+	"race": null,
+	"roster": 1396,
+	"secretweapon": "0",
+	"skills": [
+		"Thick Skull",
+		"Regeneration"
+	],
+	"stats": {
+		"AG": 2,
+		"AV": 8,
+		"MA": 5,
+		"ST": 4
+	},
+	"thrall": "false",
+	"title": "Golden Host",
+	"type": "normal",
+	"undead": "true"
+}

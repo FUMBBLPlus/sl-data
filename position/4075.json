@@ -1,0 +1,32 @@
+{
+	"cost": 40000,
+	"doubleSkills": [
+		"A",
+		"S",
+		"P"
+	],
+	"gender": "male",
+	"icon": 487986,
+	"iconLetter": "L",
+	"id": "4075",
+	"name": "Thrall",
+	"normalSkills": [
+		"G"
+	],
+	"portrait": 487985,
+	"quantity": 16,
+	"race": null,
+	"roster": 407,
+	"secretweapon": "0",
+	"skills": [],
+	"stats": {
+		"AG": 3,
+		"AV": 7,
+		"MA": 6,
+		"ST": 3
+	},
+	"thrall": "true",
+	"title": "Thrall",
+	"type": "normal",
+	"undead": "false"
+}

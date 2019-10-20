@@ -1,0 +1,39 @@
+{
+	"cost": 150000,
+	"doubleSkills": [
+		"G",
+		"A",
+		"P"
+	],
+	"gender": "male",
+	"icon": 573316,
+	"iconLetter": "Bal",
+	"id": "18720",
+	"name": "Ballbelcher",
+	"normalSkills": [
+		"S"
+	],
+	"portrait": 0,
+	"quantity": 1,
+	"race": null,
+	"roster": 442,
+	"secretweapon": "0",
+	"skills": [
+		"Mighty Blow",
+		"Strong Arm",
+		"Thick Skull",
+		"Hail Mary Pass",
+		"Bone-head",
+		"Throw Team-Mate"
+	],
+	"stats": {
+		"AG": 2,
+		"AV": 9,
+		"MA": 5,
+		"ST": 5
+	},
+	"thrall": "false",
+	"title": "Ballbelcher",
+	"type": "normal",
+	"undead": "false"
+}

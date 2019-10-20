@@ -1,0 +1,30 @@
+{
+	"cost": 260000,
+	"doubleSkills": [],
+	"gender": "male",
+	"icon": 436472,
+	"iconLetter": "MZ",
+	"id": "3038",
+	"name": "Mighty Zug",
+	"normalSkills": [],
+	"portrait": 332775,
+	"quantity": 1,
+	"race": null,
+	"roster": 67,
+	"secretweapon": "0",
+	"skills": [
+		"Block",
+		"Mighty Blow",
+		"Loner"
+	],
+	"stats": {
+		"AG": 2,
+		"AV": 9,
+		"MA": 4,
+		"ST": 5
+	},
+	"thrall": "false",
+	"title": "Mighty Zug",
+	"type": "star",
+	"undead": "false"
+}

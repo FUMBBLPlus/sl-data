@@ -1,0 +1,37 @@
+{
+	"cost": 100000,
+	"doubleSkills": [
+		"A",
+		"P"
+	],
+	"gender": "male",
+	"icon": 488053,
+	"iconLetter": "V",
+	"id": "4093",
+	"name": "Strigoi",
+	"normalSkills": [
+		"G",
+		"S"
+	],
+	"portrait": 488052,
+	"quantity": 4,
+	"race": null,
+	"roster": 412,
+	"secretweapon": "0",
+	"skills": [
+		"Claw",
+		"Blood Lust",
+		"Hypnotic Gaze",
+		"Regeneration"
+	],
+	"stats": {
+		"AG": 3,
+		"AV": 8,
+		"MA": 6,
+		"ST": 4
+	},
+	"thrall": "false",
+	"title": "Strigoi",
+	"type": "normal",
+	"undead": "true"
+}

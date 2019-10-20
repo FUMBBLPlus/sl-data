@@ -1,0 +1,36 @@
+{
+	"cost": 40000,
+	"doubleSkills": [
+		"G",
+		"S",
+		"P"
+	],
+	"gender": "neutral",
+	"icon": 530593,
+	"iconLetter": "L",
+	"id": "4058",
+	"name": "Squig Herders",
+	"normalSkills": [
+		"A"
+	],
+	"portrait": 487892,
+	"quantity": 16,
+	"race": "Thrall",
+	"roster": 402,
+	"secretweapon": "0",
+	"skills": [
+		"Dodge",
+		"Right Stuff",
+		"Stunty"
+	],
+	"stats": {
+		"AG": 3,
+		"AV": 7,
+		"MA": 6,
+		"ST": 2
+	},
+	"thrall": "true",
+	"title": "Squig Herders",
+	"type": "normal",
+	"undead": "false"
+}

@@ -1,0 +1,32 @@
+{
+	"cost": 50000,
+	"doubleSkills": [
+		"A",
+		"S",
+		"P"
+	],
+	"gender": "male",
+	"icon": 487744,
+	"iconLetter": "L",
+	"id": "3979",
+	"name": "Ashigaru",
+	"normalSkills": [
+		"G"
+	],
+	"portrait": 487743,
+	"quantity": 16,
+	"race": null,
+	"roster": 381,
+	"secretweapon": "0",
+	"skills": [],
+	"stats": {
+		"AG": 3,
+		"AV": 8,
+		"MA": 6,
+		"ST": 3
+	},
+	"thrall": "false",
+	"title": "Ashigaru",
+	"type": "normal",
+	"undead": "false"
+}

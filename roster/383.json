@@ -1,0 +1,188 @@
+{
+	"apothecary": "Yes",
+	"id": "383",
+	"info": "Difficulty: MEDIUM\nPirates of Sartosa are a Pact team made up of pirates that frequent Sartosa. They are a good mix of strength and agility mixing big guys with elves and dwarves. They lack a team mentality and infighting is very common in pirate teams.",
+	"logos": {
+		"128": "492473",
+		"192": "492474",
+		"32": "492470",
+		"48": "492471",
+		"64": "492472",
+		"96": "492475"
+	},
+	"name": "Pirates of Sartosa",
+	"necromancer": "No",
+	"ownerRuleset": "69",
+	"playable": "true",
+	"positions": [
+		{
+			"cost": "40000",
+			"doubleSkills": [
+				"A",
+				"S",
+				"P"
+			],
+			"gender": "male",
+			"iconLetter": "L",
+			"id": "3984",
+			"normalSkills": [
+				"G"
+			],
+			"portrait": "487753",
+			"quantity": "16",
+			"skills": [],
+			"stats": {
+				"AG": "3",
+				"AV": "7",
+				"MA": "6",
+				"ST": "3"
+			},
+			"title": "Pirate"
+		},
+		{
+			"cost": "80000",
+			"doubleSkills": [
+				"A",
+				"P"
+			],
+			"gender": "male",
+			"iconLetter": "LDS",
+			"id": "3986",
+			"normalSkills": [
+				"G",
+				"S"
+			],
+			"portrait": "487757",
+			"quantity": "2",
+			"skills": [
+				"Dauntless",
+				"Strip Ball",
+				"Thick Skull",
+				"Animosity"
+			],
+			"stats": {
+				"AG": "3",
+				"AV": "8",
+				"MA": "5",
+				"ST": "3"
+			},
+			"title": " Long Drongs Slayer"
+		},
+		{
+			"cost": "70000",
+			"doubleSkills": [
+				"S",
+				"P"
+			],
+			"gender": "male",
+			"iconLetter": "BAC",
+			"id": "3988",
+			"normalSkills": [
+				"G",
+				"A"
+			],
+			"portrait": "487761",
+			"quantity": "2",
+			"skills": [
+				"Animosity"
+			],
+			"stats": {
+				"AG": "4",
+				"AV": "7",
+				"MA": "7",
+				"ST": "3"
+			},
+			"title": "Black Ark Corsair"
+		},
+		{
+			"cost": "140000",
+			"doubleSkills": [
+				"G",
+				"A",
+				"P"
+			],
+			"gender": "female",
+			"iconLetter": "BG",
+			"id": "3990",
+			"normalSkills": [
+				"S"
+			],
+			"portrait": "487765",
+			"quantity": "2",
+			"skills": [
+				"Mighty Blow",
+				"Thick Skull",
+				"Bone-head",
+				"Loner",
+				"Throw Team-Mate"
+			],
+			"stats": {
+				"AG": "2",
+				"AV": "9",
+				"MA": "5",
+				"ST": "5"
+			},
+			"title": "Ogre"
+		},
+		{
+			"cost": "100000",
+			"doubleSkills": [
+				"A",
+				"P"
+			],
+			"gender": "male",
+			"iconLetter": "C",
+			"id": "3992",
+			"normalSkills": [
+				"G",
+				"S"
+			],
+			"portrait": "487769",
+			"quantity": "1",
+			"skills": [
+				"Leader"
+			],
+			"stats": {
+				"AG": "3",
+				"AV": "8",
+				"MA": "6",
+				"ST": "4"
+			},
+			"title": "Captain"
+		}
+	],
+	"raisePosition": null,
+	"rerollCost": "70000",
+	"stars": [
+		{
+			"id": "3008",
+			"name": "Boomer Eziasson"
+		},
+		{
+			"id": "3024",
+			"name": "Helmut Wulf"
+		},
+		{
+			"id": "3030",
+			"name": "Icepelt Hammerblow"
+		},
+		{
+			"id": "3039",
+			"name": "Morg 'n' Thorg"
+		},
+		{
+			"id": "3057",
+			"name": "Wilhelm Chaney"
+		},
+		{
+			"id": "3059",
+			"name": "Zara the Slayer"
+		}
+	],
+	"stats": {
+		"finesse": "4",
+		"physique": "5",
+		"versatility": "3"
+	},
+	"undead": "No"
+}

@@ -1,0 +1,32 @@
+{
+	"cost": 230000,
+	"doubleSkills": [],
+	"gender": "male",
+	"icon": 436475,
+	"iconLetter": "PM",
+	"id": "3041",
+	"name": "Prince Moranion",
+	"normalSkills": [],
+	"portrait": 332779,
+	"quantity": 1,
+	"race": null,
+	"roster": 67,
+	"secretweapon": "0",
+	"skills": [
+		"Block",
+		"Dauntless",
+		"Tackle",
+		"Wrestle",
+		"Loner"
+	],
+	"stats": {
+		"AG": 4,
+		"AV": 8,
+		"MA": 7,
+		"ST": 4
+	},
+	"thrall": "false",
+	"title": "Prince Moranion",
+	"type": "star",
+	"undead": "false"
+}

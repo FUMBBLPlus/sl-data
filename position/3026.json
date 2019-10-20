@@ -1,0 +1,33 @@
+{
+	"cost": 210000,
+	"doubleSkills": [],
+	"gender": "male",
+	"icon": 436460,
+	"iconLetter": "HH",
+	"id": "3026",
+	"name": "Horkon Heartripper",
+	"normalSkills": [],
+	"portrait": 332785,
+	"quantity": 1,
+	"race": null,
+	"roster": 67,
+	"secretweapon": "0",
+	"skills": [
+		"Shadowing",
+		"Dodge",
+		"Leap",
+		"Multiple Block",
+		"Loner",
+		"Stab"
+	],
+	"stats": {
+		"AG": 4,
+		"AV": 7,
+		"MA": 7,
+		"ST": 3
+	},
+	"thrall": "false",
+	"title": "Horkon Heartripper",
+	"type": "star",
+	"undead": "false"
+}

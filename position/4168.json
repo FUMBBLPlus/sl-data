@@ -1,0 +1,36 @@
+{
+	"cost": 150000,
+	"doubleSkills": [
+		"G",
+		"P"
+	],
+	"gender": "neutral",
+	"icon": 488259,
+	"iconLetter": "EF",
+	"id": "4168",
+	"name": "Incarnate Elemental of Fire",
+	"normalSkills": [
+		"A",
+		"S"
+	],
+	"portrait": 488258,
+	"quantity": 0,
+	"race": null,
+	"roster": 427,
+	"secretweapon": "0",
+	"skills": [
+		"Frenzy",
+		"Jump Up",
+		"Loner"
+	],
+	"stats": {
+		"AG": 2,
+		"AV": 8,
+		"MA": 5,
+		"ST": 5
+	},
+	"thrall": "false",
+	"title": "Incarnate Elemental of Fire",
+	"type": "normal",
+	"undead": "false"
+}

@@ -1,0 +1,36 @@
+{
+	"cost": 110000,
+	"doubleSkills": [
+		"G",
+		"A",
+		"S",
+		"P"
+	],
+	"gender": "male",
+	"icon": 596231,
+	"iconLetter": "RB",
+	"id": "22962",
+	"name": "'Rotten' Rick Bupkeis",
+	"normalSkills": [],
+	"portrait": 596247,
+	"quantity": 1,
+	"race": null,
+	"roster": 67,
+	"secretweapon": "0",
+	"skills": [
+		"Dirty Player",
+		"Sneaky Git",
+		"Loner",
+		"Regeneration"
+	],
+	"stats": {
+		"AG": 2,
+		"AV": 8,
+		"MA": 4,
+		"ST": 3
+	},
+	"thrall": "false",
+	"title": "'Rotten' Rick Bupkeis",
+	"type": "star",
+	"undead": "true"
+}

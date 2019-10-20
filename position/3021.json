@@ -1,0 +1,32 @@
+{
+	"cost": 120000,
+	"doubleSkills": [],
+	"gender": "male",
+	"icon": 436455,
+	"iconLetter": "HE",
+	"id": "3021",
+	"name": "Hack Enslash",
+	"normalSkills": [],
+	"portrait": 332796,
+	"quantity": 1,
+	"race": null,
+	"roster": 67,
+	"secretweapon": "0",
+	"skills": [
+		"Chainsaw",
+		"Side Step",
+		"Loner",
+		"Regeneration",
+		"Secret Weapon"
+	],
+	"stats": {
+		"AG": 2,
+		"AV": 7,
+		"MA": 6,
+		"ST": 3
+	},
+	"thrall": "false",
+	"title": "Hack Enslash",
+	"type": "star",
+	"undead": "false"
+}

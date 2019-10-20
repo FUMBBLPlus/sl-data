@@ -1,0 +1,161 @@
+{
+	"apothecary": "Yes",
+	"id": "389",
+	"info": "Difficulty: EASY\nClan Mors lack the versatility of Skaven teams, though they make up for it with Blitzers and more Blitzer.",
+	"logos": {
+		"128": "492501",
+		"192": "492502",
+		"32": "492503",
+		"48": "492504",
+		"64": "492505",
+		"96": "492500"
+	},
+	"name": "Clan Mors",
+	"necromancer": "No",
+	"ownerRuleset": "69",
+	"playable": "true",
+	"positions": [
+		{
+			"cost": "50000",
+			"doubleSkills": [
+				"A",
+				"S",
+				"P",
+				"M"
+			],
+			"gender": "male",
+			"iconLetter": "L",
+			"id": "4012",
+			"normalSkills": [
+				"G"
+			],
+			"portrait": "487807",
+			"quantity": "16",
+			"skills": [],
+			"stats": {
+				"AG": "3",
+				"AV": "7",
+				"MA": "7",
+				"ST": "3"
+			},
+			"title": "Clan Rat"
+		},
+		{
+			"cost": "70000",
+			"doubleSkills": [
+				"A",
+				"S",
+				"M"
+			],
+			"gender": "male",
+			"iconLetter": "Th",
+			"id": "4013",
+			"normalSkills": [
+				"G",
+				"P"
+			],
+			"portrait": "487809",
+			"quantity": "0",
+			"skills": [
+				"Sure Hands",
+				"Pass"
+			],
+			"stats": {
+				"AG": "3",
+				"AV": "7",
+				"MA": "7",
+				"ST": "3"
+			},
+			"title": "Thrower"
+		},
+		{
+			"cost": "90000",
+			"doubleSkills": [
+				"A",
+				"P",
+				"M"
+			],
+			"gender": "male",
+			"iconLetter": "BL",
+			"id": "4014",
+			"normalSkills": [
+				"G",
+				"S"
+			],
+			"portrait": "487811",
+			"quantity": "4",
+			"skills": [
+				"Block"
+			],
+			"stats": {
+				"AG": "3",
+				"AV": "8",
+				"MA": "7",
+				"ST": "3"
+			},
+			"title": "Stormvermin"
+		},
+		{
+			"cost": "110000",
+			"doubleSkills": [
+				"A",
+				"M",
+				"P"
+			],
+			"gender": "male",
+			"iconLetter": "RG",
+			"id": "4015",
+			"normalSkills": [
+				"G",
+				"S"
+			],
+			"portrait": "487813",
+			"quantity": "2",
+			"skills": [
+				"Block",
+				"Pro"
+			],
+			"stats": {
+				"AG": "3",
+				"AV": "9",
+				"MA": "7",
+				"ST": "3"
+			},
+			"title": "Red Guard"
+		}
+	],
+	"raisePosition": null,
+	"rerollCost": "60000",
+	"stars": [
+		{
+			"id": "3014",
+			"name": "Fezglitch"
+		},
+		{
+			"id": "3017",
+			"name": "Glart Smashrip Jr."
+		},
+		{
+			"id": "3022",
+			"name": "Hakflem Skuttlespike"
+		},
+		{
+			"id": "3023",
+			"name": "Headsplitter"
+		},
+		{
+			"id": "3039",
+			"name": "Morg 'n' Thorg"
+		},
+		{
+			"id": "3053",
+			"name": "Skitter Stab-Stab"
+		}
+	],
+	"stats": {
+		"finesse": "2",
+		"physique": "5",
+		"versatility": "2"
+	},
+	"undead": "No"
+}

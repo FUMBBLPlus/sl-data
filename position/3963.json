@@ -1,0 +1,34 @@
+{
+	"cost": 50000,
+	"doubleSkills": [
+		"A",
+		"S",
+		"P"
+	],
+	"gender": "male",
+	"icon": 487666,
+	"iconLetter": "L",
+	"id": "3963",
+	"name": "Lineman",
+	"normalSkills": [
+		"G"
+	],
+	"portrait": 487667,
+	"quantity": 16,
+	"race": null,
+	"roster": 377,
+	"secretweapon": "0",
+	"skills": [
+		"Fend"
+	],
+	"stats": {
+		"AG": 3,
+		"AV": 7,
+		"MA": 6,
+		"ST": 3
+	},
+	"thrall": "false",
+	"title": "Lineman",
+	"type": "normal",
+	"undead": "false"
+}

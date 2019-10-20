@@ -1,0 +1,37 @@
+{
+	"cost": 50000,
+	"doubleSkills": [
+		"A",
+		"S",
+		"P"
+	],
+	"gender": "male",
+	"icon": 487469,
+	"iconLetter": "Nt",
+	"id": "3922",
+	"name": "Necrotect",
+	"normalSkills": [
+		"G"
+	],
+	"portrait": 487468,
+	"quantity": 2,
+	"race": null,
+	"roster": 368,
+	"secretweapon": "0",
+	"skills": [
+		"Thick Skull",
+		"Chainsaw",
+		"Regeneration",
+		"Secret Weapon"
+	],
+	"stats": {
+		"AG": 2,
+		"AV": 7,
+		"MA": 5,
+		"ST": 3
+	},
+	"thrall": "false",
+	"title": "Necrotect",
+	"type": "normal",
+	"undead": "true"
+}

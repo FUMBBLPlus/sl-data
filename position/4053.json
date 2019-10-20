@@ -1,0 +1,38 @@
+{
+	"cost": 110000,
+	"doubleSkills": [
+		"G",
+		"A",
+		"P"
+	],
+	"gender": "male",
+	"icon": 487888,
+	"iconLetter": "Bg",
+	"id": "4053",
+	"name": "Troll",
+	"normalSkills": [
+		"S"
+	],
+	"portrait": 487887,
+	"quantity": 6,
+	"race": null,
+	"roster": 399,
+	"secretweapon": "0",
+	"skills": [
+		"Mighty Blow",
+		"Always Hungry",
+		"Really Stupid",
+		"Regeneration",
+		"Throw Team-Mate"
+	],
+	"stats": {
+		"AG": 1,
+		"AV": 9,
+		"MA": 4,
+		"ST": 5
+	},
+	"thrall": "false",
+	"title": "Troll",
+	"type": "normal",
+	"undead": "false"
+}

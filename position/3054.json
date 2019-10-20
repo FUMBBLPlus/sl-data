@@ -1,0 +1,34 @@
+{
+	"cost": 180000,
+	"doubleSkills": [],
+	"gender": "male",
+	"icon": 436487,
+	"iconLetter": "SH",
+	"id": "3054",
+	"name": "Soaren Hightower",
+	"normalSkills": [],
+	"portrait": 440128,
+	"quantity": 1,
+	"race": null,
+	"roster": 67,
+	"secretweapon": "0",
+	"skills": [
+		"Fend",
+		"Kick-Off Return",
+		"Sure Hands",
+		"Strong Arm",
+		"Pass",
+		"Safe Throw",
+		"Loner"
+	],
+	"stats": {
+		"AG": 4,
+		"AV": 8,
+		"MA": 6,
+		"ST": 3
+	},
+	"thrall": "false",
+	"title": "Soaren Hightower",
+	"type": "star",
+	"undead": "false"
+}

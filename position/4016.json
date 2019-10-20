@@ -1,0 +1,36 @@
+{
+	"cost": 40000,
+	"doubleSkills": [
+		"G",
+		"S",
+		"P"
+	],
+	"gender": "male",
+	"icon": 487816,
+	"iconLetter": "L",
+	"id": "4016",
+	"name": "Slave",
+	"normalSkills": [
+		"A",
+		"M"
+	],
+	"portrait": 487815,
+	"quantity": 16,
+	"race": null,
+	"roster": 390,
+	"secretweapon": "0",
+	"skills": [
+		"Dodge",
+		"Stunty"
+	],
+	"stats": {
+		"AG": 3,
+		"AV": 6,
+		"MA": 7,
+		"ST": 2
+	},
+	"thrall": "false",
+	"title": "Slave",
+	"type": "normal",
+	"undead": "false"
+}

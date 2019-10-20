@@ -1,0 +1,35 @@
+{
+	"cost": 90000,
+	"doubleSkills": [
+		"P"
+	],
+	"gender": "male",
+	"icon": 573273,
+	"iconLetter": "Bli",
+	"id": "18704",
+	"name": "Vanguard Blitzer",
+	"normalSkills": [
+		"G",
+		"S",
+		"A"
+	],
+	"portrait": 0,
+	"quantity": 4,
+	"race": null,
+	"roster": 2507,
+	"secretweapon": "0",
+	"skills": [
+		"Dauntless",
+		"Wrestle"
+	],
+	"stats": {
+		"AG": 3,
+		"AV": 8,
+		"MA": 6,
+		"ST": 3
+	},
+	"thrall": "false",
+	"title": "Vanguard Blitzer",
+	"type": "normal",
+	"undead": "false"
+}

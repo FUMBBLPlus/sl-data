@@ -1,0 +1,33 @@
+{
+	"cost": 200000,
+	"doubleSkills": [],
+	"gender": "male",
+	"icon": 436447,
+	"iconLetter": "ES",
+	"id": "3013",
+	"name": "Eldril Sidewinder",
+	"normalSkills": [],
+	"portrait": 332786,
+	"quantity": 1,
+	"race": null,
+	"roster": 67,
+	"secretweapon": "0",
+	"skills": [
+		"Pass Block",
+		"Catch",
+		"Dodge",
+		"Nerves Of Steel",
+		"Hypnotic Gaze",
+		"Loner"
+	],
+	"stats": {
+		"AG": 4,
+		"AV": 7,
+		"MA": 8,
+		"ST": 3
+	},
+	"thrall": "false",
+	"title": "Eldril Sidewinder",
+	"type": "star",
+	"undead": "false"
+}

@@ -1,0 +1,37 @@
+{
+	"cost": 80000,
+	"doubleSkills": [
+		"A",
+		"S"
+	],
+	"gender": "male",
+	"icon": 487634,
+	"iconLetter": "Th",
+	"id": "3949",
+	"name": "Throw-Ra Slave",
+	"normalSkills": [
+		"G",
+		"P"
+	],
+	"portrait": 487635,
+	"quantity": 2,
+	"race": null,
+	"roster": 375,
+	"secretweapon": "0",
+	"skills": [
+		"Sure Hands",
+		"Jump Up",
+		"Pass",
+		"Regeneration"
+	],
+	"stats": {
+		"AG": 2,
+		"AV": 7,
+		"MA": 6,
+		"ST": 3
+	},
+	"thrall": "false",
+	"title": "Throw-Ra Slave",
+	"type": "normal",
+	"undead": "true"
+}

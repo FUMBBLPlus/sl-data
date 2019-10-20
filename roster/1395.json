@@ -1,0 +1,190 @@
+{
+	"apothecary": "Yes",
+	"id": "1395",
+	"info": "DIFFICULTY: MEDIUM - Kurnous have an usual mix of high agility and strength, though they are very fragile. They could best be described as a glass cannon team.",
+	"logos": {
+		"128": "523655",
+		"192": "523656",
+		"32": "523651",
+		"48": "523652",
+		"64": "523653",
+		"96": "523654"
+	},
+	"name": "Kurnous",
+	"necromancer": "No",
+	"ownerRuleset": "69",
+	"playable": "true",
+	"positions": [
+		{
+			"cost": "70000",
+			"doubleSkills": [
+				"S",
+				"P"
+			],
+			"gender": "neutral",
+			"iconLetter": "L",
+			"id": "10697",
+			"normalSkills": [
+				"G",
+				"A"
+			],
+			"portrait": "569441",
+			"quantity": "16",
+			"skills": [
+				"Frenzy"
+			],
+			"stats": {
+				"AG": "4",
+				"AV": "7",
+				"MA": "6",
+				"ST": "3"
+			},
+			"title": "Wild Hunter"
+		},
+		{
+			"cost": "80000",
+			"doubleSkills": [
+				"S",
+				"P"
+			],
+			"gender": "male",
+			"iconLetter": "Bo",
+			"id": "10698",
+			"normalSkills": [
+				"G",
+				"A"
+			],
+			"portrait": "569443",
+			"quantity": "2",
+			"skills": [
+				"Horns"
+			],
+			"stats": {
+				"AG": "4",
+				"AV": "7",
+				"MA": "7",
+				"ST": "3"
+			},
+			"title": "Shape Changer - Boar"
+		},
+		{
+			"cost": "100000",
+			"doubleSkills": [
+				"P",
+				"S"
+			],
+			"gender": "male",
+			"iconLetter": "Be",
+			"id": "10699",
+			"normalSkills": [
+				"G",
+				"A"
+			],
+			"portrait": "571114",
+			"quantity": "2",
+			"skills": [
+				"Dauntless",
+				"Claw"
+			],
+			"stats": {
+				"AG": "4",
+				"AV": "8",
+				"MA": "6",
+				"ST": "3"
+			},
+			"title": "Shape Changer - Bear"
+		},
+		{
+			"cost": "90000",
+			"doubleSkills": [
+				"S",
+				"P"
+			],
+			"gender": "male",
+			"iconLetter": "W",
+			"id": "10700",
+			"normalSkills": [
+				"G",
+				"A"
+			],
+			"portrait": "569442",
+			"quantity": "2",
+			"skills": [
+				"Frenzy",
+				"Claw"
+			],
+			"stats": {
+				"AG": "4",
+				"AV": "7",
+				"MA": "7",
+				"ST": "3"
+			},
+			"title": "Shape Changer - Wolf"
+		},
+		{
+			"cost": "150000",
+			"doubleSkills": [
+				"G",
+				"A",
+				"P"
+			],
+			"gender": "neutral",
+			"iconLetter": "Bg",
+			"id": "10701",
+			"normalSkills": [
+				"S"
+			],
+			"portrait": "570342",
+			"quantity": "1",
+			"skills": [
+				"Frenzy",
+				"Mighty Blow",
+				"Thick Skull",
+				"Horns",
+				"Loner",
+				"Wild Animal"
+			],
+			"stats": {
+				"AG": "2",
+				"AV": "8",
+				"MA": "5",
+				"ST": "5"
+			},
+			"title": "Kurnocervus"
+		}
+	],
+	"raisePosition": null,
+	"rerollCost": "50000",
+	"stars": [
+		{
+			"id": "3012",
+			"name": "Dolfar Longstride"
+		},
+		{
+			"id": "3013",
+			"name": "Eldril Sidewinder"
+		},
+		{
+			"id": "3033",
+			"name": "Jordell Freshbreeze"
+		},
+		{
+			"id": "3039",
+			"name": "Morg 'n' Thorg"
+		},
+		{
+			"id": "3058",
+			"name": "Willow Rosebark"
+		},
+		{
+			"id": "3059",
+			"name": "Zara the Slayer"
+		}
+	],
+	"stats": {
+		"finesse": "5",
+		"physique": "4",
+		"versatility": "5"
+	},
+	"undead": "No"
+}

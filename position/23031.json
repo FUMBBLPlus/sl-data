@@ -1,0 +1,38 @@
+{
+	"cost": 120000,
+	"doubleSkills": [
+		"P"
+	],
+	"gender": "male",
+	"icon": 596919,
+	"iconLetter": "Von",
+	"id": "23031",
+	"name": "Von Carstein Vampire",
+	"normalSkills": [
+		"G",
+		"A",
+		"S"
+	],
+	"portrait": 596918,
+	"quantity": 1,
+	"race": "Von Carstein Vampire",
+	"roster": 3138,
+	"secretweapon": "0",
+	"skills": [
+		"Pro",
+		"Blood Lust",
+		"Hypnotic Gaze",
+		"Regeneration",
+		"Animosity"
+	],
+	"stats": {
+		"AG": 4,
+		"AV": 8,
+		"MA": 6,
+		"ST": 4
+	},
+	"thrall": "false",
+	"title": "Von Carstein Vampire",
+	"type": "normal",
+	"undead": "true"
+}

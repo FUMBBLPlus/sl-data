@@ -1,0 +1,162 @@
+{
+	"apothecary": "Yes",
+	"id": "388",
+	"info": "Difficulty: MEDIUM\nClan Eshin are the fastest team in the game. Though they are weak they are well skilled. They specialise in swarming round the ball like a pack of rats.",
+	"logos": {
+		"128": "492498",
+		"192": "492499",
+		"32": "492494",
+		"48": "492495",
+		"64": "492496",
+		"96": "492497"
+	},
+	"name": "Clan Eshin",
+	"necromancer": "No",
+	"ownerRuleset": "69",
+	"playable": "true",
+	"positions": [
+		{
+			"cost": "50000",
+			"doubleSkills": [
+				"A",
+				"S",
+				"P",
+				"M"
+			],
+			"gender": "male",
+			"iconLetter": "L",
+			"id": "4008",
+			"normalSkills": [
+				"G"
+			],
+			"portrait": "487797",
+			"quantity": "16",
+			"skills": [],
+			"stats": {
+				"AG": "3",
+				"AV": "7",
+				"MA": "7",
+				"ST": "3"
+			},
+			"title": "Clan Rat"
+		},
+		{
+			"cost": "60000",
+			"doubleSkills": [
+				"S",
+				"P",
+				"M"
+			],
+			"gender": "male",
+			"iconLetter": "NR",
+			"id": "4009",
+			"normalSkills": [
+				"G",
+				"A"
+			],
+			"portrait": "487799",
+			"quantity": "16",
+			"skills": [
+				"Dodge"
+			],
+			"stats": {
+				"AG": "3",
+				"AV": "7",
+				"MA": "8",
+				"ST": "2"
+			},
+			"title": "Night Runner"
+		},
+		{
+			"cost": "80000",
+			"doubleSkills": [
+				"S",
+				"P",
+				"M"
+			],
+			"gender": "male",
+			"iconLetter": "GR",
+			"id": "4010",
+			"normalSkills": [
+				"G",
+				"A"
+			],
+			"portrait": "487801",
+			"quantity": "4",
+			"skills": [
+				"Dodge",
+				"Weeping Dagger"
+			],
+			"stats": {
+				"AG": "4",
+				"AV": "7",
+				"MA": "9",
+				"ST": "2"
+			},
+			"title": "Gutter Runner"
+		},
+		{
+			"cost": "110000",
+			"doubleSkills": [
+				"S",
+				"P",
+				"M"
+			],
+			"gender": "male",
+			"iconLetter": "A",
+			"id": "4011",
+			"normalSkills": [
+				"G",
+				"A"
+			],
+			"portrait": "487803",
+			"quantity": "2",
+			"skills": [
+				"Shadowing",
+				"Stab",
+				"Weeping Dagger"
+			],
+			"stats": {
+				"AG": "4",
+				"AV": "7",
+				"MA": "8",
+				"ST": "3"
+			},
+			"title": "Assassin"
+		}
+	],
+	"raisePosition": null,
+	"rerollCost": "60000",
+	"stars": [
+		{
+			"id": "3014",
+			"name": "Fezglitch"
+		},
+		{
+			"id": "3017",
+			"name": "Glart Smashrip Jr."
+		},
+		{
+			"id": "3022",
+			"name": "Hakflem Skuttlespike"
+		},
+		{
+			"id": "3023",
+			"name": "Headsplitter"
+		},
+		{
+			"id": "3039",
+			"name": "Morg 'n' Thorg"
+		},
+		{
+			"id": "3053",
+			"name": "Skitter Stab-Stab"
+		}
+	],
+	"stats": {
+		"finesse": "6",
+		"physique": "2",
+		"versatility": "4"
+	},
+	"undead": "No"
+}

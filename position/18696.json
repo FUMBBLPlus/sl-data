@@ -1,0 +1,38 @@
+{
+	"cost": 60000,
+	"doubleSkills": [
+		"G",
+		"P"
+	],
+	"gender": "male",
+	"icon": 573254,
+	"iconLetter": "Mad",
+	"id": "18696",
+	"name": "Madcap Mushroom Addict",
+	"normalSkills": [
+		"A",
+		"S"
+	],
+	"portrait": 573253,
+	"quantity": 2,
+	"race": null,
+	"roster": 2506,
+	"secretweapon": "0",
+	"skills": [
+		"Dauntless",
+		"Dodge",
+		"Mighty Blow",
+		"Right Stuff",
+		"Stunty"
+	],
+	"stats": {
+		"AG": 3,
+		"AV": 7,
+		"MA": 6,
+		"ST": 2
+	},
+	"thrall": "true",
+	"title": "Madcap Mushroom Addict",
+	"type": "normal",
+	"undead": "false"
+}

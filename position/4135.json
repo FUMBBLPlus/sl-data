@@ -1,0 +1,36 @@
+{
+	"cost": 80000,
+	"doubleSkills": [
+		"A",
+		"S"
+	],
+	"gender": "male",
+	"icon": 488174,
+	"iconLetter": "BZ",
+	"id": "4135",
+	"name": "Ballzooka",
+	"normalSkills": [
+		"G",
+		"P"
+	],
+	"portrait": 488173,
+	"quantity": 1,
+	"race": null,
+	"roster": 423,
+	"secretweapon": "0",
+	"skills": [
+		"Strong Arm",
+		"Thick Skull",
+		"Hail Mary Pass"
+	],
+	"stats": {
+		"AG": 3,
+		"AV": 8,
+		"MA": 5,
+		"ST": 3
+	},
+	"thrall": "false",
+	"title": "Ballzooka",
+	"type": "normal",
+	"undead": "false"
+}

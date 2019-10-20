@@ -1,0 +1,32 @@
+{
+	"cost": 70000,
+	"doubleSkills": [
+		"S",
+		"P"
+	],
+	"gender": "female",
+	"icon": 573240,
+	"iconLetter": "L",
+	"id": "18691",
+	"name": "Linewoman",
+	"normalSkills": [
+		"G",
+		"A"
+	],
+	"portrait": 0,
+	"quantity": 16,
+	"race": null,
+	"roster": 2505,
+	"secretweapon": "0",
+	"skills": [],
+	"stats": {
+		"AG": 4,
+		"AV": 8,
+		"MA": 6,
+		"ST": 3
+	},
+	"thrall": "false",
+	"title": "Linewoman",
+	"type": "normal",
+	"undead": "false"
+}

@@ -1,0 +1,35 @@
+{
+	"cost": 110000,
+	"doubleSkills": [
+		"A",
+		"P",
+		"M"
+	],
+	"gender": "male",
+	"icon": 574256,
+	"iconLetter": "Bes",
+	"id": "3274",
+	"name": "Bestigor",
+	"normalSkills": [
+		"G",
+		"S"
+	],
+	"portrait": 487417,
+	"quantity": 4,
+	"race": null,
+	"roster": 212,
+	"secretweapon": "0",
+	"skills": [
+		"Horns"
+	],
+	"stats": {
+		"AG": 3,
+		"AV": 8,
+		"MA": 6,
+		"ST": 4
+	},
+	"thrall": "false",
+	"title": "Bestigor",
+	"type": "normal",
+	"undead": "false"
+}

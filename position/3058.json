@@ -1,0 +1,31 @@
+{
+	"cost": 150000,
+	"doubleSkills": [],
+	"gender": "female",
+	"icon": 440142,
+	"iconLetter": "WR",
+	"id": "3058",
+	"name": "Willow Rosebark",
+	"normalSkills": [],
+	"portrait": 440129,
+	"quantity": 1,
+	"race": null,
+	"roster": 67,
+	"secretweapon": "0",
+	"skills": [
+		"Dauntless",
+		"Side Step",
+		"Thick Skull",
+		"Loner"
+	],
+	"stats": {
+		"AG": 3,
+		"AV": 8,
+		"MA": 5,
+		"ST": 4
+	},
+	"thrall": "false",
+	"title": "Willow Rosebark",
+	"type": "star",
+	"undead": "false"
+}

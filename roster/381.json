@@ -1,0 +1,166 @@
+{
+	"apothecary": "Yes",
+	"id": "381",
+	"info": "Difficulty: EASY\nNorthern Nippon teans are the antithesis of Nippon teams, sacrificing speed and finesse for toughness, and brute force. That said they are no slouches.",
+	"logos": {
+		"128": "492461",
+		"192": "492462",
+		"32": "492458",
+		"48": "492459",
+		"64": "492460",
+		"96": "492463"
+	},
+	"name": "Northern Nippon",
+	"necromancer": "No",
+	"ownerRuleset": "69",
+	"playable": "true",
+	"positions": [
+		{
+			"cost": "50000",
+			"doubleSkills": [
+				"A",
+				"S",
+				"P"
+			],
+			"gender": "male",
+			"iconLetter": "L",
+			"id": "3979",
+			"normalSkills": [
+				"G"
+			],
+			"portrait": "487743",
+			"quantity": "16",
+			"skills": [],
+			"stats": {
+				"AG": "3",
+				"AV": "8",
+				"MA": "6",
+				"ST": "3"
+			},
+			"title": "Ashigaru"
+		},
+		{
+			"cost": "90000",
+			"doubleSkills": [
+				"A",
+				"P"
+			],
+			"gender": "male",
+			"iconLetter": "BL",
+			"id": "3980",
+			"normalSkills": [
+				"G",
+				"S"
+			],
+			"portrait": "487745",
+			"quantity": "4",
+			"skills": [
+				"Block"
+			],
+			"stats": {
+				"AG": "3",
+				"AV": "8",
+				"MA": "7",
+				"ST": "3"
+			},
+			"title": "Samurai"
+		},
+		{
+			"cost": "100000",
+			"doubleSkills": [
+				"A",
+				"P"
+			],
+			"gender": "male",
+			"iconLetter": "Su",
+			"id": "3981",
+			"normalSkills": [
+				"G",
+				"S"
+			],
+			"portrait": "487747",
+			"quantity": "2",
+			"skills": [
+				"Grab",
+				"Stand Firm"
+			],
+			"stats": {
+				"AG": "2",
+				"AV": "8",
+				"MA": "4",
+				"ST": "4"
+			},
+			"title": "Sumo"
+		},
+		{
+			"cost": "170000",
+			"doubleSkills": [
+				"G",
+				"A",
+				"P"
+			],
+			"gender": "neutral",
+			"iconLetter": "Bg",
+			"id": "3982",
+			"normalSkills": [
+				"S"
+			],
+			"portrait": "487749",
+			"quantity": "1",
+			"skills": [
+				"Frenzy",
+				"Juggernaut",
+				"Claw",
+				"Horns",
+				"Loner",
+				"Regeneration",
+				"Wild Animal"
+			],
+			"stats": {
+				"AG": "1",
+				"AV": "9",
+				"MA": "5",
+				"ST": "5"
+			},
+			"title": "Oni"
+		}
+	],
+	"raisePosition": null,
+	"rerollCost": "70000",
+	"stars": [
+		{
+			"id": "3005",
+			"name": "Brick Far'th"
+		},
+		{
+			"id": "3006",
+			"name": "Grotty"
+		},
+		{
+			"id": "3018",
+			"name": "Grashnak Blackhoof"
+		},
+		{
+			"id": "3034",
+			"name": "Lewdgrip Whiparm"
+		},
+		{
+			"id": "3035",
+			"name": "Lord Borak the Despoiler"
+		},
+		{
+			"id": "3037",
+			"name": "Max Spleenripper"
+		},
+		{
+			"id": "3039",
+			"name": "Morg 'n' Thorg"
+		}
+	],
+	"stats": {
+		"finesse": "4",
+		"physique": "5",
+		"versatility": "3"
+	},
+	"undead": "No"
+}

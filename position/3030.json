@@ -1,0 +1,33 @@
+{
+	"cost": 330000,
+	"doubleSkills": [],
+	"gender": "male",
+	"icon": 436464,
+	"iconLetter": "IH",
+	"id": "3030",
+	"name": "Icepelt Hammerblow",
+	"normalSkills": [],
+	"portrait": 332764,
+	"quantity": 1,
+	"race": null,
+	"roster": 67,
+	"secretweapon": "0",
+	"skills": [
+		"Frenzy",
+		"Thick Skull",
+		"Claw",
+		"Disturbing Presence",
+		"Loner",
+		"Regeneration"
+	],
+	"stats": {
+		"AG": 1,
+		"AV": 8,
+		"MA": 5,
+		"ST": 6
+	},
+	"thrall": "false",
+	"title": "Icepelt Hammerblow",
+	"type": "star",
+	"undead": "false"
+}

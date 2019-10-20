@@ -1,0 +1,37 @@
+{
+	"cost": 120000,
+	"doubleSkills": [
+		"A",
+		"P"
+	],
+	"gender": "neutral",
+	"icon": 487755,
+	"iconLetter": "PH",
+	"id": "3985",
+	"name": "Pink Horror",
+	"normalSkills": [
+		"G",
+		"S",
+		"M"
+	],
+	"portrait": 495601,
+	"quantity": 4,
+	"race": null,
+	"roster": 382,
+	"secretweapon": "0",
+	"skills": [
+		"Extra Arms",
+		"Regeneration",
+		"Throw Team-Mate"
+	],
+	"stats": {
+		"AG": 3,
+		"AV": 8,
+		"MA": 6,
+		"ST": 4
+	},
+	"thrall": "false",
+	"title": "Pink Horror",
+	"type": "normal",
+	"undead": "false"
+}

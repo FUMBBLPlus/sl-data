@@ -1,0 +1,162 @@
+{
+	"apothecary": "Yes",
+	"id": "474",
+	"info": "Difficulty: EASY Hobgoblin Slavers are a tough nut to crack, their Troll and Black orcs make up a solid defensive line. While the Hobgoblins deal with the ball and any players on the floor.",
+	"logos": {
+		"128": "492723",
+		"192": "492724",
+		"32": "492725",
+		"48": "492726",
+		"64": "492727",
+		"96": "492722"
+	},
+	"name": "Hobgoblin Slavers",
+	"necromancer": "No",
+	"ownerRuleset": "69",
+	"playable": "true",
+	"positions": [
+		{
+			"cost": "40000",
+			"doubleSkills": [
+				"A",
+				"S",
+				"P"
+			],
+			"gender": "male",
+			"iconLetter": "H",
+			"id": "4459",
+			"normalSkills": [
+				"G"
+			],
+			"portrait": "488749",
+			"quantity": "16",
+			"skills": [],
+			"stats": {
+				"AG": "3",
+				"AV": "7",
+				"MA": "6",
+				"ST": "3"
+			},
+			"title": "Hobgoblin"
+		},
+		{
+			"cost": "80000",
+			"doubleSkills": [
+				"S",
+				"P"
+			],
+			"gender": "neutral",
+			"iconLetter": "S",
+			"id": "4462",
+			"normalSkills": [
+				"G",
+				"A"
+			],
+			"portrait": "488751",
+			"quantity": "4",
+			"skills": [
+				"Dodge",
+				"Sneaky Git",
+				"Stab"
+			],
+			"stats": {
+				"AG": "3",
+				"AV": "7",
+				"MA": "6",
+				"ST": "3"
+			},
+			"title": "Sneaky Git"
+		},
+		{
+			"cost": "80000",
+			"doubleSkills": [
+				"A",
+				"P"
+			],
+			"gender": "neutral",
+			"iconLetter": "BoB",
+			"id": "4464",
+			"normalSkills": [
+				"G",
+				"S"
+			],
+			"portrait": "488753",
+			"quantity": "4",
+			"skills": [
+				"Animosity"
+			],
+			"stats": {
+				"AG": "2",
+				"AV": "9",
+				"MA": "4",
+				"ST": "4"
+			},
+			"title": "Black Orc Blocker"
+		},
+		{
+			"cost": "110000",
+			"doubleSkills": [
+				"G",
+				"A",
+				"P"
+			],
+			"gender": "male",
+			"iconLetter": "T",
+			"id": "4465",
+			"normalSkills": [
+				"S"
+			],
+			"portrait": "488755",
+			"quantity": "1",
+			"skills": [
+				"Mighty Blow",
+				"Always Hungry",
+				"Loner",
+				"Really Stupid",
+				"Regeneration",
+				"Throw Team-Mate"
+			],
+			"stats": {
+				"AG": "1",
+				"AV": "9",
+				"MA": "4",
+				"ST": "5"
+			},
+			"title": "Troll"
+		}
+	],
+	"raisePosition": null,
+	"rerollCost": "60000",
+	"stars": [
+		{
+			"id": "3018",
+			"name": "Grashnak Blackhoof"
+		},
+		{
+			"id": "3027",
+			"name": "Hthark the Unstoppable"
+		},
+		{
+			"id": "3039",
+			"name": "Morg 'n' Thorg"
+		},
+		{
+			"id": "3040",
+			"name": "Nobbla Blackwart"
+		},
+		{
+			"id": "3046",
+			"name": "Rashnak Backstabber"
+		},
+		{
+			"id": "3060",
+			"name": "Zzharg Madeye"
+		}
+	],
+	"stats": {
+		"finesse": "3",
+		"physique": "5",
+		"versatility": "3"
+	},
+	"undead": "No"
+}

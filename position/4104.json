@@ -1,0 +1,32 @@
+{
+	"cost": 60000,
+	"doubleSkills": [
+		"S",
+		"P"
+	],
+	"gender": "female",
+	"icon": 488083,
+	"iconLetter": "L",
+	"id": "4104",
+	"name": "Priestess",
+	"normalSkills": [
+		"G",
+		"A"
+	],
+	"portrait": 488082,
+	"quantity": 16,
+	"race": null,
+	"roster": 416,
+	"secretweapon": "0",
+	"skills": [],
+	"stats": {
+		"AG": 4,
+		"AV": 7,
+		"MA": 6,
+		"ST": 3
+	},
+	"thrall": "false",
+	"title": "Priestess",
+	"type": "normal",
+	"undead": "false"
+}

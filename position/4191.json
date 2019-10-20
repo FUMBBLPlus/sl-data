@@ -1,0 +1,36 @@
+{
+	"cost": 60000,
+	"doubleSkills": [
+		"S"
+	],
+	"gender": "neutral",
+	"icon": 488303,
+	"iconLetter": "L",
+	"id": "4191",
+	"name": "Air Elemental",
+	"normalSkills": [
+		"G",
+		"A",
+		"P"
+	],
+	"portrait": 488302,
+	"quantity": 16,
+	"race": null,
+	"roster": 431,
+	"secretweapon": "0",
+	"skills": [
+		"Diving Catch",
+		"Leap",
+		"Very Long Legs"
+	],
+	"stats": {
+		"AG": 3,
+		"AV": 7,
+		"MA": 7,
+		"ST": 3
+	},
+	"thrall": "false",
+	"title": "Air Elemental",
+	"type": "normal",
+	"undead": "false"
+}

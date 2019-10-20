@@ -1,0 +1,37 @@
+{
+	"cost": 80000,
+	"doubleSkills": [
+		"A",
+		"P"
+	],
+	"gender": "neutral",
+	"icon": 488385,
+	"iconLetter": "Fw",
+	"id": "4223",
+	"name": "Forward",
+	"normalSkills": [
+		"G",
+		"S"
+	],
+	"portrait": 488386,
+	"quantity": 4,
+	"race": null,
+	"roster": 438,
+	"secretweapon": "0",
+	"skills": [
+		"Fend",
+		"Diving Tackle",
+		"Dump-Off",
+		"Nerves Of Steel"
+	],
+	"stats": {
+		"AG": 3,
+		"AV": 8,
+		"MA": 6,
+		"ST": 3
+	},
+	"thrall": "false",
+	"title": "Forward",
+	"type": "normal",
+	"undead": "false"
+}

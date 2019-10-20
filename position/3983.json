@@ -1,0 +1,38 @@
+{
+	"cost": 40000,
+	"doubleSkills": [
+		"G",
+		"S",
+		"P"
+	],
+	"gender": "neutral",
+	"icon": 487751,
+	"iconLetter": "BH",
+	"id": "3983",
+	"name": "Blue Horror",
+	"normalSkills": [
+		"A",
+		"M"
+	],
+	"portrait": 487752,
+	"quantity": 16,
+	"race": null,
+	"roster": 382,
+	"secretweapon": "0",
+	"skills": [
+		"Dodge",
+		"Big Hand",
+		"Right Stuff",
+		"Stunty"
+	],
+	"stats": {
+		"AG": 3,
+		"AV": 7,
+		"MA": 6,
+		"ST": 2
+	},
+	"thrall": "false",
+	"title": "Blue Horror",
+	"type": "normal",
+	"undead": "false"
+}

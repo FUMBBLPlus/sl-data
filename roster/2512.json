@@ -1,0 +1,204 @@
+{
+	"apothecary": "Yes",
+	"id": "2512",
+	"info": "DIFFICULTY: VERY HARD\nGnoblar teams are famed for cheating. They are known for kicking opposing players when they are down at every opportunity. They have also found all new ways of cheating, using trip ropes to take down players, and the most bizarre of all, having one Gnoblar sitting on anthers sh",
+	"logos": {
+		"128": "573319",
+		"192": "573318",
+		"32": "573323",
+		"48": "573322",
+		"64": "573321",
+		"96": "573320"
+	},
+	"name": "Gnoblar",
+	"necromancer": "No",
+	"ownerRuleset": "69",
+	"playable": "true",
+	"positions": [
+		{
+			"cost": "30000",
+			"doubleSkills": [
+				"G",
+				"S",
+				"P"
+			],
+			"gender": "male",
+			"iconLetter": "L",
+			"id": "18722",
+			"normalSkills": [
+				"A"
+			],
+			"portrait": "573324",
+			"quantity": "16",
+			"skills": [
+				"Dodge",
+				"Right Stuff",
+				"Stunty"
+			],
+			"stats": {
+				"AG": "3",
+				"AV": "6",
+				"MA": "6",
+				"ST": "2"
+			},
+			"title": "Gnoblar"
+		},
+		{
+			"cost": "50000",
+			"doubleSkills": [
+				"G",
+				"S",
+				"P"
+			],
+			"gender": "male",
+			"iconLetter": "Tr",
+			"id": "18723",
+			"normalSkills": [
+				"A"
+			],
+			"portrait": "573326",
+			"quantity": "2",
+			"skills": [
+				"Dodge",
+				"Prehensile Tail",
+				"Right Stuff",
+				"Stunty"
+			],
+			"stats": {
+				"AG": "3",
+				"AV": "7",
+				"MA": "6",
+				"ST": "2"
+			},
+			"title": "Trapper"
+		},
+		{
+			"cost": "50000",
+			"doubleSkills": [
+				"G",
+				"S",
+				"P"
+			],
+			"gender": "male",
+			"iconLetter": "Bite",
+			"id": "18724",
+			"normalSkills": [
+				"A"
+			],
+			"portrait": "573329",
+			"quantity": "2",
+			"skills": [
+				"Dirty Player",
+				"Dodge",
+				"Right Stuff",
+				"Stunty"
+			],
+			"stats": {
+				"AG": "3",
+				"AV": "7",
+				"MA": "6",
+				"ST": "2"
+			},
+			"title": "Manbiter"
+		},
+		{
+			"cost": "70000",
+			"doubleSkills": [
+				"G",
+				"S",
+				"P"
+			],
+			"gender": "male",
+			"iconLetter": "Pig",
+			"id": "18725",
+			"normalSkills": [
+				"A"
+			],
+			"portrait": null,
+			"quantity": "2",
+			"skills": [
+				"Sure Hands",
+				"Dodge",
+				"Extra Arms",
+				"Two Heads",
+				"Right Stuff",
+				"Stunty"
+			],
+			"stats": {
+				"AG": "3",
+				"AV": "7",
+				"MA": "6",
+				"ST": "3"
+			},
+			"title": "Piggyback Rider"
+		},
+		{
+			"cost": "150000",
+			"doubleSkills": [
+				"G",
+				"A",
+				"P"
+			],
+			"gender": "male",
+			"iconLetter": "Big",
+			"id": "18726",
+			"normalSkills": [
+				"S"
+			],
+			"portrait": "573332",
+			"quantity": "2",
+			"skills": [
+				"Tackle",
+				"Mighty Blow",
+				"Thick Skull",
+				"Bone-head",
+				"Throw Team-Mate"
+			],
+			"stats": {
+				"AG": "2",
+				"AV": "9",
+				"MA": "5",
+				"ST": "5"
+			},
+			"title": "Maneater"
+		}
+	],
+	"raisePosition": null,
+	"rerollCost": "70000",
+	"stars": [
+		{
+			"id": "3004",
+			"name": "Bertha Bigfist"
+		},
+		{
+			"id": "3005",
+			"name": "Brick Far'th"
+		},
+		{
+			"id": "3006",
+			"name": "Grotty"
+		},
+		{
+			"id": "3007",
+			"name": "Bomber Dribblesnot"
+		},
+		{
+			"id": "3039",
+			"name": "Morg 'n' Thorg"
+		},
+		{
+			"id": "3040",
+			"name": "Nobbla Blackwart"
+		},
+		{
+			"id": "3049",
+			"name": "Scrappa Sorehead"
+		}
+	],
+	"stats": {
+		"finesse": "2",
+		"physique": "2",
+		"versatility": "2"
+	},
+	"undead": "No"
+}

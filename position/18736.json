@@ -1,0 +1,35 @@
+{
+	"cost": 80000,
+	"doubleSkills": [
+		"A",
+		"P",
+		"M"
+	],
+	"gender": "neutral",
+	"icon": 573423,
+	"iconLetter": "Mech",
+	"id": "18736",
+	"name": "Mecha Vermin",
+	"normalSkills": [
+		"G",
+		"S"
+	],
+	"portrait": 573422,
+	"quantity": 2,
+	"race": "",
+	"roster": 393,
+	"secretweapon": "0",
+	"skills": [
+		"Thick Skull"
+	],
+	"stats": {
+		"AG": 1,
+		"AV": 9,
+		"MA": 5,
+		"ST": 4
+	},
+	"thrall": "false",
+	"title": "Mecha Vermin",
+	"type": "normal",
+	"undead": "false"
+}

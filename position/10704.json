@@ -1,0 +1,36 @@
+{
+	"cost": 90000,
+	"doubleSkills": [
+		"S",
+		"P"
+	],
+	"gender": "neutral",
+	"icon": 523828,
+	"iconLetter": "JR",
+	"id": "10704",
+	"name": "Jackal Runner",
+	"normalSkills": [
+		"G",
+		"A"
+	],
+	"portrait": 0,
+	"quantity": 2,
+	"race": null,
+	"roster": 1396,
+	"secretweapon": "0",
+	"skills": [
+		"Tackle",
+		"Dodge",
+		"Regeneration"
+	],
+	"stats": {
+		"AG": 2,
+		"AV": 7,
+		"MA": 7,
+		"ST": 3
+	},
+	"thrall": "false",
+	"title": "Jackal Runner",
+	"type": "normal",
+	"undead": "true"
+}

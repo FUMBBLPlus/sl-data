@@ -1,0 +1,36 @@
+{
+	"cost": 60000,
+	"doubleSkills": [
+		"A",
+		"S",
+		"P"
+	],
+	"gender": "neutral",
+	"icon": 487404,
+	"iconLetter": "CDM",
+	"id": "3281",
+	"name": "Chaos Dwarf Mutant",
+	"normalSkills": [
+		"G",
+		"M"
+	],
+	"portrait": 487405,
+	"quantity": 2,
+	"race": null,
+	"roster": 215,
+	"secretweapon": "0",
+	"skills": [
+		"Block",
+		"Thick Skull"
+	],
+	"stats": {
+		"AG": 2,
+		"AV": 9,
+		"MA": 4,
+		"ST": 3
+	},
+	"thrall": "false",
+	"title": "Chaos Dwarf Mutant",
+	"type": "normal",
+	"undead": "false"
+}

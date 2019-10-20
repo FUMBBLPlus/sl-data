@@ -1,0 +1,38 @@
+{
+	"cost": 50000,
+	"doubleSkills": [
+		"G",
+		"A",
+		"S",
+		"P"
+	],
+	"gender": "female",
+	"icon": 591389,
+	"iconLetter": "CP",
+	"id": "21134",
+	"name": "Cindy Piewhistle",
+	"normalSkills": [],
+	"portrait": 591388,
+	"quantity": 1,
+	"race": "",
+	"roster": 67,
+	"secretweapon": "0",
+	"skills": [
+		"Dodge",
+		"Accurate",
+		"Bombardier",
+		"Loner",
+		"Secret Weapon",
+		"Stunty"
+	],
+	"stats": {
+		"AG": 3,
+		"AV": 6,
+		"MA": 5,
+		"ST": 2
+	},
+	"thrall": "false",
+	"title": "Cindy Piewhistle",
+	"type": "star",
+	"undead": "false"
+}

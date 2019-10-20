@@ -1,0 +1,37 @@
+{
+	"cost": 140000,
+	"doubleSkills": [
+		"G",
+		"A",
+		"P"
+	],
+	"gender": "male",
+	"icon": 488399,
+	"iconLetter": "Yh",
+	"id": "4251",
+	"name": "Yheti",
+	"normalSkills": [
+		"S"
+	],
+	"portrait": 488400,
+	"quantity": 1,
+	"race": null,
+	"roster": 442,
+	"secretweapon": "0",
+	"skills": [
+		"Frenzy",
+		"Claw",
+		"Disturbing Presence",
+		"Wild Animal"
+	],
+	"stats": {
+		"AG": 1,
+		"AV": 8,
+		"MA": 5,
+		"ST": 5
+	},
+	"thrall": "false",
+	"title": "Yheti",
+	"type": "normal",
+	"undead": "false"
+}

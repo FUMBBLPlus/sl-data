@@ -1,0 +1,197 @@
+{
+	"apothecary": "Yes",
+	"id": "385",
+	"info": "Difficulty: MEDIUM\nSavage Orcs lack armour and control, but they are deadly on offence. Managing this much Frenzy is tough, so good planning and an experienced mind are key.",
+	"logos": {
+		"128": "492486",
+		"192": "492487",
+		"32": "492482",
+		"48": "492483",
+		"64": "492484",
+		"96": "492485"
+	},
+	"name": "Savage Orc",
+	"necromancer": "No",
+	"ownerRuleset": "69",
+	"playable": "true",
+	"positions": [
+		{
+			"cost": "50000",
+			"doubleSkills": [
+				"A",
+				"P"
+			],
+			"gender": "male",
+			"iconLetter": "L",
+			"id": "3997",
+			"normalSkills": [
+				"G",
+				"S"
+			],
+			"portrait": "487779",
+			"quantity": "16",
+			"skills": [
+				"Frenzy",
+				"Thick Skull"
+			],
+			"stats": {
+				"AG": "3",
+				"AV": "7",
+				"MA": "6",
+				"ST": "3"
+			},
+			"title": "Savage Lineman"
+		},
+		{
+			"cost": "80000",
+			"doubleSkills": [
+				"A",
+				"P"
+			],
+			"gender": "male",
+			"iconLetter": "B",
+			"id": "3998",
+			"normalSkills": [
+				"G",
+				"S"
+			],
+			"portrait": "487782",
+			"quantity": "4",
+			"skills": [
+				"Frenzy",
+				"Thick Skull"
+			],
+			"stats": {
+				"AG": "2",
+				"AV": "7",
+				"MA": "5",
+				"ST": "4"
+			},
+			"title": "Savage Blocker"
+		},
+		{
+			"cost": "90000",
+			"doubleSkills": [
+				"A",
+				"P"
+			],
+			"gender": "male",
+			"iconLetter": "BL",
+			"id": "3999",
+			"normalSkills": [
+				"G",
+				"S"
+			],
+			"portrait": "487783",
+			"quantity": "4",
+			"skills": [
+				"Block",
+				"Frenzy",
+				"Thick Skull"
+			],
+			"stats": {
+				"AG": "3",
+				"AV": "7",
+				"MA": "7",
+				"ST": "3"
+			},
+			"title": "Savage Blitzer"
+		},
+		{
+			"cost": "150000",
+			"doubleSkills": [
+				"G",
+				"A",
+				"P"
+			],
+			"gender": "neutral",
+			"iconLetter": "Bg",
+			"id": "4000",
+			"normalSkills": [
+				"S"
+			],
+			"portrait": "487785",
+			"quantity": "1",
+			"skills": [
+				"Mighty Blow",
+				"Thick Skull",
+				"Disturbing Presence",
+				"Prehensile Tail",
+				"Bone-head",
+				"Loner"
+			],
+			"stats": {
+				"AG": "1",
+				"AV": "9",
+				"MA": "5",
+				"ST": "5"
+			},
+			"title": "Troglodyte"
+		},
+		{
+			"cost": "110000",
+			"doubleSkills": [
+				"G",
+				"A",
+				"P"
+			],
+			"gender": "neutral",
+			"iconLetter": "Bg",
+			"id": "4001",
+			"normalSkills": [
+				"S"
+			],
+			"portrait": "487787",
+			"quantity": "0",
+			"skills": [
+				"Mighty Blow",
+				"Always Hungry",
+				"Loner",
+				"Really Stupid",
+				"Regeneration",
+				"Throw Team-Mate"
+			],
+			"stats": {
+				"AG": "1",
+				"AV": "9",
+				"MA": "4",
+				"ST": "5"
+			},
+			"title": "River Troll"
+		}
+	],
+	"raisePosition": null,
+	"rerollCost": "60000",
+	"stars": [
+		{
+			"id": "3007",
+			"name": "Bomber Dribblesnot"
+		},
+		{
+			"id": "3039",
+			"name": "Morg 'n' Thorg"
+		},
+		{
+			"id": "3047",
+			"name": "Ripper Bolgrot"
+		},
+		{
+			"id": "3049",
+			"name": "Scrappa Sorehead"
+		},
+		{
+			"id": "3055",
+			"name": "Ugroth Bolgrot"
+		},
+		{
+			"id": "3056",
+			"name": "Varag Ghoul-Chewer"
+		}
+	],
+	"stats": {
+		"finesse": "3",
+		"physique": "5",
+		"versatility": "2"
+	},
+	"undead": "No"
+}

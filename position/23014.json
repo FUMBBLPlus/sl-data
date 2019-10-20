@@ -1,0 +1,37 @@
+{
+	"cost": 120000,
+	"doubleSkills": [
+		"G",
+		"A",
+		"P"
+	],
+	"gender": "neutral",
+	"icon": 596862,
+	"iconLetter": "RG",
+	"id": "23014",
+	"name": "Rune Golem",
+	"normalSkills": [
+		"S"
+	],
+	"portrait": 0,
+	"quantity": 1,
+	"race": null,
+	"roster": 3134,
+	"secretweapon": "0",
+	"skills": [
+		"Mighty Blow",
+		"Thick Skull",
+		"Bone-head",
+		"Loner"
+	],
+	"stats": {
+		"AG": 1,
+		"AV": 10,
+		"MA": 3,
+		"ST": 5
+	},
+	"thrall": "false",
+	"title": "Rune Golem",
+	"type": "bigguy",
+	"undead": "false"
+}

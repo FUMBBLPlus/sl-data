@@ -1,0 +1,135 @@
+{
+	"apothecary": "No",
+	"id": "410",
+	"info": "Difficulty: EASY\nNecrarch Vampires have mastered their blood lust, though with it they are weaker and more grotesque than other vampires because of this they are always supported by Wights.",
+	"logos": {
+		"128": "492581",
+		"192": "492582",
+		"32": "492578",
+		"48": "492579",
+		"64": "492580",
+		"96": "492583"
+	},
+	"name": "Necrarch",
+	"necromancer": "Yes",
+	"ownerRuleset": "69",
+	"playable": "true",
+	"positions": [
+		{
+			"cost": "40000",
+			"doubleSkills": [
+				"A",
+				"S",
+				"P"
+			],
+			"gender": "male",
+			"iconLetter": "L",
+			"id": "4084",
+			"normalSkills": [
+				"G"
+			],
+			"portrait": "488042",
+			"quantity": "16",
+			"skills": [
+				"Thick Skull",
+				"Regeneration"
+			],
+			"stats": {
+				"AG": "2",
+				"AV": "7",
+				"MA": "5",
+				"ST": "3"
+			},
+			"title": "Skeleton"
+		},
+		{
+			"cost": "90000",
+			"doubleSkills": [
+				"A",
+				"P"
+			],
+			"gender": "male",
+			"iconLetter": "BL",
+			"id": "4086",
+			"normalSkills": [
+				"G",
+				"S"
+			],
+			"portrait": "488044",
+			"quantity": "2",
+			"skills": [
+				"Block",
+				"Regeneration"
+			],
+			"stats": {
+				"AG": "3",
+				"AV": "8",
+				"MA": "6",
+				"ST": "3"
+			},
+			"title": "Wight"
+		},
+		{
+			"cost": "110000",
+			"doubleSkills": [
+				"P"
+			],
+			"gender": "male",
+			"iconLetter": "V",
+			"id": "4087",
+			"normalSkills": [
+				"G",
+				"A",
+				"S"
+			],
+			"portrait": "488046",
+			"quantity": "4",
+			"skills": [
+				"Hypnotic Gaze",
+				"Regeneration",
+				"Foul Appearance"
+			],
+			"stats": {
+				"AG": "4",
+				"AV": "8",
+				"MA": "6",
+				"ST": "3"
+			},
+			"title": "Necrarch Vampire"
+		}
+	],
+	"raisePosition": "4084",
+	"rerollCost": "70000",
+	"stars": [
+		{
+			"id": "3009",
+			"name": "Count Luthor Von Drakenborg"
+		},
+		{
+			"id": "3021",
+			"name": "Hack Enslash"
+		},
+		{
+			"id": "3032",
+			"name": "J Earlice"
+		},
+		{
+			"id": "3045",
+			"name": "Ramtut III"
+		},
+		{
+			"id": "3050",
+			"name": "Setekh"
+		},
+		{
+			"id": "3052",
+			"name": "Sinnedbad"
+		}
+	],
+	"stats": {
+		"finesse": "4",
+		"physique": "4",
+		"versatility": "4"
+	},
+	"undead": "Yes"
+}

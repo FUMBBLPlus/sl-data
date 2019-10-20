@@ -1,0 +1,35 @@
+{
+	"cost": 100000,
+	"doubleSkills": [
+		"P",
+		"S"
+	],
+	"gender": "male",
+	"icon": 523662,
+	"iconLetter": "Be",
+	"id": "10699",
+	"name": "Shape Changer - Bear",
+	"normalSkills": [
+		"G",
+		"A"
+	],
+	"portrait": 571114,
+	"quantity": 2,
+	"race": null,
+	"roster": 1395,
+	"secretweapon": "0",
+	"skills": [
+		"Dauntless",
+		"Claw"
+	],
+	"stats": {
+		"AG": 4,
+		"AV": 8,
+		"MA": 6,
+		"ST": 3
+	},
+	"thrall": "false",
+	"title": "Shape Changer - Bear",
+	"type": "normal",
+	"undead": "false"
+}

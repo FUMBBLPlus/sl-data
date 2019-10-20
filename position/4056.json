@@ -1,0 +1,41 @@
+{
+	"cost": 150000,
+	"doubleSkills": [
+		"G",
+		"A",
+		"P"
+	],
+	"gender": "neutral",
+	"icon": 487890,
+	"iconLetter": "PW",
+	"id": "4056",
+	"name": "Snotling Pump Wagon",
+	"normalSkills": [
+		"S"
+	],
+	"portrait": 487889,
+	"quantity": 2,
+	"race": null,
+	"roster": 399,
+	"secretweapon": "0",
+	"skills": [
+		"Dirty Player",
+		"Break Tackle",
+		"Juggernaut",
+		"Mighty Blow",
+		"Stand Firm",
+		"Loner",
+		"No Hands",
+		"Secret Weapon"
+	],
+	"stats": {
+		"AG": 1,
+		"AV": 9,
+		"MA": 5,
+		"ST": 7
+	},
+	"thrall": "false",
+	"title": "Snotling Pump Wagon",
+	"type": "normal",
+	"undead": "false"
+}

@@ -1,0 +1,36 @@
+{
+	"cost": 210000,
+	"doubleSkills": [
+		"G",
+		"A",
+		"S",
+		"P"
+	],
+	"gender": "neutral",
+	"icon": 563513,
+	"iconLetter": "GP",
+	"id": "17478",
+	"name": "Guffle Pusmaw",
+	"normalSkills": [],
+	"portrait": 563835,
+	"quantity": 1,
+	"race": null,
+	"roster": 67,
+	"secretweapon": "0",
+	"skills": [
+		"Foul Appearance",
+		"Loner",
+		"Nurgle's Rot",
+		"Monstrous Mouth"
+	],
+	"stats": {
+		"AG": 4,
+		"AV": 9,
+		"MA": 5,
+		"ST": 3
+	},
+	"thrall": "false",
+	"title": "Guffle Pusmaw",
+	"type": "star",
+	"undead": "false"
+}

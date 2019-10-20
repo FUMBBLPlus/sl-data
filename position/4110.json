@@ -1,0 +1,38 @@
+{
+	"cost": 70000,
+	"doubleSkills": [
+		"A",
+		"S",
+		"P"
+	],
+	"gender": "neutral",
+	"icon": 574111,
+	"iconLetter": "L",
+	"id": "4110",
+	"name": "Drone",
+	"normalSkills": [
+		"G"
+	],
+	"portrait": 488105,
+	"quantity": 16,
+	"race": null,
+	"roster": 418,
+	"secretweapon": "0",
+	"skills": [
+		"Thick Skull",
+		"Big Hand",
+		"Foul Appearance",
+		"Two Heads",
+		"Regeneration"
+	],
+	"stats": {
+		"AG": 3,
+		"AV": 7,
+		"MA": 5,
+		"ST": 3
+	},
+	"thrall": "false",
+	"title": "Drone",
+	"type": "normal",
+	"undead": "false"
+}

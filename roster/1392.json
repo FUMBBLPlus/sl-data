@@ -1,0 +1,159 @@
+{
+	"apothecary": "Yes",
+	"id": "1392",
+	"info": "DIFFICULTY: MEDIUM - Khainite Assassins lack core skills, so life in their early games will be tough, but once they get going they can become very difficult to stop.",
+	"logos": {
+		"128": "523613",
+		"192": "523612",
+		"32": "523617",
+		"48": "523616",
+		"64": "523615",
+		"96": "523614"
+	},
+	"name": "Khainite Assassins",
+	"necromancer": "No",
+	"ownerRuleset": "69",
+	"playable": "true",
+	"positions": [
+		{
+			"cost": "60000",
+			"doubleSkills": [
+				"S",
+				"P"
+			],
+			"gender": "male",
+			"iconLetter": "L",
+			"id": "10686",
+			"normalSkills": [
+				"G",
+				"A"
+			],
+			"portrait": null,
+			"quantity": "16",
+			"skills": [],
+			"stats": {
+				"AG": "4",
+				"AV": "7",
+				"MA": "6",
+				"ST": "3"
+			},
+			"title": "Neophyte"
+		},
+		{
+			"cost": "80000",
+			"doubleSkills": [
+				"S",
+				"P"
+			],
+			"gender": "male",
+			"iconLetter": "A",
+			"id": "10687",
+			"normalSkills": [
+				"G",
+				"A"
+			],
+			"portrait": "523618",
+			"quantity": "4",
+			"skills": [
+				"Shadowing",
+				"Stab"
+			],
+			"stats": {
+				"AG": "4",
+				"AV": "7",
+				"MA": "6",
+				"ST": "3"
+			},
+			"title": "Assassin"
+		},
+		{
+			"cost": "100000",
+			"doubleSkills": [
+				"S",
+				"P"
+			],
+			"gender": "male",
+			"iconLetter": "Sb",
+			"id": "10688",
+			"normalSkills": [
+				"G",
+				"A"
+			],
+			"portrait": null,
+			"quantity": "2",
+			"skills": [
+				"Shadowing",
+				"Dodge",
+				"Stab"
+			],
+			"stats": {
+				"AG": "4",
+				"AV": "8",
+				"MA": "7",
+				"ST": "3"
+			},
+			"title": "Shadow Blade"
+		},
+		{
+			"cost": "70000",
+			"doubleSkills": [
+				"P"
+			],
+			"gender": "male",
+			"iconLetter": "Ex",
+			"id": "10689",
+			"normalSkills": [
+				"G",
+				"A",
+				"S"
+			],
+			"portrait": null,
+			"quantity": "1",
+			"skills": [
+				"Chainsaw",
+				"Secret Weapon"
+			],
+			"stats": {
+				"AG": "4",
+				"AV": "8",
+				"MA": "6",
+				"ST": "3"
+			},
+			"title": "Executioner"
+		}
+	],
+	"raisePosition": null,
+	"rerollCost": "50000",
+	"stars": [
+		{
+			"id": "3013",
+			"name": "Eldril Sidewinder"
+		},
+		{
+			"id": "3026",
+			"name": "Horkon Heartripper"
+		},
+		{
+			"id": "3028",
+			"name": "Hubris Rakarth"
+		},
+		{
+			"id": "3031",
+			"name": "Ithaca Benoin"
+		},
+		{
+			"id": "3039",
+			"name": "Morg 'n' Thorg"
+		},
+		{
+			"id": "3048",
+			"name": "Roxanna Darknail"
+		}
+	],
+	"stats": {
+		"finesse": "5",
+		"physique": "3",
+		"versatility": "5"
+	},
+	"undead": "No"
+}

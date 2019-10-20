@@ -1,0 +1,141 @@
+{
+	"apothecary": "Yes",
+	"id": "379",
+	"info": "Difficulty: VERY HARD\nNautican teams are fast but weak their game plan is simple, break down the opposing team with bombs, scoop the ball up and run away, while the Giant Crabs add a much needed punch to the team.",
+	"logos": {
+		"128": "492449",
+		"192": "492450",
+		"32": "492445",
+		"48": "492446",
+		"64": "492447",
+		"96": "492448"
+	},
+	"name": "Nautican",
+	"necromancer": "No",
+	"ownerRuleset": "69",
+	"playable": "true",
+	"positions": [
+		{
+			"cost": "60000",
+			"doubleSkills": [
+				"G",
+				"S",
+				"P"
+			],
+			"gender": "neutral",
+			"iconLetter": "L",
+			"id": "3972",
+			"normalSkills": [
+				"A"
+			],
+			"portrait": "487722",
+			"quantity": "16",
+			"skills": [
+				"Dodge",
+				"Big Hand",
+				"Right Stuff",
+				"Stunty"
+			],
+			"stats": {
+				"AG": "3",
+				"AV": "7",
+				"MA": "7",
+				"ST": "2"
+			},
+			"title": "Crester"
+		},
+		{
+			"cost": "50000",
+			"doubleSkills": [
+				"A",
+				"P"
+			],
+			"gender": "neutral",
+			"iconLetter": "Ig",
+			"id": "3973",
+			"normalSkills": [
+				"G",
+				"S"
+			],
+			"portrait": "487725",
+			"quantity": "4",
+			"skills": [
+				"Dauntless",
+				"Jump Up",
+				"Stand Firm",
+				"Regeneration"
+			],
+			"stats": {
+				"AG": "2",
+				"AV": "9",
+				"MA": "4",
+				"ST": "2"
+			},
+			"title": "Ignimbrite"
+		},
+		{
+			"cost": "140000",
+			"doubleSkills": [
+				"G",
+				"A",
+				"P"
+			],
+			"gender": "neutral",
+			"iconLetter": "BG",
+			"id": "3974",
+			"normalSkills": [
+				"S"
+			],
+			"portrait": "487727",
+			"quantity": "2",
+			"skills": [
+				"Side Step",
+				"Claw",
+				"Always Hungry",
+				"Bone-head",
+				"Throw Team-Mate"
+			],
+			"stats": {
+				"AG": "1",
+				"AV": "9",
+				"MA": "4",
+				"ST": "5"
+			},
+			"title": "Giant Crab"
+		}
+	],
+	"raisePosition": null,
+	"rerollCost": "60000",
+	"stars": [
+		{
+			"id": "3024",
+			"name": "Helmut Wulf"
+		},
+		{
+			"id": "3025",
+			"name": "Hemlock"
+		},
+		{
+			"id": "3036",
+			"name": "Lottabottol"
+		},
+		{
+			"id": "3039",
+			"name": "Morg 'n' Thorg"
+		},
+		{
+			"id": "3044",
+			"name": "Quetzal Leap"
+		},
+		{
+			"id": "3051",
+			"name": "Slibli"
+		}
+	],
+	"stats": {
+		"finesse": "4",
+		"physique": "2",
+		"versatility": "2"
+	},
+	"undead": "No"
+}

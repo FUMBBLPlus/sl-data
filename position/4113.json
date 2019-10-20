@@ -1,0 +1,35 @@
+{
+	"cost": 50000,
+	"doubleSkills": [
+		"S",
+		"P",
+		"M"
+	],
+	"gender": "male",
+	"icon": 528203,
+	"iconLetter": "L",
+	"id": "4113",
+	"name": "Ungor",
+	"normalSkills": [
+		"G",
+		"A"
+	],
+	"portrait": 488118,
+	"quantity": 16,
+	"race": null,
+	"roster": 419,
+	"secretweapon": "0",
+	"skills": [
+		"Dodge"
+	],
+	"stats": {
+		"AG": 3,
+		"AV": 7,
+		"MA": 7,
+		"ST": 2
+	},
+	"thrall": "false",
+	"title": "Ungor",
+	"type": "normal",
+	"undead": "false"
+}

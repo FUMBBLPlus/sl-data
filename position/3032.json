@@ -1,0 +1,32 @@
+{
+	"cost": 180000,
+	"doubleSkills": [],
+	"gender": "male",
+	"icon": 436466,
+	"iconLetter": "JE",
+	"id": "3032",
+	"name": "J Earlice",
+	"normalSkills": [],
+	"portrait": 440124,
+	"quantity": 1,
+	"race": null,
+	"roster": 67,
+	"secretweapon": "0",
+	"skills": [
+		"Catch",
+		"Diving Catch",
+		"Dodge",
+		"Sprint",
+		"Loner"
+	],
+	"stats": {
+		"AG": 3,
+		"AV": 7,
+		"MA": 8,
+		"ST": 3
+	},
+	"thrall": "false",
+	"title": "J Earlice",
+	"type": "star",
+	"undead": "false"
+}

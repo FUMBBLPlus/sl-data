@@ -1,0 +1,191 @@
+{
+	"apothecary": "Yes",
+	"id": "1391",
+	"info": "DIFFICULTY: MEDIUM Border Princes have a nice mix of skills, and speed. In many ways they are a jack of all trades and master of none. What they lack in armour and organization, they make up for with a hardy tenacity.",
+	"logos": {
+		"128": "523606",
+		"192": "523605",
+		"32": "523609",
+		"48": "523608",
+		"64": "523607",
+		"96": "523611"
+	},
+	"name": "Border Princes",
+	"necromancer": "No",
+	"ownerRuleset": "69",
+	"playable": "true",
+	"positions": [
+		{
+			"cost": "50000",
+			"doubleSkills": [
+				"A",
+				"S",
+				"P"
+			],
+			"gender": "male",
+			"iconLetter": "L",
+			"id": "10681",
+			"normalSkills": [
+				"G"
+			],
+			"portrait": "523594",
+			"quantity": "16",
+			"skills": [
+				"Thick Skull"
+			],
+			"stats": {
+				"AG": "3",
+				"AV": "7",
+				"MA": "6",
+				"ST": "3"
+			},
+			"title": "Linemen"
+		},
+		{
+			"cost": "70000",
+			"doubleSkills": [
+				"S",
+				"P"
+			],
+			"gender": "male",
+			"iconLetter": "R",
+			"id": "10682",
+			"normalSkills": [
+				"G",
+				"A"
+			],
+			"portrait": "523597",
+			"quantity": "2",
+			"skills": [
+				"Sure Hands",
+				"Thick Skull"
+			],
+			"stats": {
+				"AG": "3",
+				"AV": "7",
+				"MA": "7",
+				"ST": "3"
+			},
+			"title": "Runner"
+		},
+		{
+			"cost": "90000",
+			"doubleSkills": [
+				"S",
+				"P"
+			],
+			"gender": "male",
+			"iconLetter": "R",
+			"id": "10683",
+			"normalSkills": [
+				"G",
+				"A"
+			],
+			"portrait": "523598",
+			"quantity": "2",
+			"skills": [
+				"Shadowing",
+				"Dodge",
+				"Stab"
+			],
+			"stats": {
+				"AG": "3",
+				"AV": "7",
+				"MA": "7",
+				"ST": "3"
+			},
+			"title": "Rogue"
+		},
+		{
+			"cost": "90000",
+			"doubleSkills": [
+				"A",
+				"P"
+			],
+			"gender": "male",
+			"iconLetter": "Br",
+			"id": "10684",
+			"normalSkills": [
+				"G",
+				"S"
+			],
+			"portrait": "523600",
+			"quantity": "4",
+			"skills": [
+				"Wrestle",
+				"Thick Skull"
+			],
+			"stats": {
+				"AG": "3",
+				"AV": "8",
+				"MA": "7",
+				"ST": "3"
+			},
+			"title": "Brawler"
+		},
+		{
+			"cost": "140000",
+			"doubleSkills": [
+				"G",
+				"A",
+				"P"
+			],
+			"gender": "male",
+			"iconLetter": "Bg",
+			"id": "10685",
+			"normalSkills": [
+				"S"
+			],
+			"portrait": "523603",
+			"quantity": "1",
+			"skills": [
+				"Mighty Blow",
+				"Thick Skull",
+				"Bone-head",
+				"Loner",
+				"Throw Team-Mate"
+			],
+			"stats": {
+				"AG": "2",
+				"AV": "9",
+				"MA": "5",
+				"ST": "5"
+			},
+			"title": "Ogre"
+		}
+	],
+	"raisePosition": null,
+	"rerollCost": "60000",
+	"stars": [
+		{
+			"id": "3019",
+			"name": "Griff Oberwald"
+		},
+		{
+			"id": "3024",
+			"name": "Helmut Wulf"
+		},
+		{
+			"id": "3038",
+			"name": "Mighty Zug"
+		},
+		{
+			"id": "3039",
+			"name": "Morg 'n' Thorg"
+		},
+		{
+			"id": "3042",
+			"name": "Puggy Baconbreath"
+		},
+		{
+			"id": "3059",
+			"name": "Zara the Slayer"
+		}
+	],
+	"stats": {
+		"finesse": "3",
+		"physique": "4",
+		"versatility": "4"
+	},
+	"undead": "No"
+}

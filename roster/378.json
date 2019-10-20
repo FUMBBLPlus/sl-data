@@ -1,0 +1,145 @@
+{
+	"apothecary": "Yes",
+	"id": "378",
+	"info": "DIFFICULTY: HARD Lumbria is a stunty team on paper but they are more competent than most. Every player on the team has very good cage breaking abilities and their vicious linemen though weak can certainly pack a punch.",
+	"logos": {
+		"128": "492440",
+		"192": "492441",
+		"32": "492442",
+		"48": "492443",
+		"64": "492444",
+		"96": "492439"
+	},
+	"name": "Lumbria",
+	"necromancer": "No",
+	"ownerRuleset": "69",
+	"playable": "true",
+	"positions": [
+		{
+			"cost": "60000",
+			"doubleSkills": [
+				"G",
+				"S",
+				"P"
+			],
+			"gender": "neutral",
+			"iconLetter": "L",
+			"id": "3969",
+			"normalSkills": [
+				"A"
+			],
+			"portrait": null,
+			"quantity": "16",
+			"skills": [
+				"Dauntless",
+				"Dodge",
+				"Claw",
+				"Right Stuff",
+				"Stunty"
+			],
+			"stats": {
+				"AG": "3",
+				"AV": "7",
+				"MA": "5",
+				"ST": "2"
+			},
+			"title": "Drop Bear"
+		},
+		{
+			"cost": "80000",
+			"doubleSkills": [
+				"A",
+				"P"
+			],
+			"gender": "female",
+			"iconLetter": "K",
+			"id": "3970",
+			"normalSkills": [
+				"G",
+				"S"
+			],
+			"portrait": null,
+			"quantity": "6",
+			"skills": [
+				"Leap",
+				"Prehensile Tail",
+				"Very Long Legs"
+			],
+			"stats": {
+				"AG": "3",
+				"AV": "8",
+				"MA": "6",
+				"ST": "3"
+			},
+			"title": "Kangor"
+		},
+		{
+			"cost": "140000",
+			"doubleSkills": [
+				"G",
+				"A",
+				"P"
+			],
+			"gender": "male",
+			"iconLetter": "Bg",
+			"id": "3971",
+			"normalSkills": [
+				"S"
+			],
+			"portrait": null,
+			"quantity": "1",
+			"skills": [
+				"Break Tackle",
+				"Mighty Blow",
+				"Thick Skull",
+				"Bone-head",
+				"Throw Team-Mate"
+			],
+			"stats": {
+				"AG": "1",
+				"AV": "9",
+				"MA": "4",
+				"ST": "6"
+			},
+			"title": "Yowie"
+		}
+	],
+	"raisePosition": null,
+	"rerollCost": "60000",
+	"stars": [
+		{
+			"id": "3004",
+			"name": "Bertha Bigfist"
+		},
+		{
+			"id": "3005",
+			"name": "Brick Far'th"
+		},
+		{
+			"id": "3006",
+			"name": "Grotty"
+		},
+		{
+			"id": "3007",
+			"name": "Bomber Dribblesnot"
+		},
+		{
+			"id": "3039",
+			"name": "Morg 'n' Thorg"
+		},
+		{
+			"id": "3040",
+			"name": "Nobbla Blackwart"
+		},
+		{
+			"id": "3049",
+			"name": "Scrappa Sorehead"
+		}
+	],
+	"stats": {
+		"finesse": "3",
+		"physique": "4",
+		"versatility": "3"
+	},
+	"undead": "No"
+}

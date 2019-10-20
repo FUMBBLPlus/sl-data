@@ -1,0 +1,194 @@
+{
+	"apothecary": "Yes",
+	"id": "425",
+	"info": "Difficulty: EASY\n Like all Dwarves slayers are relatively slow but have an appetite for a brawl. Slayers even more so than most. They have greater starter skills but lack finesse.",
+	"logos": {
+		"128": "492641",
+		"192": "492642",
+		"32": "492638",
+		"48": "492639",
+		"64": "492640",
+		"96": "492643"
+	},
+	"name": "Slayer",
+	"necromancer": "No",
+	"ownerRuleset": "69",
+	"playable": "true",
+	"positions": [
+		{
+			"cost": "60000",
+			"doubleSkills": [
+				"A",
+				"P"
+			],
+			"gender": "male",
+			"iconLetter": "L",
+			"id": "4143",
+			"normalSkills": [
+				"G",
+				"S"
+			],
+			"portrait": "488201",
+			"quantity": "16",
+			"skills": [
+				"Block",
+				"Thick Skull"
+			],
+			"stats": {
+				"AG": "2",
+				"AV": "9",
+				"MA": "4",
+				"ST": "3"
+			},
+			"title": "Linemen"
+		},
+		{
+			"cost": "80000",
+			"doubleSkills": [
+				"A",
+				"P"
+			],
+			"gender": "male",
+			"iconLetter": "LDS",
+			"id": "4144",
+			"normalSkills": [
+				"G",
+				"S"
+			],
+			"portrait": "488203",
+			"quantity": "2",
+			"skills": [
+				"Dauntless",
+				"Strip Ball",
+				"Thick Skull"
+			],
+			"stats": {
+				"AG": "3",
+				"AV": "8",
+				"MA": "5",
+				"ST": "3"
+			},
+			"title": "Long Drongs Slayer"
+		},
+		{
+			"cost": "90000",
+			"doubleSkills": [
+				"A",
+				"P"
+			],
+			"gender": "male",
+			"iconLetter": "SL",
+			"id": "4145",
+			"normalSkills": [
+				"G",
+				"S"
+			],
+			"portrait": "488211",
+			"quantity": "2",
+			"skills": [
+				"Block",
+				"Dauntless",
+				"Frenzy",
+				"Thick Skull"
+			],
+			"stats": {
+				"AG": "2",
+				"AV": "8",
+				"MA": "5",
+				"ST": "3"
+			},
+			"title": "Slayer"
+		},
+		{
+			"cost": "110000",
+			"doubleSkills": [
+				"A",
+				"P"
+			],
+			"gender": "male",
+			"iconLetter": "GS",
+			"id": "4147",
+			"normalSkills": [
+				"G",
+				"S"
+			],
+			"portrait": "488218",
+			"quantity": "2",
+			"skills": [
+				"Dauntless",
+				"Frenzy",
+				"Juggernaut",
+				"Thick Skull"
+			],
+			"stats": {
+				"AG": "2",
+				"AV": "8",
+				"MA": "5",
+				"ST": "4"
+			},
+			"title": "Giant Slayer"
+		},
+		{
+			"cost": "80000",
+			"doubleSkills": [
+				"G",
+				"A",
+				"P"
+			],
+			"gender": "male",
+			"iconLetter": "Ds",
+			"id": "4152",
+			"normalSkills": [
+				"S"
+			],
+			"portrait": "488226",
+			"quantity": "1",
+			"skills": [
+				"Ball & Chain",
+				"No Hands",
+				"Secret Weapon"
+			],
+			"stats": {
+				"AG": "1",
+				"AV": "8",
+				"MA": "4",
+				"ST": "7"
+			},
+			"title": "Doom Seeker"
+		}
+	],
+	"raisePosition": null,
+	"rerollCost": "50000",
+	"stars": [
+		{
+			"id": "3003",
+			"name": "Barik Farblast"
+		},
+		{
+			"id": "3008",
+			"name": "Boomer Eziasson"
+		},
+		{
+			"id": "3015",
+			"name": "Flint Churnblade"
+		},
+		{
+			"id": "3020",
+			"name": "Grim Ironjaw"
+		},
+		{
+			"id": "3039",
+			"name": "Morg 'n' Thorg"
+		},
+		{
+			"id": "3059",
+			"name": "Zara the Slayer"
+		}
+	],
+	"stats": {
+		"finesse": "1",
+		"physique": "5",
+		"versatility": "2"
+	},
+	"undead": "No"
+}

@@ -1,0 +1,165 @@
+{
+	"apothecary": "Yes",
+	"id": "2510",
+	"info": "DIFFICULTY: EASY\nKurgan teams are strong, brutal, skilled blockers but lack core ball skills and pace.",
+	"logos": {
+		"128": "573301",
+		"192": "573298",
+		"32": "573297",
+		"48": "573296",
+		"64": "573295",
+		"96": "573299"
+	},
+	"name": "Kurgan",
+	"necromancer": "No",
+	"ownerRuleset": "69",
+	"playable": "true",
+	"positions": [
+		{
+			"cost": "50000",
+			"doubleSkills": [
+				"A",
+				"S",
+				"P"
+			],
+			"gender": "male",
+			"iconLetter": "L",
+			"id": "18712",
+			"normalSkills": [
+				"G",
+				"M"
+			],
+			"portrait": null,
+			"quantity": "16",
+			"skills": [],
+			"stats": {
+				"AG": "3",
+				"AV": "8",
+				"MA": "6",
+				"ST": "3"
+			},
+			"title": "Slave"
+		},
+		{
+			"cost": "70000",
+			"doubleSkills": [
+				"A",
+				"P"
+			],
+			"gender": "male",
+			"iconLetter": "KM",
+			"id": "18713",
+			"normalSkills": [
+				"G",
+				"S",
+				"M"
+			],
+			"portrait": null,
+			"quantity": "4",
+			"skills": [
+				"Block"
+			],
+			"stats": {
+				"AG": "3",
+				"AV": "8",
+				"MA": "6",
+				"ST": "3"
+			},
+			"title": "Kurgan Marauder"
+		},
+		{
+			"cost": "100000",
+			"doubleSkills": [
+				"S",
+				"P"
+			],
+			"gender": "male",
+			"iconLetter": "R",
+			"id": "18714",
+			"normalSkills": [
+				"G",
+				"A",
+				"M"
+			],
+			"portrait": null,
+			"quantity": "2",
+			"skills": [
+				"Block",
+				"Jump Up",
+				"Thick Skull"
+			],
+			"stats": {
+				"AG": "3",
+				"AV": "8",
+				"MA": "6",
+				"ST": "3"
+			},
+			"title": "Ravager"
+		},
+		{
+			"cost": "100000",
+			"doubleSkills": [
+				"A",
+				"P"
+			],
+			"gender": "male",
+			"iconLetter": "Bru",
+			"id": "18715",
+			"normalSkills": [
+				"G",
+				"S",
+				"M"
+			],
+			"portrait": null,
+			"quantity": "2",
+			"skills": [
+				"Thick Skull"
+			],
+			"stats": {
+				"AG": "3",
+				"AV": "8",
+				"MA": "5",
+				"ST": "4"
+			},
+			"title": "Brute"
+		}
+	],
+	"raisePosition": null,
+	"rerollCost": "70000",
+	"stars": [
+		{
+			"id": "3005",
+			"name": "Brick Far'th"
+		},
+		{
+			"id": "3006",
+			"name": "Grotty"
+		},
+		{
+			"id": "3018",
+			"name": "Grashnak Blackhoof"
+		},
+		{
+			"id": "3034",
+			"name": "Lewdgrip Whiparm"
+		},
+		{
+			"id": "3035",
+			"name": "Lord Borak the Despoiler"
+		},
+		{
+			"id": "3037",
+			"name": "Max Spleenripper"
+		},
+		{
+			"id": "3039",
+			"name": "Morg 'n' Thorg"
+		}
+	],
+	"stats": {
+		"finesse": "2",
+		"physique": "5",
+		"versatility": "3"
+	},
+	"undead": "No"
+}

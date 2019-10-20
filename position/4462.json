@@ -1,0 +1,36 @@
+{
+	"cost": 80000,
+	"doubleSkills": [
+		"S",
+		"P"
+	],
+	"gender": "neutral",
+	"icon": 574267,
+	"iconLetter": "S",
+	"id": "4462",
+	"name": "Sneaky Git",
+	"normalSkills": [
+		"G",
+		"A"
+	],
+	"portrait": 488751,
+	"quantity": 4,
+	"race": "Hobgoblin",
+	"roster": 474,
+	"secretweapon": "0",
+	"skills": [
+		"Dodge",
+		"Sneaky Git",
+		"Stab"
+	],
+	"stats": {
+		"AG": 3,
+		"AV": 7,
+		"MA": 6,
+		"ST": 3
+	},
+	"thrall": "false",
+	"title": "Sneaky Git",
+	"type": "normal",
+	"undead": "false"
+}

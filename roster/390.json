@@ -1,0 +1,111 @@
+{
+	"apothecary": "Yes",
+	"id": "390",
+	"info": "Difficulty: VERY HARD\n Moulder teams made up of weak and expendable slaves and powerful Rat Ogres keeping it together is where this team struggles, killing is where it excels. ",
+	"logos": {
+		"128": "492509",
+		"192": "492510",
+		"32": "492506",
+		"48": "492507",
+		"64": "492508",
+		"96": "492511"
+	},
+	"name": "Clan Moulder",
+	"necromancer": "No",
+	"ownerRuleset": "69",
+	"playable": "true",
+	"positions": [
+		{
+			"cost": "40000",
+			"doubleSkills": [
+				"G",
+				"S",
+				"P"
+			],
+			"gender": "male",
+			"iconLetter": "L",
+			"id": "4016",
+			"normalSkills": [
+				"A",
+				"M"
+			],
+			"portrait": "487815",
+			"quantity": "16",
+			"skills": [
+				"Dodge",
+				"Stunty"
+			],
+			"stats": {
+				"AG": "3",
+				"AV": "6",
+				"MA": "7",
+				"ST": "2"
+			},
+			"title": "Slave"
+		},
+		{
+			"cost": "150000",
+			"doubleSkills": [
+				"G",
+				"A",
+				"P"
+			],
+			"gender": "male",
+			"iconLetter": "BG",
+			"id": "4017",
+			"normalSkills": [
+				"S",
+				"M"
+			],
+			"portrait": "487817",
+			"quantity": "6",
+			"skills": [
+				"Frenzy",
+				"Mighty Blow",
+				"Prehensile Tail",
+				"Wild Animal"
+			],
+			"stats": {
+				"AG": "2",
+				"AV": "8",
+				"MA": "6",
+				"ST": "5"
+			},
+			"title": "Rat Ogre"
+		}
+	],
+	"raisePosition": null,
+	"rerollCost": "60000",
+	"stars": [
+		{
+			"id": "3014",
+			"name": "Fezglitch"
+		},
+		{
+			"id": "3017",
+			"name": "Glart Smashrip Jr."
+		},
+		{
+			"id": "3022",
+			"name": "Hakflem Skuttlespike"
+		},
+		{
+			"id": "3023",
+			"name": "Headsplitter"
+		},
+		{
+			"id": "3039",
+			"name": "Morg 'n' Thorg"
+		},
+		{
+			"id": "3053",
+			"name": "Skitter Stab-Stab"
+		}
+	],
+	"stats": {
+		"finesse": "3",
+		"physique": "6",
+		"versatility": "1"
+	},
+	"undead": "No"
+}

@@ -1,0 +1,37 @@
+{
+	"cost": 50000,
+	"doubleSkills": [
+		"A",
+		"P"
+	],
+	"gender": "neutral",
+	"icon": 487726,
+	"iconLetter": "Ig",
+	"id": "3973",
+	"name": "Ignimbrite",
+	"normalSkills": [
+		"G",
+		"S"
+	],
+	"portrait": 487725,
+	"quantity": 4,
+	"race": null,
+	"roster": 379,
+	"secretweapon": "0",
+	"skills": [
+		"Dauntless",
+		"Jump Up",
+		"Stand Firm",
+		"Regeneration"
+	],
+	"stats": {
+		"AG": 2,
+		"AV": 9,
+		"MA": 4,
+		"ST": 2
+	},
+	"thrall": "false",
+	"title": "Ignimbrite",
+	"type": "normal",
+	"undead": "false"
+}

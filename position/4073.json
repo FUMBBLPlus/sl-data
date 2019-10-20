@@ -1,0 +1,38 @@
+{
+	"cost": 130000,
+	"doubleSkills": [
+		"G",
+		"A",
+		"P"
+	],
+	"gender": "male",
+	"icon": 487976,
+	"iconLetter": "Bg",
+	"id": "4073",
+	"name": "Zombie Ogre",
+	"normalSkills": [
+		"S"
+	],
+	"portrait": 487975,
+	"quantity": 2,
+	"race": null,
+	"roster": 405,
+	"secretweapon": "0",
+	"skills": [
+		"Mighty Blow",
+		"Thick Skull",
+		"Bone-head",
+		"Loner",
+		"Regeneration"
+	],
+	"stats": {
+		"AG": 1,
+		"AV": 9,
+		"MA": 4,
+		"ST": 5
+	},
+	"thrall": "false",
+	"title": "Zombie Ogre",
+	"type": "normal",
+	"undead": "true"
+}

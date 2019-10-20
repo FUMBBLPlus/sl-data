@@ -1,0 +1,36 @@
+{
+	"cost": 150000,
+	"doubleSkills": [
+		"G",
+		"A",
+		"P"
+	],
+	"gender": "neutral",
+	"icon": 488275,
+	"iconLetter": "EE",
+	"id": "4176",
+	"name": "Incarnate Element of Earth",
+	"normalSkills": [
+		"S"
+	],
+	"portrait": 488274,
+	"quantity": 0,
+	"race": null,
+	"roster": 428,
+	"secretweapon": "0",
+	"skills": [
+		"Stand Firm",
+		"Thick Skull",
+		"Loner"
+	],
+	"stats": {
+		"AG": 1,
+		"AV": 10,
+		"MA": 3,
+		"ST": 5
+	},
+	"thrall": "false",
+	"title": "Incarnate Element of Earth",
+	"type": "normal",
+	"undead": "false"
+}

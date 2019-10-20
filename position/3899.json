@@ -1,0 +1,44 @@
+{
+	"cost": 200000,
+	"doubleSkills": [
+		"G",
+		"A",
+		"P"
+	],
+	"gender": "neutral",
+	"icon": 487430,
+	"iconLetter": "GUO",
+	"id": "3899",
+	"name": "Great Unclean One",
+	"normalSkills": [
+		"S"
+	],
+	"portrait": 487431,
+	"quantity": 1,
+	"race": null,
+	"roster": 364,
+	"secretweapon": "0",
+	"skills": [
+		"Mighty Blow",
+		"Stand Firm",
+		"Thick Skull",
+		"Disturbing Presence",
+		"Foul Appearance",
+		"Bone-head",
+		"Loner",
+		"Nurgle's Rot",
+		"Regeneration",
+		"Throw Team-Mate",
+		"Monstrous Mouth"
+	],
+	"stats": {
+		"AG": 1,
+		"AV": 10,
+		"MA": 3,
+		"ST": 6
+	},
+	"thrall": "false",
+	"title": "Great Unclean One",
+	"type": "normal",
+	"undead": "false"
+}

@@ -1,0 +1,41 @@
+{
+	"cost": 200000,
+	"doubleSkills": [
+		"G",
+		"A",
+		"P"
+	],
+	"gender": "neutral",
+	"icon": 591470,
+	"iconLetter": "LoC",
+	"id": "3991",
+	"name": "Lord of Change",
+	"normalSkills": [
+		"S",
+		"M"
+	],
+	"portrait": 487768,
+	"quantity": 1,
+	"race": null,
+	"roster": 382,
+	"secretweapon": "0",
+	"skills": [
+		"Leap",
+		"Mighty Blow",
+		"Foul Appearance",
+		"Very Long Legs",
+		"Loner",
+		"Regeneration",
+		"Wild Animal"
+	],
+	"stats": {
+		"AG": 3,
+		"AV": 9,
+		"MA": 7,
+		"ST": 5
+	},
+	"thrall": "false",
+	"title": "Lord of Change",
+	"type": "normal",
+	"undead": "false"
+}

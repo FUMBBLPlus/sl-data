@@ -1,0 +1,34 @@
+{
+	"cost": 50000,
+	"doubleSkills": [
+		"A",
+		"S",
+		"P"
+	],
+	"gender": "male",
+	"icon": 488742,
+	"iconLetter": "D",
+	"id": "4452",
+	"name": "Dirty Git",
+	"normalSkills": [
+		"G"
+	],
+	"portrait": 488743,
+	"quantity": 4,
+	"race": null,
+	"roster": 472,
+	"secretweapon": "0",
+	"skills": [
+		"Dirty Player"
+	],
+	"stats": {
+		"AG": 3,
+		"AV": 7,
+		"MA": 6,
+		"ST": 3
+	},
+	"thrall": "false",
+	"title": "Dirty Git",
+	"type": "normal",
+	"undead": "false"
+}

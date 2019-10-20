@@ -1,0 +1,34 @@
+{
+	"cost": 60000,
+	"doubleSkills": [
+		"P"
+	],
+	"gender": "neutral",
+	"icon": 488279,
+	"iconLetter": "L",
+	"id": "4179",
+	"name": "Fire Elemental",
+	"normalSkills": [
+		"G",
+		"A",
+		"S"
+	],
+	"portrait": 488278,
+	"quantity": 16,
+	"race": null,
+	"roster": 430,
+	"secretweapon": "0",
+	"skills": [
+		"Frenzy"
+	],
+	"stats": {
+		"AG": 3,
+		"AV": 8,
+		"MA": 6,
+		"ST": 3
+	},
+	"thrall": "false",
+	"title": "Fire Elemental",
+	"type": "normal",
+	"undead": "false"
+}

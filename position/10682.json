@@ -1,0 +1,35 @@
+{
+	"cost": 70000,
+	"doubleSkills": [
+		"S",
+		"P"
+	],
+	"gender": "male",
+	"icon": 523596,
+	"iconLetter": "R",
+	"id": "10682",
+	"name": "Runner",
+	"normalSkills": [
+		"G",
+		"A"
+	],
+	"portrait": 523597,
+	"quantity": 2,
+	"race": null,
+	"roster": 1391,
+	"secretweapon": "0",
+	"skills": [
+		"Sure Hands",
+		"Thick Skull"
+	],
+	"stats": {
+		"AG": 3,
+		"AV": 7,
+		"MA": 7,
+		"ST": 3
+	},
+	"thrall": "true",
+	"title": "Runner",
+	"type": "normal",
+	"undead": "false"
+}

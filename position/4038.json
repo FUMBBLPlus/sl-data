@@ -1,0 +1,37 @@
+{
+	"cost": 140000,
+	"doubleSkills": [
+		"G",
+		"A",
+		"P"
+	],
+	"gender": "male",
+	"icon": 487850,
+	"iconLetter": "Bg",
+	"id": "4038",
+	"name": "Kroxigor",
+	"normalSkills": [
+		"S"
+	],
+	"portrait": 596647,
+	"quantity": 4,
+	"race": null,
+	"roster": 395,
+	"secretweapon": "0",
+	"skills": [
+		"Mighty Blow",
+		"Thick Skull",
+		"Prehensile Tail",
+		"Bone-head"
+	],
+	"stats": {
+		"AG": 1,
+		"AV": 9,
+		"MA": 6,
+		"ST": 5
+	},
+	"thrall": "false",
+	"title": "Kroxigor",
+	"type": "normal",
+	"undead": "false"
+}

@@ -1,0 +1,183 @@
+{
+	"apothecary": "Yes",
+	"id": "472",
+	"info": "Difficulty: MEDIUM Dishonest, Sneaky and Dirty underhand tactics is the order of the day with Hobgoblin teams. Their games are invariably blood baths.",
+	"logos": {
+		"128": "492719",
+		"192": "492720",
+		"32": "492716",
+		"48": "492717",
+		"64": "492718",
+		"96": "492721"
+	},
+	"name": "Hobgoblin",
+	"necromancer": "No",
+	"ownerRuleset": "69",
+	"playable": "true",
+	"positions": [
+		{
+			"cost": "40000",
+			"doubleSkills": [
+				"A",
+				"S",
+				"P"
+			],
+			"gender": "male",
+			"iconLetter": "H",
+			"id": "4449",
+			"normalSkills": [
+				"G"
+			],
+			"portrait": "488739",
+			"quantity": "16",
+			"skills": [],
+			"stats": {
+				"AG": "3",
+				"AV": "7",
+				"MA": "6",
+				"ST": "3"
+			},
+			"title": "Hobgoblin"
+		},
+		{
+			"cost": "80000",
+			"doubleSkills": [
+				"S",
+				"P"
+			],
+			"gender": "male",
+			"iconLetter": "G",
+			"id": "4450",
+			"normalSkills": [
+				"G",
+				"A"
+			],
+			"portrait": "488741",
+			"quantity": "2",
+			"skills": [
+				"Dodge",
+				"Sneaky Git",
+				"Stab"
+			],
+			"stats": {
+				"AG": "3",
+				"AV": "7",
+				"MA": "6",
+				"ST": "3"
+			},
+			"title": "Sneaky Git"
+		},
+		{
+			"cost": "50000",
+			"doubleSkills": [
+				"A",
+				"S",
+				"P"
+			],
+			"gender": "male",
+			"iconLetter": "D",
+			"id": "4452",
+			"normalSkills": [
+				"G"
+			],
+			"portrait": "488743",
+			"quantity": "4",
+			"skills": [
+				"Dirty Player"
+			],
+			"stats": {
+				"AG": "3",
+				"AV": "7",
+				"MA": "6",
+				"ST": "3"
+			},
+			"title": "Dirty Git"
+		},
+		{
+			"cost": "70000",
+			"doubleSkills": [
+				"S",
+				"P"
+			],
+			"gender": "male",
+			"iconLetter": "R",
+			"id": "4453",
+			"normalSkills": [
+				"G",
+				"A"
+			],
+			"portrait": "488745",
+			"quantity": "2",
+			"skills": [
+				"Sure Hands"
+			],
+			"stats": {
+				"AG": "3",
+				"AV": "7",
+				"MA": "7",
+				"ST": "3"
+			},
+			"title": "Runner"
+		},
+		{
+			"cost": "70000",
+			"doubleSkills": [
+				"A",
+				"P"
+			],
+			"gender": "male",
+			"iconLetter": "K",
+			"id": "4455",
+			"normalSkills": [
+				"G",
+				"S"
+			],
+			"portrait": "488747",
+			"quantity": "2",
+			"skills": [
+				"Block"
+			],
+			"stats": {
+				"AG": "3",
+				"AV": "8",
+				"MA": "6",
+				"ST": "3"
+			},
+			"title": "Blitzer"
+		}
+	],
+	"raisePosition": null,
+	"rerollCost": "70000",
+	"stars": [
+		{
+			"id": "3018",
+			"name": "Grashnak Blackhoof"
+		},
+		{
+			"id": "3027",
+			"name": "Hthark the Unstoppable"
+		},
+		{
+			"id": "3039",
+			"name": "Morg 'n' Thorg"
+		},
+		{
+			"id": "3040",
+			"name": "Nobbla Blackwart"
+		},
+		{
+			"id": "3046",
+			"name": "Rashnak Backstabber"
+		},
+		{
+			"id": "3060",
+			"name": "Zzharg Madeye"
+		}
+	],
+	"stats": {
+		"finesse": "3",
+		"physique": "3",
+		"versatility": "3"
+	},
+	"undead": "No"
+}

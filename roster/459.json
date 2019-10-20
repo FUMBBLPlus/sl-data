@@ -1,0 +1,160 @@
+{
+	"apothecary": "Yes",
+	"id": "459",
+	"info": "Difficulty: VERY EASY The versatility of humans with the dexterity of elves. Half Elf teams are rare, but boy can they play.",
+	"logos": {
+		"128": "492698",
+		"192": "492699",
+		"32": "492701",
+		"48": "492702",
+		"64": "492703",
+		"96": "492700"
+	},
+	"name": "Half-Elf",
+	"necromancer": "No",
+	"ownerRuleset": "69",
+	"playable": "true",
+	"positions": [
+		{
+			"cost": "50000",
+			"doubleSkills": [
+				"S",
+				"P"
+			],
+			"gender": "male",
+			"iconLetter": "L",
+			"id": "4372",
+			"normalSkills": [
+				"G",
+				"A"
+			],
+			"portrait": "488490",
+			"quantity": "16",
+			"skills": [],
+			"stats": {
+				"AG": "3",
+				"AV": "8",
+				"MA": "6",
+				"ST": "3"
+			},
+			"title": "Lineman"
+		},
+		{
+			"cost": "90000",
+			"doubleSkills": [
+				"S"
+			],
+			"gender": "male",
+			"iconLetter": "Th",
+			"id": "4373",
+			"normalSkills": [
+				"G",
+				"A",
+				"P"
+			],
+			"portrait": "488492",
+			"quantity": "2",
+			"skills": [
+				"Sure Hands",
+				"Strong Arm",
+				"Pass"
+			],
+			"stats": {
+				"AG": "3",
+				"AV": "8",
+				"MA": "6",
+				"ST": "3"
+			},
+			"title": "Thrower"
+		},
+		{
+			"cost": "80000",
+			"doubleSkills": [
+				"S",
+				"P"
+			],
+			"gender": "male",
+			"iconLetter": "C",
+			"id": "4374",
+			"normalSkills": [
+				"G",
+				"A"
+			],
+			"portrait": "488494",
+			"quantity": "4",
+			"skills": [
+				"Catch",
+				"Diving Catch",
+				"Dodge"
+			],
+			"stats": {
+				"AG": "3",
+				"AV": "7",
+				"MA": "8",
+				"ST": "2"
+			},
+			"title": "Catcher"
+		},
+		{
+			"cost": "100000",
+			"doubleSkills": [
+				"P"
+			],
+			"gender": "male",
+			"iconLetter": "B",
+			"id": "4375",
+			"normalSkills": [
+				"G",
+				"A",
+				"S"
+			],
+			"portrait": "488498",
+			"quantity": "2",
+			"skills": [
+				"Block",
+				"Side Step"
+			],
+			"stats": {
+				"AG": "3",
+				"AV": "8",
+				"MA": "7",
+				"ST": "3"
+			},
+			"title": "Blitzer"
+		}
+	],
+	"raisePosition": null,
+	"rerollCost": "60000",
+	"stars": [
+		{
+			"id": "3019",
+			"name": "Griff Oberwald"
+		},
+		{
+			"id": "3024",
+			"name": "Helmut Wulf"
+		},
+		{
+			"id": "3038",
+			"name": "Mighty Zug"
+		},
+		{
+			"id": "3039",
+			"name": "Morg 'n' Thorg"
+		},
+		{
+			"id": "3042",
+			"name": "Puggy Baconbreath"
+		},
+		{
+			"id": "3059",
+			"name": "Zara the Slayer"
+		}
+	],
+	"stats": {
+		"finesse": "5",
+		"physique": "4",
+		"versatility": "6"
+	},
+	"undead": "No"
+}

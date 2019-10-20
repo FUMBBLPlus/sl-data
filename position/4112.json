@@ -1,0 +1,38 @@
+{
+	"cost": 100000,
+	"doubleSkills": [
+		"A",
+		"P"
+	],
+	"gender": "neutral",
+	"icon": 574112,
+	"iconLetter": "Sr",
+	"id": "4112",
+	"name": "Soul Reaver",
+	"normalSkills": [
+		"G",
+		"S"
+	],
+	"portrait": 488108,
+	"quantity": 4,
+	"race": null,
+	"roster": 418,
+	"secretweapon": "0",
+	"skills": [
+		"Thick Skull",
+		"Claw",
+		"Foul Appearance",
+		"No Hands",
+		"Regeneration"
+	],
+	"stats": {
+		"AG": 3,
+		"AV": 8,
+		"MA": 6,
+		"ST": 3
+	},
+	"thrall": "false",
+	"title": "Soul Reaver",
+	"type": "normal",
+	"undead": "false"
+}

@@ -1,0 +1,40 @@
+{
+	"cost": 120000,
+	"doubleSkills": [
+		"G",
+		"A",
+		"P"
+	],
+	"gender": "male",
+	"icon": 486418,
+	"iconLetter": "Tr",
+	"id": "3237",
+	"name": "Treeman",
+	"normalSkills": [
+		"S"
+	],
+	"portrait": 486417,
+	"quantity": 0,
+	"race": null,
+	"roster": 203,
+	"secretweapon": "0",
+	"skills": [
+		"Mighty Blow",
+		"Stand Firm",
+		"Strong Arm",
+		"Thick Skull",
+		"Loner",
+		"Take Root",
+		"Throw Team-Mate"
+	],
+	"stats": {
+		"AG": 1,
+		"AV": 10,
+		"MA": 2,
+		"ST": 6
+	},
+	"thrall": "false",
+	"title": "Treeman",
+	"type": "normal",
+	"undead": "false"
+}

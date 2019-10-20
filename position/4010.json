@@ -1,0 +1,36 @@
+{
+	"cost": 80000,
+	"doubleSkills": [
+		"S",
+		"P",
+		"M"
+	],
+	"gender": "male",
+	"icon": 487802,
+	"iconLetter": "GR",
+	"id": "4010",
+	"name": "Gutter Runner",
+	"normalSkills": [
+		"G",
+		"A"
+	],
+	"portrait": 487801,
+	"quantity": 4,
+	"race": null,
+	"roster": 388,
+	"secretweapon": "0",
+	"skills": [
+		"Dodge",
+		"Weeping Dagger"
+	],
+	"stats": {
+		"AG": 4,
+		"AV": 7,
+		"MA": 9,
+		"ST": 2
+	},
+	"thrall": "false",
+	"title": "Gutter Runner",
+	"type": "normal",
+	"undead": "false"
+}

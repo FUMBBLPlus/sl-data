@@ -1,0 +1,38 @@
+{
+	"cost": 100000,
+	"doubleSkills": [
+		"A",
+		"P"
+	],
+	"gender": "male",
+	"icon": 596917,
+	"iconLetter": "SV",
+	"id": "23030",
+	"name": "Strigoi Vampire",
+	"normalSkills": [
+		"G",
+		"S"
+	],
+	"portrait": 596916,
+	"quantity": 1,
+	"race": "Strigoi Vampire",
+	"roster": 3138,
+	"secretweapon": "0",
+	"skills": [
+		"Claw",
+		"Blood Lust",
+		"Hypnotic Gaze",
+		"Regeneration",
+		"Animosity"
+	],
+	"stats": {
+		"AG": 3,
+		"AV": 8,
+		"MA": 6,
+		"ST": 4
+	},
+	"thrall": "false",
+	"title": "Strigoi Vampire",
+	"type": "normal",
+	"undead": "true"
+}

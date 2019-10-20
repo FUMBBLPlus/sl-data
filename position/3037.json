@@ -1,0 +1,30 @@
+{
+	"cost": 130000,
+	"doubleSkills": [],
+	"gender": "male",
+	"icon": 436471,
+	"iconLetter": "MS",
+	"id": "3037",
+	"name": "Max Spleenripper",
+	"normalSkills": [],
+	"portrait": 332794,
+	"quantity": 1,
+	"race": null,
+	"roster": 67,
+	"secretweapon": "0",
+	"skills": [
+		"Chainsaw",
+		"Loner",
+		"Secret Weapon"
+	],
+	"stats": {
+		"AG": 3,
+		"AV": 8,
+		"MA": 5,
+		"ST": 4
+	},
+	"thrall": "false",
+	"title": "Max Spleenripper",
+	"type": "star",
+	"undead": "false"
+}

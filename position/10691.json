@@ -1,0 +1,36 @@
+{
+	"cost": 90000,
+	"doubleSkills": [
+		"A",
+		"S"
+	],
+	"gender": "male",
+	"icon": 523631,
+	"iconLetter": "R",
+	"id": "10691",
+	"name": "Norse Dwarf Runner",
+	"normalSkills": [
+		"G",
+		"P"
+	],
+	"portrait": 0,
+	"quantity": 2,
+	"race": null,
+	"roster": 1393,
+	"secretweapon": "0",
+	"skills": [
+		"Dauntless",
+		"Sure Hands",
+		"Thick Skull"
+	],
+	"stats": {
+		"AG": 3,
+		"AV": 8,
+		"MA": 6,
+		"ST": 3
+	},
+	"thrall": "false",
+	"title": "Norse Dwarf Runner",
+	"type": "normal",
+	"undead": "false"
+}

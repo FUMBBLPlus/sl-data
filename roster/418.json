@@ -1,0 +1,150 @@
+{
+	"apothecary": "No",
+	"id": "418",
+	"info": "Difficulty: HARD\nDaemons of Malal exist with the sole purpose of destroying the other chaos teams. They are built to withstand their hits and give it back. ",
+	"logos": {
+		"128": "492617",
+		"192": "492618",
+		"32": "492616",
+		"48": "492614",
+		"64": "492615",
+		"96": "492619"
+	},
+	"name": "Daemons of Malal",
+	"necromancer": "No",
+	"ownerRuleset": "69",
+	"playable": "true",
+	"positions": [
+		{
+			"cost": "70000",
+			"doubleSkills": [
+				"A",
+				"S",
+				"P"
+			],
+			"gender": "neutral",
+			"iconLetter": "L",
+			"id": "4110",
+			"normalSkills": [
+				"G"
+			],
+			"portrait": "488105",
+			"quantity": "16",
+			"skills": [
+				"Thick Skull",
+				"Big Hand",
+				"Foul Appearance",
+				"Two Heads",
+				"Regeneration"
+			],
+			"stats": {
+				"AG": "3",
+				"AV": "7",
+				"MA": "5",
+				"ST": "3"
+			},
+			"title": "Drone"
+		},
+		{
+			"cost": "100000",
+			"doubleSkills": [
+				"A",
+				"P"
+			],
+			"gender": "neutral",
+			"iconLetter": "Sr",
+			"id": "4112",
+			"normalSkills": [
+				"G",
+				"S"
+			],
+			"portrait": "488108",
+			"quantity": "4",
+			"skills": [
+				"Thick Skull",
+				"Claw",
+				"Foul Appearance",
+				"No Hands",
+				"Regeneration"
+			],
+			"stats": {
+				"AG": "3",
+				"AV": "8",
+				"MA": "6",
+				"ST": "3"
+			},
+			"title": "Soul Reaver"
+		},
+		{
+			"cost": "180000",
+			"doubleSkills": [
+				"G",
+				"A",
+				"P"
+			],
+			"gender": "neutral",
+			"iconLetter": "Bg",
+			"id": "4499",
+			"normalSkills": [
+				"S"
+			],
+			"portrait": "488918",
+			"quantity": "1",
+			"skills": [
+				"Mighty Blow",
+				"Thick Skull",
+				"Foul Appearance",
+				"Horns",
+				"Prehensile Tail",
+				"Bone-head",
+				"Loner",
+				"Regeneration"
+			],
+			"stats": {
+				"AG": "1",
+				"AV": "9",
+				"MA": "6",
+				"ST": "5"
+			},
+			"title": "Harvester of Souls"
+		}
+	],
+	"raisePosition": null,
+	"rerollCost": "60000",
+	"stars": [
+		{
+			"id": "3005",
+			"name": "Brick Far'th"
+		},
+		{
+			"id": "3006",
+			"name": "Grotty"
+		},
+		{
+			"id": "3018",
+			"name": "Grashnak Blackhoof"
+		},
+		{
+			"id": "3034",
+			"name": "Lewdgrip Whiparm"
+		},
+		{
+			"id": "3035",
+			"name": "Lord Borak the Despoiler"
+		},
+		{
+			"id": "3037",
+			"name": "Max Spleenripper"
+		},
+		{
+			"id": "3039",
+			"name": "Morg 'n' Thorg"
+		}
+	],
+	"stats": {
+		"finesse": "2",
+		"physique": "5",
+		"versatility": "3"
+	},
+	"undead": "No"
+}

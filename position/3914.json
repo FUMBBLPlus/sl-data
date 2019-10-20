@@ -1,0 +1,36 @@
+{
+	"cost": 120000,
+	"doubleSkills": [
+		"S",
+		"P"
+	],
+	"gender": "female",
+	"icon": 487449,
+	"iconLetter": "Dte",
+	"id": "3914",
+	"name": "Daemonette",
+	"normalSkills": [
+		"G",
+		"A"
+	],
+	"portrait": 487450,
+	"quantity": 6,
+	"race": null,
+	"roster": 369,
+	"secretweapon": "0",
+	"skills": [
+		"Claw",
+		"Hypnotic Gaze",
+		"Regeneration"
+	],
+	"stats": {
+		"AG": 4,
+		"AV": 7,
+		"MA": 7,
+		"ST": 3
+	},
+	"thrall": "false",
+	"title": "Daemonette",
+	"type": "normal",
+	"undead": "false"
+}

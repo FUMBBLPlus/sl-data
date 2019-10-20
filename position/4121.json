@@ -1,0 +1,32 @@
+{
+	"cost": 50000,
+	"doubleSkills": [
+		"A",
+		"S",
+		"P"
+	],
+	"gender": "neutral",
+	"icon": 488148,
+	"iconLetter": "L",
+	"id": "4121",
+	"name": "Dryad",
+	"normalSkills": [
+		"G"
+	],
+	"portrait": 488146,
+	"quantity": 16,
+	"race": null,
+	"roster": 422,
+	"secretweapon": "0",
+	"skills": [],
+	"stats": {
+		"AG": 3,
+		"AV": 9,
+		"MA": 5,
+		"ST": 3
+	},
+	"thrall": "false",
+	"title": "Dryad",
+	"type": "normal",
+	"undead": "false"
+}

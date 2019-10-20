@@ -1,0 +1,38 @@
+{
+	"cost": 110000,
+	"doubleSkills": [
+		"G",
+		"A",
+		"P"
+	],
+	"gender": "neutral",
+	"icon": 494306,
+	"iconLetter": "Bg",
+	"id": "3968",
+	"name": "Werebear",
+	"normalSkills": [
+		"S"
+	],
+	"portrait": 487705,
+	"quantity": 2,
+	"race": null,
+	"roster": 377,
+	"secretweapon": "0",
+	"skills": [
+		"Grab",
+		"Mighty Blow",
+		"Thick Skull",
+		"Loner",
+		"Really Stupid"
+	],
+	"stats": {
+		"AG": 1,
+		"AV": 8,
+		"MA": 4,
+		"ST": 5
+	},
+	"thrall": "false",
+	"title": "Werebear",
+	"type": "normal",
+	"undead": "true"
+}

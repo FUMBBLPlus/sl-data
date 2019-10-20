@@ -1,0 +1,155 @@
+{
+	"apothecary": "No",
+	"id": "364",
+	"info": "Difficulty: HARD\n\nDaemons of Nurgle are very slow and very tough. They lack core skills to start off with and have no plan B. Though the more games they play the better they become.",
+	"logos": {
+		"128": "492398",
+		"192": "492399",
+		"32": "492400",
+		"48": "492401",
+		"64": "492402",
+		"96": "492397"
+	},
+	"name": "Daemons of Nurgle",
+	"necromancer": "No",
+	"ownerRuleset": "69",
+	"playable": "true",
+	"positions": [
+		{
+			"cost": "20000",
+			"doubleSkills": [
+				"G",
+				"S",
+				"P"
+			],
+			"gender": "neutral",
+			"iconLetter": "Nng",
+			"id": "3897",
+			"normalSkills": [
+				"A"
+			],
+			"portrait": "487421",
+			"quantity": "16",
+			"skills": [
+				"Dodge",
+				"Guard",
+				"Foul Appearance",
+				"Nurgle's Rot",
+				"Right Stuff",
+				"Stunty",
+				"Titchy"
+			],
+			"stats": {
+				"AG": "2",
+				"AV": "6",
+				"MA": "5",
+				"ST": "1"
+			},
+			"title": " Nurgling"
+		},
+		{
+			"cost": "120000",
+			"doubleSkills": [
+				"A",
+				"P"
+			],
+			"gender": "neutral",
+			"iconLetter": "Plg",
+			"id": "3898",
+			"normalSkills": [
+				"G",
+				"S"
+			],
+			"portrait": "487423",
+			"quantity": "6",
+			"skills": [
+				"Thick Skull",
+				"Disturbing Presence",
+				"Foul Appearance",
+				"Nurgle's Rot",
+				"Regeneration"
+			],
+			"stats": {
+				"AG": "2",
+				"AV": "9",
+				"MA": "5",
+				"ST": "4"
+			},
+			"title": "Plaguebearer"
+		},
+		{
+			"cost": "200000",
+			"doubleSkills": [
+				"G",
+				"A",
+				"P"
+			],
+			"gender": "neutral",
+			"iconLetter": "GUO",
+			"id": "3899",
+			"normalSkills": [
+				"S"
+			],
+			"portrait": "487431",
+			"quantity": "1",
+			"skills": [
+				"Mighty Blow",
+				"Stand Firm",
+				"Thick Skull",
+				"Disturbing Presence",
+				"Foul Appearance",
+				"Bone-head",
+				"Loner",
+				"Nurgle's Rot",
+				"Regeneration",
+				"Throw Team-Mate",
+				"Monstrous Mouth"
+			],
+			"stats": {
+				"AG": "1",
+				"AV": "10",
+				"MA": "3",
+				"ST": "6"
+			},
+			"title": "Great Unclean One"
+		}
+	],
+	"raisePosition": "3897",
+	"rerollCost": "70000",
+	"stars": [
+		{
+			"id": "3005",
+			"name": "Brick Far'th"
+		},
+		{
+			"id": "3006",
+			"name": "Grotty"
+		},
+		{
+			"id": "3018",
+			"name": "Grashnak Blackhoof"
+		},
+		{
+			"id": "3034",
+			"name": "Lewdgrip Whiparm"
+		},
+		{
+			"id": "3035",
+			"name": "Lord Borak the Despoiler"
+		},
+		{
+			"id": "3037",
+			"name": "Max Spleenripper"
+		},
+		{
+			"id": "3039",
+			"name": "Morg 'n' Thorg"
+		}
+	],
+	"stats": {
+		"finesse": "1",
+		"physique": "5",
+		"versatility": "1"
+	},
+	"undead": "No"
+}

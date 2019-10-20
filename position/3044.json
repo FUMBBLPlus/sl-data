@@ -1,0 +1,35 @@
+{
+	"cost": 250000,
+	"doubleSkills": [],
+	"gender": "male",
+	"icon": 440141,
+	"iconLetter": "QL",
+	"id": "3044",
+	"name": "Quetzal Leap",
+	"normalSkills": [],
+	"portrait": 332776,
+	"quantity": 1,
+	"race": null,
+	"roster": 67,
+	"secretweapon": "0",
+	"skills": [
+		"Fend",
+		"Kick-Off Return",
+		"Catch",
+		"Diving Catch",
+		"Leap",
+		"Nerves Of Steel",
+		"Very Long Legs",
+		"Loner"
+	],
+	"stats": {
+		"AG": 4,
+		"AV": 7,
+		"MA": 8,
+		"ST": 2
+	},
+	"thrall": "false",
+	"title": "Quetzal Leap",
+	"type": "star",
+	"undead": "false"
+}

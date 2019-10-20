@@ -1,0 +1,36 @@
+{
+	"cost": 150000,
+	"doubleSkills": [
+		"G",
+		"P"
+	],
+	"gender": "neutral",
+	"icon": 488257,
+	"iconLetter": "EW",
+	"id": "4167",
+	"name": "Incarnate Elemental of Water",
+	"normalSkills": [
+		"A",
+		"S"
+	],
+	"portrait": 488256,
+	"quantity": 0,
+	"race": null,
+	"roster": 427,
+	"secretweapon": "0",
+	"skills": [
+		"Fend",
+		"Side Step",
+		"Loner"
+	],
+	"stats": {
+		"AG": 2,
+		"AV": 8,
+		"MA": 5,
+		"ST": 5
+	},
+	"thrall": "false",
+	"title": "Incarnate Elemental of Water",
+	"type": "normal",
+	"undead": "false"
+}

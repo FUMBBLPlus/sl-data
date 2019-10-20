@@ -1,0 +1,36 @@
+{
+	"cost": 120000,
+	"doubleSkills": [
+		"A",
+		"P"
+	],
+	"gender": "male",
+	"icon": 493023,
+	"iconLetter": "TW",
+	"id": "5343",
+	"name": "Tzeentch Warrior",
+	"normalSkills": [
+		"G",
+		"S",
+		"M"
+	],
+	"portrait": 493024,
+	"quantity": 4,
+	"race": "Chaos Warrior",
+	"roster": 617,
+	"secretweapon": "0",
+	"skills": [
+		"Extra Arms",
+		"Hypnotic Gaze"
+	],
+	"stats": {
+		"AG": 3,
+		"AV": 9,
+		"MA": 5,
+		"ST": 4
+	},
+	"thrall": "false",
+	"title": "Tzeentch Warrior",
+	"type": "normal",
+	"undead": "false"
+}

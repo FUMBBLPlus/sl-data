@@ -1,0 +1,37 @@
+{
+	"cost": 90000,
+	"doubleSkills": [
+		"A",
+		"P"
+	],
+	"gender": "neutral",
+	"icon": 489311,
+	"iconLetter": "NB",
+	"id": "4622",
+	"name": "Norse Berserker",
+	"normalSkills": [
+		"G",
+		"S"
+	],
+	"portrait": 489312,
+	"quantity": 1,
+	"race": "Norse",
+	"roster": 486,
+	"secretweapon": "0",
+	"skills": [
+		"Block",
+		"Frenzy",
+		"Jump Up",
+		"Animosity"
+	],
+	"stats": {
+		"AG": 3,
+		"AV": 7,
+		"MA": 6,
+		"ST": 3
+	},
+	"thrall": "false",
+	"title": "Norse Berserker",
+	"type": "normal",
+	"undead": "false"
+}

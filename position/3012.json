@@ -1,0 +1,33 @@
+{
+	"cost": 150000,
+	"doubleSkills": [],
+	"gender": "male",
+	"icon": 436446,
+	"iconLetter": "DL",
+	"id": "3012",
+	"name": "Dolfar Longstride",
+	"normalSkills": [],
+	"portrait": 440121,
+	"quantity": 1,
+	"race": null,
+	"roster": 67,
+	"secretweapon": "0",
+	"skills": [
+		"Kick",
+		"Kick-Off Return",
+		"Pass Block",
+		"Diving Catch",
+		"Hail Mary Pass",
+		"Loner"
+	],
+	"stats": {
+		"AG": 4,
+		"AV": 7,
+		"MA": 7,
+		"ST": 3
+	},
+	"thrall": "false",
+	"title": "Dolfar Longstride",
+	"type": "star",
+	"undead": "false"
+}

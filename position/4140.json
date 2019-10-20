@@ -1,0 +1,36 @@
+{
+	"cost": 80000,
+	"doubleSkills": [
+		"A",
+		"P"
+	],
+	"gender": "male",
+	"icon": 488186,
+	"iconLetter": "Ch",
+	"id": "4140",
+	"name": "Master Engineer",
+	"normalSkills": [
+		"G",
+		"S"
+	],
+	"portrait": 488185,
+	"quantity": 1,
+	"race": null,
+	"roster": 423,
+	"secretweapon": "0",
+	"skills": [
+		"Thick Skull",
+		"Chainsaw",
+		"Secret Weapon"
+	],
+	"stats": {
+		"AG": 2,
+		"AV": 9,
+		"MA": 5,
+		"ST": 3
+	},
+	"thrall": "false",
+	"title": "Master Engineer",
+	"type": "normal",
+	"undead": "false"
+}

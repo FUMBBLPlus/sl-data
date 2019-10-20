@@ -1,0 +1,35 @@
+{
+	"cost": 50000,
+	"doubleSkills": [
+		"A",
+		"P"
+	],
+	"gender": "male",
+	"icon": 534568,
+	"iconLetter": "L",
+	"id": "3997",
+	"name": "Savage Lineman",
+	"normalSkills": [
+		"G",
+		"S"
+	],
+	"portrait": 487779,
+	"quantity": 16,
+	"race": null,
+	"roster": 385,
+	"secretweapon": "0",
+	"skills": [
+		"Frenzy",
+		"Thick Skull"
+	],
+	"stats": {
+		"AG": 3,
+		"AV": 7,
+		"MA": 6,
+		"ST": 3
+	},
+	"thrall": "false",
+	"title": "Savage Lineman",
+	"type": "normal",
+	"undead": "false"
+}

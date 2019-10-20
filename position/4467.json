@@ -1,0 +1,34 @@
+{
+	"cost": 60000,
+	"doubleSkills": [
+		"S",
+		"P"
+	],
+	"gender": "neutral",
+	"icon": 488854,
+	"iconLetter": "K",
+	"id": "4467",
+	"name": "Kalite",
+	"normalSkills": [
+		"G",
+		"A"
+	],
+	"portrait": 488855,
+	"quantity": 4,
+	"race": null,
+	"roster": 475,
+	"secretweapon": "0",
+	"skills": [
+		"Extra Arms"
+	],
+	"stats": {
+		"AG": 3,
+		"AV": 7,
+		"MA": 7,
+		"ST": 3
+	},
+	"thrall": "false",
+	"title": "Kalite",
+	"type": "normal",
+	"undead": "false"
+}

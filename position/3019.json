@@ -1,0 +1,33 @@
+{
+	"cost": 320000,
+	"doubleSkills": [],
+	"gender": "male",
+	"icon": 436453,
+	"iconLetter": "GO",
+	"id": "3019",
+	"name": "Griff Oberwald",
+	"normalSkills": [],
+	"portrait": 332765,
+	"quantity": 1,
+	"race": null,
+	"roster": 67,
+	"secretweapon": "0",
+	"skills": [
+		"Block",
+		"Fend",
+		"Dodge",
+		"Sprint",
+		"Sure Feet",
+		"Loner"
+	],
+	"stats": {
+		"AG": 4,
+		"AV": 8,
+		"MA": 7,
+		"ST": 4
+	},
+	"thrall": "false",
+	"title": "Griff Oberwald",
+	"type": "star",
+	"undead": "false"
+}

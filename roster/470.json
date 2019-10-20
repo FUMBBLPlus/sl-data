@@ -1,0 +1,188 @@
+{
+	"apothecary": "Yes",
+	"id": "470",
+	"info": "Difficulty: EASY Half Orcs have great starter skills, and are slightly faster than Orcs but they lack the armour and equipment of their Orcish brethren. ",
+	"logos": {
+		"128": "492710",
+		"192": "492711",
+		"32": "492713",
+		"48": "492714",
+		"64": "492715",
+		"96": "492712"
+	},
+	"name": "Half-Orc",
+	"necromancer": "No",
+	"ownerRuleset": "69",
+	"playable": "true",
+	"positions": [
+		{
+			"cost": "30000",
+			"doubleSkills": [
+				"A",
+				"S",
+				"P"
+			],
+			"gender": "male",
+			"iconLetter": "L",
+			"id": "4437",
+			"normalSkills": [
+				"G"
+			],
+			"portrait": "488693",
+			"quantity": "16",
+			"skills": [],
+			"stats": {
+				"AG": "2",
+				"AV": "7",
+				"MA": "6",
+				"ST": "3"
+			},
+			"title": "Lineman"
+		},
+		{
+			"cost": "70000",
+			"doubleSkills": [
+				"A",
+				"S",
+				"P"
+			],
+			"gender": "male",
+			"iconLetter": "K",
+			"id": "4438",
+			"normalSkills": [
+				"G"
+			],
+			"portrait": "488704",
+			"quantity": "2",
+			"skills": [
+				"Dirty Player",
+				"Kick",
+				"Hail Mary Pass"
+			],
+			"stats": {
+				"AG": "2",
+				"AV": "7",
+				"MA": "6",
+				"ST": "3"
+			},
+			"title": "Kicker"
+		},
+		{
+			"cost": "80000",
+			"doubleSkills": [
+				"A",
+				"P"
+			],
+			"gender": "male",
+			"iconLetter": "Bl",
+			"id": "4439",
+			"normalSkills": [
+				"G",
+				"S"
+			],
+			"portrait": "488707",
+			"quantity": "2",
+			"skills": [
+				"Mighty Blow"
+			],
+			"stats": {
+				"AG": "2",
+				"AV": "8",
+				"MA": "5",
+				"ST": "4"
+			},
+			"title": "Blocker"
+		},
+		{
+			"cost": "90000",
+			"doubleSkills": [
+				"A",
+				"P"
+			],
+			"gender": "male",
+			"iconLetter": "Bz",
+			"id": "4440",
+			"normalSkills": [
+				"G",
+				"S"
+			],
+			"portrait": "488709",
+			"quantity": "4",
+			"skills": [
+				"Sure Hands",
+				"Wrestle"
+			],
+			"stats": {
+				"AG": "2",
+				"AV": "8",
+				"MA": "7",
+				"ST": "3"
+			},
+			"title": "Blitzer"
+		},
+		{
+			"cost": "140000",
+			"doubleSkills": [
+				"G",
+				"A",
+				"P"
+			],
+			"gender": "male",
+			"iconLetter": "O",
+			"id": "4441",
+			"normalSkills": [
+				"S"
+			],
+			"portrait": "488717",
+			"quantity": "1",
+			"skills": [
+				"Mighty Blow",
+				"Thick Skull",
+				"Bone-head",
+				"Loner",
+				"Throw Team-Mate"
+			],
+			"stats": {
+				"AG": "2",
+				"AV": "9",
+				"MA": "5",
+				"ST": "5"
+			},
+			"title": "Ogre"
+		}
+	],
+	"raisePosition": null,
+	"rerollCost": "60000",
+	"stars": [
+		{
+			"id": "3007",
+			"name": "Bomber Dribblesnot"
+		},
+		{
+			"id": "3039",
+			"name": "Morg 'n' Thorg"
+		},
+		{
+			"id": "3047",
+			"name": "Ripper Bolgrot"
+		},
+		{
+			"id": "3049",
+			"name": "Scrappa Sorehead"
+		},
+		{
+			"id": "3055",
+			"name": "Ugroth Bolgrot"
+		},
+		{
+			"id": "3056",
+			"name": "Varag Ghoul-Chewer"
+		}
+	],
+	"stats": {
+		"finesse": "4",
+		"physique": "4",
+		"versatility": "3"
+	},
+	"undead": "No"
+}

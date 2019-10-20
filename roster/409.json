@@ -1,0 +1,132 @@
+{
+	"apothecary": "Yes",
+	"id": "409",
+	"info": "Difficulty: HARD\nLahmian are the fastest and most agile of the Vampire teams, and with Human Blitzers in their team have some additional reliability.",
+	"logos": {
+		"128": "492572",
+		"192": "492573",
+		"32": "492575",
+		"48": "492576",
+		"64": "492577",
+		"96": "492574"
+	},
+	"name": "Lahmian",
+	"necromancer": "No",
+	"ownerRuleset": "69",
+	"playable": "true",
+	"positions": [
+		{
+			"cost": "50000",
+			"doubleSkills": [
+				"A",
+				"S",
+				"P"
+			],
+			"gender": "male",
+			"iconLetter": "L",
+			"id": "4080",
+			"normalSkills": [
+				"G"
+			],
+			"portrait": "488012",
+			"quantity": "16",
+			"skills": [],
+			"stats": {
+				"AG": "3",
+				"AV": "8",
+				"MA": "6",
+				"ST": "3"
+			},
+			"title": "Linemen"
+		},
+		{
+			"cost": "90000",
+			"doubleSkills": [
+				"A",
+				"P"
+			],
+			"gender": "male",
+			"iconLetter": "BL",
+			"id": "4081",
+			"normalSkills": [
+				"G",
+				"S"
+			],
+			"portrait": "488014",
+			"quantity": "2",
+			"skills": [
+				"Block"
+			],
+			"stats": {
+				"AG": "3",
+				"AV": "8",
+				"MA": "7",
+				"ST": "3"
+			},
+			"title": "Blitzer"
+		},
+		{
+			"cost": "100000",
+			"doubleSkills": [
+				"P"
+			],
+			"gender": "female",
+			"iconLetter": "V",
+			"id": "4082",
+			"normalSkills": [
+				"G",
+				"A",
+				"S"
+			],
+			"portrait": "488016",
+			"quantity": "6",
+			"skills": [
+				"Dodge",
+				"Regeneration",
+				"Blood Lust",
+				"Hypnotic Gaze"
+			],
+			"stats": {
+				"AG": "4",
+				"AV": "8",
+				"MA": "7",
+				"ST": "3"
+			},
+			"title": "Lahmian Vampire"
+		}
+	],
+	"raisePosition": null,
+	"rerollCost": "70000",
+	"stars": [
+		{
+			"id": "3009",
+			"name": "Count Luthor Von Drakenborg"
+		},
+		{
+			"id": "3010",
+			"name": "Crazy Igor"
+		},
+		{
+			"id": "3024",
+			"name": "Helmut Wulf"
+		},
+		{
+			"id": "3032",
+			"name": "J Earlice"
+		},
+		{
+			"id": "3039",
+			"name": "Morg 'n' Thorg"
+		},
+		{
+			"id": "3057",
+			"name": "Wilhelm Chaney"
+		}
+	],
+	"stats": {
+		"finesse": "6",
+		"physique": "4",
+		"versatility": "4"
+	},
+	"undead": "Yes"
+}

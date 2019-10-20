@@ -1,0 +1,141 @@
+{
+	"apothecary": "No",
+	"id": "369",
+	"info": "Difficulty: MEDIUM\n\nDaemons of Slaanesh are deadly, agile, fast, and hard hitters. Though they lack core skills and lack toughness. They are the epitome of the glass cannon team. With longevity they could become one of the strongest teams in the game. ",
+	"logos": {
+		"128": "492409",
+		"192": "492410",
+		"32": "492412",
+		"48": "492413",
+		"64": "492414",
+		"96": "492411"
+	},
+	"name": "Daemons of Slaanesh",
+	"necromancer": "No",
+	"ownerRuleset": "69",
+	"playable": "true",
+	"positions": [
+		{
+			"cost": "50000",
+			"doubleSkills": [
+				"A",
+				"S",
+				"P"
+			],
+			"gender": "neutral",
+			"iconLetter": "Cul",
+			"id": "3913",
+			"normalSkills": [
+				"G",
+				"M"
+			],
+			"portrait": "487448",
+			"quantity": "16",
+			"skills": [],
+			"stats": {
+				"AG": "3",
+				"AV": "8",
+				"MA": "6",
+				"ST": "3"
+			},
+			"title": "Cultist"
+		},
+		{
+			"cost": "120000",
+			"doubleSkills": [
+				"S",
+				"P"
+			],
+			"gender": "female",
+			"iconLetter": "Dte",
+			"id": "3914",
+			"normalSkills": [
+				"G",
+				"A"
+			],
+			"portrait": "487450",
+			"quantity": "6",
+			"skills": [
+				"Claw",
+				"Hypnotic Gaze",
+				"Regeneration"
+			],
+			"stats": {
+				"AG": "4",
+				"AV": "7",
+				"MA": "7",
+				"ST": "3"
+			},
+			"title": "Daemonette"
+		},
+		{
+			"cost": "200000",
+			"doubleSkills": [
+				"G",
+				"P",
+				"A"
+			],
+			"gender": "neutral",
+			"iconLetter": "Kee",
+			"id": "3916",
+			"normalSkills": [
+				"S"
+			],
+			"portrait": "487458",
+			"quantity": "1",
+			"skills": [
+				"Claw",
+				"Extra Arms",
+				"Very Long Legs",
+				"Loner",
+				"Regeneration",
+				"Wild Animal"
+			],
+			"stats": {
+				"AG": "4",
+				"AV": "8",
+				"MA": "7",
+				"ST": "5"
+			},
+			"title": "Keeper of Secrets"
+		}
+	],
+	"raisePosition": null,
+	"rerollCost": "70000",
+	"stars": [
+		{
+			"id": "3005",
+			"name": "Brick Far'th"
+		},
+		{
+			"id": "3006",
+			"name": "Grotty"
+		},
+		{
+			"id": "3018",
+			"name": "Grashnak Blackhoof"
+		},
+		{
+			"id": "3034",
+			"name": "Lewdgrip Whiparm"
+		},
+		{
+			"id": "3035",
+			"name": "Lord Borak the Despoiler"
+		},
+		{
+			"id": "3037",
+			"name": "Max Spleenripper"
+		},
+		{
+			"id": "3039",
+			"name": "Morg 'n' Thorg"
+		}
+	],
+	"stats": {
+		"finesse": "6",
+		"physique": "3",
+		"versatility": "5"
+	},
+	"undead": "No"
+}

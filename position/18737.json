@@ -1,0 +1,36 @@
+{
+	"cost": 50000,
+	"doubleSkills": [
+		"A",
+		"S",
+		"P",
+		"M"
+	],
+	"gender": "male",
+	"icon": 573424,
+	"iconLetter": "Grin",
+	"id": "18737",
+	"name": "Warp Grinder",
+	"normalSkills": [
+		"G"
+	],
+	"portrait": 0,
+	"quantity": 1,
+	"race": null,
+	"roster": 393,
+	"secretweapon": "0",
+	"skills": [
+		"Chainsaw",
+		"Secret Weapon"
+	],
+	"stats": {
+		"AG": 3,
+		"AV": 7,
+		"MA": 7,
+		"ST": 3
+	},
+	"thrall": "false",
+	"title": "Warp Grinder",
+	"type": "normal",
+	"undead": "false"
+}

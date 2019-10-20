@@ -1,0 +1,159 @@
+{
+	"apothecary": "No",
+	"id": "407",
+	"info": "Difficulty: HARD\nBlood Dragons are the best equiped Vampire team, and pack a real punch, though they lack the finesse of other Vampire teams.",
+	"logos": {
+		"128": "492569",
+		"192": "492570",
+		"32": "492566",
+		"48": "492567",
+		"64": "492568",
+		"96": "492571"
+	},
+	"name": "Blood Dragon",
+	"necromancer": "No",
+	"ownerRuleset": "69",
+	"playable": "true",
+	"positions": [
+		{
+			"cost": "40000",
+			"doubleSkills": [
+				"A",
+				"S",
+				"P"
+			],
+			"gender": "male",
+			"iconLetter": "L",
+			"id": "4075",
+			"normalSkills": [
+				"G"
+			],
+			"portrait": "487985",
+			"quantity": "16",
+			"skills": [],
+			"stats": {
+				"AG": "3",
+				"AV": "7",
+				"MA": "6",
+				"ST": "3"
+			},
+			"title": "Thrall"
+		},
+		{
+			"cost": "40000",
+			"doubleSkills": [
+				"A",
+				"S",
+				"P"
+			],
+			"gender": "male",
+			"iconLetter": "Z",
+			"id": "4076",
+			"normalSkills": [
+				"G"
+			],
+			"portrait": "487996",
+			"quantity": "4",
+			"skills": [
+				"Regeneration"
+			],
+			"stats": {
+				"AG": "2",
+				"AV": "8",
+				"MA": "4",
+				"ST": "3"
+			},
+			"title": "Zombie"
+		},
+		{
+			"cost": "80000",
+			"doubleSkills": [
+				"A",
+				"P"
+			],
+			"gender": "male",
+			"iconLetter": "GG",
+			"id": "4077",
+			"normalSkills": [
+				"G",
+				"S"
+			],
+			"portrait": "488008",
+			"quantity": "2",
+			"skills": [
+				"Block",
+				"Regeneration"
+			],
+			"stats": {
+				"AG": "2",
+				"AV": "9",
+				"MA": "5",
+				"ST": "3"
+			},
+			"title": "Grave Guard"
+		},
+		{
+			"cost": "100000",
+			"doubleSkills": [
+				"A",
+				"P"
+			],
+			"gender": "male",
+			"iconLetter": "V",
+			"id": "4078",
+			"normalSkills": [
+				"G",
+				"S"
+			],
+			"portrait": "488011",
+			"quantity": "6",
+			"skills": [
+				"Blood Lust",
+				"Mighty Blow",
+				"Regeneration",
+				"Hypnotic Gaze"
+			],
+			"stats": {
+				"AG": "3",
+				"AV": "9",
+				"MA": "6",
+				"ST": "4"
+			},
+			"title": "Blood Dragon Vampire"
+		}
+	],
+	"raisePosition": null,
+	"rerollCost": "70000",
+	"stars": [
+		{
+			"id": "3009",
+			"name": "Count Luthor Von Drakenborg"
+		},
+		{
+			"id": "3010",
+			"name": "Crazy Igor"
+		},
+		{
+			"id": "3024",
+			"name": "Helmut Wulf"
+		},
+		{
+			"id": "3032",
+			"name": "J Earlice"
+		},
+		{
+			"id": "3039",
+			"name": "Morg 'n' Thorg"
+		},
+		{
+			"id": "3057",
+			"name": "Wilhelm Chaney"
+		}
+	],
+	"stats": {
+		"finesse": "2",
+		"physique": "5",
+		"versatility": "3"
+	},
+	"undead": "Yes"
+}

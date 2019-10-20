@@ -1,0 +1,36 @@
+{
+	"cost": 40000,
+	"doubleSkills": [
+		"G",
+		"S",
+		"P"
+	],
+	"gender": "neutral",
+	"icon": 487838,
+	"iconLetter": "FG",
+	"id": "4032",
+	"name": "Forest Goblin",
+	"normalSkills": [
+		"A"
+	],
+	"portrait": 487839,
+	"quantity": 16,
+	"race": null,
+	"roster": 394,
+	"secretweapon": "0",
+	"skills": [
+		"Dodge",
+		"Right Stuff",
+		"Stunty"
+	],
+	"stats": {
+		"AG": 3,
+		"AV": 6,
+		"MA": 7,
+		"ST": 2
+	},
+	"thrall": "false",
+	"title": "Forest Goblin",
+	"type": "normal",
+	"undead": "false"
+}

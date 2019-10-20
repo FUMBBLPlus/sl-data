@@ -1,0 +1,36 @@
+{
+	"cost": 90000,
+	"doubleSkills": [
+		"P"
+	],
+	"gender": "neutral",
+	"icon": 487391,
+	"iconLetter": "Cel",
+	"id": "3679",
+	"name": "Celestial Dragon Monk",
+	"normalSkills": [
+		"G",
+		"A",
+		"S"
+	],
+	"portrait": 487392,
+	"quantity": 4,
+	"race": null,
+	"roster": 303,
+	"secretweapon": "0",
+	"skills": [
+		"Fend",
+		"Side Step",
+		"Thick Skull"
+	],
+	"stats": {
+		"AG": 3,
+		"AV": 8,
+		"MA": 6,
+		"ST": 3
+	},
+	"thrall": "false",
+	"title": "Celestial Dragon Monk",
+	"type": "normal",
+	"undead": "false"
+}

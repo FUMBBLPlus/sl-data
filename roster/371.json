@@ -1,0 +1,157 @@
+{
+	"apothecary": "No",
+	"id": "371",
+	"info": "Difficulty: HARD\nNumas teams are a strange mix of Khemri and Araby, combining the strength of Tomb Guardians with the speed of the Araby Dervish makes for a fairly versatile team, though they do lack core skills.",
+	"logos": {
+		"128": "492418",
+		"192": "492419",
+		"32": "492415",
+		"48": "492416",
+		"64": "492417",
+		"96": "492420"
+	},
+	"name": "Numas",
+	"necromancer": "No",
+	"ownerRuleset": "69",
+	"playable": "true",
+	"positions": [
+		{
+			"cost": "40000",
+			"doubleSkills": [
+				"A",
+				"S",
+				"P"
+			],
+			"gender": "male",
+			"iconLetter": "L",
+			"id": "3925",
+			"normalSkills": [
+				"G"
+			],
+			"portrait": "487485",
+			"quantity": "16",
+			"skills": [],
+			"stats": {
+				"AG": "3",
+				"AV": "7",
+				"MA": "6",
+				"ST": "3"
+			},
+			"title": " Bedouin"
+		},
+		{
+			"cost": "40000",
+			"doubleSkills": [
+				"A",
+				"S",
+				"P"
+			],
+			"gender": "male",
+			"iconLetter": "Ls",
+			"id": "3926",
+			"normalSkills": [
+				"G"
+			],
+			"portrait": "487487",
+			"quantity": "16",
+			"skills": [
+				"Thick Skull",
+				"Regeneration"
+			],
+			"stats": {
+				"AG": "2",
+				"AV": "7",
+				"MA": "5",
+				"ST": "3"
+			},
+			"title": "Skeleton"
+		},
+		{
+			"cost": "100000",
+			"doubleSkills": [
+				"A",
+				"P"
+			],
+			"gender": "male",
+			"iconLetter": "D",
+			"id": "3929",
+			"normalSkills": [
+				"G",
+				"S"
+			],
+			"portrait": "487496",
+			"quantity": "2",
+			"skills": [
+				"Frenzy",
+				"Side Step"
+			],
+			"stats": {
+				"AG": "3",
+				"AV": "8",
+				"MA": "7",
+				"ST": "3"
+			},
+			"title": "Dervish"
+		},
+		{
+			"cost": "100000",
+			"doubleSkills": [
+				"G",
+				"A",
+				"P"
+			],
+			"gender": "male",
+			"iconLetter": "TG",
+			"id": "3933",
+			"normalSkills": [
+				"S"
+			],
+			"portrait": "487512",
+			"quantity": "2",
+			"skills": [
+				"Regeneration"
+			],
+			"stats": {
+				"AG": "1",
+				"AV": "9",
+				"MA": "4",
+				"ST": "5"
+			},
+			"title": "Tomb Guardian"
+		}
+	],
+	"raisePosition": null,
+	"rerollCost": "60000",
+	"stars": [
+		{
+			"id": "3021",
+			"name": "Hack Enslash"
+		},
+		{
+			"id": "3029",
+			"name": "Humerus Carpal"
+		},
+		{
+			"id": "3031",
+			"name": "Ithaca Benoin"
+		},
+		{
+			"id": "3045",
+			"name": "Ramtut III"
+		},
+		{
+			"id": "3050",
+			"name": "Setekh"
+		},
+		{
+			"id": "3052",
+			"name": "Sinnedbad"
+		}
+	],
+	"stats": {
+		"finesse": "3",
+		"physique": "4",
+		"versatility": "4"
+	},
+	"undead": "No"
+}

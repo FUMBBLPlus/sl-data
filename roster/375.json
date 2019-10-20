@@ -1,0 +1,196 @@
+{
+	"apothecary": "No",
+	"id": "375",
+	"info": "Difficulty: MEDIUM\nZandri are an unrelenting force that conjure up images of Jason and the Argonauts. The skeletal hordes will not lay down, they are powerful and unrelenting and unlike other Khmeri teams have a touch of finesse. ",
+	"logos": {
+		"128": "492431",
+		"192": "492432",
+		"32": "492429",
+		"48": "492427",
+		"64": "492428",
+		"96": "492430"
+	},
+	"name": "Zandri",
+	"necromancer": "No",
+	"ownerRuleset": "69",
+	"playable": "true",
+	"positions": [
+		{
+			"cost": "50000",
+			"doubleSkills": [
+				"A",
+				"S",
+				"P"
+			],
+			"gender": "male",
+			"iconLetter": "L",
+			"id": "3945",
+			"normalSkills": [
+				"G"
+			],
+			"portrait": "487630",
+			"quantity": "16",
+			"skills": [
+				"Jump Up",
+				"Thick Skull",
+				"Regeneration"
+			],
+			"stats": {
+				"AG": "2",
+				"AV": "7",
+				"MA": "5",
+				"ST": "3"
+			},
+			"title": "Skeleton Slaves"
+		},
+		{
+			"cost": "80000",
+			"doubleSkills": [
+				"A",
+				"S"
+			],
+			"gender": "male",
+			"iconLetter": "Th",
+			"id": "3949",
+			"normalSkills": [
+				"G",
+				"P"
+			],
+			"portrait": "487635",
+			"quantity": "2",
+			"skills": [
+				"Sure Hands",
+				"Jump Up",
+				"Pass",
+				"Regeneration"
+			],
+			"stats": {
+				"AG": "2",
+				"AV": "7",
+				"MA": "6",
+				"ST": "3"
+			},
+			"title": "Throw-Ra Slave"
+		},
+		{
+			"cost": "90000",
+			"doubleSkills": [
+				"S",
+				"P"
+			],
+			"gender": "male",
+			"iconLetter": "C",
+			"id": "3951",
+			"normalSkills": [
+				"G",
+				"A"
+			],
+			"portrait": "487638",
+			"quantity": "2",
+			"skills": [
+				"Catch",
+				"Dodge",
+				"Nerves Of Steel",
+				"Regeneration"
+			],
+			"stats": {
+				"AG": "3",
+				"AV": "7",
+				"MA": "7",
+				"ST": "2"
+			},
+			"title": "Catch-Ra"
+		},
+		{
+			"cost": "80000",
+			"doubleSkills": [
+				"A",
+				"S",
+				"P"
+			],
+			"gender": "male",
+			"iconLetter": "SP",
+			"id": "3952",
+			"normalSkills": [
+				"G"
+			],
+			"portrait": "487641",
+			"quantity": "2",
+			"skills": [
+				"Jump Up",
+				"Thick Skull",
+				"Regeneration",
+				"Stab"
+			],
+			"stats": {
+				"AG": "2",
+				"AV": "7",
+				"MA": "5",
+				"ST": "3"
+			},
+			"title": "Skeleton Pirate"
+		},
+		{
+			"cost": "130000",
+			"doubleSkills": [
+				"A",
+				"P"
+			],
+			"gender": "male",
+			"iconLetter": "TG",
+			"id": "3954",
+			"normalSkills": [
+				"G",
+				"S"
+			],
+			"portrait": "487646",
+			"quantity": "2",
+			"skills": [
+				"Jump Up",
+				"Mighty Blow",
+				"Regeneration"
+			],
+			"stats": {
+				"AG": "1",
+				"AV": "9",
+				"MA": "3",
+				"ST": "5"
+			},
+			"title": "Tomb Guardian Ancient"
+		}
+	],
+	"raisePosition": null,
+	"rerollCost": "70000",
+	"stars": [
+		{
+			"id": "3021",
+			"name": "Hack Enslash"
+		},
+		{
+			"id": "3029",
+			"name": "Humerus Carpal"
+		},
+		{
+			"id": "3031",
+			"name": "Ithaca Benoin"
+		},
+		{
+			"id": "3045",
+			"name": "Ramtut III"
+		},
+		{
+			"id": "3050",
+			"name": "Setekh"
+		},
+		{
+			"id": "3052",
+			"name": "Sinnedbad"
+		}
+	],
+	"stats": {
+		"finesse": "3",
+		"physique": "5",
+		"versatility": "3"
+	},
+	"undead": "Yes"
+}

@@ -1,0 +1,32 @@
+{
+	"cost": 90000,
+	"doubleSkills": [
+		"A",
+		"P"
+	],
+	"gender": "male",
+	"icon": 524383,
+	"iconLetter": "B",
+	"id": "10717",
+	"name": "Big 'Un",
+	"normalSkills": [
+		"G",
+		"S"
+	],
+	"portrait": 523711,
+	"quantity": 6,
+	"race": null,
+	"roster": 1399,
+	"secretweapon": "0",
+	"skills": [],
+	"stats": {
+		"AG": 2,
+		"AV": 9,
+		"MA": 5,
+		"ST": 4
+	},
+	"thrall": "false",
+	"title": "Big 'Un",
+	"type": "normal",
+	"undead": "false"
+}

@@ -1,0 +1,37 @@
+{
+	"cost": 150000,
+	"doubleSkills": [
+		"G",
+		"P"
+	],
+	"gender": "neutral",
+	"icon": 488301,
+	"iconLetter": "L",
+	"id": "4190",
+	"name": "Incarnate Elemental of Air",
+	"normalSkills": [
+		"A",
+		"S"
+	],
+	"portrait": 488300,
+	"quantity": 0,
+	"race": null,
+	"roster": 430,
+	"secretweapon": "0",
+	"skills": [
+		"Pass Block",
+		"Leap",
+		"Very Long Legs",
+		"Loner"
+	],
+	"stats": {
+		"AG": 2,
+		"AV": 8,
+		"MA": 5,
+		"ST": 5
+	},
+	"thrall": "false",
+	"title": "Incarnate Elemental of Air",
+	"type": "normal",
+	"undead": "false"
+}

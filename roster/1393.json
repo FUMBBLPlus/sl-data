@@ -1,0 +1,192 @@
+{
+	"apothecary": "Yes",
+	"id": "1393",
+	"info": "DIFFICULTY: EASY - Norse Dwarves start with very good core skill coverage and can bash reliably. However their armour is more akin to the Norse than typical Dwarf teams.",
+	"logos": {
+		"128": "523628",
+		"192": "523629",
+		"32": "523624",
+		"48": "523625",
+		"64": "523626",
+		"96": "523627"
+	},
+	"name": "Norse Dwarf",
+	"necromancer": "No",
+	"ownerRuleset": "69",
+	"playable": "true",
+	"positions": [
+		{
+			"cost": "60000",
+			"doubleSkills": [
+				"A",
+				"P"
+			],
+			"gender": "male",
+			"iconLetter": "L",
+			"id": "10690",
+			"normalSkills": [
+				"G",
+				"S"
+			],
+			"portrait": null,
+			"quantity": "16",
+			"skills": [
+				"Block",
+				"Thick Skull"
+			],
+			"stats": {
+				"AG": "2",
+				"AV": "8",
+				"MA": "5",
+				"ST": "3"
+			},
+			"title": "Norse Dwarf"
+		},
+		{
+			"cost": "90000",
+			"doubleSkills": [
+				"A",
+				"S"
+			],
+			"gender": "male",
+			"iconLetter": "R",
+			"id": "10691",
+			"normalSkills": [
+				"G",
+				"P"
+			],
+			"portrait": null,
+			"quantity": "2",
+			"skills": [
+				"Dauntless",
+				"Sure Hands",
+				"Thick Skull"
+			],
+			"stats": {
+				"AG": "3",
+				"AV": "8",
+				"MA": "6",
+				"ST": "3"
+			},
+			"title": "Norse Dwarf Runner"
+		},
+		{
+			"cost": "90000",
+			"doubleSkills": [
+				"A",
+				"P"
+			],
+			"gender": "male",
+			"iconLetter": "Bez",
+			"id": "10692",
+			"normalSkills": [
+				"G",
+				"S"
+			],
+			"portrait": "523633",
+			"quantity": "2",
+			"skills": [
+				"Block",
+				"Frenzy",
+				"Jump Up",
+				"Thick Skull"
+			],
+			"stats": {
+				"AG": "3",
+				"AV": "7",
+				"MA": "5",
+				"ST": "3"
+			},
+			"title": "Norse Dwarf Beserker"
+		},
+		{
+			"cost": "90000",
+			"doubleSkills": [
+				"A",
+				"P"
+			],
+			"gender": "male",
+			"iconLetter": "Sl",
+			"id": "10693",
+			"normalSkills": [
+				"G",
+				"S"
+			],
+			"portrait": "523634",
+			"quantity": "2",
+			"skills": [
+				"Block",
+				"Dauntless",
+				"Frenzy",
+				"Thick Skull"
+			],
+			"stats": {
+				"AG": "2",
+				"AV": "8",
+				"MA": "5",
+				"ST": "3"
+			},
+			"title": "Norse Dwarf Slayer"
+		},
+		{
+			"cost": "110000",
+			"doubleSkills": [
+				"A",
+				"P"
+			],
+			"gender": "male",
+			"iconLetter": "Ulf",
+			"id": "10694",
+			"normalSkills": [
+				"G",
+				"S"
+			],
+			"portrait": "523636",
+			"quantity": "2",
+			"skills": [
+				"Frenzy"
+			],
+			"stats": {
+				"AG": "2",
+				"AV": "8",
+				"MA": "6",
+				"ST": "4"
+			},
+			"title": "Ulfwerner"
+		}
+	],
+	"raisePosition": null,
+	"rerollCost": "50000",
+	"stars": [
+		{
+			"id": "3003",
+			"name": "Barik Farblast"
+		},
+		{
+			"id": "3008",
+			"name": "Boomer Eziasson"
+		},
+		{
+			"id": "3015",
+			"name": "Flint Churnblade"
+		},
+		{
+			"id": "3020",
+			"name": "Grim Ironjaw"
+		},
+		{
+			"id": "3039",
+			"name": "Morg 'n' Thorg"
+		},
+		{
+			"id": "3059",
+			"name": "Zara the Slayer"
+		}
+	],
+	"stats": {
+		"finesse": "2",
+		"physique": "5",
+		"versatility": "3"
+	},
+	"undead": "No"
+}

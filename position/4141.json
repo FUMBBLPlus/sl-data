@@ -1,0 +1,41 @@
+{
+	"cost": 160000,
+	"doubleSkills": [
+		"G",
+		"A",
+		"P"
+	],
+	"gender": "male",
+	"icon": 488193,
+	"iconLetter": "Bg",
+	"id": "4141",
+	"name": "Deathroller",
+	"normalSkills": [
+		"S"
+	],
+	"portrait": 488192,
+	"quantity": 1,
+	"race": null,
+	"roster": 423,
+	"secretweapon": "0",
+	"skills": [
+		"Dirty Player",
+		"Break Tackle",
+		"Juggernaut",
+		"Mighty Blow",
+		"Stand Firm",
+		"Loner",
+		"No Hands",
+		"Secret Weapon"
+	],
+	"stats": {
+		"AG": 1,
+		"AV": 10,
+		"MA": 4,
+		"ST": 7
+	},
+	"thrall": "false",
+	"title": "Deathroller",
+	"type": "normal",
+	"undead": "false"
+}

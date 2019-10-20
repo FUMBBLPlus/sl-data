@@ -1,0 +1,159 @@
+{
+	"apothecary": "Yes",
+	"id": "302",
+	"info": "Difficulty: VERY EASY\nThe Questing Knights are the stars of the team. Their quest - to win the holy grail; The Blood Bowl trophy. Squires do the dogs work. Peasants are simply fodder and the Knights of the Realm drive and guide the team. ",
+	"logos": {
+		"128": "492368",
+		"192": "492369",
+		"32": "492370",
+		"48": "492371",
+		"64": "492372",
+		"96": "492367"
+	},
+	"name": "Bretonnian",
+	"necromancer": "No",
+	"ownerRuleset": "69",
+	"playable": "true",
+	"positions": [
+		{
+			"cost": "30000",
+			"doubleSkills": [
+				"A",
+				"S",
+				"P"
+			],
+			"gender": "male",
+			"iconLetter": "Pea",
+			"id": "3669",
+			"normalSkills": [
+				"G"
+			],
+			"portrait": "487396",
+			"quantity": "16",
+			"skills": [],
+			"stats": {
+				"AG": "2",
+				"AV": "7",
+				"MA": "6",
+				"ST": "3"
+			},
+			"title": "Peasant "
+		},
+		{
+			"cost": "70000",
+			"doubleSkills": [
+				"A",
+				"P",
+				"S"
+			],
+			"gender": "male",
+			"iconLetter": "Yeo",
+			"id": "3675",
+			"normalSkills": [
+				"G"
+			],
+			"portrait": "487399",
+			"quantity": "2",
+			"skills": [
+				"Kick-Off Return",
+				"Sure Hands"
+			],
+			"stats": {
+				"AG": "3",
+				"AV": "8",
+				"MA": "6",
+				"ST": "3"
+			},
+			"title": "Squire"
+		},
+		{
+			"cost": "110000",
+			"doubleSkills": [
+				"A",
+				"P"
+			],
+			"gender": "neutral",
+			"iconLetter": "Kni",
+			"id": "3676",
+			"normalSkills": [
+				"G",
+				"S"
+			],
+			"portrait": "487401",
+			"quantity": "4",
+			"skills": [
+				"Block",
+				"Dauntless",
+				"Catch"
+			],
+			"stats": {
+				"AG": "3",
+				"AV": "8",
+				"MA": "7",
+				"ST": "3"
+			},
+			"title": "Questing Knight"
+		},
+		{
+			"cost": "90000",
+			"doubleSkills": [
+				"A",
+				"P"
+			],
+			"gender": "male",
+			"iconLetter": "R K",
+			"id": "10719",
+			"normalSkills": [
+				"G",
+				"S"
+			],
+			"portrait": "568793",
+			"quantity": "2",
+			"skills": [
+				"Dauntless",
+				"Stand Firm"
+			],
+			"stats": {
+				"AG": "3",
+				"AV": "9",
+				"MA": "6",
+				"ST": "3"
+			},
+			"title": "Realm Knight"
+		}
+	],
+	"raisePosition": null,
+	"rerollCost": "60000",
+	"stars": [
+		{
+			"id": "3019",
+			"name": "Griff Oberwald"
+		},
+		{
+			"id": "3024",
+			"name": "Helmut Wulf"
+		},
+		{
+			"id": "3038",
+			"name": "Mighty Zug"
+		},
+		{
+			"id": "3039",
+			"name": "Morg 'n' Thorg"
+		},
+		{
+			"id": "3042",
+			"name": "Puggy Baconbreath"
+		},
+		{
+			"id": "3059",
+			"name": "Zara the Slayer"
+		}
+	],
+	"stats": {
+		"finesse": "4",
+		"physique": "3",
+		"versatility": "5"
+	},
+	"undead": "No"
+}

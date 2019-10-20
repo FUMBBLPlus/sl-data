@@ -1,0 +1,131 @@
+{
+	"apothecary": "Yes",
+	"id": "2505",
+	"info": "DIFFICULTY: VERY EASY\n\nAvelorn Elves are the most dextrous of any elf team, the Sisters of Avelorn especially excel in this department. The Handmaidens offer some steel to the team and they are aided by a solid core of resilient Linewomen.",
+	"logos": {
+		"128": "573231",
+		"192": "573233",
+		"32": "573236",
+		"48": "573237",
+		"64": "573239",
+		"96": "573238"
+	},
+	"name": "Avelorn",
+	"necromancer": "No",
+	"ownerRuleset": "69",
+	"playable": "true",
+	"positions": [
+		{
+			"cost": "70000",
+			"doubleSkills": [
+				"S",
+				"P"
+			],
+			"gender": "female",
+			"iconLetter": "L",
+			"id": "18691",
+			"normalSkills": [
+				"G",
+				"A"
+			],
+			"portrait": null,
+			"quantity": "16",
+			"skills": [],
+			"stats": {
+				"AG": "4",
+				"AV": "8",
+				"MA": "6",
+				"ST": "3"
+			},
+			"title": "Linewoman"
+		},
+		{
+			"cost": "100000",
+			"doubleSkills": [
+				"S"
+			],
+			"gender": "female",
+			"iconLetter": "Sis",
+			"id": "18692",
+			"normalSkills": [
+				"G",
+				"A",
+				"P"
+			],
+			"portrait": null,
+			"quantity": "4",
+			"skills": [
+				"Catch",
+				"Pass"
+			],
+			"stats": {
+				"AG": "4",
+				"AV": "7",
+				"MA": "7",
+				"ST": "3"
+			},
+			"title": "Sister"
+		},
+		{
+			"cost": "120000",
+			"doubleSkills": [
+				"S",
+				"P"
+			],
+			"gender": "female",
+			"iconLetter": "H",
+			"id": "18693",
+			"normalSkills": [
+				"G",
+				"A"
+			],
+			"portrait": null,
+			"quantity": "2",
+			"skills": [
+				"Block",
+				"Stand Firm"
+			],
+			"stats": {
+				"AG": "4",
+				"AV": "8",
+				"MA": "8",
+				"ST": "3"
+			},
+			"title": "Handmaiden"
+		}
+	],
+	"raisePosition": null,
+	"rerollCost": "50000",
+	"stars": [
+		{
+			"id": "3012",
+			"name": "Dolfar Longstride"
+		},
+		{
+			"id": "3013",
+			"name": "Eldril Sidewinder"
+		},
+		{
+			"id": "3039",
+			"name": "Morg 'n' Thorg"
+		},
+		{
+			"id": "3041",
+			"name": "Prince Moranion"
+		},
+		{
+			"id": "3054",
+			"name": "Soaren Hightower"
+		},
+		{
+			"id": "3059",
+			"name": "Zara the Slayer"
+		}
+	],
+	"stats": {
+		"finesse": "5",
+		"physique": "3",
+		"versatility": "5"
+	},
+	"undead": "No"
+}

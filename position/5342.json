@@ -1,0 +1,37 @@
+{
+	"cost": 80000,
+	"doubleSkills": [
+		"A"
+	],
+	"gender": "male",
+	"icon": 493021,
+	"iconLetter": "TG",
+	"id": "5342",
+	"name": "Tzaangor",
+	"normalSkills": [
+		"G",
+		"S",
+		"M",
+		"P"
+	],
+	"portrait": 493020,
+	"quantity": 4,
+	"race": "Tzaangor",
+	"roster": 617,
+	"secretweapon": "0",
+	"skills": [
+		"Big Hand",
+		"Extra Arms",
+		"Horns"
+	],
+	"stats": {
+		"AG": 3,
+		"AV": 8,
+		"MA": 6,
+		"ST": 3
+	},
+	"thrall": "false",
+	"title": "Tzaangor",
+	"type": "normal",
+	"undead": "false"
+}

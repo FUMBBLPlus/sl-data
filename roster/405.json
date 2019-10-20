@@ -1,0 +1,197 @@
+{
+	"apothecary": "No",
+	"id": "405",
+	"info": "Difficulty: MEDIUM\nUndead Pirates are heavily reliant on the performance of their powerful Vampire Lord and Zombie Ogres. The rest of the team is fairly slow and weak, but act as good fodder.",
+	"logos": {
+		"128": "492560",
+		"192": "492561",
+		"32": "492563",
+		"48": "492564",
+		"64": "492565",
+		"96": "492562"
+	},
+	"name": "Undead Pirates",
+	"necromancer": "Yes",
+	"ownerRuleset": "69",
+	"playable": "true",
+	"positions": [
+		{
+			"cost": "40000",
+			"doubleSkills": [
+				"A",
+				"S",
+				"P"
+			],
+			"gender": "male",
+			"iconLetter": "L",
+			"id": "4070",
+			"normalSkills": [
+				"G"
+			],
+			"portrait": "487935",
+			"quantity": "16",
+			"skills": [
+				"Regeneration"
+			],
+			"stats": {
+				"AG": "2",
+				"AV": "8",
+				"MA": "4",
+				"ST": "3"
+			},
+			"title": "Zombie"
+		},
+		{
+			"cost": "80000",
+			"doubleSkills": [
+				"A",
+				"S",
+				"P"
+			],
+			"gender": "male",
+			"iconLetter": "SP",
+			"id": "4071",
+			"normalSkills": [
+				"G"
+			],
+			"portrait": "487964",
+			"quantity": "2",
+			"skills": [
+				"Thick Skull",
+				"Jump Up",
+				"Regeneration",
+				"Stab"
+			],
+			"stats": {
+				"AG": "2",
+				"AV": "7",
+				"MA": "5",
+				"ST": "3"
+			},
+			"title": "Skeleton Pirate"
+		},
+		{
+			"cost": "110000",
+			"doubleSkills": [
+				"S",
+				"P"
+			],
+			"gender": "female",
+			"iconLetter": "Sy",
+			"id": "4072",
+			"normalSkills": [
+				"G",
+				"A"
+			],
+			"portrait": "487973",
+			"quantity": "2",
+			"skills": [
+				"Disturbing Presence",
+				"Foul Appearance",
+				"Hypnotic Gaze",
+				"Leap",
+				"Very Long Legs"
+			],
+			"stats": {
+				"AG": "3",
+				"AV": "8",
+				"MA": "7",
+				"ST": "3"
+			},
+			"title": "Syreen"
+		},
+		{
+			"cost": "130000",
+			"doubleSkills": [
+				"G",
+				"A",
+				"P"
+			],
+			"gender": "male",
+			"iconLetter": "Bg",
+			"id": "4073",
+			"normalSkills": [
+				"S"
+			],
+			"portrait": "487975",
+			"quantity": "2",
+			"skills": [
+				"Bone-head",
+				"Loner",
+				"Regeneration",
+				"Thick Skull",
+				"Mighty Blow"
+			],
+			"stats": {
+				"AG": "1",
+				"AV": "9",
+				"MA": "4",
+				"ST": "5"
+			},
+			"title": "Zombie Ogre"
+		},
+		{
+			"cost": "160000",
+			"doubleSkills": [
+				"P"
+			],
+			"gender": "male",
+			"iconLetter": "VL",
+			"id": "4074",
+			"normalSkills": [
+				"G",
+				"A",
+				"S"
+			],
+			"portrait": "487977",
+			"quantity": "1",
+			"skills": [
+				"Loner",
+				"Wild Animal",
+				"Regeneration",
+				"Hypnotic Gaze"
+			],
+			"stats": {
+				"AG": "4",
+				"AV": "8",
+				"MA": "6",
+				"ST": "5"
+			},
+			"title": "Vampire Lord"
+		}
+	],
+	"raisePosition": "4070",
+	"rerollCost": "70000",
+	"stars": [
+		{
+			"id": "3009",
+			"name": "Count Luthor Von Drakenborg"
+		},
+		{
+			"id": "3021",
+			"name": "Hack Enslash"
+		},
+		{
+			"id": "3032",
+			"name": "J Earlice"
+		},
+		{
+			"id": "3045",
+			"name": "Ramtut III"
+		},
+		{
+			"id": "3050",
+			"name": "Setekh"
+		},
+		{
+			"id": "3052",
+			"name": "Sinnedbad"
+		}
+	],
+	"stats": {
+		"finesse": "5",
+		"physique": "5",
+		"versatility": "2"
+	},
+	"undead": "Yes"
+}

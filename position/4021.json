@@ -1,0 +1,37 @@
+{
+	"cost": 120000,
+	"doubleSkills": [
+		"G",
+		"A",
+		"P"
+	],
+	"gender": "male",
+	"icon": 574260,
+	"iconLetter": "PCB",
+	"id": "4021",
+	"name": "Plague Censer Bearer",
+	"normalSkills": [
+		"S",
+		"M"
+	],
+	"portrait": 487827,
+	"quantity": 2,
+	"race": null,
+	"roster": 391,
+	"secretweapon": "0",
+	"skills": [
+		"Disturbing Presence",
+		"Ball & Chain",
+		"No Hands"
+	],
+	"stats": {
+		"AG": 1,
+		"AV": 7,
+		"MA": 3,
+		"ST": 7
+	},
+	"thrall": "false",
+	"title": "Plague Censer Bearer",
+	"type": "normal",
+	"undead": "false"
+}

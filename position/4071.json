@@ -1,0 +1,37 @@
+{
+	"cost": 80000,
+	"doubleSkills": [
+		"A",
+		"S",
+		"P"
+	],
+	"gender": "male",
+	"icon": 487963,
+	"iconLetter": "SP",
+	"id": "4071",
+	"name": "Skeleton Pirate",
+	"normalSkills": [
+		"G"
+	],
+	"portrait": 487964,
+	"quantity": 2,
+	"race": null,
+	"roster": 405,
+	"secretweapon": "0",
+	"skills": [
+		"Jump Up",
+		"Thick Skull",
+		"Regeneration",
+		"Stab"
+	],
+	"stats": {
+		"AG": 2,
+		"AV": 7,
+		"MA": 5,
+		"ST": 3
+	},
+	"thrall": "false",
+	"title": "Skeleton Pirate",
+	"type": "normal",
+	"undead": "true"
+}

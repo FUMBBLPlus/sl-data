@@ -1,0 +1,35 @@
+{
+	"cost": 90000,
+	"doubleSkills": [
+		"A",
+		"P"
+	],
+	"gender": "neutral",
+	"icon": 489121,
+	"iconLetter": "HB",
+	"id": "4542",
+	"name": "Human Blitzer",
+	"normalSkills": [
+		"G",
+		"S"
+	],
+	"portrait": 489122,
+	"quantity": 1,
+	"race": "Human",
+	"roster": 486,
+	"secretweapon": "0",
+	"skills": [
+		"Block",
+		"Animosity"
+	],
+	"stats": {
+		"AG": 3,
+		"AV": 8,
+		"MA": 7,
+		"ST": 3
+	},
+	"thrall": "false",
+	"title": "Human Blitzer",
+	"type": "normal",
+	"undead": "false"
+}

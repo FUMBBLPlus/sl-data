@@ -1,0 +1,32 @@
+{
+	"cost": 0,
+	"doubleSkills": [],
+	"gender": "male",
+	"icon": 436440,
+	"iconLetter": "Gr",
+	"id": "3006",
+	"name": "Grotty",
+	"normalSkills": [],
+	"portrait": 332805,
+	"quantity": 1,
+	"race": null,
+	"roster": 67,
+	"secretweapon": "0",
+	"skills": [
+		"Dodge",
+		"Loner",
+		"Right Stuff",
+		"Stunty"
+	],
+	"stats": {
+		"AG": 4,
+		"AV": 7,
+		"MA": 6,
+		"ST": 2
+	},
+	"teamWith": 3005,
+	"thrall": "false",
+	"title": "Grotty",
+	"type": "star",
+	"undead": "false"
+}

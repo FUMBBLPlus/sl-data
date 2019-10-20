@@ -1,0 +1,35 @@
+{
+	"cost": 80000,
+	"doubleSkills": [
+		"A",
+		"P"
+	],
+	"gender": "male",
+	"icon": 487689,
+	"iconLetter": "K",
+	"id": "3967",
+	"name": "Kossar",
+	"normalSkills": [
+		"G",
+		"S"
+	],
+	"portrait": 487690,
+	"quantity": 4,
+	"race": null,
+	"roster": 377,
+	"secretweapon": "0",
+	"skills": [
+		"Wrestle",
+		"Stand Firm"
+	],
+	"stats": {
+		"AG": 3,
+		"AV": 8,
+		"MA": 6,
+		"ST": 3
+	},
+	"thrall": "false",
+	"title": "Kossar",
+	"type": "normal",
+	"undead": "false"
+}

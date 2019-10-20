@@ -1,0 +1,36 @@
+{
+	"cost": 70000,
+	"doubleSkills": [
+		"A",
+		"S"
+	],
+	"gender": "female",
+	"icon": 489299,
+	"iconLetter": "AT",
+	"id": "4616",
+	"name": "Amazon Thrower",
+	"normalSkills": [
+		"G",
+		"P"
+	],
+	"portrait": 489300,
+	"quantity": 1,
+	"race": "Amazon",
+	"roster": 486,
+	"secretweapon": "0",
+	"skills": [
+		"Dodge",
+		"Pass",
+		"Animosity"
+	],
+	"stats": {
+		"AG": 3,
+		"AV": 7,
+		"MA": 6,
+		"ST": 3
+	},
+	"thrall": "false",
+	"title": "Amazon Thrower",
+	"type": "normal",
+	"undead": "false"
+}

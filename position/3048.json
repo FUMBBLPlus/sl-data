@@ -1,0 +1,33 @@
+{
+	"cost": 250000,
+	"doubleSkills": [],
+	"gender": "male",
+	"icon": 436481,
+	"iconLetter": "RD",
+	"id": "3048",
+	"name": "Roxanna Darknail",
+	"normalSkills": [],
+	"portrait": 440126,
+	"quantity": 1,
+	"race": null,
+	"roster": 67,
+	"secretweapon": "0",
+	"skills": [
+		"Frenzy",
+		"Dodge",
+		"Jump Up",
+		"Leap",
+		"Juggernaut",
+		"Loner"
+	],
+	"stats": {
+		"AG": 5,
+		"AV": 7,
+		"MA": 8,
+		"ST": 3
+	},
+	"thrall": "false",
+	"title": "Roxanna Darknail",
+	"type": "star",
+	"undead": "false"
+}

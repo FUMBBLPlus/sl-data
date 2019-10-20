@@ -1,0 +1,35 @@
+{
+	"cost": 90000,
+	"doubleSkills": [
+		"S",
+		"P"
+	],
+	"gender": "neutral",
+	"icon": 489290,
+	"iconLetter": "HC",
+	"id": "4612",
+	"name": "High Elf Catcher",
+	"normalSkills": [
+		"G",
+		"A"
+	],
+	"portrait": 489291,
+	"quantity": 1,
+	"race": "High Elf",
+	"roster": 486,
+	"secretweapon": "0",
+	"skills": [
+		"Catch",
+		"Animosity"
+	],
+	"stats": {
+		"AG": 4,
+		"AV": 7,
+		"MA": 8,
+		"ST": 3
+	},
+	"thrall": "false",
+	"title": "High Elf Catcher",
+	"type": "normal",
+	"undead": "false"
+}

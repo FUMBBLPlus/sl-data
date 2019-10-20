@@ -1,0 +1,39 @@
+{
+	"cost": 120000,
+	"doubleSkills": [
+		"G",
+		"A",
+		"P"
+	],
+	"gender": "neutral",
+	"icon": 486413,
+	"iconLetter": "FB",
+	"id": "3229",
+	"name": "Fen Beast",
+	"normalSkills": [
+		"S"
+	],
+	"portrait": 486415,
+	"quantity": 1,
+	"race": null,
+	"roster": 203,
+	"secretweapon": "0",
+	"skills": [
+		"Mighty Blow",
+		"Thick Skull",
+		"Bone-head",
+		"Loner",
+		"Regeneration",
+		"Throw Team-Mate"
+	],
+	"stats": {
+		"AG": 1,
+		"AV": 9,
+		"MA": 4,
+		"ST": 5
+	},
+	"thrall": "false",
+	"title": "Fen Beast",
+	"type": "normal",
+	"undead": "false"
+}

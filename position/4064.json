@@ -1,0 +1,36 @@
+{
+	"cost": 120000,
+	"doubleSkills": [
+		"G",
+		"A",
+		"P"
+	],
+	"gender": "male",
+	"icon": 573264,
+	"iconLetter": "Mang",
+	"id": "4064",
+	"name": "Mangler Squig",
+	"normalSkills": [
+		"S"
+	],
+	"portrait": 573263,
+	"quantity": 1,
+	"race": null,
+	"roster": 402,
+	"secretweapon": "0",
+	"skills": [
+		"Claw",
+		"Ball & Chain",
+		"No Hands"
+	],
+	"stats": {
+		"AG": 1,
+		"AV": 7,
+		"MA": 3,
+		"ST": 7
+	},
+	"thrall": "false",
+	"title": "Mangler Squig",
+	"type": "normal",
+	"undead": "false"
+}

@@ -1,0 +1,34 @@
+{
+	"cost": 70000,
+	"doubleSkills": [
+		"S",
+		"P"
+	],
+	"gender": "neutral",
+	"icon": 523657,
+	"iconLetter": "L",
+	"id": "10697",
+	"name": "Wild Hunter",
+	"normalSkills": [
+		"G",
+		"A"
+	],
+	"portrait": 569441,
+	"quantity": 16,
+	"race": null,
+	"roster": 1395,
+	"secretweapon": "0",
+	"skills": [
+		"Frenzy"
+	],
+	"stats": {
+		"AG": 4,
+		"AV": 7,
+		"MA": 6,
+		"ST": 3
+	},
+	"thrall": "false",
+	"title": "Wild Hunter",
+	"type": "normal",
+	"undead": "false"
+}

@@ -1,0 +1,36 @@
+{
+	"cost": 80000,
+	"doubleSkills": [
+		"A",
+		"P"
+	],
+	"gender": "male",
+	"icon": 596860,
+	"iconLetter": "Blo",
+	"id": "23012",
+	"name": "Blocker",
+	"normalSkills": [
+		"G",
+		"S"
+	],
+	"portrait": 0,
+	"quantity": 2,
+	"race": null,
+	"roster": 3134,
+	"secretweapon": "0",
+	"skills": [
+		"Block",
+		"Tackle",
+		"Thick Skull"
+	],
+	"stats": {
+		"AG": 2,
+		"AV": 10,
+		"MA": 4,
+		"ST": 3
+	},
+	"thrall": "false",
+	"title": "Blocker",
+	"type": "normal",
+	"undead": "false"
+}

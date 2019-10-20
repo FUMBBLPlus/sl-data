@@ -1,0 +1,39 @@
+{
+	"cost": 110000,
+	"doubleSkills": [
+		"A",
+		"P"
+	],
+	"gender": "neutral",
+	"icon": 592209,
+	"iconLetter": "W",
+	"id": "4427",
+	"name": "Wraith",
+	"normalSkills": [
+		"G",
+		"S"
+	],
+	"portrait": 488644,
+	"quantity": 4,
+	"race": null,
+	"roster": 467,
+	"secretweapon": "0",
+	"skills": [
+		"Leap",
+		"Disturbing Presence",
+		"Foul Appearance",
+		"Very Long Legs",
+		"Regeneration",
+		"Stab"
+	],
+	"stats": {
+		"AG": 3,
+		"AV": 8,
+		"MA": 6,
+		"ST": 3
+	},
+	"thrall": "false",
+	"title": "Wraith",
+	"type": "normal",
+	"undead": "true"
+}

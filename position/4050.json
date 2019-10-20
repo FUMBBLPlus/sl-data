@@ -1,0 +1,38 @@
+{
+	"cost": 20000,
+	"doubleSkills": [
+		"G",
+		"S",
+		"P"
+	],
+	"gender": "male",
+	"icon": 487886,
+	"iconLetter": "L",
+	"id": "4050",
+	"name": "Snotling",
+	"normalSkills": [
+		"A"
+	],
+	"portrait": 487885,
+	"quantity": 16,
+	"race": null,
+	"roster": 399,
+	"secretweapon": "0",
+	"skills": [
+		"Dodge",
+		"Side Step",
+		"Right Stuff",
+		"Stunty",
+		"Titchy"
+	],
+	"stats": {
+		"AG": 3,
+		"AV": 5,
+		"MA": 5,
+		"ST": 1
+	},
+	"thrall": "false",
+	"title": "Snotling",
+	"type": "normal",
+	"undead": "false"
+}

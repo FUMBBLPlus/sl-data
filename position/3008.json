@@ -1,0 +1,33 @@
+{
+	"cost": 60000,
+	"doubleSkills": [],
+	"gender": "male",
+	"icon": 436442,
+	"iconLetter": "BE",
+	"id": "3008",
+	"name": "Boomer Eziasson",
+	"normalSkills": [],
+	"portrait": 332804,
+	"quantity": 1,
+	"race": null,
+	"roster": 67,
+	"secretweapon": "0",
+	"skills": [
+		"Block",
+		"Thick Skull",
+		"Accurate",
+		"Bombardier",
+		"Loner",
+		"Secret Weapon"
+	],
+	"stats": {
+		"AG": 2,
+		"AV": 9,
+		"MA": 4,
+		"ST": 3
+	},
+	"thrall": "false",
+	"title": "Boomer Eziasson",
+	"type": "star",
+	"undead": "false"
+}

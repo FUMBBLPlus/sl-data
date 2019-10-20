@@ -1,0 +1,199 @@
+{
+	"apothecary": "Yes",
+	"id": "203",
+	"info": "Difficulty: MEDIUM\n\nAlbion are a team of extremes, Their big guy and barbaric Fen Guard and Beserkers are powerful but lack finesse. While the Pixies are small and fragile, but very fast and nimble.",
+	"logos": {
+		"128": "492355",
+		"192": "492356",
+		"32": "492358",
+		"48": "492359",
+		"64": "492360",
+		"96": "492357"
+	},
+	"name": "Albion",
+	"necromancer": "No",
+	"ownerRuleset": "69",
+	"playable": "true",
+	"positions": [
+		{
+			"cost": "30000",
+			"doubleSkills": [
+				"G",
+				"S",
+				"P"
+			],
+			"gender": "male",
+			"iconLetter": "Pix",
+			"id": "3217",
+			"normalSkills": [
+				"A"
+			],
+			"portrait": "486407",
+			"quantity": "16",
+			"skills": [
+				"Dodge",
+				"Right Stuff",
+				"Stunty",
+				"Titchy"
+			],
+			"stats": {
+				"AG": "3",
+				"AV": "6",
+				"MA": "7",
+				"ST": "1"
+			},
+			"title": "Pixie"
+		},
+		{
+			"cost": "80000",
+			"doubleSkills": [
+				"A",
+				"P"
+			],
+			"gender": "male",
+			"iconLetter": "Bes",
+			"id": "3222",
+			"normalSkills": [
+				"G",
+				"S"
+			],
+			"portrait": "486409",
+			"quantity": "4",
+			"skills": [
+				"Frenzy",
+				"Thick Skull"
+			],
+			"stats": {
+				"AG": "1",
+				"AV": "7",
+				"MA": "5",
+				"ST": "4"
+			},
+			"title": "Woad Berserker"
+		},
+		{
+			"cost": "90000",
+			"doubleSkills": [
+				"A",
+				"P"
+			],
+			"gender": "male",
+			"iconLetter": "FG",
+			"id": "3226",
+			"normalSkills": [
+				"G",
+				"S"
+			],
+			"portrait": "486411",
+			"quantity": "2",
+			"skills": [
+				"Stand Firm",
+				"Thick Skull"
+			],
+			"stats": {
+				"AG": "1",
+				"AV": "8",
+				"MA": "5",
+				"ST": "4"
+			},
+			"title": "Fen Guard"
+		},
+		{
+			"cost": "120000",
+			"doubleSkills": [
+				"G",
+				"A",
+				"P"
+			],
+			"gender": "neutral",
+			"iconLetter": "FB",
+			"id": "3229",
+			"normalSkills": [
+				"S"
+			],
+			"portrait": "486415",
+			"quantity": "1",
+			"skills": [
+				"Mighty Blow",
+				"Thick Skull",
+				"Bone-head",
+				"Loner",
+				"Regeneration",
+				"Throw Team-Mate"
+			],
+			"stats": {
+				"AG": "1",
+				"AV": "9",
+				"MA": "4",
+				"ST": "5"
+			},
+			"title": "Fen Beast"
+		},
+		{
+			"cost": "120000",
+			"doubleSkills": [
+				"G",
+				"A",
+				"P"
+			],
+			"gender": "male",
+			"iconLetter": "Tr",
+			"id": "3237",
+			"normalSkills": [
+				"S"
+			],
+			"portrait": "486417",
+			"quantity": "0",
+			"skills": [
+				"Mighty Blow",
+				"Stand Firm",
+				"Strong Arm",
+				"Thick Skull",
+				"Loner",
+				"Take Root",
+				"Throw Team-Mate"
+			],
+			"stats": {
+				"AG": "1",
+				"AV": "10",
+				"MA": "2",
+				"ST": "6"
+			},
+			"title": "Treeman"
+		}
+	],
+	"raisePosition": null,
+	"rerollCost": "60000",
+	"stars": [
+		{
+			"id": "3004",
+			"name": "Bertha Bigfist"
+		},
+		{
+			"id": "3011",
+			"name": "Deeproot Strongbranch"
+		},
+		{
+			"id": "3039",
+			"name": "Morg 'n' Thorg"
+		},
+		{
+			"id": "3042",
+			"name": "Puggy Baconbreath"
+		},
+		{
+			"id": "3058",
+			"name": "Willow Rosebark"
+		},
+		{
+			"id": "3059",
+			"name": "Zara the Slayer"
+		}
+	],
+	"stats": {
+		"finesse": "3",
+		"physique": "5",
+		"versatility": "2"
+	},
+	"undead": "No"
+}

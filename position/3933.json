@@ -1,0 +1,34 @@
+{
+	"cost": 100000,
+	"doubleSkills": [
+		"G",
+		"A",
+		"P"
+	],
+	"gender": "male",
+	"icon": 487514,
+	"iconLetter": "TG",
+	"id": "3933",
+	"name": "Tomb Guardian",
+	"normalSkills": [
+		"S"
+	],
+	"portrait": 487512,
+	"quantity": 2,
+	"race": null,
+	"roster": 371,
+	"secretweapon": "0",
+	"skills": [
+		"Regeneration"
+	],
+	"stats": {
+		"AG": 1,
+		"AV": 9,
+		"MA": 4,
+		"ST": 5
+	},
+	"thrall": "false",
+	"title": "Tomb Guardian",
+	"type": "normal",
+	"undead": "true"
+}

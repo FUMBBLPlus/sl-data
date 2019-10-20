@@ -1,0 +1,35 @@
+{
+	"cost": 110000,
+	"doubleSkills": [
+		"A",
+		"P"
+	],
+	"gender": "neutral",
+	"icon": 489313,
+	"iconLetter": "NU",
+	"id": "4623",
+	"name": "Norse Ulfwerener",
+	"normalSkills": [
+		"G",
+		"S"
+	],
+	"portrait": 489314,
+	"quantity": 1,
+	"race": "Norse",
+	"roster": 486,
+	"secretweapon": "0",
+	"skills": [
+		"Frenzy",
+		"Animosity"
+	],
+	"stats": {
+		"AG": 2,
+		"AV": 8,
+		"MA": 6,
+		"ST": 4
+	},
+	"thrall": "false",
+	"title": "Norse Ulfwerener",
+	"type": "normal",
+	"undead": "false"
+}

@@ -1,0 +1,34 @@
+{
+	"cost": 70000,
+	"doubleSkills": [
+		"S",
+		"P"
+	],
+	"gender": "neutral",
+	"icon": 489286,
+	"iconLetter": "HL",
+	"id": "4610",
+	"name": "High Elf Lineman",
+	"normalSkills": [
+		"G",
+		"A"
+	],
+	"portrait": 489287,
+	"quantity": 1,
+	"race": "High Elf",
+	"roster": 486,
+	"secretweapon": "0",
+	"skills": [
+		"Animosity"
+	],
+	"stats": {
+		"AG": 4,
+		"AV": 8,
+		"MA": 6,
+		"ST": 3
+	},
+	"thrall": "false",
+	"title": "High Elf Lineman",
+	"type": "normal",
+	"undead": "false"
+}

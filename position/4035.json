@@ -1,0 +1,35 @@
+{
+	"cost": 50000,
+	"doubleSkills": [
+		"A",
+		"P"
+	],
+	"gender": "neutral",
+	"icon": 487842,
+	"iconLetter": "SO",
+	"id": "4035",
+	"name": "Savage Orc",
+	"normalSkills": [
+		"G",
+		"S"
+	],
+	"portrait": 487844,
+	"quantity": 4,
+	"race": null,
+	"roster": 394,
+	"secretweapon": "0",
+	"skills": [
+		"Frenzy",
+		"Thick Skull"
+	],
+	"stats": {
+		"AG": 3,
+		"AV": 7,
+		"MA": 6,
+		"ST": 3
+	},
+	"thrall": "false",
+	"title": "Savage Orc",
+	"type": "normal",
+	"undead": "false"
+}

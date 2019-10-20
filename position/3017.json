@@ -1,0 +1,31 @@
+{
+	"cost": 210000,
+	"doubleSkills": [],
+	"gender": "male",
+	"icon": 436451,
+	"iconLetter": "GS",
+	"id": "3017",
+	"name": "Glart Smashrip Jr.",
+	"normalSkills": [],
+	"portrait": 332783,
+	"quantity": 1,
+	"race": "Skaven",
+	"roster": 67,
+	"secretweapon": "0",
+	"skills": [
+		"Block",
+		"Juggernaut",
+		"Claw",
+		"Loner"
+	],
+	"stats": {
+		"AG": 3,
+		"AV": 8,
+		"MA": 7,
+		"ST": 4
+	},
+	"thrall": "false",
+	"title": "Glart Smashrip Jr.",
+	"type": "star",
+	"undead": "false"
+}

@@ -1,0 +1,34 @@
+{
+	"cost": 70000,
+	"doubleSkills": [
+		"S",
+		"P"
+	],
+	"gender": "male",
+	"icon": 488051,
+	"iconLetter": "Gh",
+	"id": "4090",
+	"name": "Ghoul",
+	"normalSkills": [
+		"G",
+		"A"
+	],
+	"portrait": 488050,
+	"quantity": 6,
+	"race": "Thrall",
+	"roster": 412,
+	"secretweapon": "0",
+	"skills": [
+		"Dodge"
+	],
+	"stats": {
+		"AG": 3,
+		"AV": 7,
+		"MA": 7,
+		"ST": 3
+	},
+	"thrall": "true",
+	"title": "Ghoul",
+	"type": "normal",
+	"undead": "true"
+}

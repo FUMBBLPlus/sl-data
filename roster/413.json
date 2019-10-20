@@ -1,0 +1,135 @@
+{
+	"apothecary": "No",
+	"id": "413",
+	"info": "Difficulty: MEDIUM\nVon Carstein Vampires strive for perfection, they are the best of the best all rounders in the Vampire kingdoms.",
+	"logos": {
+		"128": "492593",
+		"192": "492594",
+		"32": "492590",
+		"48": "492591",
+		"64": "492592",
+		"96": "492595"
+	},
+	"name": "Von Carstein",
+	"necromancer": "Yes",
+	"ownerRuleset": "69",
+	"playable": "true",
+	"positions": [
+		{
+			"cost": "40000",
+			"doubleSkills": [
+				"A",
+				"S",
+				"P"
+			],
+			"gender": "male",
+			"iconLetter": "L",
+			"id": "4096",
+			"normalSkills": [
+				"G"
+			],
+			"portrait": "488055",
+			"quantity": "16",
+			"skills": [],
+			"stats": {
+				"AG": "3",
+				"AV": "7",
+				"MA": "6",
+				"ST": "3"
+			},
+			"title": "Thrall"
+		},
+		{
+			"cost": "70000",
+			"doubleSkills": [
+				"S",
+				"P"
+			],
+			"gender": "male",
+			"iconLetter": "Sh",
+			"id": "4098",
+			"normalSkills": [
+				"G",
+				"A"
+			],
+			"portrait": "488059",
+			"quantity": "0",
+			"skills": [
+				"Foul Appearance",
+				"Regeneration",
+				"Titchy",
+				"No Hands"
+			],
+			"stats": {
+				"AG": "5",
+				"AV": "7",
+				"MA": "6",
+				"ST": "3"
+			},
+			"title": "Spirit Host"
+		},
+		{
+			"cost": "120000",
+			"doubleSkills": [
+				"P"
+			],
+			"gender": "male",
+			"iconLetter": "V",
+			"id": "4099",
+			"normalSkills": [
+				"G",
+				"A",
+				"S"
+			],
+			"portrait": "488061",
+			"quantity": "4",
+			"skills": [
+				"Blood Lust",
+				"Pro",
+				"Hypnotic Gaze",
+				"Regeneration"
+			],
+			"stats": {
+				"AG": "4",
+				"AV": "8",
+				"MA": "6",
+				"ST": "4"
+			},
+			"title": "Von Carstein Vampire"
+		}
+	],
+	"raisePosition": "4098",
+	"rerollCost": "70000",
+	"stars": [
+		{
+			"id": "3009",
+			"name": "Count Luthor Von Drakenborg"
+		},
+		{
+			"id": "3010",
+			"name": "Crazy Igor"
+		},
+		{
+			"id": "3024",
+			"name": "Helmut Wulf"
+		},
+		{
+			"id": "3032",
+			"name": "J Earlice"
+		},
+		{
+			"id": "3039",
+			"name": "Morg 'n' Thorg"
+		},
+		{
+			"id": "3057",
+			"name": "Wilhelm Chaney"
+		}
+	],
+	"stats": {
+		"finesse": "4",
+		"physique": "4",
+		"versatility": "4"
+	},
+	"undead": "Yes"
+}

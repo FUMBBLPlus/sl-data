@@ -1,0 +1,33 @@
+{
+	"cost": 220000,
+	"doubleSkills": [],
+	"gender": "male",
+	"icon": 436483,
+	"iconLetter": "Se",
+	"id": "3050",
+	"name": "Setekh",
+	"normalSkills": [],
+	"portrait": 332782,
+	"quantity": 1,
+	"race": null,
+	"roster": 67,
+	"secretweapon": "0",
+	"skills": [
+		"Block",
+		"Strip Ball",
+		"Break Tackle",
+		"Juggernaut",
+		"Loner",
+		"Regeneration"
+	],
+	"stats": {
+		"AG": 2,
+		"AV": 8,
+		"MA": 6,
+		"ST": 4
+	},
+	"thrall": "false",
+	"title": "Setekh",
+	"type": "star",
+	"undead": "false"
+}

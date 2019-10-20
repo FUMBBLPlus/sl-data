@@ -1,0 +1,146 @@
+{
+	"apothecary": "Yes",
+	"id": "399",
+	"info": "Difficulty: VERY HARD\nSnotling teams are the laughing stock of the Old World. They have the weakest players and the stupidest players in the game. Though the Snotling Pump Wagon does some real damage while its on the pitch.",
+	"logos": {
+		"128": "492545",
+		"192": "492546",
+		"32": "492544",
+		"48": "492543",
+		"64": "492542",
+		"96": "492547"
+	},
+	"name": "Snotling",
+	"necromancer": "No",
+	"ownerRuleset": "69",
+	"playable": "true",
+	"positions": [
+		{
+			"cost": "20000",
+			"doubleSkills": [
+				"G",
+				"S",
+				"P"
+			],
+			"gender": "male",
+			"iconLetter": "L",
+			"id": "4050",
+			"normalSkills": [
+				"A"
+			],
+			"portrait": "487885",
+			"quantity": "16",
+			"skills": [
+				"Dodge",
+				"Side Step",
+				"Right Stuff",
+				"Stunty",
+				"Titchy"
+			],
+			"stats": {
+				"AG": "3",
+				"AV": "5",
+				"MA": "5",
+				"ST": "1"
+			},
+			"title": "Snotling"
+		},
+		{
+			"cost": "110000",
+			"doubleSkills": [
+				"G",
+				"A",
+				"P"
+			],
+			"gender": "male",
+			"iconLetter": "Bg",
+			"id": "4053",
+			"normalSkills": [
+				"S"
+			],
+			"portrait": "487887",
+			"quantity": "6",
+			"skills": [
+				"Mighty Blow",
+				"Always Hungry",
+				"Really Stupid",
+				"Regeneration",
+				"Throw Team-Mate"
+			],
+			"stats": {
+				"AG": "1",
+				"AV": "9",
+				"MA": "4",
+				"ST": "5"
+			},
+			"title": "Troll"
+		},
+		{
+			"cost": "150000",
+			"doubleSkills": [
+				"G",
+				"A",
+				"P"
+			],
+			"gender": "neutral",
+			"iconLetter": "PW",
+			"id": "4056",
+			"normalSkills": [
+				"S"
+			],
+			"portrait": "487889",
+			"quantity": "2",
+			"skills": [
+				"Dirty Player",
+				"Break Tackle",
+				"Juggernaut",
+				"Mighty Blow",
+				"Stand Firm",
+				"Loner",
+				"No Hands",
+				"Secret Weapon"
+			],
+			"stats": {
+				"AG": "1",
+				"AV": "9",
+				"MA": "5",
+				"ST": "7"
+			},
+			"title": "Snotling Pump Wagon"
+		}
+	],
+	"raisePosition": null,
+	"rerollCost": "70000",
+	"stars": [
+		{
+			"id": "3007",
+			"name": "Bomber Dribblesnot"
+		},
+		{
+			"id": "3016",
+			"name": "Fungus the Loon"
+		},
+		{
+			"id": "3039",
+			"name": "Morg 'n' Thorg"
+		},
+		{
+			"id": "3040",
+			"name": "Nobbla Blackwart"
+		},
+		{
+			"id": "3047",
+			"name": "Ripper Bolgrot"
+		},
+		{
+			"id": "3049",
+			"name": "Scrappa Sorehead"
+		}
+	],
+	"stats": {
+		"finesse": "3",
+		"physique": "4",
+		"versatility": "1"
+	},
+	"undead": "No"
+}

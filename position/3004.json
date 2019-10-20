@@ -1,0 +1,34 @@
+{
+	"cost": 290000,
+	"doubleSkills": [],
+	"gender": "female",
+	"icon": 436438,
+	"iconLetter": "BB",
+	"id": "3004",
+	"name": "Bertha Bigfist",
+	"normalSkills": [],
+	"portrait": 440119,
+	"quantity": 1,
+	"race": null,
+	"roster": 67,
+	"secretweapon": "0",
+	"skills": [
+		"Dodge",
+		"Break Tackle",
+		"Mighty Blow",
+		"Thick Skull",
+		"Bone-head",
+		"Loner",
+		"Throw Team-Mate"
+	],
+	"stats": {
+		"AG": 2,
+		"AV": 9,
+		"MA": 6,
+		"ST": 5
+	},
+	"thrall": "false",
+	"title": "Bertha Bigfist",
+	"type": "star",
+	"undead": "false"
+}

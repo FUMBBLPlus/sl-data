@@ -1,0 +1,39 @@
+{
+	"cost": 160000,
+	"doubleSkills": [
+		"G",
+		"A",
+		"P"
+	],
+	"gender": "female",
+	"icon": 596885,
+	"iconLetter": "Big",
+	"id": "23021",
+	"name": "Great Sylph",
+	"normalSkills": [
+		"S"
+	],
+	"portrait": 0,
+	"quantity": 1,
+	"race": null,
+	"roster": 3136,
+	"secretweapon": "0",
+	"skills": [
+		"Side Step",
+		"Mighty Blow",
+		"Disturbing Presence",
+		"Loner",
+		"Regeneration",
+		"Wild Animal"
+	],
+	"stats": {
+		"AG": 2,
+		"AV": 8,
+		"MA": 6,
+		"ST": 5
+	},
+	"thrall": "false",
+	"title": "Great Sylph",
+	"type": "bigguy",
+	"undead": "false"
+}

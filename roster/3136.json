@@ -1,0 +1,137 @@
+{
+	"apothecary": "No",
+	"id": "3136",
+	"info": "Difficulty: MEDIUM - Isha teams like all elves are dexterous and evasive. Though unlike any other elf team Isha teams have some staying power despite their low armour. Isha are likely slow starters but once developed they will be very capable, and nothing will annoy your opponent more than seeing a ",
+	"logos": {
+		"128": "596882",
+		"192": "596881",
+		"32": "596879",
+		"48": "596878",
+		"64": "596877",
+		"96": "596880"
+	},
+	"name": "Isha",
+	"necromancer": "No",
+	"ownerRuleset": "69",
+	"playable": "true",
+	"positions": [
+		{
+			"cost": "80000",
+			"doubleSkills": [
+				"S"
+			],
+			"gender": "female",
+			"iconLetter": "L",
+			"id": "23019",
+			"normalSkills": [
+				"G",
+				"A",
+				"P"
+			],
+			"portrait": null,
+			"quantity": "16",
+			"skills": [
+				"Regeneration"
+			],
+			"stats": {
+				"AG": "4",
+				"AV": "7",
+				"MA": "6",
+				"ST": "3"
+			},
+			"title": "Sister of the Thorn"
+		},
+		{
+			"cost": "110000",
+			"doubleSkills": [
+				"S",
+				"P"
+			],
+			"gender": "female",
+			"iconLetter": "N",
+			"id": "23020",
+			"normalSkills": [
+				"G",
+				"A"
+			],
+			"portrait": null,
+			"quantity": "4",
+			"skills": [
+				"Side Step",
+				"Regeneration"
+			],
+			"stats": {
+				"AG": "4",
+				"AV": "7",
+				"MA": "7",
+				"ST": "3"
+			},
+			"title": "Naiad"
+		},
+		{
+			"cost": "160000",
+			"doubleSkills": [
+				"G",
+				"A",
+				"P"
+			],
+			"gender": "female",
+			"iconLetter": "Big",
+			"id": "23021",
+			"normalSkills": [
+				"S"
+			],
+			"portrait": null,
+			"quantity": "1",
+			"skills": [
+				"Side Step",
+				"Mighty Blow",
+				"Disturbing Presence",
+				"Loner",
+				"Regeneration",
+				"Wild Animal"
+			],
+			"stats": {
+				"AG": "2",
+				"AV": "8",
+				"MA": "6",
+				"ST": "5"
+			},
+			"title": "Great Sylph"
+		}
+	],
+	"raisePosition": null,
+	"rerollCost": "60000",
+	"stars": [
+		{
+			"id": "3012",
+			"name": "Dolfar Longstride"
+		},
+		{
+			"id": "3013",
+			"name": "Eldril Sidewinder"
+		},
+		{
+			"id": "3033",
+			"name": "Jordell Freshbreeze"
+		},
+		{
+			"id": "3039",
+			"name": "Morg 'n' Thorg"
+		},
+		{
+			"id": "3058",
+			"name": "Willow Rosebark"
+		},
+		{
+			"id": "3059",
+			"name": "Zara the Slayer"
+		}
+	],
+	"stats": {
+		"finesse": "5",
+		"physique": "3",
+		"versatility": "4"
+	},
+	"undead": "No"
+}

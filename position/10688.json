@@ -1,0 +1,36 @@
+{
+	"cost": 100000,
+	"doubleSkills": [
+		"S",
+		"P"
+	],
+	"gender": "male",
+	"icon": 523621,
+	"iconLetter": "Sb",
+	"id": "10688",
+	"name": "Shadow Blade",
+	"normalSkills": [
+		"G",
+		"A"
+	],
+	"portrait": 0,
+	"quantity": 2,
+	"race": null,
+	"roster": 1392,
+	"secretweapon": "0",
+	"skills": [
+		"Shadowing",
+		"Dodge",
+		"Stab"
+	],
+	"stats": {
+		"AG": 4,
+		"AV": 8,
+		"MA": 7,
+		"ST": 3
+	},
+	"thrall": "false",
+	"title": "Shadow Blade",
+	"type": "normal",
+	"undead": "false"
+}

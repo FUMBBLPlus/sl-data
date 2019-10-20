@@ -1,0 +1,165 @@
+{
+	"apothecary": "No",
+	"id": "3137",
+	"info": "Difficulty: MEDIUM -  A tricky team to get a handle on, but equally tricky for your opponent to break down. Patience and planning is your key to success.",
+	"logos": {
+		"128": "596891",
+		"192": "596890",
+		"32": "596888",
+		"48": "596887",
+		"64": "596886",
+		"96": "596889"
+	},
+	"name": "Flesh Golem",
+	"necromancer": "Yes",
+	"ownerRuleset": "69",
+	"playable": "true",
+	"positions": [
+		{
+			"cost": "40000",
+			"doubleSkills": [
+				"A",
+				"S",
+				"P"
+			],
+			"gender": "male",
+			"iconLetter": "L",
+			"id": "23022",
+			"normalSkills": [
+				"G"
+			],
+			"portrait": "596896",
+			"quantity": "16",
+			"skills": [
+				"Regeneration"
+			],
+			"stats": {
+				"AG": "2",
+				"AV": "8",
+				"MA": "4",
+				"ST": "3"
+			},
+			"title": "Zombie"
+		},
+		{
+			"cost": "70000",
+			"doubleSkills": [
+				"G",
+				"S",
+				"P"
+			],
+			"gender": "neutral",
+			"iconLetter": "GH",
+			"id": "23023",
+			"normalSkills": [
+				"A"
+			],
+			"portrait": null,
+			"quantity": "4",
+			"skills": [
+				"Sure Hands",
+				"Dodge",
+				"Big Hand",
+				"Regeneration",
+				"Stunty"
+			],
+			"stats": {
+				"AG": "3",
+				"AV": "6",
+				"MA": "6",
+				"ST": "2"
+			},
+			"title": "Giant Hand"
+		},
+		{
+			"cost": "80000",
+			"doubleSkills": [
+				"A",
+				"P"
+			],
+			"gender": "neutral",
+			"iconLetter": "Pm",
+			"id": "23024",
+			"normalSkills": [
+				"G",
+				"S"
+			],
+			"portrait": null,
+			"quantity": "4",
+			"skills": [
+				"Wrestle",
+				"Thick Skull",
+				"Regeneration"
+			],
+			"stats": {
+				"AG": "2",
+				"AV": "8",
+				"MA": "5",
+				"ST": "3"
+			},
+			"title": "Patchwork-Men"
+		},
+		{
+			"cost": "110000",
+			"doubleSkills": [
+				"A",
+				"P"
+			],
+			"gender": "neutral",
+			"iconLetter": "FG",
+			"id": "23025",
+			"normalSkills": [
+				"G",
+				"S"
+			],
+			"portrait": "596900",
+			"quantity": "4",
+			"skills": [
+				"Stand Firm",
+				"Thick Skull",
+				"Regeneration"
+			],
+			"stats": {
+				"AG": "2",
+				"AV": "9",
+				"MA": "4",
+				"ST": "4"
+			},
+			"title": "Flesh Golem"
+		}
+	],
+	"raisePosition": "23022",
+	"rerollCost": "70000",
+	"stars": [
+		{
+			"id": "3009",
+			"name": "Count Luthor Von Drakenborg"
+		},
+		{
+			"id": "3021",
+			"name": "Hack Enslash"
+		},
+		{
+			"id": "3032",
+			"name": "J Earlice"
+		},
+		{
+			"id": "3045",
+			"name": "Ramtut III"
+		},
+		{
+			"id": "3050",
+			"name": "Setekh"
+		},
+		{
+			"id": "3052",
+			"name": "Sinnedbad"
+		}
+	],
+	"stats": {
+		"finesse": "2",
+		"physique": "5",
+		"versatility": "1"
+	},
+	"undead": "Yes"
+}

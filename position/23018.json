@@ -1,0 +1,36 @@
+{
+	"cost": 100000,
+	"doubleSkills": [
+		"S",
+		"P"
+	],
+	"gender": "male",
+	"icon": 596875,
+	"iconLetter": "KH",
+	"id": "23018",
+	"name": "Kraken Helm",
+	"normalSkills": [
+		"G",
+		"A"
+	],
+	"portrait": 596876,
+	"quantity": 4,
+	"race": null,
+	"roster": 3135,
+	"secretweapon": "0",
+	"skills": [
+		"Disturbing Presence",
+		"Foul Appearance",
+		"Tentacles"
+	],
+	"stats": {
+		"AG": 4,
+		"AV": 8,
+		"MA": 6,
+		"ST": 3
+	},
+	"thrall": "false",
+	"title": "Kraken Helm",
+	"type": "normal",
+	"undead": "false"
+}

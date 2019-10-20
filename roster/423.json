@@ -1,0 +1,253 @@
+{
+	"apothecary": "Yes",
+	"id": "423",
+	"info": "Difficulty: EASY\nCHEAP BRIBES NOT CURRENTLY POSSIBLE Subtlety isn't the Engineers strong suit. They are Dwarves, like all dwarves they are a slow plodding team with an appetite for a brawl. The difference with Engineers is they come armed with weapons.",
+	"logos": {
+		"128": "492632",
+		"192": "492633",
+		"32": "492635",
+		"48": "492636",
+		"64": "492637",
+		"96": "492634"
+	},
+	"name": "Engineers",
+	"necromancer": "No",
+	"ownerRuleset": "69",
+	"playable": "true",
+	"positions": [
+		{
+			"cost": "60000",
+			"doubleSkills": [
+				"A",
+				"P"
+			],
+			"gender": "male",
+			"iconLetter": "L",
+			"id": "4130",
+			"normalSkills": [
+				"G",
+				"S"
+			],
+			"portrait": "488163",
+			"quantity": "16",
+			"skills": [
+				"Block",
+				"Thick Skull"
+			],
+			"stats": {
+				"AG": "2",
+				"AV": "9",
+				"MA": "4",
+				"ST": "3"
+			},
+			"title": "Engineer"
+		},
+		{
+			"cost": "80000",
+			"doubleSkills": [
+				"A",
+				"P"
+			],
+			"gender": "male",
+			"iconLetter": "K",
+			"id": "4131",
+			"normalSkills": [
+				"G",
+				"S"
+			],
+			"portrait": "488167",
+			"quantity": "2",
+			"skills": [
+				"Block",
+				"Dirty Player",
+				"Kick",
+				"Thick Skull"
+			],
+			"stats": {
+				"AG": "2",
+				"AV": "9",
+				"MA": "4",
+				"ST": "3"
+			},
+			"title": "Kicker"
+		},
+		{
+			"cost": "80000",
+			"doubleSkills": [
+				"A",
+				"S"
+			],
+			"gender": "male",
+			"iconLetter": "R",
+			"id": "4134",
+			"normalSkills": [
+				"G",
+				"P"
+			],
+			"portrait": "488169",
+			"quantity": "2",
+			"skills": [
+				"Sure Hands",
+				"Thick Skull"
+			],
+			"stats": {
+				"AG": "3",
+				"AV": "8",
+				"MA": "6",
+				"ST": "3"
+			},
+			"title": "Runner"
+		},
+		{
+			"cost": "80000",
+			"doubleSkills": [
+				"A",
+				"S"
+			],
+			"gender": "male",
+			"iconLetter": "BZ",
+			"id": "4135",
+			"normalSkills": [
+				"G",
+				"P"
+			],
+			"portrait": "488173",
+			"quantity": "1",
+			"skills": [
+				"Strong Arm",
+				"Thick Skull",
+				"Hail Mary Pass"
+			],
+			"stats": {
+				"AG": "3",
+				"AV": "8",
+				"MA": "5",
+				"ST": "3"
+			},
+			"title": "Ballzooka"
+		},
+		{
+			"cost": "60000",
+			"doubleSkills": [
+				"A",
+				"P"
+			],
+			"gender": "male",
+			"iconLetter": "Bom",
+			"id": "4139",
+			"normalSkills": [
+				"G",
+				"S"
+			],
+			"portrait": "488181",
+			"quantity": "1",
+			"skills": [
+				"Thick Skull",
+				"Bombardier",
+				"Secret Weapon"
+			],
+			"stats": {
+				"AG": "2",
+				"AV": "9",
+				"MA": "4",
+				"ST": "3"
+			},
+			"title": "Bombardier"
+		},
+		{
+			"cost": "80000",
+			"doubleSkills": [
+				"A",
+				"P"
+			],
+			"gender": "male",
+			"iconLetter": "Ch",
+			"id": "4140",
+			"normalSkills": [
+				"G",
+				"S"
+			],
+			"portrait": "488185",
+			"quantity": "1",
+			"skills": [
+				"Thick Skull",
+				"Chainsaw",
+				"Secret Weapon"
+			],
+			"stats": {
+				"AG": "2",
+				"AV": "9",
+				"MA": "5",
+				"ST": "3"
+			},
+			"title": "Master Engineer"
+		},
+		{
+			"cost": "160000",
+			"doubleSkills": [
+				"G",
+				"A",
+				"P"
+			],
+			"gender": "male",
+			"iconLetter": "Bg",
+			"id": "4141",
+			"normalSkills": [
+				"S"
+			],
+			"portrait": "488192",
+			"quantity": "1",
+			"skills": [
+				"Dirty Player",
+				"Break Tackle",
+				"Juggernaut",
+				"Mighty Blow",
+				"Stand Firm",
+				"Loner",
+				"No Hands",
+				"Secret Weapon"
+			],
+			"stats": {
+				"AG": "1",
+				"AV": "10",
+				"MA": "4",
+				"ST": "7"
+			},
+			"title": "Deathroller"
+		}
+	],
+	"raisePosition": null,
+	"rerollCost": "50000",
+	"stars": [
+		{
+			"id": "3003",
+			"name": "Barik Farblast"
+		},
+		{
+			"id": "3008",
+			"name": "Boomer Eziasson"
+		},
+		{
+			"id": "3015",
+			"name": "Flint Churnblade"
+		},
+		{
+			"id": "3020",
+			"name": "Grim Ironjaw"
+		},
+		{
+			"id": "3039",
+			"name": "Morg 'n' Thorg"
+		},
+		{
+			"id": "3059",
+			"name": "Zara the Slayer"
+		}
+	],
+	"stats": {
+		"finesse": "2",
+		"physique": "5",
+		"versatility": "2"
+	},
+	"undead": "No"
+}

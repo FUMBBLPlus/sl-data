@@ -1,0 +1,38 @@
+{
+	"cost": 70000,
+	"doubleSkills": [
+		"G",
+		"S",
+		"P"
+	],
+	"gender": "neutral",
+	"icon": 596897,
+	"iconLetter": "GH",
+	"id": "23023",
+	"name": "Giant Hand",
+	"normalSkills": [
+		"A"
+	],
+	"portrait": 0,
+	"quantity": 4,
+	"race": null,
+	"roster": 3137,
+	"secretweapon": "0",
+	"skills": [
+		"Sure Hands",
+		"Dodge",
+		"Big Hand",
+		"Regeneration",
+		"Stunty"
+	],
+	"stats": {
+		"AG": 3,
+		"AV": 6,
+		"MA": 6,
+		"ST": 2
+	},
+	"thrall": "false",
+	"title": "Giant Hand",
+	"type": "normal",
+	"undead": "true"
+}

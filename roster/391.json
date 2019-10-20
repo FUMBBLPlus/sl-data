@@ -1,0 +1,169 @@
+{
+	"apothecary": "Yes",
+	"id": "391",
+	"info": "Difficulty: MEDIUM\nClan Pestilens games are a strange spectacle - the stadiums they play in are always enveloped in noxious mist, so visibility is non existent, you never know what the mist might be hiding when playing these repulsive vermin.",
+	"logos": {
+		"128": "492512",
+		"192": "492513",
+		"32": "492515",
+		"48": "492516",
+		"64": "492517",
+		"96": "492514"
+	},
+	"name": "Clan Pestilens",
+	"necromancer": "No",
+	"ownerRuleset": "69",
+	"playable": "true",
+	"positions": [
+		{
+			"cost": "60000",
+			"doubleSkills": [
+				"A",
+				"S",
+				"M",
+				"P"
+			],
+			"gender": "male",
+			"iconLetter": "PM",
+			"id": "4018",
+			"normalSkills": [
+				"G"
+			],
+			"portrait": "490639",
+			"quantity": "16",
+			"skills": [
+				"Disturbing Presence",
+				"Foul Appearance"
+			],
+			"stats": {
+				"AG": "3",
+				"AV": "7",
+				"MA": "6",
+				"ST": "3"
+			},
+			"title": "Plague Monk"
+		},
+		{
+			"cost": "70000",
+			"doubleSkills": [
+				"A",
+				"S",
+				"M",
+				"P"
+			],
+			"gender": "male",
+			"iconLetter": "PM",
+			"id": "4019",
+			"normalSkills": [
+				"G"
+			],
+			"portrait": "490641",
+			"quantity": "2",
+			"skills": [
+				"Sure Hands",
+				"Disturbing Presence",
+				"Foul Appearance"
+			],
+			"stats": {
+				"AG": "3",
+				"AV": "7",
+				"MA": "7",
+				"ST": "3"
+			},
+			"title": "Plague Carrier"
+		},
+		{
+			"cost": "110000",
+			"doubleSkills": [
+				"A",
+				"P",
+				"M"
+			],
+			"gender": "male",
+			"iconLetter": "PL",
+			"id": "4020",
+			"normalSkills": [
+				"G",
+				"S"
+			],
+			"portrait": "487825",
+			"quantity": "2",
+			"skills": [
+				"Frenzy",
+				"Stand Firm",
+				"Disturbing Presence",
+				"Foul Appearance"
+			],
+			"stats": {
+				"AG": "3",
+				"AV": "8",
+				"MA": "7",
+				"ST": "3"
+			},
+			"title": "Plague Priest"
+		},
+		{
+			"cost": "120000",
+			"doubleSkills": [
+				"G",
+				"A",
+				"P"
+			],
+			"gender": "male",
+			"iconLetter": "PCB",
+			"id": "4021",
+			"normalSkills": [
+				"S",
+				"M"
+			],
+			"portrait": "487827",
+			"quantity": "2",
+			"skills": [
+				"Disturbing Presence",
+				"Ball & Chain",
+				"No Hands"
+			],
+			"stats": {
+				"AG": "1",
+				"AV": "7",
+				"MA": "3",
+				"ST": "7"
+			},
+			"title": "Plague Censer Bearer"
+		}
+	],
+	"raisePosition": null,
+	"rerollCost": "60000",
+	"stars": [
+		{
+			"id": "3014",
+			"name": "Fezglitch"
+		},
+		{
+			"id": "3017",
+			"name": "Glart Smashrip Jr."
+		},
+		{
+			"id": "3022",
+			"name": "Hakflem Skuttlespike"
+		},
+		{
+			"id": "3023",
+			"name": "Headsplitter"
+		},
+		{
+			"id": "3039",
+			"name": "Morg 'n' Thorg"
+		},
+		{
+			"id": "3053",
+			"name": "Skitter Stab-Stab"
+		}
+	],
+	"stats": {
+		"finesse": "3",
+		"physique": "5",
+		"versatility": "3"
+	},
+	"undead": "No"
+}

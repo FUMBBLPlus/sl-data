@@ -1,0 +1,163 @@
+{
+	"apothecary": "Yes",
+	"id": "303",
+	"info": "Difficulty: EASY\n\nA very versatile team, with a powerful big guy, fast runners and well drilled and skilled blockers - Cathay are a very competent team, though they are lacking in some core skills.",
+	"logos": {
+		"128": "492376",
+		"192": "492377",
+		"32": "492373",
+		"48": "492374",
+		"64": "492375",
+		"96": "492378"
+	},
+	"name": "Cathay",
+	"necromancer": "No",
+	"ownerRuleset": "69",
+	"playable": "true",
+	"positions": [
+		{
+			"cost": "50000",
+			"doubleSkills": [
+				"A",
+				"S",
+				"P"
+			],
+			"gender": "neutral",
+			"iconLetter": "Lin",
+			"id": "3677",
+			"normalSkills": [
+				"G"
+			],
+			"portrait": "487388",
+			"quantity": "16",
+			"skills": [],
+			"stats": {
+				"AG": "3",
+				"AV": "8",
+				"MA": "6",
+				"ST": "3"
+			},
+			"title": "Lineman"
+		},
+		{
+			"cost": "70000",
+			"doubleSkills": [
+				"S",
+				"P"
+			],
+			"gender": "neutral",
+			"iconLetter": "Mon",
+			"id": "3678",
+			"normalSkills": [
+				"G",
+				"A"
+			],
+			"portrait": "487390",
+			"quantity": "4",
+			"skills": [
+				"Extra Arms",
+				"Prehensile Tail"
+			],
+			"stats": {
+				"AG": "3",
+				"AV": "7",
+				"MA": "7",
+				"ST": "3"
+			},
+			"title": "Monkey Warrior"
+		},
+		{
+			"cost": "90000",
+			"doubleSkills": [
+				"P"
+			],
+			"gender": "neutral",
+			"iconLetter": "Cel",
+			"id": "3679",
+			"normalSkills": [
+				"G",
+				"A",
+				"S"
+			],
+			"portrait": "487392",
+			"quantity": "4",
+			"skills": [
+				"Fend",
+				"Side Step",
+				"Thick Skull"
+			],
+			"stats": {
+				"AG": "3",
+				"AV": "8",
+				"MA": "6",
+				"ST": "3"
+			},
+			"title": "Celestial Dragon Monk"
+		},
+		{
+			"cost": "130000",
+			"doubleSkills": [
+				"G",
+				"A",
+				"P"
+			],
+			"gender": "neutral",
+			"iconLetter": "Foo",
+			"id": "3680",
+			"normalSkills": [
+				"S"
+			],
+			"portrait": "487394",
+			"quantity": "1",
+			"skills": [
+				"Sure Feet",
+				"Mighty Blow",
+				"Stand Firm",
+				"Thick Skull",
+				"Loner",
+				"Take Root"
+			],
+			"stats": {
+				"AG": "1",
+				"AV": "10",
+				"MA": "3",
+				"ST": "5"
+			},
+			"title": "Foo Statue"
+		}
+	],
+	"raisePosition": null,
+	"rerollCost": "50000",
+	"stars": [
+		{
+			"id": "3019",
+			"name": "Griff Oberwald"
+		},
+		{
+			"id": "3024",
+			"name": "Helmut Wulf"
+		},
+		{
+			"id": "3038",
+			"name": "Mighty Zug"
+		},
+		{
+			"id": "3039",
+			"name": "Morg 'n' Thorg"
+		},
+		{
+			"id": "3042",
+			"name": "Puggy Baconbreath"
+		},
+		{
+			"id": "3059",
+			"name": "Zara the Slayer"
+		}
+	],
+	"stats": {
+		"finesse": "4",
+		"physique": "4",
+		"versatility": "5"
+	},
+	"undead": "No"
+}

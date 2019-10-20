@@ -1,0 +1,160 @@
+{
+	"apothecary": "Yes",
+	"id": "2507",
+	"info": "DIFFICULTY: EASY\nMyrmidia teams are well organised with clearly defined roles. Like Human teams from the Empire they are the jack of all trades, but masters of none.",
+	"logos": {
+		"128": "573270",
+		"192": "573269",
+		"32": "573268",
+		"48": "573267",
+		"64": "573266",
+		"96": "573271"
+	},
+	"name": "Myrmidia",
+	"necromancer": "No",
+	"ownerRuleset": "69",
+	"playable": "true",
+	"positions": [
+		{
+			"cost": "50000",
+			"doubleSkills": [
+				"A",
+				"S",
+				"P"
+			],
+			"gender": "male",
+			"iconLetter": "L",
+			"id": "18702",
+			"normalSkills": [
+				"G"
+			],
+			"portrait": null,
+			"quantity": "16",
+			"skills": [
+				"Fend"
+			],
+			"stats": {
+				"AG": "3",
+				"AV": "7",
+				"MA": "6",
+				"ST": "3"
+			},
+			"title": "Linemen"
+		},
+		{
+			"cost": "90000",
+			"doubleSkills": [
+				"S",
+				"P"
+			],
+			"gender": "female",
+			"iconLetter": "ER",
+			"id": "18703",
+			"normalSkills": [
+				"G",
+				"A"
+			],
+			"portrait": null,
+			"quantity": "2",
+			"skills": [
+				"Sure Hands",
+				"Side Step"
+			],
+			"stats": {
+				"AG": "3",
+				"AV": "7",
+				"MA": "7",
+				"ST": "3"
+			},
+			"title": "Eagle Runner"
+		},
+		{
+			"cost": "90000",
+			"doubleSkills": [
+				"P"
+			],
+			"gender": "male",
+			"iconLetter": "Bli",
+			"id": "18704",
+			"normalSkills": [
+				"G",
+				"S",
+				"A"
+			],
+			"portrait": null,
+			"quantity": "4",
+			"skills": [
+				"Dauntless",
+				"Wrestle"
+			],
+			"stats": {
+				"AG": "3",
+				"AV": "8",
+				"MA": "6",
+				"ST": "3"
+			},
+			"title": "Vanguard Blitzer"
+		},
+		{
+			"cost": "100000",
+			"doubleSkills": [
+				"A",
+				"P"
+			],
+			"gender": "male",
+			"iconLetter": "Blok",
+			"id": "18705",
+			"normalSkills": [
+				"G",
+				"S"
+			],
+			"portrait": null,
+			"quantity": "2",
+			"skills": [
+				"Grab",
+				"Stand Firm"
+			],
+			"stats": {
+				"AG": "3",
+				"AV": "9",
+				"MA": "6",
+				"ST": "3"
+			},
+			"title": "Templar Blocker"
+		}
+	],
+	"raisePosition": null,
+	"rerollCost": "60000",
+	"stars": [
+		{
+			"id": "3019",
+			"name": "Griff Oberwald"
+		},
+		{
+			"id": "3024",
+			"name": "Helmut Wulf"
+		},
+		{
+			"id": "3038",
+			"name": "Mighty Zug"
+		},
+		{
+			"id": "3039",
+			"name": "Morg 'n' Thorg"
+		},
+		{
+			"id": "3042",
+			"name": "Puggy Baconbreath"
+		},
+		{
+			"id": "3059",
+			"name": "Zara the Slayer"
+		}
+	],
+	"stats": {
+		"finesse": "4",
+		"physique": "4",
+		"versatility": "4"
+	},
+	"undead": "No"
+}

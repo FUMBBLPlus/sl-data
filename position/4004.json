@@ -1,0 +1,34 @@
+{
+	"cost": 80000,
+	"doubleSkills": [
+		"S"
+	],
+	"gender": "male",
+	"icon": 487792,
+	"iconLetter": "Th",
+	"id": "4004",
+	"name": "Thrower",
+	"normalSkills": [
+		"G",
+		"P",
+		"A"
+	],
+	"portrait": 487791,
+	"quantity": 2,
+	"race": null,
+	"roster": 386,
+	"secretweapon": "0",
+	"skills": [
+		"Pass"
+	],
+	"stats": {
+		"AG": 4,
+		"AV": 9,
+		"MA": 5,
+		"ST": 3
+	},
+	"thrall": "false",
+	"title": "Thrower",
+	"type": "normal",
+	"undead": "false"
+}

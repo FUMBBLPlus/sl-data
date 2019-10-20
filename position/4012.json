@@ -1,0 +1,33 @@
+{
+	"cost": 50000,
+	"doubleSkills": [
+		"A",
+		"S",
+		"P",
+		"M"
+	],
+	"gender": "male",
+	"icon": 487806,
+	"iconLetter": "L",
+	"id": "4012",
+	"name": "Clan Rat",
+	"normalSkills": [
+		"G"
+	],
+	"portrait": 487807,
+	"quantity": 16,
+	"race": null,
+	"roster": 389,
+	"secretweapon": "0",
+	"skills": [],
+	"stats": {
+		"AG": 3,
+		"AV": 7,
+		"MA": 7,
+		"ST": 3
+	},
+	"thrall": "false",
+	"title": "Clan Rat",
+	"type": "normal",
+	"undead": "false"
+}

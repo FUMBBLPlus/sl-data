@@ -1,0 +1,167 @@
+{
+	"apothecary": "Yes",
+	"id": "2511",
+	"info": "DIFFICULTY: MEDIUM\nThe Hung are a powerful marauding team, with good defensive attributes and are aided by the brutal Tong.  But the team is slow and lacks core ball skills.",
+	"logos": {
+		"128": "573310",
+		"192": "573309",
+		"32": "573308",
+		"48": "573307",
+		"64": "573306",
+		"96": "573311"
+	},
+	"name": "Hung",
+	"necromancer": "No",
+	"ownerRuleset": "69",
+	"playable": "true",
+	"positions": [
+		{
+			"cost": "40000",
+			"doubleSkills": [
+				"A",
+				"S",
+				"P"
+			],
+			"gender": "male",
+			"iconLetter": "L",
+			"id": "18716",
+			"normalSkills": [
+				"G",
+				"M"
+			],
+			"portrait": null,
+			"quantity": "16",
+			"skills": [],
+			"stats": {
+				"AG": "3",
+				"AV": "8",
+				"MA": "5",
+				"ST": "3"
+			},
+			"title": "Linemen"
+		},
+		{
+			"cost": "70000",
+			"doubleSkills": [
+				"A",
+				"P"
+			],
+			"gender": "male",
+			"iconLetter": "HM",
+			"id": "18717",
+			"normalSkills": [
+				"G",
+				"S",
+				"M"
+			],
+			"portrait": null,
+			"quantity": "4",
+			"skills": [
+				"Tackle",
+				"Foul Appearance"
+			],
+			"stats": {
+				"AG": "3",
+				"AV": "8",
+				"MA": "5",
+				"ST": "3"
+			},
+			"title": "Hung Marauder"
+		},
+		{
+			"cost": "90000",
+			"doubleSkills": [
+				"A",
+				"S",
+				"P"
+			],
+			"gender": "neutral",
+			"iconLetter": "Dar",
+			"id": "18718",
+			"normalSkills": [
+				"G",
+				"M"
+			],
+			"portrait": null,
+			"quantity": "2",
+			"skills": [
+				"Wrestle",
+				"Grab"
+			],
+			"stats": {
+				"AG": "3",
+				"AV": "8",
+				"MA": "6",
+				"ST": "3"
+			},
+			"title": "Darksoul"
+		},
+		{
+			"cost": "100000",
+			"doubleSkills": [
+				"A",
+				"P"
+			],
+			"gender": "male",
+			"iconLetter": "Ton",
+			"id": "18719",
+			"normalSkills": [
+				"G",
+				"S",
+				"M"
+			],
+			"portrait": null,
+			"quantity": "2",
+			"skills": [
+				"Frenzy",
+				"Foul Appearance",
+				"Animosity"
+			],
+			"stats": {
+				"AG": "2",
+				"AV": "8",
+				"MA": "5",
+				"ST": "4"
+			},
+			"title": "Tong"
+		}
+	],
+	"raisePosition": null,
+	"rerollCost": "70000",
+	"stars": [
+		{
+			"id": "3005",
+			"name": "Brick Far'th"
+		},
+		{
+			"id": "3006",
+			"name": "Grotty"
+		},
+		{
+			"id": "3018",
+			"name": "Grashnak Blackhoof"
+		},
+		{
+			"id": "3034",
+			"name": "Lewdgrip Whiparm"
+		},
+		{
+			"id": "3035",
+			"name": "Lord Borak the Despoiler"
+		},
+		{
+			"id": "3037",
+			"name": "Max Spleenripper"
+		},
+		{
+			"id": "3039",
+			"name": "Morg 'n' Thorg"
+		}
+	],
+	"stats": {
+		"finesse": "2",
+		"physique": "5",
+		"versatility": "2"
+	},
+	"undead": "No"
+}

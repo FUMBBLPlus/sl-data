@@ -1,0 +1,166 @@
+{
+	"apothecary": "Yes",
+	"id": "394",
+	"info": "Difficulty: MEDIUM\nForest Goblins have a few tricks up their sleeves, and can really pack a punch. They are quick and strong, though they are somewhat lacking in skill access.",
+	"logos": {
+		"128": "492524",
+		"192": "492525",
+		"32": "492527",
+		"48": "492528",
+		"64": "492529",
+		"96": "492526"
+	},
+	"name": "Forest Goblin",
+	"necromancer": "No",
+	"ownerRuleset": "69",
+	"playable": "true",
+	"positions": [
+		{
+			"cost": "40000",
+			"doubleSkills": [
+				"G",
+				"S",
+				"P"
+			],
+			"gender": "neutral",
+			"iconLetter": "FG",
+			"id": "4032",
+			"normalSkills": [
+				"A"
+			],
+			"portrait": "487839",
+			"quantity": "16",
+			"skills": [
+				"Dodge",
+				"Right Stuff",
+				"Stunty"
+			],
+			"stats": {
+				"AG": "3",
+				"AV": "6",
+				"MA": "7",
+				"ST": "2"
+			},
+			"title": "Forest Goblin"
+		},
+		{
+			"cost": "50000",
+			"doubleSkills": [
+				"A",
+				"P"
+			],
+			"gender": "neutral",
+			"iconLetter": "SO",
+			"id": "4035",
+			"normalSkills": [
+				"G",
+				"S"
+			],
+			"portrait": "487844",
+			"quantity": "4",
+			"skills": [
+				"Frenzy",
+				"Thick Skull"
+			],
+			"stats": {
+				"AG": "3",
+				"AV": "7",
+				"MA": "6",
+				"ST": "3"
+			},
+			"title": "Savage Orc"
+		},
+		{
+			"cost": "120000",
+			"doubleSkills": [
+				"G",
+				"P"
+			],
+			"gender": "neutral",
+			"iconLetter": "SR",
+			"id": "4037",
+			"normalSkills": [
+				"A",
+				"S"
+			],
+			"portrait": "487847",
+			"quantity": "2",
+			"skills": [
+				"Shadowing",
+				"Tentacles"
+			],
+			"stats": {
+				"AG": "3",
+				"AV": "8",
+				"MA": "7",
+				"ST": "4"
+			},
+			"title": "Spider Rider"
+		},
+		{
+			"cost": "110000",
+			"doubleSkills": [
+				"G",
+				"A",
+				"P"
+			],
+			"gender": "neutral",
+			"iconLetter": "RT",
+			"id": "4039",
+			"normalSkills": [
+				"S"
+			],
+			"portrait": "487851",
+			"quantity": "1",
+			"skills": [
+				"Mighty Blow",
+				"Always Hungry",
+				"Loner",
+				"Really Stupid",
+				"Regeneration",
+				"Throw Team-Mate"
+			],
+			"stats": {
+				"AG": "1",
+				"AV": "9",
+				"MA": "4",
+				"ST": "5"
+			},
+			"title": "River Troll"
+		}
+	],
+	"raisePosition": null,
+	"rerollCost": "60000",
+	"stars": [
+		{
+			"id": "3007",
+			"name": "Bomber Dribblesnot"
+		},
+		{
+			"id": "3016",
+			"name": "Fungus the Loon"
+		},
+		{
+			"id": "3039",
+			"name": "Morg 'n' Thorg"
+		},
+		{
+			"id": "3040",
+			"name": "Nobbla Blackwart"
+		},
+		{
+			"id": "3047",
+			"name": "Ripper Bolgrot"
+		},
+		{
+			"id": "3049",
+			"name": "Scrappa Sorehead"
+		}
+	],
+	"stats": {
+		"finesse": "4",
+		"physique": "5",
+		"versatility": "4"
+	},
+	"undead": "No"
+}

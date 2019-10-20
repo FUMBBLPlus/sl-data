@@ -1,0 +1,137 @@
+{
+	"apothecary": "Yes",
+	"id": "1399",
+	"info": "DIFFICULTY: MEDIUM - Big Un's are slow and lack core skills but also form a formidable wall of strength and resilience.",
+	"logos": {
+		"128": "523704",
+		"192": "523707",
+		"32": "523705",
+		"48": "523706",
+		"64": "523703",
+		"96": "523702"
+	},
+	"name": "Big 'Uns",
+	"necromancer": "No",
+	"ownerRuleset": "69",
+	"playable": "true",
+	"positions": [
+		{
+			"cost": "50000",
+			"doubleSkills": [
+				"G",
+				"S",
+				"P"
+			],
+			"gender": "male",
+			"iconLetter": "L",
+			"id": "10716",
+			"normalSkills": [
+				"A"
+			],
+			"portrait": "523709",
+			"quantity": "16",
+			"skills": [
+				"Dodge",
+				"Right Stuff",
+				"Stunty"
+			],
+			"stats": {
+				"AG": "3",
+				"AV": "8",
+				"MA": "6",
+				"ST": "2"
+			},
+			"title": "Little Big 'Un"
+		},
+		{
+			"cost": "90000",
+			"doubleSkills": [
+				"A",
+				"P"
+			],
+			"gender": "male",
+			"iconLetter": "B",
+			"id": "10717",
+			"normalSkills": [
+				"G",
+				"S"
+			],
+			"portrait": "523711",
+			"quantity": "6",
+			"skills": [],
+			"stats": {
+				"AG": "2",
+				"AV": "9",
+				"MA": "5",
+				"ST": "4"
+			},
+			"title": "Big 'Un"
+		},
+		{
+			"cost": "120000",
+			"doubleSkills": [
+				"G",
+				"A",
+				"P"
+			],
+			"gender": "male",
+			"iconLetter": "Bg",
+			"id": "10718",
+			"normalSkills": [
+				"S"
+			],
+			"portrait": "523712",
+			"quantity": "1",
+			"skills": [
+				"Mighty Blow",
+				"Thick Skull",
+				"Always Hungry",
+				"Loner",
+				"Really Stupid",
+				"Regeneration",
+				"Throw Team-Mate"
+			],
+			"stats": {
+				"AG": "1",
+				"AV": "9",
+				"MA": "4",
+				"ST": "5"
+			},
+			"title": "'Uge Big 'Un"
+		}
+	],
+	"raisePosition": null,
+	"rerollCost": "70000",
+	"stars": [
+		{
+			"id": "3007",
+			"name": "Bomber Dribblesnot"
+		},
+		{
+			"id": "3039",
+			"name": "Morg 'n' Thorg"
+		},
+		{
+			"id": "3047",
+			"name": "Ripper Bolgrot"
+		},
+		{
+			"id": "3049",
+			"name": "Scrappa Sorehead"
+		},
+		{
+			"id": "3055",
+			"name": "Ugroth Bolgrot"
+		},
+		{
+			"id": "3056",
+			"name": "Varag Ghoul-Chewer"
+		}
+	],
+	"stats": {
+		"finesse": "4",
+		"physique": "4",
+		"versatility": "2"
+	},
+	"undead": "No"
+}

@@ -1,0 +1,38 @@
+{
+	"cost": 240000,
+	"doubleSkills": [
+		"G",
+		"A",
+		"S",
+		"P"
+	],
+	"gender": "neutral",
+	"icon": 596384,
+	"iconLetter": "CD",
+	"id": "22981",
+	"name": "Curnoth Darkwold",
+	"normalSkills": [],
+	"portrait": 0,
+	"quantity": 1,
+	"race": "",
+	"roster": 67,
+	"secretweapon": "0",
+	"skills": [
+		"Frenzy",
+		"Wrestle",
+		"Dodge",
+		"Jump Up",
+		"Leap",
+		"Loner"
+	],
+	"stats": {
+		"AG": 4,
+		"AV": 7,
+		"MA": 7,
+		"ST": 3
+	},
+	"thrall": "false",
+	"title": "Curnoth Darkwold",
+	"type": "star",
+	"undead": "false"
+}

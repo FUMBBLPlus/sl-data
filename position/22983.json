@@ -1,0 +1,39 @@
+{
+	"cost": 0,
+	"doubleSkills": [
+		"G",
+		"A",
+		"S",
+		"P"
+	],
+	"gender": "neutral",
+	"icon": 596389,
+	"iconLetter": "VS",
+	"id": "22983",
+	"name": "Valen Swift",
+	"normalSkills": [],
+	"portrait": 596388,
+	"quantity": 1,
+	"race": null,
+	"roster": 67,
+	"secretweapon": "0",
+	"skills": [
+		"Sure Hands",
+		"Accurate",
+		"Nerves Of Steel",
+		"Pass",
+		"Safe Throw",
+		"Loner"
+	],
+	"stats": {
+		"AG": 5,
+		"AV": 7,
+		"MA": 7,
+		"ST": 3
+	},
+	"teamWith": 22982,
+	"thrall": "false",
+	"title": "Valen Swift",
+	"type": "star",
+	"undead": "false"
+}

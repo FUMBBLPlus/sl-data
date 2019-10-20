@@ -1,0 +1,38 @@
+{
+	"cost": 140000,
+	"doubleSkills": [
+		"G",
+		"A",
+		"P"
+	],
+	"gender": "neutral",
+	"icon": 487728,
+	"iconLetter": "BG",
+	"id": "3974",
+	"name": "Giant Crab",
+	"normalSkills": [
+		"S"
+	],
+	"portrait": 487727,
+	"quantity": 2,
+	"race": null,
+	"roster": 379,
+	"secretweapon": "0",
+	"skills": [
+		"Side Step",
+		"Claw",
+		"Always Hungry",
+		"Bone-head",
+		"Throw Team-Mate"
+	],
+	"stats": {
+		"AG": 1,
+		"AV": 9,
+		"MA": 4,
+		"ST": 5
+	},
+	"thrall": "false",
+	"title": "Giant Crab",
+	"type": "normal",
+	"undead": "false"
+}

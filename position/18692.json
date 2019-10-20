@@ -1,0 +1,35 @@
+{
+	"cost": 100000,
+	"doubleSkills": [
+		"S"
+	],
+	"gender": "female",
+	"icon": 573241,
+	"iconLetter": "Sis",
+	"id": "18692",
+	"name": "Sister",
+	"normalSkills": [
+		"G",
+		"A",
+		"P"
+	],
+	"portrait": 0,
+	"quantity": 4,
+	"race": null,
+	"roster": 2505,
+	"secretweapon": "0",
+	"skills": [
+		"Catch",
+		"Pass"
+	],
+	"stats": {
+		"AG": 4,
+		"AV": 7,
+		"MA": 7,
+		"ST": 3
+	},
+	"thrall": "false",
+	"title": "Sister",
+	"type": "normal",
+	"undead": "false"
+}

@@ -1,0 +1,32 @@
+{
+	"cost": 290000,
+	"doubleSkills": [],
+	"gender": "male",
+	"icon": 436489,
+	"iconLetter": "VG",
+	"id": "3056",
+	"name": "Varag Ghoul-Chewer",
+	"normalSkills": [],
+	"portrait": 332770,
+	"quantity": 1,
+	"race": null,
+	"roster": 67,
+	"secretweapon": "0",
+	"skills": [
+		"Block",
+		"Jump Up",
+		"Mighty Blow",
+		"Thick Skull",
+		"Loner"
+	],
+	"stats": {
+		"AG": 3,
+		"AV": 9,
+		"MA": 6,
+		"ST": 4
+	},
+	"thrall": "false",
+	"title": "Varag Ghoul-Chewer",
+	"type": "star",
+	"undead": "false"
+}

@@ -1,0 +1,36 @@
+{
+	"cost": 110000,
+	"doubleSkills": [
+		"A",
+		"P"
+	],
+	"gender": "neutral",
+	"icon": 487400,
+	"iconLetter": "Kni",
+	"id": "3676",
+	"name": "Questing Knight",
+	"normalSkills": [
+		"G",
+		"S"
+	],
+	"portrait": 487401,
+	"quantity": 4,
+	"race": null,
+	"roster": 302,
+	"secretweapon": "0",
+	"skills": [
+		"Block",
+		"Dauntless",
+		"Catch"
+	],
+	"stats": {
+		"AG": 3,
+		"AV": 8,
+		"MA": 7,
+		"ST": 3
+	},
+	"thrall": "false",
+	"title": "Questing Knight",
+	"type": "normal",
+	"undead": "false"
+}

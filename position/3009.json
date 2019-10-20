@@ -1,0 +1,32 @@
+{
+	"cost": 390000,
+	"doubleSkills": [],
+	"gender": "male",
+	"icon": 436443,
+	"iconLetter": "LD",
+	"id": "3009",
+	"name": "Count Luthor Von Drakenborg",
+	"normalSkills": [],
+	"portrait": 332760,
+	"quantity": 1,
+	"race": null,
+	"roster": 67,
+	"secretweapon": "0",
+	"skills": [
+		"Block",
+		"Side Step",
+		"Hypnotic Gaze",
+		"Loner",
+		"Regeneration"
+	],
+	"stats": {
+		"AG": 4,
+		"AV": 9,
+		"MA": 6,
+		"ST": 5
+	},
+	"thrall": "false",
+	"title": "Count Luthor Von Drakenborg",
+	"type": "star",
+	"undead": "true"
+}

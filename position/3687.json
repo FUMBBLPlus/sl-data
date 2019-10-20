@@ -1,0 +1,37 @@
+{
+	"cost": 80000,
+	"doubleSkills": [
+		"S",
+		"P"
+	],
+	"gender": "neutral",
+	"icon": 487374,
+	"iconLetter": "SGo",
+	"id": "3687",
+	"name": "Slaangor",
+	"normalSkills": [
+		"G",
+		"A",
+		"M"
+	],
+	"portrait": 487375,
+	"quantity": 4,
+	"race": null,
+	"roster": 305,
+	"secretweapon": "0",
+	"skills": [
+		"Horns",
+		"Prehensile Tail",
+		"Very Long Legs"
+	],
+	"stats": {
+		"AG": 3,
+		"AV": 7,
+		"MA": 7,
+		"ST": 3
+	},
+	"thrall": "false",
+	"title": "Slaangor",
+	"type": "normal",
+	"undead": "false"
+}

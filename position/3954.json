@@ -1,0 +1,36 @@
+{
+	"cost": 130000,
+	"doubleSkills": [
+		"A",
+		"P"
+	],
+	"gender": "male",
+	"icon": 593317,
+	"iconLetter": "TG",
+	"id": "3954",
+	"name": "Tomb Guardian Ancient",
+	"normalSkills": [
+		"G",
+		"S"
+	],
+	"portrait": 487646,
+	"quantity": 2,
+	"race": null,
+	"roster": 375,
+	"secretweapon": "0",
+	"skills": [
+		"Jump Up",
+		"Mighty Blow",
+		"Regeneration"
+	],
+	"stats": {
+		"AG": 1,
+		"AV": 9,
+		"MA": 3,
+		"ST": 5
+	},
+	"thrall": "false",
+	"title": "Tomb Guardian Ancient",
+	"type": "normal",
+	"undead": "true"
+}

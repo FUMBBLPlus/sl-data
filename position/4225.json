@@ -1,0 +1,36 @@
+{
+	"cost": 80000,
+	"doubleSkills": [
+		"S",
+		"P"
+	],
+	"gender": "neutral",
+	"icon": 488387,
+	"iconLetter": "Wi",
+	"id": "4225",
+	"name": "Wing",
+	"normalSkills": [
+		"G",
+		"A"
+	],
+	"portrait": 488388,
+	"quantity": 2,
+	"race": null,
+	"roster": 438,
+	"secretweapon": "0",
+	"skills": [
+		"Catch",
+		"Dump-Off",
+		"Nerves Of Steel"
+	],
+	"stats": {
+		"AG": 3,
+		"AV": 8,
+		"MA": 7,
+		"ST": 3
+	},
+	"thrall": "false",
+	"title": "Wing",
+	"type": "normal",
+	"undead": "false"
+}

@@ -1,0 +1,36 @@
+{
+	"cost": 90000,
+	"doubleSkills": [
+		"S"
+	],
+	"gender": "neutral",
+	"icon": 489288,
+	"iconLetter": "HT",
+	"id": "4611",
+	"name": "High Elf Thrower",
+	"normalSkills": [
+		"G",
+		"A",
+		"P"
+	],
+	"portrait": 489289,
+	"quantity": 1,
+	"race": "High Elf",
+	"roster": 486,
+	"secretweapon": "0",
+	"skills": [
+		"Pass",
+		"Safe Throw",
+		"Animosity"
+	],
+	"stats": {
+		"AG": 4,
+		"AV": 8,
+		"MA": 6,
+		"ST": 3
+	},
+	"thrall": "false",
+	"title": "High Elf Thrower",
+	"type": "normal",
+	"undead": "false"
+}

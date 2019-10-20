@@ -1,0 +1,32 @@
+{
+	"cost": 130000,
+	"doubleSkills": [],
+	"gender": "male",
+	"icon": 436463,
+	"iconLetter": "HC",
+	"id": "3029",
+	"name": "Humerus Carpal",
+	"normalSkills": [],
+	"portrait": 440122,
+	"quantity": 1,
+	"race": null,
+	"roster": 67,
+	"secretweapon": "0",
+	"skills": [
+		"Catch",
+		"Dodge",
+		"Nerves Of Steel",
+		"Loner",
+		"Regeneration"
+	],
+	"stats": {
+		"AG": 3,
+		"AV": 7,
+		"MA": 7,
+		"ST": 2
+	},
+	"thrall": "false",
+	"title": "Humerus Carpal",
+	"type": "star",
+	"undead": "false"
+}

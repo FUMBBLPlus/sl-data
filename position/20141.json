@@ -1,0 +1,36 @@
+{
+	"cost": 180000,
+	"doubleSkills": [
+		"G",
+		"A",
+		"S",
+		"P"
+	],
+	"gender": "male",
+	"icon": 582803,
+	"iconLetter": "BV",
+	"id": "20141",
+	"name": "Bilerot Vomitflesh",
+	"normalSkills": [],
+	"portrait": 582802,
+	"quantity": 1,
+	"race": null,
+	"roster": 67,
+	"secretweapon": "0",
+	"skills": [
+		"Dirty Player",
+		"Disturbing Presence",
+		"Foul Appearance",
+		"Loner"
+	],
+	"stats": {
+		"AG": 2,
+		"AV": 9,
+		"MA": 4,
+		"ST": 5
+	},
+	"thrall": "false",
+	"title": "Bilerot Vomitflesh",
+	"type": "star",
+	"undead": "false"
+}

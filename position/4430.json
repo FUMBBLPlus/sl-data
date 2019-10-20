@@ -1,0 +1,39 @@
+{
+	"cost": 100000,
+	"doubleSkills": [
+		"S",
+		"P"
+	],
+	"gender": "neutral",
+	"icon": 488646,
+	"iconLetter": "Sy",
+	"id": "4430",
+	"name": "Syreen",
+	"normalSkills": [
+		"G",
+		"A"
+	],
+	"portrait": 488647,
+	"quantity": 0,
+	"race": null,
+	"roster": 467,
+	"secretweapon": "0",
+	"skills": [
+		"Leap",
+		"Disturbing Presence",
+		"Foul Appearance",
+		"Very Long Legs",
+		"Hypnotic Gaze",
+		"Regeneration"
+	],
+	"stats": {
+		"AG": 3,
+		"AV": 7,
+		"MA": 6,
+		"ST": 3
+	},
+	"thrall": "false",
+	"title": "Syreen",
+	"type": "normal",
+	"undead": "true"
+}

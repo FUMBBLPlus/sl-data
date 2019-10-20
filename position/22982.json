@@ -1,0 +1,37 @@
+{
+	"cost": 390000,
+	"doubleSkills": [
+		"G",
+		"A",
+		"S",
+		"P"
+	],
+	"gender": "male",
+	"icon": 596386,
+	"iconLetter": "LS",
+	"id": "22982",
+	"name": "Lucien Swift",
+	"normalSkills": [],
+	"portrait": 596387,
+	"quantity": 1,
+	"race": null,
+	"roster": 67,
+	"secretweapon": "0",
+	"skills": [
+		"Block",
+		"Tackle",
+		"Mighty Blow",
+		"Loner"
+	],
+	"stats": {
+		"AG": 4,
+		"AV": 8,
+		"MA": 7,
+		"ST": 3
+	},
+	"teamWith": 22983,
+	"thrall": "false",
+	"title": "Lucien Swift",
+	"type": "star",
+	"undead": "false"
+}

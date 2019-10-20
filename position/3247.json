@@ -1,0 +1,32 @@
+{
+	"cost": 80000,
+	"doubleSkills": [
+		"A",
+		"P"
+	],
+	"gender": "neutral",
+	"icon": 486423,
+	"iconLetter": "Eu",
+	"id": "3247",
+	"name": "Eunuch",
+	"normalSkills": [
+		"G",
+		"S"
+	],
+	"portrait": 486424,
+	"quantity": 2,
+	"race": null,
+	"roster": 206,
+	"secretweapon": "0",
+	"skills": [],
+	"stats": {
+		"AG": 2,
+		"AV": 8,
+		"MA": 5,
+		"ST": 4
+	},
+	"thrall": "false",
+	"title": "Eunuch",
+	"type": "normal",
+	"undead": "false"
+}

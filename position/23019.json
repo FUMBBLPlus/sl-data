@@ -1,0 +1,34 @@
+{
+	"cost": 80000,
+	"doubleSkills": [
+		"S"
+	],
+	"gender": "female",
+	"icon": 596883,
+	"iconLetter": "L",
+	"id": "23019",
+	"name": "Sister of the Thorn",
+	"normalSkills": [
+		"G",
+		"A",
+		"P"
+	],
+	"portrait": 0,
+	"quantity": 16,
+	"race": null,
+	"roster": 3136,
+	"secretweapon": "0",
+	"skills": [
+		"Regeneration"
+	],
+	"stats": {
+		"AG": 4,
+		"AV": 7,
+		"MA": 6,
+		"ST": 3
+	},
+	"thrall": "false",
+	"title": "Sister of the Thorn",
+	"type": "normal",
+	"undead": "false"
+}

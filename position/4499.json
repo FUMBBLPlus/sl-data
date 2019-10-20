@@ -1,0 +1,41 @@
+{
+	"cost": 180000,
+	"doubleSkills": [
+		"G",
+		"A",
+		"P"
+	],
+	"gender": "neutral",
+	"icon": 574113,
+	"iconLetter": "Bg",
+	"id": "4499",
+	"name": "Harvester of Souls",
+	"normalSkills": [
+		"S"
+	],
+	"portrait": 488918,
+	"quantity": 1,
+	"race": null,
+	"roster": 418,
+	"secretweapon": "0",
+	"skills": [
+		"Mighty Blow",
+		"Thick Skull",
+		"Foul Appearance",
+		"Horns",
+		"Prehensile Tail",
+		"Bone-head",
+		"Loner",
+		"Regeneration"
+	],
+	"stats": {
+		"AG": 1,
+		"AV": 9,
+		"MA": 6,
+		"ST": 5
+	},
+	"thrall": "false",
+	"title": "Harvester of Souls",
+	"type": "normal",
+	"undead": "false"
+}

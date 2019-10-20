@@ -1,0 +1,36 @@
+{
+	"cost": 40000,
+	"doubleSkills": [
+		"G",
+		"S",
+		"P"
+	],
+	"gender": "male",
+	"icon": 573250,
+	"iconLetter": "L",
+	"id": "18694",
+	"name": "Night Goblin",
+	"normalSkills": [
+		"A"
+	],
+	"portrait": 573249,
+	"quantity": 16,
+	"race": null,
+	"roster": 2506,
+	"secretweapon": "0",
+	"skills": [
+		"Dodge",
+		"Right Stuff",
+		"Stunty"
+	],
+	"stats": {
+		"AG": 3,
+		"AV": 7,
+		"MA": 6,
+		"ST": 2
+	},
+	"thrall": "true",
+	"title": "Night Goblin",
+	"type": "normal",
+	"undead": "false"
+}

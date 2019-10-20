@@ -1,0 +1,36 @@
+{
+	"cost": 110000,
+	"doubleSkills": [
+		"A",
+		"P"
+	],
+	"gender": "neutral",
+	"icon": 596899,
+	"iconLetter": "FG",
+	"id": "23025",
+	"name": "Flesh Golem",
+	"normalSkills": [
+		"G",
+		"S"
+	],
+	"portrait": 596900,
+	"quantity": 4,
+	"race": null,
+	"roster": 3137,
+	"secretweapon": "0",
+	"skills": [
+		"Stand Firm",
+		"Thick Skull",
+		"Regeneration"
+	],
+	"stats": {
+		"AG": 2,
+		"AV": 9,
+		"MA": 4,
+		"ST": 4
+	},
+	"thrall": "false",
+	"title": "Flesh Golem",
+	"type": "normal",
+	"undead": "true"
+}

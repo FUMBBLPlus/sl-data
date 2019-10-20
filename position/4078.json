@@ -1,0 +1,37 @@
+{
+	"cost": 100000,
+	"doubleSkills": [
+		"A",
+		"P"
+	],
+	"gender": "male",
+	"icon": 488010,
+	"iconLetter": "V",
+	"id": "4078",
+	"name": "Blood Dragon Vampire",
+	"normalSkills": [
+		"G",
+		"S"
+	],
+	"portrait": 488011,
+	"quantity": 6,
+	"race": null,
+	"roster": 407,
+	"secretweapon": "0",
+	"skills": [
+		"Mighty Blow",
+		"Blood Lust",
+		"Hypnotic Gaze",
+		"Regeneration"
+	],
+	"stats": {
+		"AG": 3,
+		"AV": 9,
+		"MA": 6,
+		"ST": 4
+	},
+	"thrall": "false",
+	"title": "Blood Dragon Vampire",
+	"type": "normal",
+	"undead": "true"
+}

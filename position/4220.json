@@ -1,0 +1,37 @@
+{
+	"cost": 80000,
+	"doubleSkills": [
+		"A",
+		"S"
+	],
+	"gender": "neutral",
+	"icon": 488375,
+	"iconLetter": "FB",
+	"id": "4220",
+	"name": "Full Back",
+	"normalSkills": [
+		"G",
+		"P"
+	],
+	"portrait": 488376,
+	"quantity": 1,
+	"race": null,
+	"roster": 438,
+	"secretweapon": "0",
+	"skills": [
+		"Kick-Off Return",
+		"Catch",
+		"Dump-Off",
+		"Nerves Of Steel"
+	],
+	"stats": {
+		"AG": 3,
+		"AV": 8,
+		"MA": 6,
+		"ST": 3
+	},
+	"thrall": "false",
+	"title": "Full Back",
+	"type": "normal",
+	"undead": "false"
+}

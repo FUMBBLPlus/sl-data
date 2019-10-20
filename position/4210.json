@@ -1,0 +1,35 @@
+{
+	"cost": 110000,
+	"doubleSkills": [
+		"A",
+		"P"
+	],
+	"gender": "male",
+	"icon": 488362,
+	"iconLetter": "Fia",
+	"id": "4210",
+	"name": "Fianna Fimm",
+	"normalSkills": [
+		"G",
+		"S"
+	],
+	"portrait": 488363,
+	"quantity": 4,
+	"race": null,
+	"roster": 436,
+	"secretweapon": "0",
+	"skills": [
+		"Multiple Block",
+		"Prehensile Tail"
+	],
+	"stats": {
+		"AG": 1,
+		"AV": 9,
+		"MA": 5,
+		"ST": 4
+	},
+	"thrall": "false",
+	"title": "Fianna Fimm",
+	"type": "normal",
+	"undead": "false"
+}

@@ -1,0 +1,34 @@
+{
+	"cost": 50000,
+	"doubleSkills": [
+		"S",
+		"P"
+	],
+	"gender": "male",
+	"icon": 488070,
+	"iconLetter": "L",
+	"id": "4100",
+	"name": "Werecat",
+	"normalSkills": [
+		"G",
+		"A"
+	],
+	"portrait": 488069,
+	"quantity": 16,
+	"race": null,
+	"roster": 415,
+	"secretweapon": "0",
+	"skills": [
+		"Jump Up"
+	],
+	"stats": {
+		"AG": 4,
+		"AV": 7,
+		"MA": 7,
+		"ST": 2
+	},
+	"thrall": "false",
+	"title": "Werecat",
+	"type": "normal",
+	"undead": "true"
+}

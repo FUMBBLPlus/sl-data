@@ -1,0 +1,39 @@
+{
+	"cost": 140000,
+	"doubleSkills": [
+		"G",
+		"A",
+		"P"
+	],
+	"gender": "neutral",
+	"icon": 489318,
+	"iconLetter": "NS",
+	"id": "4625",
+	"name": "Norse Snow Troll",
+	"normalSkills": [
+		"S"
+	],
+	"portrait": 489321,
+	"quantity": 1,
+	"race": "Norse",
+	"roster": 486,
+	"secretweapon": "0",
+	"skills": [
+		"Frenzy",
+		"Claw",
+		"Disturbing Presence",
+		"Loner",
+		"Wild Animal",
+		"Animosity"
+	],
+	"stats": {
+		"AG": 1,
+		"AV": 8,
+		"MA": 5,
+		"ST": 5
+	},
+	"thrall": "false",
+	"title": "Norse Snow Troll",
+	"type": "normal",
+	"undead": "false"
+}

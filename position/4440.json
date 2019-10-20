@@ -1,0 +1,35 @@
+{
+	"cost": 90000,
+	"doubleSkills": [
+		"A",
+		"P"
+	],
+	"gender": "male",
+	"icon": 488708,
+	"iconLetter": "Bz",
+	"id": "4440",
+	"name": "Blitzer",
+	"normalSkills": [
+		"G",
+		"S"
+	],
+	"portrait": 488709,
+	"quantity": 4,
+	"race": null,
+	"roster": 470,
+	"secretweapon": "0",
+	"skills": [
+		"Sure Hands",
+		"Wrestle"
+	],
+	"stats": {
+		"AG": 2,
+		"AV": 8,
+		"MA": 7,
+		"ST": 3
+	},
+	"thrall": "false",
+	"title": "Blitzer",
+	"type": "normal",
+	"undead": "false"
+}

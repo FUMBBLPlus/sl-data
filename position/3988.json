@@ -1,0 +1,34 @@
+{
+	"cost": 70000,
+	"doubleSkills": [
+		"S",
+		"P"
+	],
+	"gender": "male",
+	"icon": 487762,
+	"iconLetter": "BAC",
+	"id": "3988",
+	"name": "Black Ark Corsair",
+	"normalSkills": [
+		"G",
+		"A"
+	],
+	"portrait": 487761,
+	"quantity": 2,
+	"race": "Dark Elf",
+	"roster": 383,
+	"secretweapon": "0",
+	"skills": [
+		"Animosity"
+	],
+	"stats": {
+		"AG": 4,
+		"AV": 7,
+		"MA": 7,
+		"ST": 3
+	},
+	"thrall": "false",
+	"title": "Black Ark Corsair",
+	"type": "normal",
+	"undead": "false"
+}

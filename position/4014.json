@@ -1,0 +1,35 @@
+{
+	"cost": 90000,
+	"doubleSkills": [
+		"A",
+		"P",
+		"M"
+	],
+	"gender": "male",
+	"icon": 487812,
+	"iconLetter": "BL",
+	"id": "4014",
+	"name": "Stormvermin",
+	"normalSkills": [
+		"G",
+		"S"
+	],
+	"portrait": 487811,
+	"quantity": 4,
+	"race": null,
+	"roster": 389,
+	"secretweapon": "0",
+	"skills": [
+		"Block"
+	],
+	"stats": {
+		"AG": 3,
+		"AV": 8,
+		"MA": 7,
+		"ST": 3
+	},
+	"thrall": "false",
+	"title": "Stormvermin",
+	"type": "normal",
+	"undead": "false"
+}

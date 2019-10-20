@@ -1,0 +1,36 @@
+{
+	"cost": 100000,
+	"doubleSkills": [
+		"A",
+		"P"
+	],
+	"gender": "neutral",
+	"icon": 487410,
+	"iconLetter": "CDB",
+	"id": "3287",
+	"name": "Chaos Dwarf Blitzer",
+	"normalSkills": [
+		"G",
+		"S"
+	],
+	"portrait": 487411,
+	"quantity": 2,
+	"race": null,
+	"roster": 215,
+	"secretweapon": "0",
+	"skills": [
+		"Block",
+		"Catch",
+		"Thick Skull"
+	],
+	"stats": {
+		"AG": 3,
+		"AV": 9,
+		"MA": 6,
+		"ST": 3
+	},
+	"thrall": "false",
+	"title": "Chaos Dwarf Blitzer",
+	"type": "normal",
+	"undead": "false"
+}

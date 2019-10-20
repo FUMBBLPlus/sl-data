@@ -1,0 +1,36 @@
+{
+	"cost": 120000,
+	"doubleSkills": [
+		"A"
+	],
+	"gender": "male",
+	"icon": 487563,
+	"iconLetter": "Th",
+	"id": "3938",
+	"name": "Saurus Throw-Ra",
+	"normalSkills": [
+		"G",
+		"S",
+		"P"
+	],
+	"portrait": 0,
+	"quantity": 2,
+	"race": null,
+	"roster": 373,
+	"secretweapon": "0",
+	"skills": [
+		"Sure Hands",
+		"Pass",
+		"Regeneration"
+	],
+	"stats": {
+		"AG": 1,
+		"AV": 8,
+		"MA": 6,
+		"ST": 4
+	},
+	"thrall": "false",
+	"title": "Saurus Throw-Ra",
+	"type": "normal",
+	"undead": "true"
+}

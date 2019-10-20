@@ -1,0 +1,38 @@
+{
+	"cost": 140000,
+	"doubleSkills": [
+		"G",
+		"A",
+		"P"
+	],
+	"gender": "female",
+	"icon": 487766,
+	"iconLetter": "BG",
+	"id": "3990",
+	"name": "Ogre",
+	"normalSkills": [
+		"S"
+	],
+	"portrait": 487765,
+	"quantity": 2,
+	"race": "Ogre",
+	"roster": 383,
+	"secretweapon": "0",
+	"skills": [
+		"Mighty Blow",
+		"Thick Skull",
+		"Bone-head",
+		"Loner",
+		"Throw Team-Mate"
+	],
+	"stats": {
+		"AG": 2,
+		"AV": 9,
+		"MA": 5,
+		"ST": 5
+	},
+	"thrall": "false",
+	"title": "Ogre",
+	"type": "normal",
+	"undead": "false"
+}

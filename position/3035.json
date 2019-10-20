@@ -1,0 +1,31 @@
+{
+	"cost": 300000,
+	"doubleSkills": [],
+	"gender": "male",
+	"icon": 436469,
+	"iconLetter": "BD",
+	"id": "3035",
+	"name": "Lord Borak the Despoiler",
+	"normalSkills": [],
+	"portrait": 332768,
+	"quantity": 1,
+	"race": null,
+	"roster": 67,
+	"secretweapon": "0",
+	"skills": [
+		"Block",
+		"Dirty Player",
+		"Mighty Blow",
+		"Loner"
+	],
+	"stats": {
+		"AG": 3,
+		"AV": 9,
+		"MA": 5,
+		"ST": 5
+	},
+	"thrall": "false",
+	"title": "Lord Borak the Despoiler",
+	"type": "star",
+	"undead": "false"
+}

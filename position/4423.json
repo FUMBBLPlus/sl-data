@@ -1,0 +1,37 @@
+{
+	"cost": 60000,
+	"doubleSkills": [
+		"S",
+		"P"
+	],
+	"gender": "neutral",
+	"icon": 592208,
+	"iconLetter": "SH",
+	"id": "4423",
+	"name": "Spirit Hosts",
+	"normalSkills": [
+		"G",
+		"A"
+	],
+	"portrait": 488640,
+	"quantity": 16,
+	"race": null,
+	"roster": 467,
+	"secretweapon": "0",
+	"skills": [
+		"Foul Appearance",
+		"No Hands",
+		"Regeneration",
+		"Titchy"
+	],
+	"stats": {
+		"AG": 5,
+		"AV": 7,
+		"MA": 6,
+		"ST": 3
+	},
+	"thrall": "false",
+	"title": "Spirit Hosts",
+	"type": "normal",
+	"undead": "true"
+}

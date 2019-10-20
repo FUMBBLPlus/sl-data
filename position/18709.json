@@ -1,0 +1,37 @@
+{
+	"cost": 130000,
+	"doubleSkills": [
+		"G",
+		"A",
+		"P"
+	],
+	"gender": "neutral",
+	"icon": 573282,
+	"iconLetter": "Big",
+	"id": "18709",
+	"name": "Ushabti",
+	"normalSkills": [
+		"S"
+	],
+	"portrait": 0,
+	"quantity": 2,
+	"race": null,
+	"roster": 2508,
+	"secretweapon": "0",
+	"skills": [
+		"Mighty Blow",
+		"Thick Skull",
+		"Regeneration",
+		"Take Root"
+	],
+	"stats": {
+		"AG": 1,
+		"AV": 10,
+		"MA": 5,
+		"ST": 5
+	},
+	"thrall": "false",
+	"title": "Ushabti",
+	"type": "normal",
+	"undead": "false"
+}

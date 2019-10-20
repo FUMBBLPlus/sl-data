@@ -1,0 +1,34 @@
+{
+	"cost": 80000,
+	"doubleSkills": [
+		"S",
+		"P"
+	],
+	"gender": "male",
+	"icon": 523659,
+	"iconLetter": "Bo",
+	"id": "10698",
+	"name": "Shape Changer - Boar",
+	"normalSkills": [
+		"G",
+		"A"
+	],
+	"portrait": 569443,
+	"quantity": 2,
+	"race": null,
+	"roster": 1395,
+	"secretweapon": "0",
+	"skills": [
+		"Horns"
+	],
+	"stats": {
+		"AG": 4,
+		"AV": 7,
+		"MA": 7,
+		"ST": 3
+	},
+	"thrall": "false",
+	"title": "Shape Changer - Boar",
+	"type": "normal",
+	"undead": "false"
+}

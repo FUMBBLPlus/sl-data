@@ -1,0 +1,33 @@
+{
+	"cost": 240000,
+	"doubleSkills": [],
+	"gender": "male",
+	"icon": 436490,
+	"iconLetter": "WC",
+	"id": "3057",
+	"name": "Wilhelm Chaney",
+	"normalSkills": [],
+	"portrait": 332778,
+	"quantity": 1,
+	"race": null,
+	"roster": 67,
+	"secretweapon": "0",
+	"skills": [
+		"Frenzy",
+		"Wrestle",
+		"Catch",
+		"Claw",
+		"Loner",
+		"Regeneration"
+	],
+	"stats": {
+		"AG": 3,
+		"AV": 8,
+		"MA": 8,
+		"ST": 4
+	},
+	"thrall": "false",
+	"title": "Wilhelm Chaney",
+	"type": "star",
+	"undead": "false"
+}

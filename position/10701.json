@@ -1,0 +1,39 @@
+{
+	"cost": 150000,
+	"doubleSkills": [
+		"G",
+		"A",
+		"P"
+	],
+	"gender": "neutral",
+	"icon": 523661,
+	"iconLetter": "Bg",
+	"id": "10701",
+	"name": "Kurnocervus",
+	"normalSkills": [
+		"S"
+	],
+	"portrait": 570342,
+	"quantity": 1,
+	"race": null,
+	"roster": 1395,
+	"secretweapon": "0",
+	"skills": [
+		"Frenzy",
+		"Mighty Blow",
+		"Thick Skull",
+		"Horns",
+		"Loner",
+		"Wild Animal"
+	],
+	"stats": {
+		"AG": 2,
+		"AV": 8,
+		"MA": 5,
+		"ST": 5
+	},
+	"thrall": "false",
+	"title": "Kurnocervus",
+	"type": "normal",
+	"undead": "false"
+}

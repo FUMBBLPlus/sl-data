@@ -1,0 +1,33 @@
+{
+	"cost": 60000,
+	"doubleSkills": [
+		"S",
+		"P"
+	],
+	"gender": "neutral",
+	"icon": 487372,
+	"iconLetter": "StD",
+	"id": "3686",
+	"name": "Slave to Darkness",
+	"normalSkills": [
+		"G",
+		"A",
+		"M"
+	],
+	"portrait": 487373,
+	"quantity": 16,
+	"race": null,
+	"roster": 305,
+	"secretweapon": "0",
+	"skills": [],
+	"stats": {
+		"AG": 4,
+		"AV": 7,
+		"MA": 6,
+		"ST": 3
+	},
+	"thrall": "false",
+	"title": "Slave to Darkness",
+	"type": "normal",
+	"undead": "false"
+}

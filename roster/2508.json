@@ -1,0 +1,164 @@
+{
+	"apothecary": "No",
+	"id": "2508",
+	"info": "DIFFICULTY: MEDIUM\nKa-Sabar is home to the most heavily armoured teams of the Khemri region. They are spearheaded by two colossal Ushabti. But like true to type their agility and ball skills are lacklustre. ",
+	"logos": {
+		"128": "573280",
+		"192": "573279",
+		"32": "573278",
+		"48": "573277",
+		"64": "573276",
+		"96": "573281"
+	},
+	"name": "Ka-Sabar",
+	"necromancer": "No",
+	"ownerRuleset": "69",
+	"playable": "true",
+	"positions": [
+		{
+			"cost": "60000",
+			"doubleSkills": [
+				"A",
+				"S",
+				"P"
+			],
+			"gender": "male",
+			"iconLetter": "L",
+			"id": "18706",
+			"normalSkills": [
+				"G"
+			],
+			"portrait": null,
+			"quantity": "16",
+			"skills": [
+				"Thick Skull",
+				"Regeneration"
+			],
+			"stats": {
+				"AG": "2",
+				"AV": "8",
+				"MA": "5",
+				"ST": "3"
+			},
+			"title": "Skeleton"
+		},
+		{
+			"cost": "90000",
+			"doubleSkills": [
+				"A",
+				"S"
+			],
+			"gender": "male",
+			"iconLetter": "ThR",
+			"id": "18707",
+			"normalSkills": [
+				"G",
+				"P"
+			],
+			"portrait": null,
+			"quantity": "2",
+			"skills": [
+				"Sure Hands",
+				"Pass",
+				"Regeneration"
+			],
+			"stats": {
+				"AG": "2",
+				"AV": "8",
+				"MA": "6",
+				"ST": "3"
+			},
+			"title": "Throw-Ra"
+		},
+		{
+			"cost": "90000",
+			"doubleSkills": [
+				"A",
+				"P"
+			],
+			"gender": "male",
+			"iconLetter": "Blit",
+			"id": "18708",
+			"normalSkills": [
+				"G",
+				"S"
+			],
+			"portrait": null,
+			"quantity": "4",
+			"skills": [
+				"Block",
+				"Regeneration"
+			],
+			"stats": {
+				"AG": "2",
+				"AV": "9",
+				"MA": "5",
+				"ST": "3"
+			},
+			"title": "Block-Ra"
+		},
+		{
+			"cost": "130000",
+			"doubleSkills": [
+				"G",
+				"A",
+				"P"
+			],
+			"gender": "neutral",
+			"iconLetter": "Big",
+			"id": "18709",
+			"normalSkills": [
+				"S"
+			],
+			"portrait": null,
+			"quantity": "2",
+			"skills": [
+				"Mighty Blow",
+				"Thick Skull",
+				"Regeneration",
+				"Take Root"
+			],
+			"stats": {
+				"AG": "1",
+				"AV": "10",
+				"MA": "5",
+				"ST": "5"
+			},
+			"title": "Ushabti"
+		}
+	],
+	"raisePosition": null,
+	"rerollCost": "70000",
+	"stars": [
+		{
+			"id": "3021",
+			"name": "Hack Enslash"
+		},
+		{
+			"id": "3029",
+			"name": "Humerus Carpal"
+		},
+		{
+			"id": "3031",
+			"name": "Ithaca Benoin"
+		},
+		{
+			"id": "3045",
+			"name": "Ramtut III"
+		},
+		{
+			"id": "3050",
+			"name": "Setekh"
+		},
+		{
+			"id": "3052",
+			"name": "Sinnedbad"
+		}
+	],
+	"stats": {
+		"finesse": "2",
+		"physique": "5",
+		"versatility": "2"
+	},
+	"undead": "Yes"
+}

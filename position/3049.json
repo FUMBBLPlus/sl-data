@@ -1,0 +1,36 @@
+{
+	"cost": 150000,
+	"doubleSkills": [],
+	"gender": "male",
+	"icon": 436482,
+	"iconLetter": "SS",
+	"id": "3049",
+	"name": "Scrappa Sorehead",
+	"normalSkills": [],
+	"portrait": 332791,
+	"quantity": 1,
+	"race": null,
+	"roster": 67,
+	"secretweapon": "0",
+	"skills": [
+		"Dirty Player",
+		"Dodge",
+		"Leap",
+		"Sprint",
+		"Sure Feet",
+		"Very Long Legs",
+		"Loner",
+		"Right Stuff",
+		"Stunty"
+	],
+	"stats": {
+		"AG": 3,
+		"AV": 7,
+		"MA": 7,
+		"ST": 2
+	},
+	"thrall": "false",
+	"title": "Scrappa Sorehead",
+	"type": "star",
+	"undead": "false"
+}

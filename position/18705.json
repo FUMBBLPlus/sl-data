@@ -1,0 +1,35 @@
+{
+	"cost": 100000,
+	"doubleSkills": [
+		"A",
+		"P"
+	],
+	"gender": "male",
+	"icon": 573272,
+	"iconLetter": "Blok",
+	"id": "18705",
+	"name": "Templar Blocker",
+	"normalSkills": [
+		"G",
+		"S"
+	],
+	"portrait": 0,
+	"quantity": 2,
+	"race": null,
+	"roster": 2507,
+	"secretweapon": "0",
+	"skills": [
+		"Grab",
+		"Stand Firm"
+	],
+	"stats": {
+		"AG": 3,
+		"AV": 9,
+		"MA": 6,
+		"ST": 3
+	},
+	"thrall": "false",
+	"title": "Templar Blocker",
+	"type": "normal",
+	"undead": "false"
+}

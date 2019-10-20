@@ -1,0 +1,170 @@
+{
+	"apothecary": "Yes",
+	"id": "212",
+	"info": "Difficulty: MEDIUM\nBeastmen are a brutal team, with very high strength when blitzing. Though they are somewhat lacking in core skills. ",
+	"logos": {
+		"128": "492343",
+		"192": "492340",
+		"32": "492348",
+		"48": "492347",
+		"64": "492345",
+		"96": "492344"
+	},
+	"name": "Beastmen",
+	"necromancer": "No",
+	"ownerRuleset": "69",
+	"playable": "true",
+	"positions": [
+		{
+			"cost": "60000",
+			"doubleSkills": [
+				"A",
+				"P",
+				"M"
+			],
+			"gender": "male",
+			"iconLetter": "Gor",
+			"id": "3263",
+			"normalSkills": [
+				"G",
+				"S"
+			],
+			"portrait": "487413",
+			"quantity": "16",
+			"skills": [
+				"Horns"
+			],
+			"stats": {
+				"AG": "3",
+				"AV": "8",
+				"MA": "6",
+				"ST": "3"
+			},
+			"title": "Gor"
+		},
+		{
+			"cost": "50000",
+			"doubleSkills": [
+				"S",
+				"P",
+				"M"
+			],
+			"gender": "male",
+			"iconLetter": "Ung",
+			"id": "3270",
+			"normalSkills": [
+				"G",
+				"A"
+			],
+			"portrait": "487415",
+			"quantity": "4",
+			"skills": [
+				"Dodge"
+			],
+			"stats": {
+				"AG": "3",
+				"AV": "7",
+				"MA": "7",
+				"ST": "2"
+			},
+			"title": "Ungor"
+		},
+		{
+			"cost": "110000",
+			"doubleSkills": [
+				"A",
+				"P",
+				"M"
+			],
+			"gender": "male",
+			"iconLetter": "Bes",
+			"id": "3274",
+			"normalSkills": [
+				"G",
+				"S"
+			],
+			"portrait": "487417",
+			"quantity": "4",
+			"skills": [
+				"Horns"
+			],
+			"stats": {
+				"AG": "3",
+				"AV": "8",
+				"MA": "6",
+				"ST": "4"
+			},
+			"title": "Bestigor"
+		},
+		{
+			"cost": "150000",
+			"doubleSkills": [
+				"G",
+				"A",
+				"P",
+				"M"
+			],
+			"gender": "male",
+			"iconLetter": "Min",
+			"id": "3275",
+			"normalSkills": [
+				"S"
+			],
+			"portrait": "487419",
+			"quantity": "2",
+			"skills": [
+				"Frenzy",
+				"Mighty Blow",
+				"Thick Skull",
+				"Horns",
+				"Loner",
+				"Wild Animal"
+			],
+			"stats": {
+				"AG": "2",
+				"AV": "8",
+				"MA": "5",
+				"ST": "5"
+			},
+			"title": "Minotaur"
+		}
+	],
+	"raisePosition": null,
+	"rerollCost": "60000",
+	"stars": [
+		{
+			"id": "3005",
+			"name": "Brick Far'th"
+		},
+		{
+			"id": "3006",
+			"name": "Grotty"
+		},
+		{
+			"id": "3018",
+			"name": "Grashnak Blackhoof"
+		},
+		{
+			"id": "3034",
+			"name": "Lewdgrip Whiparm"
+		},
+		{
+			"id": "3035",
+			"name": "Lord Borak the Despoiler"
+		},
+		{
+			"id": "3037",
+			"name": "Max Spleenripper"
+		},
+		{
+			"id": "3039",
+			"name": "Morg 'n' Thorg"
+		}
+	],
+	"stats": {
+		"finesse": "3",
+		"physique": "6",
+		"versatility": "3"
+	},
+	"undead": "No"
+}

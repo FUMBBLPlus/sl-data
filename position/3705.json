@@ -1,0 +1,38 @@
+{
+	"cost": 100000,
+	"doubleSkills": [
+		"A",
+		"P"
+	],
+	"gender": "male",
+	"icon": 487368,
+	"iconLetter": "Ble",
+	"id": "3705",
+	"name": "Bloodletter",
+	"normalSkills": [
+		"G",
+		"S"
+	],
+	"portrait": 487369,
+	"quantity": 6,
+	"race": "Thrall",
+	"roster": 306,
+	"secretweapon": "0",
+	"skills": [
+		"Frenzy",
+		"Claw",
+		"Blood Lust",
+		"No Hands",
+		"Regeneration"
+	],
+	"stats": {
+		"AG": 3,
+		"AV": 8,
+		"MA": 6,
+		"ST": 4
+	},
+	"thrall": "true",
+	"title": "Bloodletter",
+	"type": "normal",
+	"undead": "false"
+}

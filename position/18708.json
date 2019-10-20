@@ -1,0 +1,35 @@
+{
+	"cost": 90000,
+	"doubleSkills": [
+		"A",
+		"P"
+	],
+	"gender": "male",
+	"icon": 573283,
+	"iconLetter": "Blit",
+	"id": "18708",
+	"name": "Block-Ra",
+	"normalSkills": [
+		"G",
+		"S"
+	],
+	"portrait": 0,
+	"quantity": 4,
+	"race": null,
+	"roster": 2508,
+	"secretweapon": "0",
+	"skills": [
+		"Block",
+		"Regeneration"
+	],
+	"stats": {
+		"AG": 2,
+		"AV": 9,
+		"MA": 5,
+		"ST": 3
+	},
+	"thrall": "false",
+	"title": "Block-Ra",
+	"type": "normal",
+	"undead": "false"
+}

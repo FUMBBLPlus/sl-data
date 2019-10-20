@@ -1,0 +1,38 @@
+{
+	"cost": 270000,
+	"doubleSkills": [
+		"G",
+		"A",
+		"S",
+		"P"
+	],
+	"gender": "male",
+	"icon": 583230,
+	"iconLetter": "FS",
+	"id": "20193",
+	"name": "Frank N Stein",
+	"normalSkills": [],
+	"portrait": 583231,
+	"quantity": 1,
+	"race": null,
+	"roster": 67,
+	"secretweapon": "0",
+	"skills": [
+		"Break Tackle",
+		"Mighty Blow",
+		"Stand Firm",
+		"Thick Skull",
+		"Loner",
+		"Regeneration"
+	],
+	"stats": {
+		"AG": 1,
+		"AV": 9,
+		"MA": 4,
+		"ST": 5
+	},
+	"thrall": "false",
+	"title": "Frank N Stein",
+	"type": "star",
+	"undead": "true"
+}

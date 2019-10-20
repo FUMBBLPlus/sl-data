@@ -1,0 +1,35 @@
+{
+	"cost": 40000,
+	"doubleSkills": [
+		"A",
+		"S",
+		"P"
+	],
+	"gender": "neutral",
+	"icon": 523669,
+	"iconLetter": "L",
+	"id": "10702",
+	"name": "Skeleton",
+	"normalSkills": [
+		"G"
+	],
+	"portrait": 523670,
+	"quantity": 16,
+	"race": null,
+	"roster": 1396,
+	"secretweapon": "0",
+	"skills": [
+		"Thick Skull",
+		"Regeneration"
+	],
+	"stats": {
+		"AG": 2,
+		"AV": 7,
+		"MA": 5,
+		"ST": 3
+	},
+	"thrall": "false",
+	"title": "Skeleton",
+	"type": "normal",
+	"undead": "true"
+}

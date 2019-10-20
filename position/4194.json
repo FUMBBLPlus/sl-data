@@ -1,0 +1,34 @@
+{
+	"cost": 60000,
+	"doubleSkills": [
+		"S",
+		"P"
+	],
+	"gender": "neutral",
+	"icon": 488315,
+	"iconLetter": "W",
+	"id": "4194",
+	"name": "Water Elemental",
+	"normalSkills": [
+		"G",
+		"A"
+	],
+	"portrait": 488314,
+	"quantity": 2,
+	"race": null,
+	"roster": 431,
+	"secretweapon": "0",
+	"skills": [
+		"Side Step"
+	],
+	"stats": {
+		"AG": 3,
+		"AV": 8,
+		"MA": 6,
+		"ST": 3
+	},
+	"thrall": "false",
+	"title": "Water Elemental",
+	"type": "normal",
+	"undead": "false"
+}

@@ -1,0 +1,146 @@
+{
+	"apothecary": "No",
+	"id": "306",
+	"info": "Difficulty: HARD\n\nThe most deadly of all teams. Daemons of Khorne are all about inflicting pain, both to the opposition and their own team. It does not matter where the blood comes from, as long is it is spilt. Most of their players are unaware of the balls existence.",
+	"logos": {
+		"128": "492395",
+		"192": "492396",
+		"32": "492393",
+		"48": "492392",
+		"64": "492391",
+		"96": "492394"
+	},
+	"name": "Daemons of Khorne",
+	"necromancer": "No",
+	"ownerRuleset": "69",
+	"playable": "true",
+	"positions": [
+		{
+			"cost": "50000",
+			"doubleSkills": [
+				"A",
+				"S",
+				"P"
+			],
+			"gender": "male",
+			"iconLetter": "Cul",
+			"id": "3703",
+			"normalSkills": [
+				"G",
+				"M"
+			],
+			"portrait": "487367",
+			"quantity": "16",
+			"skills": [],
+			"stats": {
+				"AG": "3",
+				"AV": "8",
+				"MA": "6",
+				"ST": "3"
+			},
+			"title": "Khorne Cultist"
+		},
+		{
+			"cost": "100000",
+			"doubleSkills": [
+				"A",
+				"P"
+			],
+			"gender": "male",
+			"iconLetter": "Ble",
+			"id": "3705",
+			"normalSkills": [
+				"G",
+				"S"
+			],
+			"portrait": "487369",
+			"quantity": "6",
+			"skills": [
+				"Frenzy",
+				"Claw",
+				"Blood Lust",
+				"No Hands",
+				"Regeneration"
+			],
+			"stats": {
+				"AG": "3",
+				"AV": "8",
+				"MA": "6",
+				"ST": "4"
+			},
+			"title": "Bloodletter"
+		},
+		{
+			"cost": "200000",
+			"doubleSkills": [
+				"G",
+				"A",
+				"P"
+			],
+			"gender": "neutral",
+			"iconLetter": "Blo",
+			"id": "3712",
+			"normalSkills": [
+				"S"
+			],
+			"portrait": "487371",
+			"quantity": "1",
+			"skills": [
+				"Frenzy",
+				"Mighty Blow",
+				"Thick Skull",
+				"Claw",
+				"Blood Lust",
+				"Loner",
+				"No Hands",
+				"Regeneration",
+				"Wild Animal"
+			],
+			"stats": {
+				"AG": "3",
+				"AV": "9",
+				"MA": "5",
+				"ST": "7"
+			},
+			"title": "Bloodthirster"
+		}
+	],
+	"raisePosition": null,
+	"rerollCost": "70000",
+	"stars": [
+		{
+			"id": "3005",
+			"name": "Brick Far'th"
+		},
+		{
+			"id": "3006",
+			"name": "Grotty"
+		},
+		{
+			"id": "3018",
+			"name": "Grashnak Blackhoof"
+		},
+		{
+			"id": "3034",
+			"name": "Lewdgrip Whiparm"
+		},
+		{
+			"id": "3035",
+			"name": "Lord Borak the Despoiler"
+		},
+		{
+			"id": "3037",
+			"name": "Max Spleenripper"
+		},
+		{
+			"id": "3039",
+			"name": "Morg 'n' Thorg"
+		}
+	],
+	"stats": {
+		"finesse": "2",
+		"physique": "6",
+		"versatility": "1"
+	},
+	"undead": "No"
+}

@@ -1,0 +1,136 @@
+{
+	"apothecary": "Yes",
+	"id": "415",
+	"info": "Difficulty: HARD\n Very fast, very versatile, potentially a very strong team, but lacking in basic skills at the start will make their early life very tough.",
+	"logos": {
+		"128": "492596",
+		"192": "492597",
+		"32": "492601",
+		"48": "492600",
+		"64": "492599",
+		"96": "492598"
+	},
+	"name": "Were",
+	"necromancer": "No",
+	"ownerRuleset": "69",
+	"playable": "true",
+	"positions": [
+		{
+			"cost": "50000",
+			"doubleSkills": [
+				"S",
+				"P"
+			],
+			"gender": "male",
+			"iconLetter": "L",
+			"id": "4100",
+			"normalSkills": [
+				"G",
+				"A"
+			],
+			"portrait": "488069",
+			"quantity": "16",
+			"skills": [
+				"Jump Up"
+			],
+			"stats": {
+				"AG": "4",
+				"AV": "7",
+				"MA": "7",
+				"ST": "2"
+			},
+			"title": "Werecat"
+		},
+		{
+			"cost": "120000",
+			"doubleSkills": [
+				"S",
+				"P"
+			],
+			"gender": "male",
+			"iconLetter": "WW",
+			"id": "4102",
+			"normalSkills": [
+				"G",
+				"A"
+			],
+			"portrait": "488073",
+			"quantity": "4",
+			"skills": [
+				"Claw",
+				"Frenzy",
+				"Regeneration"
+			],
+			"stats": {
+				"AG": "3",
+				"AV": "8",
+				"MA": "8",
+				"ST": "3"
+			},
+			"title": "Werewolf"
+		},
+		{
+			"cost": "110000",
+			"doubleSkills": [
+				"G",
+				"A",
+				"P"
+			],
+			"gender": "male",
+			"iconLetter": "Bg",
+			"id": "4103",
+			"normalSkills": [
+				"S"
+			],
+			"portrait": "488078",
+			"quantity": "2",
+			"skills": [
+				"Really Stupid",
+				"Mighty Blow",
+				"Grab",
+				"Thick Skull"
+			],
+			"stats": {
+				"AG": "1",
+				"AV": "8",
+				"MA": "4",
+				"ST": "5"
+			},
+			"title": "Werebear"
+		}
+	],
+	"raisePosition": null,
+	"rerollCost": "60000",
+	"stars": [
+		{
+			"id": "3009",
+			"name": "Count Luthor Von Drakenborg"
+		},
+		{
+			"id": "3021",
+			"name": "Hack Enslash"
+		},
+		{
+			"id": "3032",
+			"name": "J Earlice"
+		},
+		{
+			"id": "3045",
+			"name": "Ramtut III"
+		},
+		{
+			"id": "3050",
+			"name": "Setekh"
+		},
+		{
+			"id": "3057",
+			"name": "Wilhelm Chaney"
+		}
+	],
+	"stats": {
+		"finesse": "6",
+		"physique": "3",
+		"versatility": "5"
+	},
+	"undead": "Yes"
+}

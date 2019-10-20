@@ -1,0 +1,228 @@
+{
+	"apothecary": "No",
+	"id": "3138",
+	"info": "Difficulty: HARD\nYou have a nice mix of players at your disposal with different strengths, but your linemen are slow, and the vampires do not trust each other, so very careful planning and a load of re-rolls are recommended. ",
+	"logos": {
+		"128": "596907",
+		"192": "596906",
+		"32": "596902",
+		"48": "596904",
+		"64": "596903",
+		"96": "596905"
+	},
+	"name": "Sylvania Pact",
+	"necromancer": "No",
+	"ownerRuleset": "69",
+	"playable": "true",
+	"positions": [
+		{
+			"cost": "40000",
+			"doubleSkills": [
+				"A",
+				"S",
+				"P"
+			],
+			"gender": "male",
+			"iconLetter": "L",
+			"id": "23026",
+			"normalSkills": [
+				"G"
+			],
+			"portrait": "596909",
+			"quantity": "16",
+			"skills": [
+				"Thick Skull"
+			],
+			"stats": {
+				"AG": "3",
+				"AV": "7",
+				"MA": "5",
+				"ST": "3"
+			},
+			"title": "Dreg"
+		},
+		{
+			"cost": "100000",
+			"doubleSkills": [
+				"A",
+				"P"
+			],
+			"gender": "male",
+			"iconLetter": "BD",
+			"id": "23027",
+			"normalSkills": [
+				"G",
+				"S"
+			],
+			"portrait": "596910",
+			"quantity": "1",
+			"skills": [
+				"Mighty Blow",
+				"Blood Lust",
+				"Hypnotic Gaze",
+				"Regeneration",
+				"Animosity"
+			],
+			"stats": {
+				"AG": "3",
+				"AV": "9",
+				"MA": "6",
+				"ST": "4"
+			},
+			"title": "Blood Dragon Vampire"
+		},
+		{
+			"cost": "100000",
+			"doubleSkills": [
+				"P"
+			],
+			"gender": "female",
+			"iconLetter": "LV",
+			"id": "23028",
+			"normalSkills": [
+				"G",
+				"A",
+				"S"
+			],
+			"portrait": "596912",
+			"quantity": "1",
+			"skills": [
+				"Dodge",
+				"Blood Lust",
+				"Hypnotic Gaze",
+				"Regeneration",
+				"Animosity"
+			],
+			"stats": {
+				"AG": "4",
+				"AV": "8",
+				"MA": "7",
+				"ST": "3"
+			},
+			"title": "Lahmian Vampire"
+		},
+		{
+			"cost": "110000",
+			"doubleSkills": [
+				"P"
+			],
+			"gender": "male",
+			"iconLetter": "NV",
+			"id": "23029",
+			"normalSkills": [
+				"G",
+				"A",
+				"S"
+			],
+			"portrait": "596914",
+			"quantity": "1",
+			"skills": [
+				"Foul Appearance",
+				"Hypnotic Gaze",
+				"Regeneration",
+				"Animosity"
+			],
+			"stats": {
+				"AG": "4",
+				"AV": "8",
+				"MA": "6",
+				"ST": "3"
+			},
+			"title": "Necrarch Vampire"
+		},
+		{
+			"cost": "100000",
+			"doubleSkills": [
+				"A",
+				"P"
+			],
+			"gender": "male",
+			"iconLetter": "SV",
+			"id": "23030",
+			"normalSkills": [
+				"G",
+				"S"
+			],
+			"portrait": "596916",
+			"quantity": "1",
+			"skills": [
+				"Claw",
+				"Blood Lust",
+				"Hypnotic Gaze",
+				"Regeneration",
+				"Animosity"
+			],
+			"stats": {
+				"AG": "3",
+				"AV": "8",
+				"MA": "6",
+				"ST": "4"
+			},
+			"title": "Strigoi Vampire"
+		},
+		{
+			"cost": "120000",
+			"doubleSkills": [
+				"P"
+			],
+			"gender": "male",
+			"iconLetter": "Von",
+			"id": "23031",
+			"normalSkills": [
+				"G",
+				"A",
+				"S"
+			],
+			"portrait": "596918",
+			"quantity": "1",
+			"skills": [
+				"Pro",
+				"Blood Lust",
+				"Hypnotic Gaze",
+				"Regeneration",
+				"Animosity"
+			],
+			"stats": {
+				"AG": "4",
+				"AV": "8",
+				"MA": "6",
+				"ST": "4"
+			},
+			"title": "Von Carstein Vampire"
+		}
+	],
+	"raisePosition": null,
+	"rerollCost": "70000",
+	"stars": [
+		{
+			"id": "3009",
+			"name": "Count Luthor Von Drakenborg"
+		},
+		{
+			"id": "3010",
+			"name": "Crazy Igor"
+		},
+		{
+			"id": "3024",
+			"name": "Helmut Wulf"
+		},
+		{
+			"id": "3032",
+			"name": "J Earlice"
+		},
+		{
+			"id": "3039",
+			"name": "Morg 'n' Thorg"
+		},
+		{
+			"id": "3057",
+			"name": "Wilhelm Chaney"
+		}
+	],
+	"stats": {
+		"finesse": "4",
+		"physique": "5",
+		"versatility": "5"
+	},
+	"undead": "Yes"
+}

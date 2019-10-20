@@ -1,0 +1,38 @@
+{
+	"cost": 170000,
+	"doubleSkills": [
+		"G",
+		"A",
+		"S",
+		"P"
+	],
+	"gender": "male",
+	"icon": 582801,
+	"iconLetter": "WD",
+	"id": "20140",
+	"name": "Withergrasp Doubledrool",
+	"normalSkills": [],
+	"portrait": 582800,
+	"quantity": 1,
+	"race": "",
+	"roster": 67,
+	"secretweapon": "0",
+	"skills": [
+		"Tackle",
+		"Wrestle",
+		"Prehensile Tail",
+		"Tentacles",
+		"Two Heads",
+		"Loner"
+	],
+	"stats": {
+		"AG": 3,
+		"AV": 8,
+		"MA": 6,
+		"ST": 3
+	},
+	"thrall": "false",
+	"title": "Withergrasp Doubledrool",
+	"type": "star",
+	"undead": "false"
+}

@@ -1,0 +1,36 @@
+{
+	"cost": 110000,
+	"doubleSkills": [
+		"S",
+		"P"
+	],
+	"gender": "female",
+	"icon": 488087,
+	"iconLetter": "W",
+	"id": "4105",
+	"name": "Witch Elf",
+	"normalSkills": [
+		"G",
+		"A"
+	],
+	"portrait": 488086,
+	"quantity": 8,
+	"race": null,
+	"roster": 416,
+	"secretweapon": "0",
+	"skills": [
+		"Frenzy",
+		"Dodge",
+		"Jump Up"
+	],
+	"stats": {
+		"AG": 4,
+		"AV": 7,
+		"MA": 7,
+		"ST": 3
+	},
+	"thrall": "false",
+	"title": "Witch Elf",
+	"type": "normal",
+	"undead": "false"
+}

@@ -1,0 +1,38 @@
+{
+	"cost": 300000,
+	"doubleSkills": [
+		"G",
+		"A",
+		"S",
+		"P"
+	],
+	"gender": "male",
+	"icon": 596382,
+	"iconLetter": "MH",
+	"id": "22979",
+	"name": "Maple Highgrove",
+	"normalSkills": [],
+	"portrait": 596391,
+	"quantity": 1,
+	"race": null,
+	"roster": 67,
+	"secretweapon": "0",
+	"skills": [
+		"Grab",
+		"Mighty Blow",
+		"Stand Firm",
+		"Thick Skull",
+		"Tentacles",
+		"Loner"
+	],
+	"stats": {
+		"AG": 1,
+		"AV": 10,
+		"MA": 3,
+		"ST": 5
+	},
+	"thrall": "false",
+	"title": "Maple Highgrove",
+	"type": "star",
+	"undead": "false"
+}

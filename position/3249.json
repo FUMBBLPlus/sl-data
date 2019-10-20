@@ -1,0 +1,34 @@
+{
+	"cost": 100000,
+	"doubleSkills": [
+		"S",
+		"P"
+	],
+	"gender": "neutral",
+	"icon": 486429,
+	"iconLetter": "Sh",
+	"id": "3249",
+	"name": "Sheikh",
+	"normalSkills": [
+		"G",
+		"A"
+	],
+	"portrait": 486428,
+	"quantity": 1,
+	"race": null,
+	"roster": 206,
+	"secretweapon": "0",
+	"skills": [
+		"Leader"
+	],
+	"stats": {
+		"AG": 4,
+		"AV": 7,
+		"MA": 7,
+		"ST": 3
+	},
+	"thrall": "false",
+	"title": "Sheikh",
+	"type": "normal",
+	"undead": "false"
+}

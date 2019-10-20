@@ -1,0 +1,32 @@
+{
+	"cost": 270000,
+	"doubleSkills": [],
+	"gender": "male",
+	"icon": 436480,
+	"iconLetter": "Ri",
+	"id": "3047",
+	"name": "Ripper Bolgrot",
+	"normalSkills": [],
+	"portrait": 332771,
+	"quantity": 1,
+	"race": null,
+	"roster": 67,
+	"secretweapon": "0",
+	"skills": [
+		"Grab",
+		"Mighty Blow",
+		"Loner",
+		"Regeneration",
+		"Throw Team-Mate"
+	],
+	"stats": {
+		"AG": 1,
+		"AV": 9,
+		"MA": 4,
+		"ST": 6
+	},
+	"thrall": "false",
+	"title": "Ripper Bolgrot",
+	"type": "star",
+	"undead": "false"
+}

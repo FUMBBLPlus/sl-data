@@ -1,0 +1,31 @@
+{
+	"cost": 110000,
+	"doubleSkills": [],
+	"gender": "male",
+	"icon": 436458,
+	"iconLetter": "HW",
+	"id": "3024",
+	"name": "Helmut Wulf",
+	"normalSkills": [],
+	"portrait": 332797,
+	"quantity": 1,
+	"race": null,
+	"roster": 67,
+	"secretweapon": "0",
+	"skills": [
+		"Stand Firm",
+		"Chainsaw",
+		"Loner",
+		"Secret Weapon"
+	],
+	"stats": {
+		"AG": 3,
+		"AV": 8,
+		"MA": 6,
+		"ST": 3
+	},
+	"thrall": "false",
+	"title": "Helmut Wulf",
+	"type": "star",
+	"undead": "false"
+}

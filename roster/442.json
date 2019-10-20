@@ -1,0 +1,263 @@
+{
+	"apothecary": "Yes",
+	"id": "442",
+	"info": "Difficulty: VERY HARD \nOgre Kingdom teams are brutal, but unreliable. Similar to Ogres, but aided by Gnoblars instead of Snotlings. ",
+	"logos": {
+		"128": "492686",
+		"192": "492687",
+		"32": "492691",
+		"48": "492690",
+		"64": "492689",
+		"96": "492688"
+	},
+	"name": "Ogre Kingdom",
+	"necromancer": "No",
+	"ownerRuleset": "69",
+	"playable": "true",
+	"positions": [
+		{
+			"cost": "30000",
+			"doubleSkills": [
+				"G",
+				"S",
+				"P"
+			],
+			"gender": "neutral",
+			"iconLetter": "Gn",
+			"id": "4247",
+			"normalSkills": [
+				"A"
+			],
+			"portrait": "488396",
+			"quantity": "16",
+			"skills": [
+				"Dodge",
+				"Right Stuff",
+				"Stunty"
+			],
+			"stats": {
+				"AG": "3",
+				"AV": "6",
+				"MA": "6",
+				"ST": "2"
+			},
+			"title": "Gnoblar"
+		},
+		{
+			"cost": "40000",
+			"doubleSkills": [
+				"G",
+				"S",
+				"P"
+			],
+			"gender": "neutral",
+			"iconLetter": "Tr",
+			"id": "4249",
+			"normalSkills": [
+				"A"
+			],
+			"portrait": "488398",
+			"quantity": "0",
+			"skills": [
+				"Dodge",
+				"Prehensile Tail",
+				"Right Stuff",
+				"Stunty"
+			],
+			"stats": {
+				"AG": "3",
+				"AV": "7",
+				"MA": "6",
+				"ST": "2"
+			},
+			"title": "Trapper"
+		},
+		{
+			"cost": "140000",
+			"doubleSkills": [
+				"G",
+				"A",
+				"P"
+			],
+			"gender": "male",
+			"iconLetter": "Yh",
+			"id": "4251",
+			"normalSkills": [
+				"S"
+			],
+			"portrait": "488400",
+			"quantity": "1",
+			"skills": [
+				"Frenzy",
+				"Claw",
+				"Disturbing Presence",
+				"Wild Animal"
+			],
+			"stats": {
+				"AG": "1",
+				"AV": "8",
+				"MA": "5",
+				"ST": "5"
+			},
+			"title": "Yheti"
+		},
+		{
+			"cost": "150000",
+			"doubleSkills": [
+				"G",
+				"A",
+				"P"
+			],
+			"gender": "male",
+			"iconLetter": "Go",
+			"id": "4252",
+			"normalSkills": [
+				"S"
+			],
+			"portrait": "488402",
+			"quantity": "1",
+			"skills": [
+				"Frenzy",
+				"Mighty Blow",
+				"Thick Skull",
+				"Wild Animal"
+			],
+			"stats": {
+				"AG": "1",
+				"AV": "9",
+				"MA": "6",
+				"ST": "5"
+			},
+			"title": "Gorger"
+		},
+		{
+			"cost": "140000",
+			"doubleSkills": [
+				"A",
+				"P",
+				"G"
+			],
+			"gender": "male",
+			"iconLetter": "Ogr",
+			"id": "4253",
+			"normalSkills": [
+				"S"
+			],
+			"portrait": "488404",
+			"quantity": "2",
+			"skills": [
+				"Mighty Blow",
+				"Thick Skull",
+				"Bone-head",
+				"Throw Team-Mate"
+			],
+			"stats": {
+				"AG": "2",
+				"AV": "9",
+				"MA": "5",
+				"ST": "5"
+			},
+			"title": "Ogre"
+		},
+		{
+			"cost": "150000",
+			"doubleSkills": [
+				"G",
+				"A",
+				"P"
+			],
+			"gender": "male",
+			"iconLetter": "Bal",
+			"id": "18720",
+			"normalSkills": [
+				"S"
+			],
+			"portrait": null,
+			"quantity": "1",
+			"skills": [
+				"Mighty Blow",
+				"Strong Arm",
+				"Thick Skull",
+				"Hail Mary Pass",
+				"Bone-head",
+				"Throw Team-Mate"
+			],
+			"stats": {
+				"AG": "2",
+				"AV": "9",
+				"MA": "5",
+				"ST": "5"
+			},
+			"title": "Ballbelcher"
+		},
+		{
+			"cost": "120000",
+			"doubleSkills": [
+				"G",
+				"A",
+				"P"
+			],
+			"gender": "male",
+			"iconLetter": "Fire",
+			"id": "18721",
+			"normalSkills": [
+				"S"
+			],
+			"portrait": null,
+			"quantity": "1",
+			"skills": [
+				"Mighty Blow",
+				"Thick Skull",
+				"Bombardier",
+				"Bone-head",
+				"Secret Weapon",
+				"Throw Team-Mate"
+			],
+			"stats": {
+				"AG": "2",
+				"AV": "9",
+				"MA": "5",
+				"ST": "5"
+			},
+			"title": "Fire Belly"
+		}
+	],
+	"raisePosition": null,
+	"rerollCost": "70000",
+	"stars": [
+		{
+			"id": "3004",
+			"name": "Bertha Bigfist"
+		},
+		{
+			"id": "3005",
+			"name": "Brick Far'th"
+		},
+		{
+			"id": "3006",
+			"name": "Grotty"
+		},
+		{
+			"id": "3007",
+			"name": "Bomber Dribblesnot"
+		},
+		{
+			"id": "3039",
+			"name": "Morg 'n' Thorg"
+		},
+		{
+			"id": "3040",
+			"name": "Nobbla Blackwart"
+		},
+		{
+			"id": "3049",
+			"name": "Scrappa Sorehead"
+		}
+	],
+	"stats": {
+		"finesse": "1",
+		"physique": "5",
+		"versatility": "2"
+	},
+	"undead": "No"
+}

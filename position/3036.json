@@ -1,0 +1,35 @@
+{
+	"cost": 220000,
+	"doubleSkills": [],
+	"gender": "male",
+	"icon": 440131,
+	"iconLetter": "Lo",
+	"id": "3036",
+	"name": "Lottabottol",
+	"normalSkills": [],
+	"portrait": 332781,
+	"quantity": 1,
+	"race": null,
+	"roster": 67,
+	"secretweapon": "0",
+	"skills": [
+		"Pass Block",
+		"Shadowing",
+		"Catch",
+		"Diving Tackle",
+		"Jump Up",
+		"Leap",
+		"Very Long Legs",
+		"Loner"
+	],
+	"stats": {
+		"AG": 3,
+		"AV": 8,
+		"MA": 8,
+		"ST": 3
+	},
+	"thrall": "false",
+	"title": "Lottabottol",
+	"type": "star",
+	"undead": "false"
+}

@@ -1,0 +1,166 @@
+{
+	"apothecary": "No",
+	"id": "373",
+	"info": "Difficulty: VERY HARD\nTough, powerful but terrible ball handling - Rasetra gets the best and worst of the Lizardmen and Khemri traits for a uniquely challenging team.",
+	"logos": {
+		"128": "492421",
+		"192": "492422",
+		"32": "492424",
+		"48": "492425",
+		"64": "492426",
+		"96": "492423"
+	},
+	"name": "Rasetra",
+	"necromancer": "No",
+	"ownerRuleset": "69",
+	"playable": "true",
+	"positions": [
+		{
+			"cost": "40000",
+			"doubleSkills": [
+				"A",
+				"S",
+				"P"
+			],
+			"gender": "male",
+			"iconLetter": "L",
+			"id": "3936",
+			"normalSkills": [
+				"G"
+			],
+			"portrait": "487544",
+			"quantity": "16",
+			"skills": [
+				"Thick Skull",
+				"Regeneration"
+			],
+			"stats": {
+				"AG": "2",
+				"AV": "7",
+				"MA": "5",
+				"ST": "3"
+			},
+			"title": "Skeleton"
+		},
+		{
+			"cost": "120000",
+			"doubleSkills": [
+				"A"
+			],
+			"gender": "male",
+			"iconLetter": "Th",
+			"id": "3938",
+			"normalSkills": [
+				"G",
+				"S",
+				"P"
+			],
+			"portrait": null,
+			"quantity": "2",
+			"skills": [
+				"Sure Hands",
+				"Pass",
+				"Regeneration"
+			],
+			"stats": {
+				"AG": "1",
+				"AV": "8",
+				"MA": "6",
+				"ST": "4"
+			},
+			"title": "Saurus Throw-Ra"
+		},
+		{
+			"cost": "100000",
+			"doubleSkills": [
+				"A",
+				"P"
+			],
+			"gender": "male",
+			"iconLetter": "SS",
+			"id": "3939",
+			"normalSkills": [
+				"G",
+				"S"
+			],
+			"portrait": null,
+			"quantity": "2",
+			"skills": [
+				"Thick Skull",
+				"Regeneration"
+			],
+			"stats": {
+				"AG": "1",
+				"AV": "8",
+				"MA": "5",
+				"ST": "4"
+			},
+			"title": "Saurus Skeleton"
+		},
+		{
+			"cost": "140000",
+			"doubleSkills": [
+				"G",
+				"A",
+				"P"
+			],
+			"gender": "male",
+			"iconLetter": "Bg",
+			"id": "3940",
+			"normalSkills": [
+				"S"
+			],
+			"portrait": null,
+			"quantity": "2",
+			"skills": [
+				"Mighty Blow",
+				"Thick Skull",
+				"Prehensile Tail",
+				"Bone-head",
+				"Loner",
+				"Regeneration"
+			],
+			"stats": {
+				"AG": "1",
+				"AV": "8",
+				"MA": "5",
+				"ST": "5"
+			},
+			"title": "Kroq-Ra"
+		}
+	],
+	"raisePosition": null,
+	"rerollCost": "60000",
+	"stars": [
+		{
+			"id": "3021",
+			"name": "Hack Enslash"
+		},
+		{
+			"id": "3029",
+			"name": "Humerus Carpal"
+		},
+		{
+			"id": "3031",
+			"name": "Ithaca Benoin"
+		},
+		{
+			"id": "3045",
+			"name": "Ramtut III"
+		},
+		{
+			"id": "3050",
+			"name": "Setekh"
+		},
+		{
+			"id": "3052",
+			"name": "Sinnedbad"
+		}
+	],
+	"stats": {
+		"finesse": "1",
+		"physique": "5",
+		"versatility": "1"
+	},
+	"undead": "Yes"
+}

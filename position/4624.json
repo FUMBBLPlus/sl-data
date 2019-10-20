@@ -1,0 +1,37 @@
+{
+	"cost": 30000,
+	"doubleSkills": [
+		"G",
+		"S",
+		"P"
+	],
+	"gender": "male",
+	"icon": 489315,
+	"iconLetter": "Hlf",
+	"id": "4624",
+	"name": "Halfling",
+	"normalSkills": [
+		"A"
+	],
+	"portrait": 489316,
+	"quantity": 1,
+	"race": "Halfling",
+	"roster": 486,
+	"secretweapon": "0",
+	"skills": [
+		"Dodge",
+		"Right Stuff",
+		"Stunty",
+		"Animosity"
+	],
+	"stats": {
+		"AG": 3,
+		"AV": 6,
+		"MA": 5,
+		"ST": 2
+	},
+	"thrall": "false",
+	"title": "Halfling",
+	"type": "normal",
+	"undead": "false"
+}

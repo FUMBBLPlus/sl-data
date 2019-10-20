@@ -1,0 +1,105 @@
+{
+	"apothecary": "Yes",
+	"id": "2509",
+	"info": "DIFFICULTY: HARD\nThe Sharkmen of Stromfels are fearsome killers, capable of biting the head clean off a Sea Elf. Sadly for their team mates if their blood lust takes hold they are equally capable of ripping their team mates to shreds.",
+	"logos": {
+		"128": "573290",
+		"192": "573289",
+		"32": "573288",
+		"48": "573287",
+		"64": "573286",
+		"96": "573291"
+	},
+	"name": "Sons of Stromfels",
+	"necromancer": "No",
+	"ownerRuleset": "69",
+	"playable": "true",
+	"positions": [
+		{
+			"cost": "40000",
+			"doubleSkills": [
+				"A",
+				"S",
+				"P"
+			],
+			"gender": "male",
+			"iconLetter": "L",
+			"id": "18710",
+			"normalSkills": [
+				"G"
+			],
+			"portrait": "573292",
+			"quantity": "16",
+			"skills": [],
+			"stats": {
+				"AG": "3",
+				"AV": "7",
+				"MA": "6",
+				"ST": "3"
+			},
+			"title": "Pirate Cultist"
+		},
+		{
+			"cost": "110000",
+			"doubleSkills": [
+				"A",
+				"P",
+				"G"
+			],
+			"gender": "male",
+			"iconLetter": "SoS",
+			"id": "18711",
+			"normalSkills": [
+				"S"
+			],
+			"portrait": "596068",
+			"quantity": "4",
+			"skills": [
+				"Frenzy",
+				"Claw",
+				"Blood Lust"
+			],
+			"stats": {
+				"AG": "2",
+				"AV": "9",
+				"MA": "4",
+				"ST": "5"
+			},
+			"title": "Sons of Stromfel"
+		}
+	],
+	"raisePosition": null,
+	"rerollCost": "70000",
+	"stars": [
+		{
+			"id": "3008",
+			"name": "Boomer Eziasson"
+		},
+		{
+			"id": "3024",
+			"name": "Helmut Wulf"
+		},
+		{
+			"id": "3030",
+			"name": "Icepelt Hammerblow"
+		},
+		{
+			"id": "3039",
+			"name": "Morg 'n' Thorg"
+		},
+		{
+			"id": "3057",
+			"name": "Wilhelm Chaney"
+		},
+		{
+			"id": "3059",
+			"name": "Zara the Slayer"
+		}
+	],
+	"stats": {
+		"finesse": "2",
+		"physique": "5",
+		"versatility": "2"
+	},
+	"undead": "No"
+}

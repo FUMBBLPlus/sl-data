@@ -1,0 +1,32 @@
+{
+	"cost": 70000,
+	"doubleSkills": [
+		"S",
+		"P"
+	],
+	"gender": "male",
+	"icon": 596869,
+	"iconLetter": "L",
+	"id": "23015",
+	"name": "Black Ark Corsair",
+	"normalSkills": [
+		"G",
+		"A"
+	],
+	"portrait": 596870,
+	"quantity": 16,
+	"race": null,
+	"roster": 3135,
+	"secretweapon": "0",
+	"skills": [],
+	"stats": {
+		"AG": 4,
+		"AV": 7,
+		"MA": 7,
+		"ST": 3
+	},
+	"thrall": "false",
+	"title": "Black Ark Corsair",
+	"type": "normal",
+	"undead": "false"
+}

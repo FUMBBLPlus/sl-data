@@ -1,0 +1,42 @@
+{
+	"cost": 200000,
+	"doubleSkills": [
+		"G",
+		"A",
+		"P"
+	],
+	"gender": "neutral",
+	"icon": 487370,
+	"iconLetter": "Blo",
+	"id": "3712",
+	"name": "Bloodthirster",
+	"normalSkills": [
+		"S"
+	],
+	"portrait": 487371,
+	"quantity": 1,
+	"race": null,
+	"roster": 306,
+	"secretweapon": "0",
+	"skills": [
+		"Frenzy",
+		"Mighty Blow",
+		"Thick Skull",
+		"Claw",
+		"Blood Lust",
+		"Loner",
+		"No Hands",
+		"Regeneration",
+		"Wild Animal"
+	],
+	"stats": {
+		"AG": 3,
+		"AV": 9,
+		"MA": 5,
+		"ST": 7
+	},
+	"thrall": "false",
+	"title": "Bloodthirster",
+	"type": "normal",
+	"undead": "false"
+}

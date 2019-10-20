@@ -1,0 +1,33 @@
+{
+	"cost": 80000,
+	"doubleSkills": [],
+	"gender": "male",
+	"icon": 436450,
+	"iconLetter": "FL",
+	"id": "3016",
+	"name": "Fungus the Loon",
+	"normalSkills": [],
+	"portrait": 332801,
+	"quantity": 1,
+	"race": null,
+	"roster": 67,
+	"secretweapon": "0",
+	"skills": [
+		"Mighty Blow",
+		"Ball & Chain",
+		"Loner",
+		"No Hands",
+		"Secret Weapon",
+		"Stunty"
+	],
+	"stats": {
+		"AG": 3,
+		"AV": 7,
+		"MA": 4,
+		"ST": 7
+	},
+	"thrall": "false",
+	"title": "Fungus the Loon",
+	"type": "star",
+	"undead": "false"
+}

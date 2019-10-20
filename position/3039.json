@@ -1,0 +1,32 @@
+{
+	"cost": 430000,
+	"doubleSkills": [],
+	"gender": "male",
+	"icon": 436473,
+	"iconLetter": "MT",
+	"id": "3039",
+	"name": "Morg 'n' Thorg",
+	"normalSkills": [],
+	"portrait": 332759,
+	"quantity": 1,
+	"race": "Ogre",
+	"roster": 67,
+	"secretweapon": "0",
+	"skills": [
+		"Block",
+		"Mighty Blow",
+		"Thick Skull",
+		"Loner",
+		"Throw Team-Mate"
+	],
+	"stats": {
+		"AG": 3,
+		"AV": 10,
+		"MA": 6,
+		"ST": 6
+	},
+	"thrall": "false",
+	"title": "Morg 'n' Thorg",
+	"type": "star",
+	"undead": "false"
+}

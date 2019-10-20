@@ -1,0 +1,36 @@
+{
+	"cost": 80000,
+	"doubleSkills": [
+		"G",
+		"A",
+		"P"
+	],
+	"gender": "male",
+	"icon": 534911,
+	"iconLetter": "Ds",
+	"id": "4152",
+	"name": "Doom Seeker",
+	"normalSkills": [
+		"S"
+	],
+	"portrait": 488226,
+	"quantity": 1,
+	"race": null,
+	"roster": 425,
+	"secretweapon": "0",
+	"skills": [
+		"Ball & Chain",
+		"No Hands",
+		"Secret Weapon"
+	],
+	"stats": {
+		"AG": 1,
+		"AV": 8,
+		"MA": 4,
+		"ST": 7
+	},
+	"thrall": "false",
+	"title": "Doom Seeker",
+	"type": "normal",
+	"undead": "false"
+}

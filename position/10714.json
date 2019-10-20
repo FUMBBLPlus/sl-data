@@ -1,0 +1,35 @@
+{
+	"cost": 80000,
+	"doubleSkills": [
+		"A",
+		"P"
+	],
+	"gender": "female",
+	"icon": 523700,
+	"iconLetter": "SS",
+	"id": "10714",
+	"name": "Sister Superior",
+	"normalSkills": [
+		"G",
+		"S"
+	],
+	"portrait": 0,
+	"quantity": 4,
+	"race": null,
+	"roster": 1398,
+	"secretweapon": "0",
+	"skills": [
+		"Block",
+		"Stand Firm"
+	],
+	"stats": {
+		"AG": 3,
+		"AV": 9,
+		"MA": 5,
+		"ST": 3
+	},
+	"thrall": "false",
+	"title": "Sister Superior",
+	"type": "normal",
+	"undead": "false"
+}

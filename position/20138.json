@@ -1,0 +1,40 @@
+{
+	"cost": 230000,
+	"doubleSkills": [
+		"G",
+		"A",
+		"S",
+		"P"
+	],
+	"gender": "male",
+	"icon": 582797,
+	"iconLetter": "GG",
+	"id": "20138",
+	"name": "Gobbler Grimlich",
+	"normalSkills": [],
+	"portrait": 582796,
+	"quantity": 1,
+	"race": "",
+	"roster": 67,
+	"secretweapon": "0",
+	"skills": [
+		"Leap",
+		"Big Hand",
+		"Disturbing Presence",
+		"Tentacles",
+		"Very Long Legs",
+		"Loner",
+		"Regeneration",
+		"Monstrous Mouth"
+	],
+	"stats": {
+		"AG": 2,
+		"AV": 9,
+		"MA": 5,
+		"ST": 4
+	},
+	"thrall": "false",
+	"title": "Gobbler Grimlich",
+	"type": "star",
+	"undead": "false"
+}

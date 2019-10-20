@@ -1,0 +1,33 @@
+{
+	"cost": 260000,
+	"doubleSkills": [],
+	"gender": "male",
+	"icon": 436462,
+	"iconLetter": "HR",
+	"id": "3028",
+	"name": "Hubris Rakarth",
+	"normalSkills": [],
+	"portrait": 332773,
+	"quantity": 1,
+	"race": null,
+	"roster": 67,
+	"secretweapon": "0",
+	"skills": [
+		"Block",
+		"Dirty Player",
+		"Strip Ball",
+		"Jump Up",
+		"Mighty Blow",
+		"Loner"
+	],
+	"stats": {
+		"AG": 4,
+		"AV": 8,
+		"MA": 7,
+		"ST": 4
+	},
+	"thrall": "false",
+	"title": "Hubris Rakarth",
+	"type": "star",
+	"undead": "false"
+}

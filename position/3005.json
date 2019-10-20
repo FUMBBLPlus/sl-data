@@ -1,0 +1,35 @@
+{
+	"cost": 290000,
+	"doubleSkills": [],
+	"gender": "male",
+	"icon": 436439,
+	"iconLetter": "BF",
+	"id": "3005",
+	"name": "Brick Far'th",
+	"normalSkills": [],
+	"portrait": 332769,
+	"quantity": 1,
+	"race": null,
+	"roster": 67,
+	"secretweapon": "0",
+	"skills": [
+		"Mighty Blow",
+		"Strong Arm",
+		"Thick Skull",
+		"Nerves Of Steel",
+		"Bone-head",
+		"Loner",
+		"Throw Team-Mate"
+	],
+	"stats": {
+		"AG": 2,
+		"AV": 9,
+		"MA": 5,
+		"ST": 5
+	},
+	"teamWith": 3006,
+	"thrall": "false",
+	"title": "Brick Far'th",
+	"type": "star",
+	"undead": "false"
+}

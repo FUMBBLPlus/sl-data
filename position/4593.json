@@ -1,0 +1,42 @@
+{
+	"cost": 160000,
+	"doubleSkills": [
+		"G",
+		"A",
+		"P"
+	],
+	"gender": "neutral",
+	"icon": 489199,
+	"iconLetter": "DD",
+	"id": "4593",
+	"name": "Dwarf Deathroller",
+	"normalSkills": [
+		"S"
+	],
+	"portrait": 489200,
+	"quantity": 1,
+	"race": "Dwarf",
+	"roster": 486,
+	"secretweapon": "0",
+	"skills": [
+		"Dirty Player",
+		"Break Tackle",
+		"Juggernaut",
+		"Mighty Blow",
+		"Stand Firm",
+		"Loner",
+		"No Hands",
+		"Secret Weapon",
+		"Animosity"
+	],
+	"stats": {
+		"AG": 1,
+		"AV": 10,
+		"MA": 4,
+		"ST": 7
+	},
+	"thrall": "false",
+	"title": "Dwarf Deathroller",
+	"type": "normal",
+	"undead": "false"
+}

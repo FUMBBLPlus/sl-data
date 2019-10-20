@@ -1,0 +1,32 @@
+{
+	"cost": 250000,
+	"doubleSkills": [],
+	"gender": "male",
+	"icon": 450982,
+	"iconLetter": "Sl",
+	"id": "3051",
+	"name": "Slibli",
+	"normalSkills": [],
+	"portrait": 332777,
+	"quantity": 1,
+	"race": null,
+	"roster": 67,
+	"secretweapon": "0",
+	"skills": [
+		"Block",
+		"Grab",
+		"Guard",
+		"Stand Firm",
+		"Loner"
+	],
+	"stats": {
+		"AG": 1,
+		"AV": 9,
+		"MA": 7,
+		"ST": 4
+	},
+	"thrall": "false",
+	"title": "Slibli",
+	"type": "star",
+	"undead": "false"
+}

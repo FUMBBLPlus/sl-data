@@ -1,0 +1,191 @@
+{
+	"apothecary": "Yes",
+	"id": "1397",
+	"info": "DIFFICULTY: EASY - Valkries start off with a great selection of core skills but life does get more difficult for them when playing higher TV. Developing a Passing game plan can help, so stay versatile.",
+	"logos": {
+		"128": "523680",
+		"192": "523681",
+		"32": "523676",
+		"48": "523677",
+		"64": "523678",
+		"96": "523679"
+	},
+	"name": "Valkyrie",
+	"necromancer": "No",
+	"ownerRuleset": "69",
+	"playable": "true",
+	"positions": [
+		{
+			"cost": "50000",
+			"doubleSkills": [
+				"A",
+				"S",
+				"P"
+			],
+			"gender": "female",
+			"iconLetter": "L",
+			"id": "10706",
+			"normalSkills": [
+				"G"
+			],
+			"portrait": null,
+			"quantity": "16",
+			"skills": [
+				"Block"
+			],
+			"stats": {
+				"AG": "3",
+				"AV": "7",
+				"MA": "6",
+				"ST": "3"
+			},
+			"title": "Linewomen"
+		},
+		{
+			"cost": "70000",
+			"doubleSkills": [
+				"A",
+				"S"
+			],
+			"gender": "female",
+			"iconLetter": "Th",
+			"id": "10707",
+			"normalSkills": [
+				"G",
+				"P"
+			],
+			"portrait": null,
+			"quantity": "2",
+			"skills": [
+				"Block",
+				"Pass"
+			],
+			"stats": {
+				"AG": "3",
+				"AV": "7",
+				"MA": "6",
+				"ST": "3"
+			},
+			"title": "Thrower"
+		},
+		{
+			"cost": "70000",
+			"doubleSkills": [
+				"S",
+				"P"
+			],
+			"gender": "female",
+			"iconLetter": "C",
+			"id": "10708",
+			"normalSkills": [
+				"G",
+				"A"
+			],
+			"portrait": null,
+			"quantity": "2",
+			"skills": [
+				"Block",
+				"Catch"
+			],
+			"stats": {
+				"AG": "3",
+				"AV": "7",
+				"MA": "6",
+				"ST": "3"
+			},
+			"title": "Catcher"
+		},
+		{
+			"cost": "90000",
+			"doubleSkills": [
+				"A",
+				"P"
+			],
+			"gender": "female",
+			"iconLetter": "Bl",
+			"id": "10709",
+			"normalSkills": [
+				"G",
+				"S"
+			],
+			"portrait": null,
+			"quantity": "4",
+			"skills": [
+				"Block",
+				"Frenzy",
+				"Jump Up"
+			],
+			"stats": {
+				"AG": "3",
+				"AV": "7",
+				"MA": "6",
+				"ST": "3"
+			},
+			"title": "Blitzer"
+		},
+		{
+			"cost": "140000",
+			"doubleSkills": [
+				"G",
+				"A",
+				"P"
+			],
+			"gender": "female",
+			"iconLetter": "Bg",
+			"id": "10710",
+			"normalSkills": [
+				"S"
+			],
+			"portrait": "523686",
+			"quantity": "1",
+			"skills": [
+				"Mighty Blow",
+				"Thick Skull",
+				"Bone-head",
+				"Loner",
+				"Throw Team-Mate"
+			],
+			"stats": {
+				"AG": "2",
+				"AV": "9",
+				"MA": "5",
+				"ST": "5"
+			},
+			"title": "Ogress"
+		}
+	],
+	"raisePosition": null,
+	"rerollCost": "60000",
+	"stars": [
+		{
+			"id": "3008",
+			"name": "Boomer Eziasson"
+		},
+		{
+			"id": "3024",
+			"name": "Helmut Wulf"
+		},
+		{
+			"id": "3030",
+			"name": "Icepelt Hammerblow"
+		},
+		{
+			"id": "3039",
+			"name": "Morg 'n' Thorg"
+		},
+		{
+			"id": "3057",
+			"name": "Wilhelm Chaney"
+		},
+		{
+			"id": "3059",
+			"name": "Zara the Slayer"
+		}
+	],
+	"stats": {
+		"finesse": "4",
+		"physique": "4",
+		"versatility": "4"
+	},
+	"undead": "No"
+}

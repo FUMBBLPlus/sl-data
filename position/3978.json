@@ -1,0 +1,35 @@
+{
+	"cost": 90000,
+	"doubleSkills": [
+		"S",
+		"P"
+	],
+	"gender": "male",
+	"icon": 487736,
+	"iconLetter": "N",
+	"id": "3978",
+	"name": "Ninja",
+	"normalSkills": [
+		"G",
+		"A"
+	],
+	"portrait": 487735,
+	"quantity": 2,
+	"race": null,
+	"roster": 380,
+	"secretweapon": "0",
+	"skills": [
+		"Dodge",
+		"Leap"
+	],
+	"stats": {
+		"AG": 4,
+		"AV": 7,
+		"MA": 8,
+		"ST": 2
+	},
+	"thrall": "false",
+	"title": "Ninja",
+	"type": "normal",
+	"undead": "false"
+}

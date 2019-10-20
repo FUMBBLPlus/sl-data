@@ -1,0 +1,178 @@
+{
+	"apothecary": "No",
+	"id": "382",
+	"info": "Difficulty: MEDIUM\nDaemons of Tzeentch are powerful and good ball handlers, with unique tactical options at their disposal, though they are vulnerable to a good beating.",
+	"logos": {
+		"128": "492464",
+		"192": "492465",
+		"32": "492467",
+		"48": "492468",
+		"64": "492469",
+		"96": "492466"
+	},
+	"name": "Daemons of Tzeentch",
+	"necromancer": "No",
+	"ownerRuleset": "69",
+	"playable": "true",
+	"positions": [
+		{
+			"cost": "40000",
+			"doubleSkills": [
+				"G",
+				"S",
+				"P"
+			],
+			"gender": "neutral",
+			"iconLetter": "BH",
+			"id": "3983",
+			"normalSkills": [
+				"A",
+				"M"
+			],
+			"portrait": "487752",
+			"quantity": "16",
+			"skills": [
+				"Dodge",
+				"Big Hand",
+				"Right Stuff",
+				"Stunty"
+			],
+			"stats": {
+				"AG": "3",
+				"AV": "7",
+				"MA": "6",
+				"ST": "2"
+			},
+			"title": "Blue Horror"
+		},
+		{
+			"cost": "120000",
+			"doubleSkills": [
+				"A",
+				"P"
+			],
+			"gender": "neutral",
+			"iconLetter": "PH",
+			"id": "3985",
+			"normalSkills": [
+				"G",
+				"S",
+				"M"
+			],
+			"portrait": "495601",
+			"quantity": "4",
+			"skills": [
+				"Extra Arms",
+				"Regeneration",
+				"Throw Team-Mate"
+			],
+			"stats": {
+				"AG": "3",
+				"AV": "8",
+				"MA": "6",
+				"ST": "4"
+			},
+			"title": "Pink Horror"
+		},
+		{
+			"cost": "70000",
+			"doubleSkills": [
+				"G",
+				"S",
+				"P"
+			],
+			"gender": "neutral",
+			"iconLetter": "Fla",
+			"id": "3989",
+			"normalSkills": [
+				"A"
+			],
+			"portrait": "487764",
+			"quantity": "2",
+			"skills": [
+				"Bombardier",
+				"No Hands",
+				"Regeneration",
+				"Secret Weapon"
+			],
+			"stats": {
+				"AG": "4",
+				"AV": "8",
+				"MA": "7",
+				"ST": "3"
+			},
+			"title": "Flamer"
+		},
+		{
+			"cost": "200000",
+			"doubleSkills": [
+				"G",
+				"A",
+				"P"
+			],
+			"gender": "neutral",
+			"iconLetter": "LoC",
+			"id": "3991",
+			"normalSkills": [
+				"S",
+				"M"
+			],
+			"portrait": "487768",
+			"quantity": "1",
+			"skills": [
+				"Leap",
+				"Mighty Blow",
+				"Foul Appearance",
+				"Very Long Legs",
+				"Loner",
+				"Regeneration",
+				"Wild Animal"
+			],
+			"stats": {
+				"AG": "3",
+				"AV": "9",
+				"MA": "7",
+				"ST": "5"
+			},
+			"title": "Lord of Change"
+		}
+	],
+	"raisePosition": null,
+	"rerollCost": "70000",
+	"stars": [
+		{
+			"id": "3005",
+			"name": "Brick Far'th"
+		},
+		{
+			"id": "3006",
+			"name": "Grotty"
+		},
+		{
+			"id": "3018",
+			"name": "Grashnak Blackhoof"
+		},
+		{
+			"id": "3034",
+			"name": "Lewdgrip Whiparm"
+		},
+		{
+			"id": "3035",
+			"name": "Lord Borak the Despoiler"
+		},
+		{
+			"id": "3037",
+			"name": "Max Spleenripper"
+		},
+		{
+			"id": "3039",
+			"name": "Morg 'n' Thorg"
+		}
+	],
+	"stats": {
+		"finesse": "5",
+		"physique": "4",
+		"versatility": "4"
+	},
+	"undead": "No"
+}

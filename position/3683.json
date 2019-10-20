@@ -1,0 +1,35 @@
+{
+	"cost": 100000,
+	"doubleSkills": [
+		"A",
+		"P"
+	],
+	"gender": "male",
+	"icon": 491245,
+	"iconLetter": "KWa",
+	"id": "3683",
+	"name": "Khorne Warrior",
+	"normalSkills": [
+		"G",
+		"S",
+		"M"
+	],
+	"portrait": 487383,
+	"quantity": 4,
+	"race": null,
+	"roster": 304,
+	"secretweapon": "0",
+	"skills": [
+		"Frenzy"
+	],
+	"stats": {
+		"AG": 2,
+		"AV": 9,
+		"MA": 5,
+		"ST": 4
+	},
+	"thrall": "false",
+	"title": "Khorne Warrior",
+	"type": "normal",
+	"undead": "false"
+}

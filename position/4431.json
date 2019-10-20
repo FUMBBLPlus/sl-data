@@ -1,0 +1,38 @@
+{
+	"cost": 100000,
+	"doubleSkills": [
+		"S",
+		"P"
+	],
+	"gender": "neutral",
+	"icon": 592210,
+	"iconLetter": "Bhe",
+	"id": "4431",
+	"name": "Banshee",
+	"normalSkills": [
+		"G",
+		"A"
+	],
+	"portrait": 583612,
+	"quantity": 2,
+	"race": null,
+	"roster": 467,
+	"secretweapon": "0",
+	"skills": [
+		"Leap",
+		"Foul Appearance",
+		"Very Long Legs",
+		"Hypnotic Gaze",
+		"Regeneration"
+	],
+	"stats": {
+		"AG": 4,
+		"AV": 7,
+		"MA": 7,
+		"ST": 2
+	},
+	"thrall": "false",
+	"title": "Banshee",
+	"type": "normal",
+	"undead": "true"
+}

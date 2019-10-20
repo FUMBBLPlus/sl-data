@@ -1,0 +1,38 @@
+{
+	"cost": 360000,
+	"doubleSkills": [
+		"G",
+		"A",
+		"S",
+		"P"
+	],
+	"gender": "male",
+	"icon": 596638,
+	"iconLetter": "GS",
+	"id": "23010",
+	"name": "Glotl Stop",
+	"normalSkills": [],
+	"portrait": 596637,
+	"quantity": 1,
+	"race": null,
+	"roster": 67,
+	"secretweapon": "0",
+	"skills": [
+		"Frenzy",
+		"Mighty Blow",
+		"Thick Skull",
+		"Prehensile Tail",
+		"Loner",
+		"Wild Animal"
+	],
+	"stats": {
+		"AG": 1,
+		"AV": 9,
+		"MA": 6,
+		"ST": 6
+	},
+	"thrall": "false",
+	"title": "Glotl Stop",
+	"type": "star",
+	"undead": "false"
+}

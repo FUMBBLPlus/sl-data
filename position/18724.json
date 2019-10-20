@@ -1,0 +1,37 @@
+{
+	"cost": 50000,
+	"doubleSkills": [
+		"G",
+		"S",
+		"P"
+	],
+	"gender": "male",
+	"icon": 573328,
+	"iconLetter": "Bite",
+	"id": "18724",
+	"name": "Manbiter",
+	"normalSkills": [
+		"A"
+	],
+	"portrait": 573329,
+	"quantity": 2,
+	"race": null,
+	"roster": 2512,
+	"secretweapon": "0",
+	"skills": [
+		"Dirty Player",
+		"Dodge",
+		"Right Stuff",
+		"Stunty"
+	],
+	"stats": {
+		"AG": 3,
+		"AV": 7,
+		"MA": 6,
+		"ST": 2
+	},
+	"thrall": "false",
+	"title": "Manbiter",
+	"type": "normal",
+	"undead": "false"
+}

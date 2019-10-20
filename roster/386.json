@@ -1,0 +1,157 @@
+{
+	"apothecary": "Yes",
+	"id": "386",
+	"info": "Difficulty: MEDIUM\nSea Elves are hardened by years of war and equiped with the heaviest plate armour they can find. They are the slowest but toughest Elves. You can not out run your opponent like most Elf teams do, so careful planning is needed to master this team.",
+	"logos": {
+		"128": "492488",
+		"192": "492489",
+		"32": "492491",
+		"48": "492492",
+		"64": "492493",
+		"96": "492490"
+	},
+	"name": "Sea Elf",
+	"necromancer": "No",
+	"ownerRuleset": "69",
+	"playable": "true",
+	"positions": [
+		{
+			"cost": "70000",
+			"doubleSkills": [
+				"S",
+				"P"
+			],
+			"gender": "male",
+			"iconLetter": "L",
+			"id": "4002",
+			"normalSkills": [
+				"G",
+				"A"
+			],
+			"portrait": "487789",
+			"quantity": "16",
+			"skills": [],
+			"stats": {
+				"AG": "4",
+				"AV": "9",
+				"MA": "5",
+				"ST": "3"
+			},
+			"title": "Lineman"
+		},
+		{
+			"cost": "80000",
+			"doubleSkills": [
+				"S"
+			],
+			"gender": "male",
+			"iconLetter": "Th",
+			"id": "4004",
+			"normalSkills": [
+				"G",
+				"P",
+				"A"
+			],
+			"portrait": "487791",
+			"quantity": "2",
+			"skills": [
+				"Pass"
+			],
+			"stats": {
+				"AG": "4",
+				"AV": "9",
+				"MA": "5",
+				"ST": "3"
+			},
+			"title": "Thrower"
+		},
+		{
+			"cost": "90000",
+			"doubleSkills": [
+				"S",
+				"P"
+			],
+			"gender": "male",
+			"iconLetter": "C",
+			"id": "4005",
+			"normalSkills": [
+				"G",
+				"A"
+			],
+			"portrait": "487793",
+			"quantity": "2",
+			"skills": [
+				"Catch",
+				"Sprint"
+			],
+			"stats": {
+				"AG": "4",
+				"AV": "8",
+				"MA": "6",
+				"ST": "3"
+			},
+			"title": "Catcher"
+		},
+		{
+			"cost": "90000",
+			"doubleSkills": [
+				"S",
+				"P"
+			],
+			"gender": "male",
+			"iconLetter": "B",
+			"id": "4006",
+			"normalSkills": [
+				"G",
+				"A"
+			],
+			"portrait": "487795",
+			"quantity": "4",
+			"skills": [
+				"Block",
+				"Grab"
+			],
+			"stats": {
+				"AG": "4",
+				"AV": "9",
+				"MA": "5",
+				"ST": "3"
+			},
+			"title": "Blocker"
+		}
+	],
+	"raisePosition": null,
+	"rerollCost": "50000",
+	"stars": [
+		{
+			"id": "3012",
+			"name": "Dolfar Longstride"
+		},
+		{
+			"id": "3013",
+			"name": "Eldril Sidewinder"
+		},
+		{
+			"id": "3039",
+			"name": "Morg 'n' Thorg"
+		},
+		{
+			"id": "3041",
+			"name": "Prince Moranion"
+		},
+		{
+			"id": "3054",
+			"name": "Soaren Hightower"
+		},
+		{
+			"id": "3059",
+			"name": "Zara the Slayer"
+		}
+	],
+	"stats": {
+		"finesse": "4",
+		"physique": "4",
+		"versatility": "4"
+	},
+	"undead": "No"
+}

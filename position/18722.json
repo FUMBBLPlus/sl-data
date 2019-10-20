@@ -1,0 +1,36 @@
+{
+	"cost": 30000,
+	"doubleSkills": [
+		"G",
+		"S",
+		"P"
+	],
+	"gender": "male",
+	"icon": 573325,
+	"iconLetter": "L",
+	"id": "18722",
+	"name": "Gnoblar",
+	"normalSkills": [
+		"A"
+	],
+	"portrait": 573324,
+	"quantity": 16,
+	"race": null,
+	"roster": 2512,
+	"secretweapon": "0",
+	"skills": [
+		"Dodge",
+		"Right Stuff",
+		"Stunty"
+	],
+	"stats": {
+		"AG": 3,
+		"AV": 6,
+		"MA": 6,
+		"ST": 2
+	},
+	"thrall": "false",
+	"title": "Gnoblar",
+	"type": "normal",
+	"undead": "false"
+}

@@ -1,0 +1,35 @@
+{
+	"cost": 70000,
+	"doubleSkills": [
+		"A",
+		"P"
+	],
+	"gender": "male",
+	"icon": 573303,
+	"iconLetter": "KM",
+	"id": "18713",
+	"name": "Kurgan Marauder",
+	"normalSkills": [
+		"G",
+		"S",
+		"M"
+	],
+	"portrait": 0,
+	"quantity": 4,
+	"race": null,
+	"roster": 2510,
+	"secretweapon": "0",
+	"skills": [
+		"Block"
+	],
+	"stats": {
+		"AG": 3,
+		"AV": 8,
+		"MA": 6,
+		"ST": 3
+	},
+	"thrall": "false",
+	"title": "Kurgan Marauder",
+	"type": "normal",
+	"undead": "false"
+}

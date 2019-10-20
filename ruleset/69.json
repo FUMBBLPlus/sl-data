@@ -1,0 +1,490 @@
+{
+	"id": "69",
+	"managers": [
+		{
+			"id": "3560",
+			"value": "Roland"
+		},
+		{
+			"id": "28746",
+			"value": "Calthor"
+		},
+		{
+			"id": "106951",
+			"value": "Garion"
+		}
+	],
+	"name": "Secret League",
+	"options": {
+		"clientOptions": {
+			"allowStarOnBothTeams": "false",
+			"argueTheCall": "true",
+			"cardGold": 0,
+			"clawNoStack": "false",
+			"extraMvp": 0,
+			"forceTreasuryToPettyCash": "false",
+			"fouling": "unmodified",
+			"inducementGold": 0,
+			"maxCards": 5,
+			"mvpNominations": 3,
+			"overtime": "false",
+			"pettyCashAffectsTv": "true",
+			"pilingOn": "both",
+			"pilingOnKoDouble": "false",
+			"pilingOnNoStack": "false",
+			"pilingOnUsesATeamReroll": "false",
+			"pitchURL": "",
+			"playersOnField": 11,
+			"playersOnLos": 3,
+			"rightStuffCancelTackle": "false",
+			"sneakyAsFoul": "false",
+			"sneakyBanToKo": "false",
+			"spikedBall": "false",
+			"standFirmNoFall": "false",
+			"turntime": 240,
+			"wideZonePlayers": 2,
+			"wizardAvailable": "false"
+		},
+		"rosterSettings": {
+			"availableRosters": "1,custom"
+		},
+		"rulesetOptions": {
+			"active": "false",
+			"crossLeagueMatches": "false",
+			"expensiveMistakes": "true",
+			"expensiveMistakesBase": 8,
+			"expensiveMistakesMax": 4,
+			"expensiveMistakesStart": 150,
+			"expensiveMistakesStep": 100,
+			"spirallingBase": 1750,
+			"spirallingExpenses": "false",
+			"spirallingStep": 150
+		},
+		"skillOptions": {
+			"accurate": "true",
+			"bigHand": "true",
+			"block": "true",
+			"breakTackle": "true",
+			"catch": "true",
+			"claw": "true",
+			"dauntless": "true",
+			"dirtyPlayer": "true",
+			"disturbingPresence": "true",
+			"divingCatch": "true",
+			"divingTackle": "true",
+			"dodge": "true",
+			"dumpOff": "true",
+			"extraArms": "true",
+			"fend": "true",
+			"foulAppearance": "true",
+			"frenzy": "true",
+			"grab": "true",
+			"guard": "true",
+			"hailMaryPass": "true",
+			"horns": "true",
+			"juggernaut": "true",
+			"jumpUp": "true",
+			"kick": "true",
+			"kickOffReturn": "true",
+			"leader": "true",
+			"leap": "true",
+			"mightyBlow": "true",
+			"multipleBlock": "true",
+			"nervesOfSteel": "true",
+			"pass": "true",
+			"passBlock": "true",
+			"pilingOn": "false",
+			"prehensileTail": "true",
+			"pro": "true",
+			"safeThrow": "true",
+			"shadowing": "true",
+			"sideStep": "true",
+			"sneakyGit": "true",
+			"sprint": "true",
+			"standFirm": "true",
+			"stripBall": "true",
+			"strongArm": "true",
+			"sureFeet": "true",
+			"sureHands": "true",
+			"tackle": "true",
+			"tentacles": "true",
+			"thickSkull": "true",
+			"twoHeads": "true",
+			"veryLongLegs": "true",
+			"wrestle": "true"
+		},
+		"teamSettings": {
+			"maxPlayers": 16,
+			"predeterminedSkills": "1:3N,4:2ND",
+			"skillProgressionType": "standard",
+			"skillsPerPlayer": 1,
+			"sppLimits": "6,16,31,51,76,176",
+			"startPlayers": 11,
+			"startTreasury": 1000000,
+			"teamProgression": "standard"
+		}
+	},
+	"rosters": [
+		{
+			"id": "67",
+			"type": "EXT",
+			"value": "Star Players"
+		},
+		{
+			"id": "203",
+			"value": "Albion"
+		},
+		{
+			"id": "206",
+			"value": "Araby"
+		},
+		{
+			"id": "212",
+			"value": "Beastmen"
+		},
+		{
+			"id": "215",
+			"value": "Black Dwarf"
+		},
+		{
+			"id": "302",
+			"value": "Bretonnian"
+		},
+		{
+			"id": "303",
+			"value": "Cathay"
+		},
+		{
+			"id": "304",
+			"value": "Khorne"
+		},
+		{
+			"id": "305",
+			"value": "Slaanesh"
+		},
+		{
+			"id": "306",
+			"value": "Daemons of Khorne"
+		},
+		{
+			"id": "364",
+			"value": "Daemons of Nurgle"
+		},
+		{
+			"id": "368",
+			"value": "Lybaras"
+		},
+		{
+			"id": "369",
+			"value": "Daemons of Slaanesh"
+		},
+		{
+			"id": "371",
+			"value": "Numas"
+		},
+		{
+			"id": "373",
+			"value": "Rasetra"
+		},
+		{
+			"id": "375",
+			"value": "Zandri"
+		},
+		{
+			"id": "377",
+			"value": "Kislev"
+		},
+		{
+			"id": "378",
+			"value": "Lumbria"
+		},
+		{
+			"id": "379",
+			"value": "Nautican"
+		},
+		{
+			"id": "380",
+			"value": "Nippon"
+		},
+		{
+			"id": "381",
+			"value": "Northern Nippon"
+		},
+		{
+			"id": "382",
+			"value": "Daemons of Tzeentch"
+		},
+		{
+			"id": "383",
+			"value": "Pirates of Sartosa"
+		},
+		{
+			"id": "384",
+			"value": "Pygmy"
+		},
+		{
+			"id": "385",
+			"value": "Savage Orc"
+		},
+		{
+			"id": "386",
+			"value": "Sea Elf"
+		},
+		{
+			"id": "388",
+			"value": "Clan Eshin"
+		},
+		{
+			"id": "389",
+			"value": "Clan Mors"
+		},
+		{
+			"id": "390",
+			"value": "Clan Moulder"
+		},
+		{
+			"id": "391",
+			"value": "Clan Pestilens"
+		},
+		{
+			"id": "393",
+			"value": "Clan Skryre"
+		},
+		{
+			"id": "394",
+			"value": "Forest Goblin"
+		},
+		{
+			"id": "395",
+			"value": "Skink"
+		},
+		{
+			"id": "397",
+			"value": "Snakemen"
+		},
+		{
+			"id": "399",
+			"value": "Snotling"
+		},
+		{
+			"id": "402",
+			"value": "Squig"
+		},
+		{
+			"id": "404",
+			"value": "Treemen"
+		},
+		{
+			"id": "405",
+			"value": "Undead Pirates"
+		},
+		{
+			"id": "407",
+			"value": "Blood Dragon"
+		},
+		{
+			"id": "409",
+			"value": "Lahmian"
+		},
+		{
+			"id": "410",
+			"value": "Necrarch"
+		},
+		{
+			"id": "412",
+			"value": "Strigoi"
+		},
+		{
+			"id": "413",
+			"value": "Von Carstein"
+		},
+		{
+			"id": "415",
+			"value": "Were"
+		},
+		{
+			"id": "416",
+			"value": "Witch Elf"
+		},
+		{
+			"id": "417",
+			"value": "Zoat"
+		},
+		{
+			"id": "418",
+			"value": "Daemons of Malal"
+		},
+		{
+			"id": "419",
+			"value": "Centigor"
+		},
+		{
+			"id": "422",
+			"value": "Dryad"
+		},
+		{
+			"id": "423",
+			"value": "Engineers"
+		},
+		{
+			"id": "425",
+			"value": "Slayer"
+		},
+		{
+			"id": "427",
+			"value": "Elemental - Earth"
+		},
+		{
+			"id": "428",
+			"value": "Elemental - Water"
+		},
+		{
+			"id": "430",
+			"value": "Elemental - Fire"
+		},
+		{
+			"id": "431",
+			"value": "Elemental - Air"
+		},
+		{
+			"id": "433",
+			"value": "Estalia"
+		},
+		{
+			"id": "436",
+			"value": "Fimir"
+		},
+		{
+			"id": "438",
+			"value": "Four Nations"
+		},
+		{
+			"id": "442",
+			"value": "Ogre Kingdom"
+		},
+		{
+			"id": "443",
+			"value": "Gnome"
+		},
+		{
+			"id": "459",
+			"value": "Half-Elf"
+		},
+		{
+			"id": "467",
+			"value": "Ethereal"
+		},
+		{
+			"id": "470",
+			"value": "Half-Orc"
+		},
+		{
+			"id": "472",
+			"value": "Hobgoblin"
+		},
+		{
+			"id": "474",
+			"value": "Hobgoblin Slavers"
+		},
+		{
+			"id": "475",
+			"value": "Kingdom of Ind"
+		},
+		{
+			"id": "486",
+			"value": "Tilea"
+		},
+		{
+			"id": "617",
+			"value": "Tzeentch"
+		},
+		{
+			"id": "1391",
+			"value": "Border Princes"
+		},
+		{
+			"id": "1392",
+			"value": "Khainite Assassins"
+		},
+		{
+			"id": "1393",
+			"value": "Norse Dwarf"
+		},
+		{
+			"id": "1394",
+			"value": "Giant"
+		},
+		{
+			"id": "1395",
+			"value": "Kurnous"
+		},
+		{
+			"id": "1396",
+			"value": "Mahrak"
+		},
+		{
+			"id": "1397",
+			"value": "Valkyrie"
+		},
+		{
+			"id": "1398",
+			"value": "Sisters of Sigmar"
+		},
+		{
+			"id": "1399",
+			"value": "Big 'Uns"
+		},
+		{
+			"id": "2505",
+			"value": "Avelorn"
+		},
+		{
+			"id": "2506",
+			"value": "Night Goblin"
+		},
+		{
+			"id": "2507",
+			"value": "Myrmidia"
+		},
+		{
+			"id": "2508",
+			"value": "Ka-Sabar"
+		},
+		{
+			"id": "2509",
+			"value": "Sons of Stromfels"
+		},
+		{
+			"id": "2510",
+			"value": "Kurgan"
+		},
+		{
+			"id": "2511",
+			"value": "Hung"
+		},
+		{
+			"id": "2512",
+			"value": "Gnoblar"
+		},
+		{
+			"id": "3134",
+			"value": "Ironbreaker"
+		},
+		{
+			"id": "3135",
+			"value": "Black Ark"
+		},
+		{
+			"id": "3136",
+			"value": "Isha"
+		},
+		{
+			"id": "3137",
+			"value": "Flesh Golem"
+		},
+		{
+			"id": "3138",
+			"value": "Sylvania Pact"
+		}
+	]
+}

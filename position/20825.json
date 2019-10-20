@@ -1,0 +1,39 @@
+{
+	"cost": 230000,
+	"doubleSkills": [
+		"G",
+		"A",
+		"S",
+		"P"
+	],
+	"gender": "male",
+	"icon": 585597,
+	"iconLetter": "ID",
+	"id": "20825",
+	"name": "Ivan 'The Animal' Deathshroud",
+	"normalSkills": [],
+	"portrait": 585596,
+	"quantity": 1,
+	"race": null,
+	"roster": 67,
+	"secretweapon": "0",
+	"skills": [
+		"Block",
+		"Strip Ball",
+		"Tackle",
+		"Juggernaut",
+		"Disturbing Presence",
+		"Loner",
+		"Regeneration"
+	],
+	"stats": {
+		"AG": 2,
+		"AV": 8,
+		"MA": 6,
+		"ST": 4
+	},
+	"thrall": "false",
+	"title": "Ivan 'The Animal' Deathshroud",
+	"type": "star",
+	"undead": "true"
+}

@@ -1,0 +1,37 @@
+{
+	"cost": 110000,
+	"doubleSkills": [
+		"A",
+		"P"
+	],
+	"gender": "male",
+	"icon": 488219,
+	"iconLetter": "GS",
+	"id": "4147",
+	"name": "Giant Slayer",
+	"normalSkills": [
+		"G",
+		"S"
+	],
+	"portrait": 488218,
+	"quantity": 2,
+	"race": null,
+	"roster": 425,
+	"secretweapon": "0",
+	"skills": [
+		"Dauntless",
+		"Frenzy",
+		"Juggernaut",
+		"Thick Skull"
+	],
+	"stats": {
+		"AG": 2,
+		"AV": 8,
+		"MA": 5,
+		"ST": 4
+	},
+	"thrall": "false",
+	"title": "Giant Slayer",
+	"type": "normal",
+	"undead": "false"
+}

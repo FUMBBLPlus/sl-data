@@ -1,0 +1,38 @@
+{
+	"cost": 140000,
+	"doubleSkills": [
+		"G",
+		"A",
+		"P"
+	],
+	"gender": "female",
+	"icon": 523687,
+	"iconLetter": "Bg",
+	"id": "10710",
+	"name": "Ogress",
+	"normalSkills": [
+		"S"
+	],
+	"portrait": 523686,
+	"quantity": 1,
+	"race": null,
+	"roster": 1397,
+	"secretweapon": "0",
+	"skills": [
+		"Mighty Blow",
+		"Thick Skull",
+		"Bone-head",
+		"Loner",
+		"Throw Team-Mate"
+	],
+	"stats": {
+		"AG": 2,
+		"AV": 9,
+		"MA": 5,
+		"ST": 5
+	},
+	"thrall": "false",
+	"title": "Ogress",
+	"type": "normal",
+	"undead": "false"
+}

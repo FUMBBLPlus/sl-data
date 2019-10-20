@@ -1,0 +1,35 @@
+{
+	"cost": 90000,
+	"doubleSkills": [
+		"S",
+		"P"
+	],
+	"gender": "male",
+	"icon": 596874,
+	"iconLetter": "Bli",
+	"id": "23017",
+	"name": "Dreadblade",
+	"normalSkills": [
+		"G",
+		"A"
+	],
+	"portrait": 596873,
+	"quantity": 2,
+	"race": null,
+	"roster": 3135,
+	"secretweapon": "0",
+	"skills": [
+		"Juggernaut",
+		"Nerves Of Steel"
+	],
+	"stats": {
+		"AG": 4,
+		"AV": 7,
+		"MA": 7,
+		"ST": 3
+	},
+	"thrall": "false",
+	"title": "Dreadblade",
+	"type": "normal",
+	"undead": "false"
+}

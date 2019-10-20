@@ -1,0 +1,37 @@
+{
+	"cost": 110000,
+	"doubleSkills": [
+		"A",
+		"P"
+	],
+	"gender": "neutral",
+	"icon": 487467,
+	"iconLetter": "SS",
+	"id": "3921",
+	"name": "Sepulchral Stalker",
+	"normalSkills": [
+		"G",
+		"S"
+	],
+	"portrait": 0,
+	"quantity": 4,
+	"race": null,
+	"roster": 368,
+	"secretweapon": "0",
+	"skills": [
+		"Thick Skull",
+		"Prehensile Tail",
+		"Hypnotic Gaze",
+		"Regeneration"
+	],
+	"stats": {
+		"AG": 3,
+		"AV": 8,
+		"MA": 6,
+		"ST": 3
+	},
+	"thrall": "false",
+	"title": "Sepulchral Stalker",
+	"type": "normal",
+	"undead": "true"
+}

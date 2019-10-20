@@ -1,0 +1,245 @@
+{
+	"apothecary": "No",
+	"id": "431",
+	"info": "Difficulty: HARD Elementals are what you make of them. Ensure you know their rules before starting a team!!!",
+	"logos": {
+		"128": "492663",
+		"192": "492664",
+		"32": "492665",
+		"48": "492666",
+		"64": "492667",
+		"96": "492662"
+	},
+	"name": "Elemental - Air",
+	"necromancer": "No",
+	"ownerRuleset": "69",
+	"playable": "true",
+	"positions": [
+		{
+			"cost": "60000",
+			"doubleSkills": [
+				"S"
+			],
+			"gender": "neutral",
+			"iconLetter": "L",
+			"id": "4191",
+			"normalSkills": [
+				"G",
+				"A",
+				"P"
+			],
+			"portrait": "488302",
+			"quantity": "16",
+			"skills": [
+				"Diving Catch",
+				"Leap",
+				"Very Long Legs"
+			],
+			"stats": {
+				"AG": "3",
+				"AV": "7",
+				"MA": "7",
+				"ST": "3"
+			},
+			"title": "Air Elemental"
+		},
+		{
+			"cost": "60000",
+			"doubleSkills": [
+				"A",
+				"P"
+			],
+			"gender": "neutral",
+			"iconLetter": "EE",
+			"id": "4192",
+			"normalSkills": [
+				"G",
+				"S"
+			],
+			"portrait": "488305",
+			"quantity": "2",
+			"skills": [
+				"Stand Firm"
+			],
+			"stats": {
+				"AG": "3",
+				"AV": "9",
+				"MA": "4",
+				"ST": "3"
+			},
+			"title": "Earth Elemental"
+		},
+		{
+			"cost": "60000",
+			"doubleSkills": [
+				"S",
+				"P"
+			],
+			"gender": "neutral",
+			"iconLetter": "W",
+			"id": "4194",
+			"normalSkills": [
+				"G",
+				"A"
+			],
+			"portrait": "488314",
+			"quantity": "2",
+			"skills": [
+				"Side Step"
+			],
+			"stats": {
+				"AG": "3",
+				"AV": "8",
+				"MA": "6",
+				"ST": "3"
+			},
+			"title": "Water Elemental"
+		},
+		{
+			"cost": "60000",
+			"doubleSkills": [
+				"P"
+			],
+			"gender": "neutral",
+			"iconLetter": "F",
+			"id": "4196",
+			"normalSkills": [
+				"G",
+				"A",
+				"S"
+			],
+			"portrait": "488318",
+			"quantity": "2",
+			"skills": [
+				"Frenzy"
+			],
+			"stats": {
+				"AG": "3",
+				"AV": "8",
+				"MA": "6",
+				"ST": "3"
+			},
+			"title": "Fire Elemental"
+		},
+		{
+			"cost": "150000",
+			"doubleSkills": [
+				"G",
+				"P"
+			],
+			"gender": "neutral",
+			"iconLetter": "EA",
+			"id": "4197",
+			"normalSkills": [
+				"A",
+				"S"
+			],
+			"portrait": "488321",
+			"quantity": "1",
+			"skills": [
+				"Leap",
+				"Hail Mary Pass",
+				"Pass",
+				"Very Long Legs",
+				"Loner"
+			],
+			"stats": {
+				"AG": "3",
+				"AV": "8",
+				"MA": "6",
+				"ST": "5"
+			},
+			"title": "Incarnate Elemental of Air"
+		},
+		{
+			"cost": "150000",
+			"doubleSkills": [
+				"G",
+				"P"
+			],
+			"gender": "neutral",
+			"iconLetter": "EW",
+			"id": "4199",
+			"normalSkills": [
+				"A",
+				"S"
+			],
+			"portrait": "488323",
+			"quantity": "0",
+			"skills": [
+				"Fend",
+				"Side Step",
+				"Loner"
+			],
+			"stats": {
+				"AG": "2",
+				"AV": "8",
+				"MA": "5",
+				"ST": "5"
+			},
+			"title": "Incanate Elemental of Water"
+		},
+		{
+			"cost": "150000",
+			"doubleSkills": [
+				"G",
+				"P"
+			],
+			"gender": "neutral",
+			"iconLetter": "EF",
+			"id": "4200",
+			"normalSkills": [
+				"A",
+				"S"
+			],
+			"portrait": "488326",
+			"quantity": "0",
+			"skills": [
+				"Frenzy",
+				"Jump Up",
+				"Loner"
+			],
+			"stats": {
+				"AG": "2",
+				"AV": "8",
+				"MA": "5",
+				"ST": "5"
+			},
+			"title": "Incarnate Elemental of Fire"
+		}
+	],
+	"raisePosition": null,
+	"rerollCost": "50000",
+	"stars": [
+		{
+			"id": "3019",
+			"name": "Griff Oberwald"
+		},
+		{
+			"id": "3024",
+			"name": "Helmut Wulf"
+		},
+		{
+			"id": "3038",
+			"name": "Mighty Zug"
+		},
+		{
+			"id": "3039",
+			"name": "Morg 'n' Thorg"
+		},
+		{
+			"id": "3042",
+			"name": "Puggy Baconbreath"
+		},
+		{
+			"id": "3059",
+			"name": "Zara the Slayer"
+		}
+	],
+	"stats": {
+		"finesse": "4",
+		"physique": "4",
+		"versatility": "4"
+	},
+	"undead": "No"
+}

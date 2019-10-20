@@ -1,0 +1,36 @@
+{
+	"cost": 140000,
+	"doubleSkills": [
+		"G",
+		"A",
+		"P"
+	],
+	"gender": "neutral",
+	"icon": 491242,
+	"iconLetter": "Kon",
+	"id": "4262",
+	"name": "Gnomish Contraption",
+	"normalSkills": [
+		"S"
+	],
+	"portrait": 488435,
+	"quantity": 2,
+	"race": null,
+	"roster": 443,
+	"secretweapon": "0",
+	"skills": [
+		"Mighty Blow",
+		"Stand Firm",
+		"Bone-head"
+	],
+	"stats": {
+		"AG": 1,
+		"AV": 10,
+		"MA": 3,
+		"ST": 6
+	},
+	"thrall": "false",
+	"title": "Gnomish Contraption",
+	"type": "normal",
+	"undead": "false"
+}

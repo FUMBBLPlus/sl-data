@@ -1,0 +1,32 @@
+{
+	"cost": 360000,
+	"doubleSkills": [],
+	"gender": "male",
+	"icon": 436478,
+	"iconLetter": "R3",
+	"id": "3045",
+	"name": "Ramtut III",
+	"normalSkills": [],
+	"portrait": 332761,
+	"quantity": 1,
+	"race": null,
+	"roster": 67,
+	"secretweapon": "0",
+	"skills": [
+		"Wrestle",
+		"Break Tackle",
+		"Mighty Blow",
+		"Loner",
+		"Regeneration"
+	],
+	"stats": {
+		"AG": 1,
+		"AV": 9,
+		"MA": 5,
+		"ST": 6
+	},
+	"thrall": "false",
+	"title": "Ramtut III",
+	"type": "star",
+	"undead": "true"
+}

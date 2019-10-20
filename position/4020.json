@@ -1,0 +1,38 @@
+{
+	"cost": 110000,
+	"doubleSkills": [
+		"A",
+		"P",
+		"M"
+	],
+	"gender": "male",
+	"icon": 574259,
+	"iconLetter": "PL",
+	"id": "4020",
+	"name": "Plague Priest",
+	"normalSkills": [
+		"G",
+		"S"
+	],
+	"portrait": 487825,
+	"quantity": 2,
+	"race": null,
+	"roster": 391,
+	"secretweapon": "0",
+	"skills": [
+		"Frenzy",
+		"Stand Firm",
+		"Disturbing Presence",
+		"Foul Appearance"
+	],
+	"stats": {
+		"AG": 3,
+		"AV": 8,
+		"MA": 7,
+		"ST": 3
+	},
+	"thrall": "false",
+	"title": "Plague Priest",
+	"type": "normal",
+	"undead": "false"
+}

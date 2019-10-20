@@ -1,0 +1,35 @@
+{
+	"cost": 300000,
+	"doubleSkills": [],
+	"gender": "male",
+	"icon": 436445,
+	"iconLetter": "DS",
+	"id": "3011",
+	"name": "Deeproot Strongbranch",
+	"normalSkills": [],
+	"portrait": 332767,
+	"quantity": 1,
+	"race": null,
+	"roster": 67,
+	"secretweapon": "0",
+	"skills": [
+		"Block",
+		"Mighty Blow",
+		"Stand Firm",
+		"Strong Arm",
+		"Thick Skull",
+		"Loner",
+		"Throw Team-Mate",
+		"Timmm-ber!"
+	],
+	"stats": {
+		"AG": 1,
+		"AV": 10,
+		"MA": 2,
+		"ST": 7
+	},
+	"thrall": "false",
+	"title": "Deeproot Strongbranch",
+	"type": "star",
+	"undead": "false"
+}

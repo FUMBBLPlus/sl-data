@@ -1,0 +1,39 @@
+{
+	"cost": 110000,
+	"doubleSkills": [
+		"G",
+		"A",
+		"P"
+	],
+	"gender": "neutral",
+	"icon": 487788,
+	"iconLetter": "Bg",
+	"id": "4001",
+	"name": "River Troll",
+	"normalSkills": [
+		"S"
+	],
+	"portrait": 487787,
+	"quantity": 0,
+	"race": null,
+	"roster": 385,
+	"secretweapon": "0",
+	"skills": [
+		"Mighty Blow",
+		"Always Hungry",
+		"Loner",
+		"Really Stupid",
+		"Regeneration",
+		"Throw Team-Mate"
+	],
+	"stats": {
+		"AG": 1,
+		"AV": 9,
+		"MA": 4,
+		"ST": 5
+	},
+	"thrall": "false",
+	"title": "River Troll",
+	"type": "normal",
+	"undead": "false"
+}

@@ -1,0 +1,38 @@
+{
+	"cost": 130000,
+	"doubleSkills": [
+		"G",
+		"A",
+		"S",
+		"P"
+	],
+	"gender": "male",
+	"icon": 582809,
+	"iconLetter": "KR",
+	"id": "20144",
+	"name": "Kreek Rustgouger",
+	"normalSkills": [],
+	"portrait": 582808,
+	"quantity": 1,
+	"race": null,
+	"roster": 67,
+	"secretweapon": "0",
+	"skills": [
+		"Mighty Blow",
+		"Prehensile Tail",
+		"Ball & Chain",
+		"Loner",
+		"No Hands",
+		"Secret Weapon"
+	],
+	"stats": {
+		"AG": 2,
+		"AV": 9,
+		"MA": 5,
+		"ST": 7
+	},
+	"thrall": "false",
+	"title": "Kreek Rustgouger",
+	"type": "star",
+	"undead": "false"
+}

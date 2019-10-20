@@ -1,0 +1,38 @@
+{
+	"cost": 130000,
+	"doubleSkills": [
+		"G",
+		"A",
+		"S",
+		"P"
+	],
+	"gender": "female",
+	"icon": 596381,
+	"iconLetter": "SG",
+	"id": "22978",
+	"name": "Swiftvine Glimmershard",
+	"normalSkills": [],
+	"portrait": 596620,
+	"quantity": 1,
+	"race": null,
+	"roster": 67,
+	"secretweapon": "0",
+	"skills": [
+		"Fend",
+		"Side Step",
+		"Disturbing Presence",
+		"Loner",
+		"Stab",
+		"Stunty"
+	],
+	"stats": {
+		"AG": 3,
+		"AV": 6,
+		"MA": 7,
+		"ST": 2
+	},
+	"thrall": "false",
+	"title": "Swiftvine Glimmershard",
+	"type": "star",
+	"undead": "false"
+}

@@ -1,0 +1,32 @@
+{
+	"cost": 310000,
+	"doubleSkills": [],
+	"gender": "male",
+	"icon": 436452,
+	"iconLetter": "GB",
+	"id": "3018",
+	"name": "Grashnak Blackhoof",
+	"normalSkills": [],
+	"portrait": 332766,
+	"quantity": 1,
+	"race": null,
+	"roster": 67,
+	"secretweapon": "0",
+	"skills": [
+		"Frenzy",
+		"Mighty Blow",
+		"Thick Skull",
+		"Horns",
+		"Loner"
+	],
+	"stats": {
+		"AG": 2,
+		"AV": 8,
+		"MA": 6,
+		"ST": 6
+	},
+	"thrall": "false",
+	"title": "Grashnak Blackhoof",
+	"type": "star",
+	"undead": "false"
+}

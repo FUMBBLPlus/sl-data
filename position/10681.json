@@ -1,0 +1,34 @@
+{
+	"cost": 50000,
+	"doubleSkills": [
+		"A",
+		"S",
+		"P"
+	],
+	"gender": "male",
+	"icon": 523595,
+	"iconLetter": "L",
+	"id": "10681",
+	"name": "Linemen",
+	"normalSkills": [
+		"G"
+	],
+	"portrait": 523594,
+	"quantity": 16,
+	"race": null,
+	"roster": 1391,
+	"secretweapon": "0",
+	"skills": [
+		"Thick Skull"
+	],
+	"stats": {
+		"AG": 3,
+		"AV": 7,
+		"MA": 6,
+		"ST": 3
+	},
+	"thrall": "true",
+	"title": "Linemen",
+	"type": "normal",
+	"undead": "false"
+}

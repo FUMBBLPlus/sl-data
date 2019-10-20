@@ -1,0 +1,229 @@
+{
+	"apothecary": "Yes",
+	"id": "402",
+	"info": "Difficulty: HARD\nSquig teams are the most feared of all Goblin teams, not least because of their Giant Cave Squig, Squig Hoppers and Fanatic. Their only problem is keeping it all together, more often than not the Squigs turn on their own team or just hop off.",
+	"logos": {
+		"128": "492548",
+		"192": "492549",
+		"32": "492551",
+		"48": "492552",
+		"64": "492553",
+		"96": "492550"
+	},
+	"name": "Squig",
+	"necromancer": "No",
+	"ownerRuleset": "69",
+	"playable": "true",
+	"positions": [
+		{
+			"cost": "40000",
+			"doubleSkills": [
+				"G",
+				"S",
+				"P"
+			],
+			"gender": "neutral",
+			"iconLetter": "L",
+			"id": "4058",
+			"normalSkills": [
+				"A"
+			],
+			"portrait": "487892",
+			"quantity": "16",
+			"skills": [
+				"Dodge",
+				"Right Stuff",
+				"Stunty"
+			],
+			"stats": {
+				"AG": "3",
+				"AV": "7",
+				"MA": "6",
+				"ST": "2"
+			},
+			"title": "Squig Herders"
+		},
+		{
+			"cost": "100000",
+			"doubleSkills": [
+				"G",
+				"P"
+			],
+			"gender": "male",
+			"iconLetter": "SH",
+			"id": "4060",
+			"normalSkills": [
+				"A",
+				"S"
+			],
+			"portrait": "487894",
+			"quantity": "4",
+			"skills": [
+				"Leap",
+				"Claw",
+				"Very Long Legs",
+				"Blood Lust"
+			],
+			"stats": {
+				"AG": "3",
+				"AV": "8",
+				"MA": "6",
+				"ST": "4"
+			},
+			"title": "Squig Hoppers"
+		},
+		{
+			"cost": "110000",
+			"doubleSkills": [
+				"G",
+				"A",
+				"P"
+			],
+			"gender": "female",
+			"iconLetter": "Bg",
+			"id": "4062",
+			"normalSkills": [
+				"S"
+			],
+			"portrait": "487897",
+			"quantity": "1",
+			"skills": [
+				"Thick Skull",
+				"Claw",
+				"Loner",
+				"No Hands",
+				"Really Stupid"
+			],
+			"stats": {
+				"AG": "1",
+				"AV": "9",
+				"MA": "4",
+				"ST": "5"
+			},
+			"title": "Giant Cave Squig"
+		},
+		{
+			"cost": "120000",
+			"doubleSkills": [
+				"G",
+				"A",
+				"P"
+			],
+			"gender": "male",
+			"iconLetter": "Mang",
+			"id": "4064",
+			"normalSkills": [
+				"S"
+			],
+			"portrait": "573263",
+			"quantity": "1",
+			"skills": [
+				"Claw",
+				"Ball & Chain",
+				"No Hands"
+			],
+			"stats": {
+				"AG": "1",
+				"AV": "7",
+				"MA": "3",
+				"ST": "7"
+			},
+			"title": "Mangler Squig"
+		},
+		{
+			"cost": "80000",
+			"doubleSkills": [
+				"G",
+				"P"
+			],
+			"gender": "male",
+			"iconLetter": "CS",
+			"id": "18700",
+			"normalSkills": [
+				"A",
+				"S"
+			],
+			"portrait": "573262",
+			"quantity": "2",
+			"skills": [
+				"Leap",
+				"Claw",
+				"Very Long Legs",
+				"No Hands",
+				"Really Stupid"
+			],
+			"stats": {
+				"AG": "3",
+				"AV": "8",
+				"MA": "6",
+				"ST": "4"
+			},
+			"title": "Cave Squigs"
+		},
+		{
+			"cost": "80000",
+			"doubleSkills": [
+				"G",
+				"A",
+				"P"
+			],
+			"gender": "male",
+			"iconLetter": "Gob",
+			"id": "18701",
+			"normalSkills": [
+				"S"
+			],
+			"portrait": null,
+			"quantity": "1",
+			"skills": [
+				"Hail Mary Pass",
+				"Claw",
+				"Bombardier",
+				"No Hands",
+				"Really Stupid",
+				"Secret Weapon"
+			],
+			"stats": {
+				"AG": "1",
+				"AV": "9",
+				"MA": "1",
+				"ST": "5"
+			},
+			"title": "Squig Gobba"
+		}
+	],
+	"raisePosition": null,
+	"rerollCost": "70000",
+	"stars": [
+		{
+			"id": "3007",
+			"name": "Bomber Dribblesnot"
+		},
+		{
+			"id": "3016",
+			"name": "Fungus the Loon"
+		},
+		{
+			"id": "3039",
+			"name": "Morg 'n' Thorg"
+		},
+		{
+			"id": "3040",
+			"name": "Nobbla Blackwart"
+		},
+		{
+			"id": "3047",
+			"name": "Ripper Bolgrot"
+		},
+		{
+			"id": "3049",
+			"name": "Scrappa Sorehead"
+		}
+	],
+	"stats": {
+		"finesse": "4",
+		"physique": "5",
+		"versatility": "2"
+	},
+	"undead": "No"
+}

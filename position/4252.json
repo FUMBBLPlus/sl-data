@@ -1,0 +1,37 @@
+{
+	"cost": 150000,
+	"doubleSkills": [
+		"G",
+		"A",
+		"P"
+	],
+	"gender": "male",
+	"icon": 488401,
+	"iconLetter": "Go",
+	"id": "4252",
+	"name": "Gorger",
+	"normalSkills": [
+		"S"
+	],
+	"portrait": 488402,
+	"quantity": 1,
+	"race": null,
+	"roster": 442,
+	"secretweapon": "0",
+	"skills": [
+		"Frenzy",
+		"Mighty Blow",
+		"Thick Skull",
+		"Wild Animal"
+	],
+	"stats": {
+		"AG": 1,
+		"AV": 9,
+		"MA": 6,
+		"ST": 5
+	},
+	"thrall": "false",
+	"title": "Gorger",
+	"type": "normal",
+	"undead": "false"
+}

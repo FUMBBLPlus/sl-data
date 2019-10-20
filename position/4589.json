@@ -1,0 +1,37 @@
+{
+	"cost": 70000,
+	"doubleSkills": [
+		"A",
+		"P"
+	],
+	"gender": "male",
+	"icon": 489191,
+	"iconLetter": "BL",
+	"id": "4589",
+	"name": "Dwarf Blocker",
+	"normalSkills": [
+		"G",
+		"S"
+	],
+	"portrait": 489192,
+	"quantity": 1,
+	"race": null,
+	"roster": 486,
+	"secretweapon": "0",
+	"skills": [
+		"Block",
+		"Tackle",
+		"Thick Skull",
+		"Animosity"
+	],
+	"stats": {
+		"AG": 2,
+		"AV": 9,
+		"MA": 4,
+		"ST": 3
+	},
+	"thrall": "false",
+	"title": "Dwarf Blocker",
+	"type": "normal",
+	"undead": "false"
+}

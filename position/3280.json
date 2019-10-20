@@ -1,0 +1,35 @@
+{
+	"cost": 60000,
+	"doubleSkills": [
+		"A",
+		"P"
+	],
+	"gender": "neutral",
+	"icon": 487402,
+	"iconLetter": "CDL",
+	"id": "3280",
+	"name": "Chaos Dwarf Lineman",
+	"normalSkills": [
+		"G",
+		"S"
+	],
+	"portrait": 487403,
+	"quantity": 16,
+	"race": null,
+	"roster": 215,
+	"secretweapon": "0",
+	"skills": [
+		"Block",
+		"Thick Skull"
+	],
+	"stats": {
+		"AG": 2,
+		"AV": 9,
+		"MA": 4,
+		"ST": 3
+	},
+	"thrall": "false",
+	"title": "Chaos Dwarf Lineman",
+	"type": "normal",
+	"undead": "false"
+}

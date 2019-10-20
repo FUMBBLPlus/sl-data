@@ -1,0 +1,38 @@
+{
+	"cost": 20000,
+	"doubleSkills": [
+		"G",
+		"S",
+		"P"
+	],
+	"gender": "neutral",
+	"icon": 487914,
+	"iconLetter": "L",
+	"id": "4065",
+	"name": "Spite",
+	"normalSkills": [
+		"A"
+	],
+	"portrait": 596490,
+	"quantity": 16,
+	"race": null,
+	"roster": 404,
+	"secretweapon": "0",
+	"skills": [
+		"Dodge",
+		"Side Step",
+		"Right Stuff",
+		"Stunty",
+		"Titchy"
+	],
+	"stats": {
+		"AG": 3,
+		"AV": 6,
+		"MA": 6,
+		"ST": 1
+	},
+	"thrall": "false",
+	"title": "Spite",
+	"type": "normal",
+	"undead": "false"
+}

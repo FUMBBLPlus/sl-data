@@ -1,0 +1,190 @@
+{
+	"apothecary": "Yes",
+	"id": "443",
+	"info": "Difficulty: HARD Gnome teams are the only St3 Stunty team in the game, and the only with access to general skills, they are considered to be the Dwarves of the stunty world, plus they have a few toys to help them out as well.",
+	"logos": {
+		"128": "492695",
+		"192": "492696",
+		"32": "492694",
+		"48": "492693",
+		"64": "492692",
+		"96": "492697"
+	},
+	"name": "Gnome",
+	"necromancer": "No",
+	"ownerRuleset": "69",
+	"playable": "true",
+	"positions": [
+		{
+			"cost": "40000",
+			"doubleSkills": [
+				"A",
+				"S",
+				"P"
+			],
+			"gender": "male",
+			"iconLetter": "L",
+			"id": "4254",
+			"normalSkills": [
+				"G"
+			],
+			"portrait": "488411",
+			"quantity": "16",
+			"skills": [
+				"Stunty"
+			],
+			"stats": {
+				"AG": "3",
+				"AV": "7",
+				"MA": "6",
+				"ST": "3"
+			},
+			"title": "Lineman"
+		},
+		{
+			"cost": "60000",
+			"doubleSkills": [
+				"S",
+				"P"
+			],
+			"gender": "male",
+			"iconLetter": "R",
+			"id": "4256",
+			"normalSkills": [
+				"G",
+				"A"
+			],
+			"portrait": "488418",
+			"quantity": "2",
+			"skills": [
+				"Sure Hands",
+				"Dodge",
+				"Stunty"
+			],
+			"stats": {
+				"AG": "3",
+				"AV": "6",
+				"MA": "7",
+				"ST": "2"
+			},
+			"title": "Runner"
+		},
+		{
+			"cost": "70000",
+			"doubleSkills": [
+				"A",
+				"P"
+			],
+			"gender": "male",
+			"iconLetter": "Bz",
+			"id": "4257",
+			"normalSkills": [
+				"G",
+				"S"
+			],
+			"portrait": "488431",
+			"quantity": "2",
+			"skills": [
+				"Block",
+				"Stunty"
+			],
+			"stats": {
+				"AG": "3",
+				"AV": "8",
+				"MA": "6",
+				"ST": "3"
+			},
+			"title": "Blitzer"
+		},
+		{
+			"cost": "40000",
+			"doubleSkills": [
+				"A",
+				"S",
+				"P"
+			],
+			"gender": "male",
+			"iconLetter": "Bo",
+			"id": "4259",
+			"normalSkills": [
+				"G"
+			],
+			"portrait": "488433",
+			"quantity": "1",
+			"skills": [
+				"Bombardier",
+				"Secret Weapon",
+				"Stunty"
+			],
+			"stats": {
+				"AG": "3",
+				"AV": "7",
+				"MA": "6",
+				"ST": "3"
+			},
+			"title": "Bombardier"
+		},
+		{
+			"cost": "140000",
+			"doubleSkills": [
+				"G",
+				"A",
+				"P"
+			],
+			"gender": "neutral",
+			"iconLetter": "Kon",
+			"id": "4262",
+			"normalSkills": [
+				"S"
+			],
+			"portrait": "488435",
+			"quantity": "2",
+			"skills": [
+				"Mighty Blow",
+				"Stand Firm",
+				"Bone-head"
+			],
+			"stats": {
+				"AG": "1",
+				"AV": "10",
+				"MA": "3",
+				"ST": "6"
+			},
+			"title": "Gnomish Contraption"
+		}
+	],
+	"raisePosition": null,
+	"rerollCost": "60000",
+	"stars": [
+		{
+			"id": "3003",
+			"name": "Barik Farblast"
+		},
+		{
+			"id": "3008",
+			"name": "Boomer Eziasson"
+		},
+		{
+			"id": "3015",
+			"name": "Flint Churnblade"
+		},
+		{
+			"id": "3020",
+			"name": "Grim Ironjaw"
+		},
+		{
+			"id": "3039",
+			"name": "Morg 'n' Thorg"
+		},
+		{
+			"id": "3059",
+			"name": "Zara the Slayer"
+		}
+	],
+	"stats": {
+		"finesse": "3",
+		"physique": "4",
+		"versatility": "3"
+	},
+	"undead": "No"
+}

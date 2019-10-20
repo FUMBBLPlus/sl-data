@@ -1,0 +1,35 @@
+{
+	"cost": 80000,
+	"doubleSkills": [
+		"A",
+		"P"
+	],
+	"gender": "male",
+	"icon": 534569,
+	"iconLetter": "B",
+	"id": "3998",
+	"name": "Savage Blocker",
+	"normalSkills": [
+		"G",
+		"S"
+	],
+	"portrait": 487782,
+	"quantity": 4,
+	"race": null,
+	"roster": 385,
+	"secretweapon": "0",
+	"skills": [
+		"Frenzy",
+		"Thick Skull"
+	],
+	"stats": {
+		"AG": 2,
+		"AV": 7,
+		"MA": 5,
+		"ST": 4
+	},
+	"thrall": "false",
+	"title": "Savage Blocker",
+	"type": "normal",
+	"undead": "false"
+}

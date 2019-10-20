@@ -1,0 +1,39 @@
+{
+	"cost": 230000,
+	"doubleSkills": [
+		"G",
+		"A",
+		"S",
+		"P"
+	],
+	"gender": "female",
+	"icon": 587005,
+	"iconLetter": "MH",
+	"id": "20135",
+	"name": "Mordrix Hex",
+	"normalSkills": [],
+	"portrait": 582790,
+	"quantity": 1,
+	"race": "",
+	"roster": 67,
+	"secretweapon": "0",
+	"skills": [
+		"Block",
+		"Dauntless",
+		"Fend",
+		"Frenzy",
+		"Dodge",
+		"Mighty Blow",
+		"Loner"
+	],
+	"stats": {
+		"AG": 4,
+		"AV": 7,
+		"MA": 7,
+		"ST": 3
+	},
+	"thrall": "false",
+	"title": "Mordrix Hex",
+	"type": "star",
+	"undead": "false"
+}

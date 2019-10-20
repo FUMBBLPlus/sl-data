@@ -1,0 +1,39 @@
+{
+	"cost": 30000,
+	"doubleSkills": [
+		"G",
+		"S",
+		"P"
+	],
+	"gender": "neutral",
+	"icon": 493019,
+	"iconLetter": "F",
+	"id": "5341",
+	"name": "Familiar",
+	"normalSkills": [
+		"A",
+		"M"
+	],
+	"portrait": 493018,
+	"quantity": 16,
+	"race": "Familiar",
+	"roster": 617,
+	"secretweapon": "0",
+	"skills": [
+		"Dodge",
+		"Foul Appearance",
+		"Right Stuff",
+		"Stunty",
+		"Titchy"
+	],
+	"stats": {
+		"AG": 3,
+		"AV": 6,
+		"MA": 6,
+		"ST": 1
+	},
+	"thrall": "false",
+	"title": "Familiar",
+	"type": "normal",
+	"undead": "false"
+}

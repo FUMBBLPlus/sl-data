@@ -1,0 +1,186 @@
+{
+	"apothecary": "Yes",
+	"id": "1398",
+	"info": "DIFFICULTY: VERY EASY - The Sister are extremely tough and resolute Paladins from the Empire determined to purge the game of all xenos.",
+	"logos": {
+		"128": "523694",
+		"192": "523693",
+		"32": "523689",
+		"48": "523690",
+		"64": "523691",
+		"96": "523692"
+	},
+	"name": "Sisters of Sigmar",
+	"necromancer": "No",
+	"ownerRuleset": "69",
+	"playable": "true",
+	"positions": [
+		{
+			"cost": "50000",
+			"doubleSkills": [
+				"A",
+				"S",
+				"P"
+			],
+			"gender": "female",
+			"iconLetter": "L",
+			"id": "10711",
+			"normalSkills": [
+				"G"
+			],
+			"portrait": null,
+			"quantity": "16",
+			"skills": [],
+			"stats": {
+				"AG": "3",
+				"AV": "9",
+				"MA": "5",
+				"ST": "3"
+			},
+			"title": "Sister"
+		},
+		{
+			"cost": "70000",
+			"doubleSkills": [
+				"S",
+				"P"
+			],
+			"gender": "female",
+			"iconLetter": "Pu",
+			"id": "10712",
+			"normalSkills": [
+				"G",
+				"A"
+			],
+			"portrait": "523696",
+			"quantity": "2",
+			"skills": [
+				"Stab",
+				"Stakes"
+			],
+			"stats": {
+				"AG": "3",
+				"AV": "8",
+				"MA": "6",
+				"ST": "3"
+			},
+			"title": "Purifier"
+		},
+		{
+			"cost": "90000",
+			"doubleSkills": [
+				"S",
+				"P"
+			],
+			"gender": "female",
+			"iconLetter": "Au",
+			"id": "10713",
+			"normalSkills": [
+				"G",
+				"A"
+			],
+			"portrait": null,
+			"quantity": "2",
+			"skills": [
+				"Pro",
+				"Sure Hands",
+				"Nerves Of Steel"
+			],
+			"stats": {
+				"AG": "3",
+				"AV": "7",
+				"MA": "7",
+				"ST": "3"
+			},
+			"title": "Augur"
+		},
+		{
+			"cost": "80000",
+			"doubleSkills": [
+				"A",
+				"P"
+			],
+			"gender": "female",
+			"iconLetter": "SS",
+			"id": "10714",
+			"normalSkills": [
+				"G",
+				"S"
+			],
+			"portrait": null,
+			"quantity": "4",
+			"skills": [
+				"Block",
+				"Stand Firm"
+			],
+			"stats": {
+				"AG": "3",
+				"AV": "9",
+				"MA": "5",
+				"ST": "3"
+			},
+			"title": "Sister Superior"
+		},
+		{
+			"cost": "120000",
+			"doubleSkills": [
+				"A",
+				"P"
+			],
+			"gender": "female",
+			"iconLetter": "Bg",
+			"id": "10715",
+			"normalSkills": [
+				"G",
+				"S"
+			],
+			"portrait": null,
+			"quantity": "1",
+			"skills": [
+				"Dauntless",
+				"Mighty Blow"
+			],
+			"stats": {
+				"AG": "2",
+				"AV": "9",
+				"MA": "5",
+				"ST": "4"
+			},
+			"title": "Matriarch"
+		}
+	],
+	"raisePosition": null,
+	"rerollCost": "60000",
+	"stars": [
+		{
+			"id": "3019",
+			"name": "Griff Oberwald"
+		},
+		{
+			"id": "3024",
+			"name": "Helmut Wulf"
+		},
+		{
+			"id": "3038",
+			"name": "Mighty Zug"
+		},
+		{
+			"id": "3039",
+			"name": "Morg 'n' Thorg"
+		},
+		{
+			"id": "3042",
+			"name": "Puggy Baconbreath"
+		},
+		{
+			"id": "3059",
+			"name": "Zara the Slayer"
+		}
+	],
+	"stats": {
+		"finesse": "2",
+		"physique": "5",
+		"versatility": "3"
+	},
+	"undead": "No"
+}

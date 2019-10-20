@@ -1,0 +1,38 @@
+{
+	"cost": 90000,
+	"doubleSkills": [
+		"A",
+		"P"
+	],
+	"gender": "neutral",
+	"icon": 489197,
+	"iconLetter": "DT",
+	"id": "4592",
+	"name": "Dwarf Troll Slayer",
+	"normalSkills": [
+		"G",
+		"S"
+	],
+	"portrait": 489198,
+	"quantity": 1,
+	"race": "Dwarf",
+	"roster": 486,
+	"secretweapon": "0",
+	"skills": [
+		"Block",
+		"Dauntless",
+		"Frenzy",
+		"Thick Skull",
+		"Animosity"
+	],
+	"stats": {
+		"AG": 2,
+		"AV": 8,
+		"MA": 5,
+		"ST": 3
+	},
+	"thrall": "false",
+	"title": "Dwarf Troll Slayer",
+	"type": "normal",
+	"undead": "false"
+}

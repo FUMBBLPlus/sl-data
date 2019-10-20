@@ -1,0 +1,38 @@
+{
+	"cost": 170000,
+	"doubleSkills": [
+		"G",
+		"A",
+		"S",
+		"P"
+	],
+	"gender": "male",
+	"icon": 582793,
+	"iconLetter": "KK",
+	"id": "20136",
+	"name": "Kiroth Krakeneye",
+	"normalSkills": [],
+	"portrait": 582792,
+	"quantity": 1,
+	"race": "",
+	"roster": 67,
+	"secretweapon": "0",
+	"skills": [
+		"Pass Block",
+		"Tackle",
+		"Disturbing Presence",
+		"Foul Appearance",
+		"Tentacles",
+		"Loner"
+	],
+	"stats": {
+		"AG": 4,
+		"AV": 8,
+		"MA": 7,
+		"ST": 3
+	},
+	"thrall": "false",
+	"title": "Kiroth Krakeneye",
+	"type": "star",
+	"undead": "false"
+}

@@ -1,0 +1,136 @@
+{
+	"apothecary": "Yes",
+	"id": "436",
+	"info": "Difficulty: MEDIUM The vile Fimir are tough, slow, but great at trapping their opposition, their only problem is they are over reliant on the Lesser Daemons they summon to pick the ball up, and the Fimm's depth perception is very poor.",
+	"logos": {
+		"128": "492674",
+		"192": "492675",
+		"32": "492677",
+		"48": "492678",
+		"64": "492679",
+		"96": "492676"
+	},
+	"name": "Fimir",
+	"necromancer": "No",
+	"ownerRuleset": "69",
+	"playable": "true",
+	"positions": [
+		{
+			"cost": "60000",
+			"doubleSkills": [
+				"A",
+				"S",
+				"P"
+			],
+			"gender": "male",
+			"iconLetter": "Fm",
+			"id": "4209",
+			"normalSkills": [
+				"G"
+			],
+			"portrait": "488361",
+			"quantity": "16",
+			"skills": [
+				"Prehensile Tail"
+			],
+			"stats": {
+				"AG": "2",
+				"AV": "9",
+				"MA": "5",
+				"ST": "3"
+			},
+			"title": "Fimm Warrior"
+		},
+		{
+			"cost": "110000",
+			"doubleSkills": [
+				"A",
+				"P"
+			],
+			"gender": "male",
+			"iconLetter": "Fia",
+			"id": "4210",
+			"normalSkills": [
+				"G",
+				"S"
+			],
+			"portrait": "488363",
+			"quantity": "4",
+			"skills": [
+				"Multiple Block",
+				"Prehensile Tail"
+			],
+			"stats": {
+				"AG": "1",
+				"AV": "9",
+				"MA": "5",
+				"ST": "4"
+			},
+			"title": "Fianna Fimm"
+		},
+		{
+			"cost": "70000",
+			"doubleSkills": [
+				"S",
+				"P"
+			],
+			"gender": "female",
+			"iconLetter": "Dae",
+			"id": "4211",
+			"normalSkills": [
+				"G",
+				"A"
+			],
+			"portrait": "488367",
+			"quantity": "2",
+			"skills": [
+				"Dodge"
+			],
+			"stats": {
+				"AG": "3",
+				"AV": "7",
+				"MA": "6",
+				"ST": "3"
+			},
+			"title": "Lesser Daemon"
+		}
+	],
+	"raisePosition": null,
+	"rerollCost": "70000",
+	"stars": [
+		{
+			"id": "3005",
+			"name": "Brick Far'th"
+		},
+		{
+			"id": "3006",
+			"name": "Grotty"
+		},
+		{
+			"id": "3018",
+			"name": "Grashnak Blackhoof"
+		},
+		{
+			"id": "3034",
+			"name": "Lewdgrip Whiparm"
+		},
+		{
+			"id": "3035",
+			"name": "Lord Borak the Despoiler"
+		},
+		{
+			"id": "3037",
+			"name": "Max Spleenripper"
+		},
+		{
+			"id": "3039",
+			"name": "Morg 'n' Thorg"
+		}
+	],
+	"stats": {
+		"finesse": "4",
+		"physique": "5",
+		"versatility": "4"
+	},
+	"undead": "No"
+}

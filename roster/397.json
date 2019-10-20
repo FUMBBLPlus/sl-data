@@ -1,0 +1,165 @@
+{
+	"apothecary": "Yes",
+	"id": "397",
+	"info": "Difficulty: MEDIUM\nSnakemen are solid all rounders, with a unique play style. Though great at trapping players they are a little slow.",
+	"logos": {
+		"128": "492536",
+		"192": "492537",
+		"32": "492539",
+		"48": "492540",
+		"64": "492541",
+		"96": "492538"
+	},
+	"name": "Snakemen",
+	"necromancer": "No",
+	"ownerRuleset": "69",
+	"playable": "true",
+	"positions": [
+		{
+			"cost": "60000",
+			"doubleSkills": [
+				"A",
+				"S",
+				"P"
+			],
+			"gender": "male",
+			"iconLetter": "L",
+			"id": "4042",
+			"normalSkills": [
+				"G"
+			],
+			"portrait": "487871",
+			"quantity": "16",
+			"skills": [
+				"Prehensile Tail"
+			],
+			"stats": {
+				"AG": "3",
+				"AV": "8",
+				"MA": "6",
+				"ST": "3"
+			},
+			"title": "Snakeman"
+		},
+		{
+			"cost": "90000",
+			"doubleSkills": [
+				"S",
+				"P"
+			],
+			"gender": "female",
+			"iconLetter": "R",
+			"id": "4043",
+			"normalSkills": [
+				"G",
+				"A"
+			],
+			"portrait": "487878",
+			"quantity": "4",
+			"skills": [
+				"Dodge",
+				"Side Step",
+				"Prehensile Tail"
+			],
+			"stats": {
+				"AG": "3",
+				"AV": "7",
+				"MA": "7",
+				"ST": "3"
+			},
+			"title": "Runner"
+		},
+		{
+			"cost": "80000",
+			"doubleSkills": [
+				"A",
+				"S",
+				"P"
+			],
+			"gender": "male",
+			"iconLetter": "M",
+			"id": "4046",
+			"normalSkills": [
+				"G",
+				"M"
+			],
+			"portrait": "487880",
+			"quantity": "2",
+			"skills": [
+				"Prehensile Tail",
+				"Hypnotic Gaze"
+			],
+			"stats": {
+				"AG": "3",
+				"AV": "8",
+				"MA": "6",
+				"ST": "3"
+			},
+			"title": "Mesmer"
+		},
+		{
+			"cost": "100000",
+			"doubleSkills": [
+				"A",
+				"P"
+			],
+			"gender": "male",
+			"iconLetter": "B",
+			"id": "4048",
+			"normalSkills": [
+				"G",
+				"S"
+			],
+			"portrait": "487882",
+			"quantity": "2",
+			"skills": [
+				"Tentacles"
+			],
+			"stats": {
+				"AG": "2",
+				"AV": "8",
+				"MA": "5",
+				"ST": "4"
+			},
+			"title": "Constrictor"
+		}
+	],
+	"raisePosition": null,
+	"rerollCost": "60000",
+	"stars": [
+		{
+			"id": "3005",
+			"name": "Brick Far'th"
+		},
+		{
+			"id": "3006",
+			"name": "Grotty"
+		},
+		{
+			"id": "3018",
+			"name": "Grashnak Blackhoof"
+		},
+		{
+			"id": "3034",
+			"name": "Lewdgrip Whiparm"
+		},
+		{
+			"id": "3035",
+			"name": "Lord Borak the Despoiler"
+		},
+		{
+			"id": "3037",
+			"name": "Max Spleenripper"
+		},
+		{
+			"id": "3039",
+			"name": "Morg 'n' Thorg"
+		}
+	],
+	"stats": {
+		"finesse": "3",
+		"physique": "4",
+		"versatility": "4"
+	},
+	"undead": "No"
+}

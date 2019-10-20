@@ -1,0 +1,30 @@
+{
+	"cost": 100000,
+	"doubleSkills": [],
+	"gender": "male",
+	"icon": 436488,
+	"iconLetter": "UB",
+	"id": "3055",
+	"name": "Ugroth Bolgrot",
+	"normalSkills": [],
+	"portrait": 332799,
+	"quantity": 1,
+	"race": "Orc",
+	"roster": 67,
+	"secretweapon": "0",
+	"skills": [
+		"Chainsaw",
+		"Loner",
+		"Secret Weapon"
+	],
+	"stats": {
+		"AG": 3,
+		"AV": 9,
+		"MA": 5,
+		"ST": 3
+	},
+	"thrall": "false",
+	"title": "Ugroth Bolgrot",
+	"type": "star",
+	"undead": "false"
+}

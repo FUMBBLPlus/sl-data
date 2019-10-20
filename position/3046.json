@@ -1,0 +1,32 @@
+{
+	"cost": 200000,
+	"doubleSkills": [],
+	"gender": "male",
+	"icon": 436479,
+	"iconLetter": "RB",
+	"id": "3046",
+	"name": "Rashnak Backstabber",
+	"normalSkills": [],
+	"portrait": 332788,
+	"quantity": 1,
+	"race": null,
+	"roster": 67,
+	"secretweapon": "0",
+	"skills": [
+		"Dodge",
+		"Side Step",
+		"Sneaky Git",
+		"Loner",
+		"Stab"
+	],
+	"stats": {
+		"AG": 3,
+		"AV": 7,
+		"MA": 7,
+		"ST": 3
+	},
+	"thrall": "false",
+	"title": "Rashnak Backstabber",
+	"type": "star",
+	"undead": "false"
+}

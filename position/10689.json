@@ -1,0 +1,35 @@
+{
+	"cost": 70000,
+	"doubleSkills": [
+		"P"
+	],
+	"gender": "male",
+	"icon": 523623,
+	"iconLetter": "Ex",
+	"id": "10689",
+	"name": "Executioner",
+	"normalSkills": [
+		"G",
+		"A",
+		"S"
+	],
+	"portrait": 0,
+	"quantity": 1,
+	"race": null,
+	"roster": 1392,
+	"secretweapon": "0",
+	"skills": [
+		"Chainsaw",
+		"Secret Weapon"
+	],
+	"stats": {
+		"AG": 4,
+		"AV": 8,
+		"MA": 6,
+		"ST": 3
+	},
+	"thrall": "false",
+	"title": "Executioner",
+	"type": "normal",
+	"undead": "false"
+}

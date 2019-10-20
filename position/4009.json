@@ -1,0 +1,35 @@
+{
+	"cost": 60000,
+	"doubleSkills": [
+		"S",
+		"P",
+		"M"
+	],
+	"gender": "male",
+	"icon": 487800,
+	"iconLetter": "NR",
+	"id": "4009",
+	"name": "Night Runner",
+	"normalSkills": [
+		"G",
+		"A"
+	],
+	"portrait": 487799,
+	"quantity": 16,
+	"race": null,
+	"roster": 388,
+	"secretweapon": "0",
+	"skills": [
+		"Dodge"
+	],
+	"stats": {
+		"AG": 3,
+		"AV": 7,
+		"MA": 8,
+		"ST": 2
+	},
+	"thrall": "false",
+	"title": "Night Runner",
+	"type": "normal",
+	"undead": "false"
+}

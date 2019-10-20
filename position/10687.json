@@ -1,0 +1,35 @@
+{
+	"cost": 80000,
+	"doubleSkills": [
+		"S",
+		"P"
+	],
+	"gender": "male",
+	"icon": 523619,
+	"iconLetter": "A",
+	"id": "10687",
+	"name": "Assassin",
+	"normalSkills": [
+		"G",
+		"A"
+	],
+	"portrait": 523618,
+	"quantity": 4,
+	"race": null,
+	"roster": 1392,
+	"secretweapon": "0",
+	"skills": [
+		"Shadowing",
+		"Stab"
+	],
+	"stats": {
+		"AG": 4,
+		"AV": 7,
+		"MA": 6,
+		"ST": 3
+	},
+	"thrall": "false",
+	"title": "Assassin",
+	"type": "normal",
+	"undead": "false"
+}

@@ -1,0 +1,33 @@
+{
+	"cost": 260000,
+	"doubleSkills": [],
+	"gender": "male",
+	"icon": 436467,
+	"iconLetter": "JF",
+	"id": "3033",
+	"name": "Jordell Freshbreeze",
+	"normalSkills": [],
+	"portrait": 332774,
+	"quantity": 1,
+	"race": null,
+	"roster": 67,
+	"secretweapon": "0",
+	"skills": [
+		"Block",
+		"Diving Catch",
+		"Dodge",
+		"Leap",
+		"Side Step",
+		"Loner"
+	],
+	"stats": {
+		"AG": 5,
+		"AV": 7,
+		"MA": 8,
+		"ST": 3
+	},
+	"thrall": "false",
+	"title": "Jordell Freshbreeze",
+	"type": "star",
+	"undead": "false"
+}

@@ -1,0 +1,37 @@
+{
+	"cost": 40000,
+	"doubleSkills": [
+		"G",
+		"S",
+		"P"
+	],
+	"gender": "neutral",
+	"icon": 488397,
+	"iconLetter": "Tr",
+	"id": "4249",
+	"name": "Trapper",
+	"normalSkills": [
+		"A"
+	],
+	"portrait": 488398,
+	"quantity": 0,
+	"race": null,
+	"roster": 442,
+	"secretweapon": "0",
+	"skills": [
+		"Dodge",
+		"Prehensile Tail",
+		"Right Stuff",
+		"Stunty"
+	],
+	"stats": {
+		"AG": 3,
+		"AV": 7,
+		"MA": 6,
+		"ST": 2
+	},
+	"thrall": "false",
+	"title": "Trapper",
+	"type": "normal",
+	"undead": "false"
+}

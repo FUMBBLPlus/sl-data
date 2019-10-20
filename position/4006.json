@@ -1,0 +1,35 @@
+{
+	"cost": 90000,
+	"doubleSkills": [
+		"S",
+		"P"
+	],
+	"gender": "male",
+	"icon": 494579,
+	"iconLetter": "B",
+	"id": "4006",
+	"name": "Blocker",
+	"normalSkills": [
+		"G",
+		"A"
+	],
+	"portrait": 487795,
+	"quantity": 4,
+	"race": null,
+	"roster": 386,
+	"secretweapon": "0",
+	"skills": [
+		"Block",
+		"Grab"
+	],
+	"stats": {
+		"AG": 4,
+		"AV": 9,
+		"MA": 5,
+		"ST": 3
+	},
+	"thrall": "false",
+	"title": "Blocker",
+	"type": "normal",
+	"undead": "false"
+}

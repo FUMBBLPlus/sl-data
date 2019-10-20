@@ -1,0 +1,193 @@
+{
+	"apothecary": "Yes",
+	"id": "215",
+	"info": "Difficulty: EASY\n\nBlack Dwarves are one of the slowest teams, and lack strength, but their starting skill set more than makes up for it, making them one of the toughest and most deadly starting teams.",
+	"logos": {
+		"128": "492361",
+		"192": "492362",
+		"32": "492364",
+		"48": "492365",
+		"64": "492366",
+		"96": "492363"
+	},
+	"name": "Black Dwarf",
+	"necromancer": "No",
+	"ownerRuleset": "69",
+	"playable": "true",
+	"positions": [
+		{
+			"cost": "60000",
+			"doubleSkills": [
+				"A",
+				"P"
+			],
+			"gender": "neutral",
+			"iconLetter": "CDL",
+			"id": "3280",
+			"normalSkills": [
+				"G",
+				"S"
+			],
+			"portrait": "487403",
+			"quantity": "16",
+			"skills": [
+				"Block",
+				"Thick Skull"
+			],
+			"stats": {
+				"AG": "2",
+				"AV": "9",
+				"MA": "4",
+				"ST": "3"
+			},
+			"title": "Chaos Dwarf Lineman"
+		},
+		{
+			"cost": "60000",
+			"doubleSkills": [
+				"A",
+				"S",
+				"P"
+			],
+			"gender": "neutral",
+			"iconLetter": "CDM",
+			"id": "3281",
+			"normalSkills": [
+				"G",
+				"M"
+			],
+			"portrait": "487405",
+			"quantity": "2",
+			"skills": [
+				"Block",
+				"Thick Skull"
+			],
+			"stats": {
+				"AG": "2",
+				"AV": "9",
+				"MA": "4",
+				"ST": "3"
+			},
+			"title": "Chaos Dwarf Mutant"
+		},
+		{
+			"cost": "70000",
+			"doubleSkills": [
+				"A",
+				"S"
+			],
+			"gender": "neutral",
+			"iconLetter": "CDT",
+			"id": "3283",
+			"normalSkills": [
+				"G",
+				"P"
+			],
+			"portrait": "487407",
+			"quantity": "2",
+			"skills": [
+				"Sure Hands",
+				"Thick Skull",
+				"Pass"
+			],
+			"stats": {
+				"AG": "3",
+				"AV": "8",
+				"MA": "5",
+				"ST": "3"
+			},
+			"title": "Chaos Dwarf Thrower"
+		},
+		{
+			"cost": "80000",
+			"doubleSkills": [
+				"A",
+				"P"
+			],
+			"gender": "neutral",
+			"iconLetter": "CDK",
+			"id": "3285",
+			"normalSkills": [
+				"G",
+				"S"
+			],
+			"portrait": "487409",
+			"quantity": "2",
+			"skills": [
+				"Block",
+				"Dirty Player",
+				"Kick",
+				"Thick Skull"
+			],
+			"stats": {
+				"AG": "2",
+				"AV": "9",
+				"MA": "4",
+				"ST": "3"
+			},
+			"title": "Chaos Dwarf Kicker"
+		},
+		{
+			"cost": "100000",
+			"doubleSkills": [
+				"A",
+				"P"
+			],
+			"gender": "neutral",
+			"iconLetter": "CDB",
+			"id": "3287",
+			"normalSkills": [
+				"G",
+				"S"
+			],
+			"portrait": "487411",
+			"quantity": "2",
+			"skills": [
+				"Block",
+				"Catch",
+				"Thick Skull"
+			],
+			"stats": {
+				"AG": "3",
+				"AV": "9",
+				"MA": "6",
+				"ST": "3"
+			},
+			"title": "Chaos Dwarf Blitzer"
+		}
+	],
+	"raisePosition": null,
+	"rerollCost": "70000",
+	"stars": [
+		{
+			"id": "3018",
+			"name": "Grashnak Blackhoof"
+		},
+		{
+			"id": "3027",
+			"name": "Hthark the Unstoppable"
+		},
+		{
+			"id": "3039",
+			"name": "Morg 'n' Thorg"
+		},
+		{
+			"id": "3040",
+			"name": "Nobbla Blackwart"
+		},
+		{
+			"id": "3046",
+			"name": "Rashnak Backstabber"
+		},
+		{
+			"id": "3060",
+			"name": "Zzharg Madeye"
+		}
+	],
+	"stats": {
+		"finesse": "2",
+		"physique": "5",
+		"versatility": "2"
+	},
+	"undead": "No"
+}

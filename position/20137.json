@@ -1,0 +1,37 @@
+{
+	"cost": 190000,
+	"doubleSkills": [
+		"G",
+		"A",
+		"S",
+		"P"
+	],
+	"gender": "male",
+	"icon": 582794,
+	"iconLetter": "ED",
+	"id": "20137",
+	"name": "Elijah Doom",
+	"normalSkills": [],
+	"portrait": 582795,
+	"quantity": 1,
+	"race": "",
+	"roster": 67,
+	"secretweapon": "0",
+	"skills": [
+		"Fend",
+		"Wrestle",
+		"Guard",
+		"Stand Firm",
+		"Loner"
+	],
+	"stats": {
+		"AG": 4,
+		"AV": 9,
+		"MA": 6,
+		"ST": 3
+	},
+	"thrall": "false",
+	"title": "Elijah Doom",
+	"type": "star",
+	"undead": "false"
+}

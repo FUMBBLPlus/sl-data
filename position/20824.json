@@ -1,0 +1,41 @@
+{
+	"cost": 280000,
+	"doubleSkills": [
+		"G",
+		"A",
+		"S",
+		"P"
+	],
+	"gender": "female",
+	"icon": 585593,
+	"iconLetter": "GW",
+	"id": "20824",
+	"name": "Gretchen Wächter 'The Blood Bowl Widow'",
+	"normalSkills": [],
+	"portrait": 585592,
+	"quantity": 1,
+	"race": null,
+	"roster": 67,
+	"secretweapon": "0",
+	"skills": [
+		"Shadowing",
+		"Dodge",
+		"Jump Up",
+		"Side Step",
+		"Disturbing Presence",
+		"Foul Appearance",
+		"Loner",
+		"No Hands",
+		"Regeneration"
+	],
+	"stats": {
+		"AG": 4,
+		"AV": 8,
+		"MA": 7,
+		"ST": 3
+	},
+	"thrall": "false",
+	"title": "Gretchen Wächter 'The Blood Bowl Widow'",
+	"type": "star",
+	"undead": "true"
+}

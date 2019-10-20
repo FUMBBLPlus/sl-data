@@ -1,0 +1,39 @@
+{
+	"cost": 130000,
+	"doubleSkills": [
+		"G",
+		"A",
+		"P"
+	],
+	"gender": "neutral",
+	"icon": 487393,
+	"iconLetter": "Foo",
+	"id": "3680",
+	"name": "Foo Statue",
+	"normalSkills": [
+		"S"
+	],
+	"portrait": 487394,
+	"quantity": 1,
+	"race": null,
+	"roster": 303,
+	"secretweapon": "0",
+	"skills": [
+		"Sure Feet",
+		"Mighty Blow",
+		"Stand Firm",
+		"Thick Skull",
+		"Loner",
+		"Take Root"
+	],
+	"stats": {
+		"AG": 1,
+		"AV": 10,
+		"MA": 3,
+		"ST": 5
+	},
+	"thrall": "false",
+	"title": "Foo Statue",
+	"type": "normal",
+	"undead": "false"
+}

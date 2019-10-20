@@ -1,0 +1,31 @@
+{
+	"cost": 340000,
+	"doubleSkills": [],
+	"gender": "male",
+	"icon": 436457,
+	"iconLetter": "He",
+	"id": "3023",
+	"name": "Headsplitter",
+	"normalSkills": [],
+	"portrait": 332762,
+	"quantity": 1,
+	"race": null,
+	"roster": 67,
+	"secretweapon": "0",
+	"skills": [
+		"Frenzy",
+		"Mighty Blow",
+		"Prehensile Tail",
+		"Loner"
+	],
+	"stats": {
+		"AG": 3,
+		"AV": 8,
+		"MA": 6,
+		"ST": 6
+	},
+	"thrall": "false",
+	"title": "Headsplitter",
+	"type": "star",
+	"undead": "false"
+}
